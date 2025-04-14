@@ -28,12 +28,12 @@
             <th style="text-align:center; border: 1px solid #ddd;">Código</th>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">Renzo Sebastian Uribe Livia</td>
-            <td style="border: 1px solid #ddd;">U202311745</td>
+            <td style="border: 1px solid #ddd;"></td>
+            <td style="border: 1px solid #ddd;"></td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">Joseph Manuel Chavez Viera</td>
-            <td style="border: 1px solid #ddd;">U202314019</td>
+            <td style="border: 1px solid #ddd;"></td>
+            <td style="border: 1px solid #ddd;"></td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Adrian Ricardo Donayre Alvarez</td>
