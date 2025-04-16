@@ -610,6 +610,14 @@ En la presente sección se ilustra el recorrido end-to-end del sistema integral 
 ## 3.2. User Stories
 
 ## 3.3. Impact Mapping
+![Impact Mapping - Fernando Goijman 1](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-FernandoGoijman1.jpeg)
+![Impact Mapping - Valeria Ramos 1](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-ValeriaRamos1.jpeg)
+
+![Impact Mapping - Fernando Goijman 2](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-FernandoGoijman2.jpeg)
+![Impact Mapping - Valeria Ramos 2](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-ValeriaRamos2.jpeg)
+
+
+
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
