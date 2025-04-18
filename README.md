@@ -226,7 +226,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-            Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+            3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Renzo Uribe</strong><br>
                 TB1: <br><br>
@@ -243,7 +243,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-            Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+             3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Renzo Uribe</strong><br>
                 TB1: <br><br>
