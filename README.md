@@ -32,8 +32,8 @@
             <td style="border: 1px solid #ddd;">U202311745</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">Joseph Manuel Chavez Viera</td>
-            <td style="border: 1px solid #ddd;">U202314019</td>
+            <td style="border: 1px solid #ddd;">Guillermo Fabián Tantaleán Mesta</td>
+            <td style="border: 1px solid #ddd;">U202311958</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Adrian Ricardo Donayre Alvarez</td>
@@ -68,7 +68,7 @@
     <td style="border: 1px solid #ddd; padding: 8px;">24/04/2025</td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <ul>
-        <li>Renzo Uribe</li>
+        <li>Guillermo Tantaleán</li>
         <li>Joseph Chavez</li>
         <li>Adrian Donayre</li>
         <li>Christian Inga</li>
@@ -102,7 +102,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">Tareas Asignadas</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Renzo Uribe</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Guillermo Tantaleán</td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
