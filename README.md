@@ -9,15 +9,15 @@
 
 <!--Profesor, seccion, etc-->
 <p align="left">
-    <strong>Docente: </strong>Alex Humberto Sánchez Ponce<br><!--El br es para el salto de línea-->
-    <strong>Sección: </strong>4364<br>
+    <strong>Docente: </strong>Efraín Ricardo Bautista Ubillús<br><!--El br es para el salto de línea-->
+    <strong>Sección: </strong>4307<br>
     <strong>Ciclo: </strong>2025 - 1<br>
     <strong>Startup: </strong>Café Metrix<br>
     <strong>Producto: </strong>Café Lab
 </p>
 
-<!--Aplicaciones Web-->
-<h1 align="center">APLICACIONES WEB</h1>
+<!--Desarrollo de aplicaciones open source-->
+<h1 align="center">DESARROLLO DE APLICACIONES OPEN SOURCE</h1>
 
 <!--Nombres de integrantes-->
 <div style="text-align:center;">
@@ -28,8 +28,8 @@
             <th style="text-align:center; border: 1px solid #ddd;">Código</th>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">Renzo Sebastian Uribe Livia</td>
-            <td style="border: 1px solid #ddd;">U202311745</td>
+            <td style="border: 1px solid #ddd;">Henry Kalet Esteban Roman</td>
+            <td style="border: 1px solid #ddd;">U202310210</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Guillermo Fabián Tantaleán Mesta</td>
@@ -51,7 +51,7 @@
 </div>
 
 <!--FECHA QUE SE MODIFICA-->
-<div align="center" style="font-weight: bold;">24 DE ABRIL DE 2025</div><br>
+<div align="center" style="font-weight: bold;">26 DE ABRIL DE 2025</div><br>
 
 <!--Registro de versiones-->
 <h1 align="left">Registro de versiones del Informe</h1>
@@ -65,11 +65,11 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">TB1</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">24/04/2025</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">26/04/2025</td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <ul>
         <li>Guillermo Tantaleán</li>
-        <li>Joseph Chavez</li>
+        <li>Henry Esteban</li>
         <li>Adrian Donayre</li>
         <li>Christian Inga</li>
         <li>Carlos Fernandez</li>
@@ -90,7 +90,7 @@
 
 <!--Link al repositorio en la organización-->
 # Project Report Collaboration Insights
-Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab)
+Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab)
 
 <h1>TB1</h1>
 
@@ -106,7 +106,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Joseph Chavez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
@@ -220,17 +220,17 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
 <div style="text-align:center;">
     <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
         <tr style="background-color:rgb(164, 61, 61); color: white; font-weight: bold;">
-            <th style="text-align:center; border: 1px solid #ddd;">ABET – EAC - Student Outcome 5</th>
+            <th style="text-align:center; border: 1px solid #ddd;">Student Outcomes</th>
             <th style="text-align:center; border: 1px solid #ddd;">Acciones realizadas</th>
             <th style="text-align:center; border: 1px solid #ddd;">Conclusiones</th>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-            La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</td>
+            Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Renzo Uribe</strong><br>
                 TB1: <br><br>
-                <strong>Joseph Chavez</strong><br>
+                <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br><br>
@@ -240,7 +240,24 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
                 TB1: 
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
-    </tr>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">
+            Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">
+                <strong>Renzo Uribe</strong><br>
+                TB1: <br><br>
+                <strong>Henry Esteban</strong><br>
+                TB1: <br><br>
+                <strong>Adrian Donayre</strong><br>
+                TB1: <br><br>
+                <strong>Christian Inga</strong><br>
+                TB1: <br><br>
+                <strong>Carlos Fernandez</strong><br>
+                TB1: 
+        </td>
+        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
+        </tr>
 </table>
 </div>
 <!--TODAS LAS SECCIONES A COMPLETAR-->
