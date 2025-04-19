@@ -276,9 +276,8 @@ La solución consiste en una plataforma dual que combina software y componentes 
 
 **Visión**: Ser líder en el estándar tecnológico que revoluciona la industria del café de especialidad.
 
-#### Logo de Café Metrix:
-
 #### Logo de Café Lab:
+<img src="public/assets/images/styleGuidelines/Branding.png" alt="Imagen de logo y variaciones" width="7000">
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <table border="1">
@@ -289,7 +288,7 @@ La solución consiste en una plataforma dual que combina software y componentes 
     carrera de Ingeniería de Software en la UPC. Tengo habilidad en los lenguajes C++ y javascript. Así mismo, cuento con experiencia en monitoreo de infraestructura en herramientas como Azure, NR y Kemp. Personalmente, opino que lo que hagamos en la universidad se verá reflejado en nuestra vida profesional. Por ello me esfuerzo en ampliar mis conocimientos y conseguir nuevas experiencias que me sumen para seguir mejorando.</td>
   </tr>
   <tr>
-    <td><img src="public/assets/images/integrantes/guillermot.jpeg" alt="Adrian Donayre" width="200"> </td>
+    <td><img src="public/assets/images/integrantes/guillermot.jpeg" alt="Guillermo Tantaleán" width="200"> </td>
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
