@@ -9,15 +9,15 @@
 
 <!--Profesor, seccion, etc-->
 <p align="left">
-    <strong>Docente: </strong>Alex Humberto Sánchez Ponce<br><!--El br es para el salto de línea-->
-    <strong>Sección: </strong>4364<br>
+    <strong>Docente: </strong>Efraín Ricardo Bautista Ubillús<br><!--El br es para el salto de línea-->
+    <strong>Sección: </strong>4307<br>
     <strong>Ciclo: </strong>2025 - 1<br>
-    <strong>Startup: </strong>Camafeo<br>
+    <strong>Startup: </strong>Café Metrix<br>
     <strong>Producto: </strong>Café Lab
 </p>
 
-<!--Aplicaciones Web-->
-<h1 align="center">APLICACIONES WEB</h1>
+<!--Desarrollo de aplicaciones open source-->
+<h1 align="center">DESARROLLO DE APLICACIONES OPEN SOURCE</h1>
 
 <!--Nombres de integrantes-->
 <div style="text-align:center;">
@@ -28,8 +28,8 @@
             <th style="text-align:center; border: 1px solid #ddd;">Código</th>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd;"></td>
+            <td style="border: 1px solid #ddd;">Henry Kalet Esteban Roman</td>
+            <td style="border: 1px solid #ddd;">U202310210</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Guillermo Fabián Tantaleán Mesta</td>
@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Christian Fabrizio Inga Orihuela</td>
-            <td style="border: 1px solid #ddd;">20231C111</td>
+            <td style="border: 1px solid #ddd;">U20231C111</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Carlos Fredy Fernandez Camayo</td>
@@ -51,7 +51,7 @@
 </div>
 
 <!--FECHA QUE SE MODIFICA-->
-<div align="center" style="font-weight: bold;">24 DE ABRIL DE 2025</div><br>
+<div align="center" style="font-weight: bold;">26 DE ABRIL DE 2025</div><br>
 
 <!--Registro de versiones-->
 <h1 align="left">Registro de versiones del Informe</h1>
@@ -65,11 +65,11 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">TB1</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">24/04/2025</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">26/04/2025</td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <ul>
         <li>Guillermo Tantaleán</li>
-        <li>Joseph Chavez</li>
+        <li>Henry Esteban</li>
         <li>Adrian Donayre</li>
         <li>Christian Inga</li>
         <li>Carlos Fernandez</li>
@@ -90,7 +90,7 @@
 
 <!--Link al repositorio en la organización-->
 # Project Report Collaboration Insights
-Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab)
+Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab)
 
 <h1>TB1</h1>
 
@@ -106,7 +106,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Joseph Chavez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
@@ -220,17 +220,17 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
 <div style="text-align:center;">
     <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
         <tr style="background-color:rgb(164, 61, 61); color: white; font-weight: bold;">
-            <th style="text-align:center; border: 1px solid #ddd;">ABET – EAC - Student Outcome 5</th>
+            <th style="text-align:center; border: 1px solid #ddd;">Student Outcomes</th>
             <th style="text-align:center; border: 1px solid #ddd;">Acciones realizadas</th>
             <th style="text-align:center; border: 1px solid #ddd;">Conclusiones</th>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-            La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</td>
+            3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br><br>
-                <strong>Joseph Chavez</strong><br>
+                <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br><br>
@@ -240,7 +240,24 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0730-436
                 TB1: 
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
-    </tr>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">
+             3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">
+                <strong>Renzo Uribe</strong><br>
+                TB1: <br><br>
+                <strong>Henry Esteban</strong><br>
+                TB1: <br><br>
+                <strong>Adrian Donayre</strong><br>
+                TB1: <br><br>
+                <strong>Christian Inga</strong><br>
+                TB1: <br><br>
+                <strong>Carlos Fernandez</strong><br>
+                TB1: 
+        </td>
+        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
+        </tr>
 </table>
 </div>
 <!--TODAS LAS SECCIONES A COMPLETAR-->
@@ -291,6 +308,34 @@ La solución consiste en una plataforma dual que combina software y componentes 
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+**Who (¿Quiénes?):** 
+
+Baristas profesionales y dueños de cafeterías de especialidad que manejan procesos desde el tueste hasta la preparación, así como emprendedores del rubro que buscan escalar su operación manteniendo la calidad.
+
+**What (¿Qué sucede?):**
+
+Actualmente utilizan herramientas manuales o genéricas que no permiten documentar ni replicar parámetros técnicos clave, lo que genera inconsistencias en la calidad del café, desconexión entre procesos y pérdida de trazabilidad.
+
+**When (¿Cuándo ocurre?):**
+
+Cuando se intenta replicar perfiles de tueste, preparar recetas específicas o cumplir con estándares de calidad de forma profesional sin contar con herramientas digitales adaptadas al rubro.
+
+**Where (¿Dónde ocurre?):**
+
+En laboratorios de café, tostadores pequeños, cafeterías urbanas o rurales y negocios en expansión que buscan formalizar su operación.
+
+**Why (¿Por qué es un problema?):**
+
+La falta de integración entre los procesos técnicos (almacenamiento, tueste, calibración, cata, extracción) dificulta la estandarización, reduce la calidad percibida y limita la posibilidad de crecer o competir en el mercado de cafés de especialidad.
+
+**How (¿Cómo lo solucionan hoy?):**
+
+Mediante registros manuales en cuadernos, hojas de Excel, softwares genéricos no adaptados al café, sin conexión entre lotes, recetas y resultados.
+
+**How much (¿Cuánto cuesta no resolverlo?):**
+
+Genera pérdida de reputación, inconsistencias en la calidad, dificultad para cumplir certificaciones y pérdida de clientes exigentes. Además, impide escalar el negocio con eficiencia.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 Nuestro sistema para baristas y cafeterías de especialidad fue diseñado para lograr que los usuarios puedan documentar, replicar y mejorar procesos como el tueste, la preparación y la cata, además de asegurar trazabilidad y control desde el grano verde hasta la taza.
@@ -324,13 +369,25 @@ Las características clave de nuestro producto incluyen una interfaz intuitiva, 
 Visualmente, el producto debe ser claro, moderno y profesional, con un diseño minimalista que facilite la comprensión de los datos. La interfaz debe incluir gráficos fáciles de interpretar y una visualización intuitiva de los diferentes parámetros del proceso de café, como las curvas de tueste, los parámetros de extracción y los perfiles sensoriales. En cuanto a su comportamiento, la plataforma debe ser rápida y confiable, con tiempos de respuesta mínimos para que los usuarios puedan tomar decisiones en tiempo real. Las alertas automáticas deben ser precisas y oportunas, mientras que la navegación debe ser fluida tanto en la aplicación web como móvil. Además, el sistema debe permitir una rápida configuración de los perfiles de tueste, calibraciones y ajustes según las necesidades de cada usuario.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 **Hypothesis Statement 1:**  
-*Creemos que si* CaféLab proporciona a baristas y cafeterías una plataforma digital que permita documentar, replicar y compartir procesos clave como el tueste, la calibración del molino, la cata y la preparación, *entonces* lograrán estandarizar la calidad del café, mejorando la consistencia en un 40% y aumentando la satisfacción del cliente en un 30%.
+**Creemos que si** CaféLab proporciona a baristas y cafeterías una plataforma digital que permita documentar, replicar y compartir procesos clave como el tueste, la calibración del molino, la cata y la preparación.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** la consistencia del café mejore en un 40% y la satisfacción del cliente aumente en un 30%.
 
 **Hypothesis Statement 2:**  
-*Creemos que si* CaféLab implementa un módulo que alinee los parámetros técnicos del tueste (como humedad, temperatura de carga y curva de tueste) con el perfil final en taza, *entonces* los baristas reducirán las inconsistencias en la extracción en un 35% y disminuirán las pérdidas de calidad en un 25%.
+**Creemos que si** CaféLab implementa un módulo que alinee los parámetros técnicos del tueste (como humedad, temperatura de carga y curva de tueste) con el perfil final en taza.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** los baristas reduzcan las inconsistencias en la extracción en un 35% y disminuyan las pérdidas de calidad en un 25%.
 
 **Hypothesis Statement 3:**  
-*Creemos que si* CaféLab integra el sensor IoT TrackSilo para monitorear en tiempo real la temperatura (18–22 °C) y la humedad (55–65 %) del café verde, con alertas tempranas y registro por lote, *entonces* los usuarios reducirán las pérdidas de calidad por mala conservación en un 30% y mejorarán los resultados del tueste en un 20%.
+**Creemos que si** CaféLab integra el sensor IoT TrackSilo para monitorear en tiempo real la temperatura (18-22°C) y la humedad (55-65%) del café verde, con alertas tempranas y registro por lote.
+
+**Sabremos** que hemos tenido éxito.
+
+**Cuando** los usuarios reduzcan las pérdidas de calidad por mala conservación en un 30% y mejoren los resultados del tueste en un 20%.
 #### 1.2.2.4. Lean UX Canvas
 <div style="text-align:center;">
     <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -403,32 +460,112 @@ Estas cafeterías no solo representan una oportunidad de mercado, sino también 
 
 #### Competitive Analysis
 
-**¿Por qué llevar a cabo este análisis?**  
-Este análisis busca identificar las fortalezas, debilidades y estrategias de los competidores de CaféLab en el mercado del café de especialidad, para entender cómo posicionar nuestra solución (software + IoT) y destacar frente a competidores establecidos.
 
-**¿En la cabeza colocaré por cada competidor su startup, nombre y logo?**  
-En este caso, incluiré el nombre de cada competidor (CaféLab, Cropster, Artisan, CoffeeMind). No incluiré logos ya que no puedo generar imágenes sin confirmación explícita, pero dejaré un espacio donde podrías insertarlos si lo deseas.
-
-|                      | **CaféLab**                              | **Cropster**                                   | **Artisan**                              | **CoffeeMind**                          |
-|----------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|-----------------------------------------|
-| **Overview**         | Plataforma dual (software + IoT) para baristas y cafeterías, con módulos para tueste, cata, calibración, trazabilidad y monitoreo de almacenamiento (TrackSilo). | Plataforma líder para la gestión del café, con herramientas para tueste, inventario, cata y análisis de datos. | Software gratuito y de código abierto para registrar y analizar perfiles de tueste. | Plataforma enfocada en cata sensorial y educación para baristas, con herramientas para análisis de perfiles de sabor. |
-| **Perfil**           | Startup tecnológica enfocada en el café de especialidad, con un sensor IoT (TrackSilo) y un modelo freemium. | Empresa establecida con presencia global, usada por tostadores y cafeterías grandes. | Proyecto de código abierto con una comunidad activa de usuarios técnicos. | Empresa enfocada en educación y cata, con un enfoque en formación profesional. |
-| **Ventaja Competitiva** | Sensor IoT TrackSilo para monitoreo de almacenamiento, trazabilidad completa y precios accesibles. | Integración con máquinas de tueste, análisis avanzados y colaboración en la cadena de suministro. | Gratuito y personalizable, ideal para usuarios con presupuestos limitados. | Especialización en cata sensorial y educación, con herramientas para análisis de sabor. |
-| **¿Qué valor ofrece a los clientes?** | Solución integral que estandariza procesos, mejora la calidad del café y asegura trazabilidad desde el grano hasta la taza. | Optimización de procesos de tueste y cata, con datos detallados para grandes operaciones. | Registro técnico de tuestes a costo cero, con flexibilidad para usuarios avanzados. | Formación y herramientas para mejorar habilidades de cata y análisis sensorial. |
-| **Mercado Objetivo** | Baristas profesionales y cafeterías de especialidad que buscan calidad, consistencia y trazabilidad. | Tostadores, baristas y cafeterías grandes con presupuestos altos. | Tostadores y baristas individuales con conocimientos técnicos y presupuestos limitados. | Baristas y cafeterías enfocadas en cata y formación profesional. |
-| **Estrategias de Marketing** | Campañas educativas sobre trazabilidad y calidad, promoción del plan gratuito y colaboraciones con certificadoras. | Marketing B2B enfocado en tostadores y cafeterías grandes, presencia en eventos internacionales. | Comunidad de código abierto, soporte a través de foros y contribuciones de usuarios. | Marketing educativo con cursos, talleres y contenido sobre cata sensorial. |
-| **Productos & Servicios** | Software con módulos para tueste, cata, calibración, trazabilidad e inventario; sensor IoT TrackSilo. | Software para tueste, cata, inventario y análisis de datos; integración con equipos de tueste. | Software para registro de perfiles de tueste, sin módulos adicionales. | Plataforma para cata digital, análisis sensorial y cursos de formación. |
-
-#### Precios & Costos y Análisis SWOT
-
-|                      | **CaféLab**                              | **Cropster**                                   | **Artisan**                              | **CoffeeMind**                          |
-|----------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|-----------------------------------------|
-| **Precios & Costos** | Modelo freemium (Plan Base Cafetal gratuito) + planes premium ($29/mes Artista del Tueste, $59/mes D’ Especialidad). | Suscripciones premium (desde $99/mes), sin versión gratuita. | Gratuito (código abierto). | Suscripción mensual (aprox. $50/mes), sin versión gratuita. |
-| **Canales de Distribución (Web y/o Móvil)** | Plataforma web y app móvil (iOS/Android) para acceder a módulos y monitorear el sensor TrackSilo. | Plataforma web y app móvil, con integración directa con equipos de tueste. | Descarga gratuita desde su sitio web, sin app móvil oficial. | Plataforma web y app móvil para cata y formación. |
-| **Fortalezas**       | Sensor IoT TrackSilo, trazabilidad completa, solución integral, precios accesibles. | Presencia global, integración con equipos, análisis avanzados. | Gratuito, personalizable, comunidad activa. | Especialización en cata y educación, herramientas sensoriales. |
-| **Debilidades**      | Requiere conexión a internet, plan freemium con funciones limitadas. | Costo elevado, sin IoT, interfaz compleja. | Sin módulos de cata o trazabilidad, requiere conocimientos técnicos. | Limitada a cata y educación, sin herramientas para tueste o inventario. |
-| **Oportunidades**    | Creciente demanda de trazabilidad y sostenibilidad en el café de especialidad, adopción de tecnología por cafeterías pequeñas. | Expansión a mercados emergentes, integración con más equipos. | Ampliación de funcionalidades mediante la comunidad de código abierto. | Expansión a otros aspectos del café, como tueste o calibración. |
-| **Amenazas**         | Competencia de soluciones establecidas como Cropster, resistencia a la adopción tecnológica. | Nuevas startups con soluciones más accesibles, cambios en regulaciones. | Competencia de soluciones integrales como CaféLab, falta de soporte oficial. | Competencia de plataformas integrales, saturación en el mercado de cata. |
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th colspan="6" style="text-align:center; border: 1px solid #000;">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <th style="text-align:center; border: 1px solid #000;">¿Por qué llevar a cabo este análisis?</th>
+        <td colspan="5" style="border: 1px solid #000;">Este análisis busca identificar las fortalezas, debilidades y estrategias de los competidores de CaféLab en el mercado del café de especialidad, para entender cómo posicionar nuestra solución (software + IoT) y destacar frente a competidores establecidos.</td>
+    </tr>
+    <tr>
+        <th style="border: 1px solid #000;"></th>
+        <th style="text-align:center; border: 1px solid #000;"></th>
+        <th style="text-align:center; border: 1px solid #000;">CaféLab<img src="CUANDO TENGAMOS EL LOGO.jpeg" alt="Aqui va nuestro logooo" width="150"></th>
+        <th style="text-align:center; border: 1px solid #000;">Cropster<img src="public\assets\images\Competidores\cropster.jpg" alt="Logo Crospter" width="150"></th>
+        <th style="text-align:center; border: 1px solid #000;">Ikawa<img src="public\assets\images\Competidores\ikawa.png" alt="Logo Ikawa" width="150"></th>
+        <th style="text-align:center; border: 1px solid #000;">Beanconqueror<img src="public\assets\images\Competidores\conqueror.jpg" alt="Logo Beanconqueror" width="150"></th>
+    </tr>
+    <tr>
+        <th rowspan="3" style="text-align:center; border: 1px solid #000;">Perfil</th>
+        <td style="border: 1px solid #000;"><strong>Overview</strong></td>
+        <td style="border: 1px solid #000;">Plataforma web para baristas y cafeterías, con módulos para tueste, cata, calibración, trazabilidad e IoT (TrackSilo).</td>
+        <td style="border: 1px solid #000;">Plataforma líder para tueste, cata y trazabilidad, usada por tostadores profesionales.</td>
+        <td style="border: 1px solid #000;">Solución para tueste y análisis, con hardware y software integrados.</td>
+        <td style="border: 1px solid #000;">App gratuita para baristas, enfocada en cata y calibración de espresso.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Ventaja competitiva ¿Qué valor ofrece a los clientes?</strong></td>
+        <td style="border: 1px solid #000;">Integración de IoT (TrackSilo) para monitoreo de almacenamiento, y trazabilidad completa.</td>
+        <td style="border: 1px solid #000;">Amplia experiencia en el mercado y comunidad de usuarios grande.</td>
+        <td style="border: 1px solid #000;">Hardware de tueste de alta precisión integrado con software.</td>
+        <td style="border: 1px solid #000;">Gratuita, de código abierto y centrada en la comunidad de baristas.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Clientes</strong></td>
+        <td style="border: 1px solid #000;">Baristas profesionales y cafeterías de especialidad.</td>
+        <td style="border: 1px solid #000;">Tostadores grandes y cafeterías de especialidad.</td>
+        <td style="border: 1px solid #000;">Baristas y pequeños tostadores.</td>
+        <td style="border: 1px solid #000;">Baristas aficionados y profesionales pequeños.</td>
+    </tr>
+    <tr>
+        <th rowspan="2" style="text-align:center; border: 1px solid #000;">Perfil de Marketing</th>
+        <td style="border: 1px solid #000;"><strong>Mercado objetivo</strong></td>
+        <td style="border: 1px solid #000;">Cafeterías de especialidad en América Latina, con planes de expansión global.</td>
+        <td style="border: 1px solid #000;">Mercado global, especialmente en Europa y Norteamérica.</td>
+        <td style="border: 1px solid #000;">Mercado global, con enfoque en pequeños tostadores.</td>
+        <td style="border: 1px solid #000;">Baristas individuales a nivel global.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Estrategias de marketing</strong></td>
+        <td style="border: 1px solid #000;">Marketing digital (redes sociales, blogs), alianzas con asociaciones de café y ferias.</td>
+        <td style="border: 1px solid #000;">Presencia en eventos de café, marketing de contenido y asociaciones con tostadores.</td>
+        <td style="border: 1px solid #000;">Enfoque en innovación de hardware, demostraciones en ferias de café.</td>
+        <td style="border: 1px solid #000;">Comunidad de código abierto, marketing de boca en boca.</td>
+    </tr>
+    <tr>
+        <th rowspan="3" style="text-align:center; border: 1px solid #000;">Perfil de Producto</th>
+        <td style="border: 1px solid #000;"><strong>Productos & Servicios</strong></td>
+        <td style="border: 1px solid #000;">Plataforma web con módulos de tueste, cata, calibración, trazabilidad y sensor IoT (TrackSilo).</td>
+        <td style="border: 1px solid #000;">Plataforma de software para gestión de tueste, cata, trazabilidad e integración con equipos de tostado.</td>
+        <td style="border: 1px solid #000;">Roaster IoT (50-120g) con app para control de tueste y análisis, incluyendo integración con Cropster.</td>
+        <td style="border: 1px solid #000;">Aplicación móvil gratuita para registro de cata, tueste y calibración de espresso.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Precios & Costos</strong></td>
+        <td style="border: 1px solid #000;">Suscripciones escalonadas: Base Cafetal ($50/mes), Artista del Tueste ($100/mes), D' Especialidad ($200/mes).</td>
+        <td style="border: 1px solid #000;">Suscripciones premium (desde $50/mes, con costos adicionales por integración y equipos).</td>
+        <td style="border: 1px solid #000;">Compra del hardware ($2,500-$3,500) + suscripción opcional para app ($20/mes).</td>
+        <td style="border: 1px solid #000;">Gratuita, con opciones de donación o compras dentro de la app.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Canales de distribución (web/móvil)</strong></td>
+        <td style="border: 1px solid #000;">Plataforma web (sin app móvil).</td>
+        <td style="border: 1px solid #000;">Plataforma web y app móvil para gestión.</td>
+        <td style="border: 1px solid #000;">App móvil (iOS/Android) + hardware físico.</td>
+        <td style="border: 1px solid #000;">App móvil (iOS/Android).</td>
+    </tr>
+    <tr>
+        <th rowspan="4" style="text-align:center; border: 1px solid #000;">ANÁLISIS SWOT</th>
+        <td style="border: 1px solid #000;"><strong>Fortalezas</strong></td>
+        <td style="border: 1px solid #000;">Integración de IoT para monitoreo de almacenamiento, trazabilidad completa, enfoque en América Latina.</td>
+        <td style="border: 1px solid #000;">Reputación consolidada, soporte técnico robusto, integración con múltiples equipos de tostado.</td>
+        <td style="border: 1px solid #000;">Innovación en hardware IoT, precisión en tueste de muestra, colaboración con Cropster.</td>
+        <td style="border: 1px solid #000;">Accesibilidad gratuita, comunidad activa, facilidad de uso para principiantes.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Debilidades</strong></td>
+        <td style="border: 1px solid #000;">Sin aplicación móvil, equipo pequeño, aún no consolidado en el mercado global.</td>
+        <td style="border: 1px solid #000;">Costos elevados, dependencia de equipos específicos, curva de aprendizaje.</td>
+        <td style="border: 1px solid #000;">Costo inicial alto, limitado a muestras pequeñas, dependencia de hardware.</td>
+        <td style="border: 1px solid #000;">Funcionalidades limitadas, falta de soporte profesional, dependencia de la comunidad.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Oportunidades</strong></td>
+        <td style="border: 1px solid #000;">Creciente interés en trazabilidad y sostenibilidad en el café, mercado en expansión en América Latina.</td>
+        <td style="border: 1px solid #000;">Expansión a mercados emergentes, mayor integración con IoT y análisis avanzado.</td>
+        <td style="border: 1px solid #000;">Creciente demanda de equipos portátiles, integración con más plataformas de software.</td>
+        <td style="border: 1px solid #000;">Aumentar funciones premium, atraer a más usuarios profesionales.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Amenazas</strong></td>
+        <td style="border: 1px solid #000;">Competencia de plataformas establecidas como Cropster, posibles barreras regulatorias para IoT.</td>
+        <td style="border: 1px solid #000;">Competencia de soluciones gratuitas como Beanconqueror, cambios en precios de suscripción.</td>
+        <td style="border: 1px solid #000;">Competencia de otros fabricantes de hardware, limitaciones técnicas en escalabilidad.</td>
+        <td style="border: 1px solid #000;">Competencia de soluciones pagadas más completas, falta de monetización sostenible.</td>
+    </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 Nuestra estrategia se basa en la diferenciación tecnológica y la accesibilidad para baristas y cafeterías de especialidad, ofreciendo una solución integral que combine software y hardware (IoT). Así, nuestras tácticas clave son:
@@ -513,8 +650,34 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
   </tr>
 </table>
 
----
+<table border="1">
+  <tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 2</td>
+    <td>Ivo Kalinowski</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Borja</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Entrevistas\EntrevistaIvoKalinowski.jpg" alt="Foto de Ivo Kalinowski" width="7000"></td>
+    <td>Ivo es dueño de una cafetería de especialidad y cuenta con una amplia experiencia en el manejo integral del café, desde la selección del grano hasta la experiencia final en taza. Aunque actualmente no trabaja con cafés certificados, valora su importancia y reconoce la necesidad de herramientas digitales para gestionar mejor la documentación relacionada. La comunicación de las características del café hacia sus clientes es principalmente oral, apoyada en pizarras, y considera útil un sistema visual y estandarizado para este fin. Evalúa a sus proveedores mediante catas y relaciones de confianza, sin un registro formal, y le interesaría contar con una plataforma para organizar esa información. El almacenamiento de café lo gestiona de forma empírica, pero ha experimentado pérdidas que podrían evitarse con monitoreo digital. Para mantener la consistencia entre baristas, implementa protocolos de preparación y entrenamiento constante, aunque identifica la necesidad de una herramienta para estandarizar y compartir recetas. Transmite el conocimiento técnico de manera oral y presencial, y ve valor en una bitácora digital que permita documentar recetas, aprendizajes y procesos. Utiliza Excel y WhatsApp como herramientas principales, pero admite que muchos procesos siguen siendo manuales. Está interesado en una plataforma integral que permita gestionar trazabilidad, control de calidad, inventario, recetas, capacitación y costos de forma centralizada, mejorando así la eficiencia y la calidad de su operación.</td>
+  </tr>
+  <tr>
+    <td>Timing:</td>
+    <td></td>
+  </tr>
+</table>
 
+---
 #### Entrevistas a baristas profesionales
 
 <table border="1">
@@ -555,7 +718,7 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -571,46 +734,730 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 3</td>
+    <td>Victor Cruz</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Entrevistas\EntrevistaVictorCruz.jpg" alt="Foto de Victor Cruz" width="8500"></td>
+    <td>Víctor Cruz es un barista autodidacta con experiencia en café de especialidad, formado a través de investigación personal, observación en cafeterías y visitas a fincas productoras de café como las de Villa Rica. Su enfoque destaca por la curiosidad y el aprendizaje empírico, aunque reconoce limitaciones en la documentación de métodos tradicionales como el tueste a leña. Sus principales desafíos incluyen la calibración precisa de máquinas inestables, la estandarización de recetas entre baristas, y el control del inventario ante la falta de tiempo y recursos. Utiliza métodos como el V60 para evaluación sensorial y busca profesionalizar aún más su práctica para aplicar su conocimiento a nivel internacional. Considera clave contar con una plataforma integral que permita rastrear todo el proceso del café, desde el grano verde hasta la taza de café final, y destaca el valor de la tecnología para mejorar consistencia, trazabilidad y eficiencia.</td>
+  </tr>
+  <tr>
+    <td>Timing:</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 **Administradores y dueños de cafeterias de especialidad**
-![User Persona - Fernando Goijman](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/User%20Persona/UserPersona_FernandoGoijman.png)
+<td><img src="public\assets\images\User Persona\UserPersona_FernandoGoijman.png" alt="Fernando Goijman"></td>
 
 **Barista Profesional**
-![User Persona - Valeria Ramos](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/User%20Persona/UserPersona_ValeriaRamos.png)
+<td><img src="public\assets\images\User Persona\UserPersona_ValeriaRamos.png" alt="Valeria Ramos"></td>
 
 ### 2.3.2. User Task Matrix
+
+En esta sección se presentan los **User Task Matrix** correspondientes a los segmentos objetivos del proyecto (barista profesional y dueño de cafetería de especialidad).  
+A continuación, se detallan las tareas que ambos realizan en su rutina profesional, asociadas a la preparación, análisis y gestión de café de especialidad.
+
+<table>
+        <tr>
+            <th rowspan="2">TASK</th>
+            <th colspan="2" class="main-header">Barista Profesional</th>
+            <th colspan="2" class="main-header">Dueño de cafetería de especialidad</th>
+        </tr>
+        <tr>
+            <th class="sub-header">FRECUENCY</th>
+            <th class="sub-header">IMPORTANCE</th>
+            <th class="sub-header">FRECUENCY</th>
+            <th class="sub-header">IMPORTANCE</th>
+        </tr>
+        <tr>
+            <td>Calibrar máquina de espresso</td>
+            <td>Always</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Registrar parámetros de extracción</td>
+            <td>Always</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Cata sensorial de cafés</td>
+            <td>Often</td>
+            <td>High</td>
+            <td>Often</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Registrar recetas de preparación</td>
+            <td>Always</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Recomendar mejoras en recetas</td>
+            <td>Often</td>
+            <td>Medium</td>
+            <td>Sometimes</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Registrar consumo de café molido/tostado</td>
+            <td>Often</td>
+            <td>High</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Compartir información con el equipo</td>
+            <td>Always</td>
+            <td>Medium</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Documentar perfiles de tueste</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Supervisar procesos de calidad</td>
+            <td>Rarely</td>
+            <td>Medium</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Realizar pedidos o gestionar inventario</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Analizar datos para mejorar procesos</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+            <td>Often</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Buscar registros antiguos</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+            <td>Often</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Coordinar con proveedores de café</td>
+            <td>Never</td>
+            <td>Low</td>
+            <td>Often</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Usar herramientas digitales de control</td>
+            <td>Often</td>
+            <td>Medium</td>
+            <td>Often</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Capacitarse o aprender sobre café</td>
+            <td>Always</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+        </tr>
+    </table>
+
+---
+
+El análisis de las tareas de baristas profesionales y dueños de cafeterías de especialidad revela diferentes enfoques en el negocio del café: los baristas se concentran en tareas técnicas diarias como calibrar la máquina de espresso, registrar parámetros de extracción y preparación, y realizar catas sensoriales, todas orientadas a la consistencia y perfeccionamiento en taza, con interés en formación continua; mientras que los dueños priorizan aspectos estratégicos como documentar perfiles de tueste, supervisar calidad, gestionar inventarios, analizar datos para decisiones estratégicas y capacitar al equipo, enfocándose en control, trazabilidad y eficiencia operativa.
+
+Coinciden en valorar las catas sensoriales, el registro de información para mejorar procesos y el uso de WhatsApp y Google Sheets como herramientas, pero difieren principalmente en que los baristas ejecutan tareas técnicas relacionadas con el café en barra, mientras los dueños administran procesos más amplios abarcando calidad, compras, capacitación y toma de decisiones.
+ abarcan calidad, compras, capacitación y toma de decisiones estratégicas.
+
+
 ### 2.3.3. User Journey Mapping
 En la presente sección se ilustra el recorrido end-to-end del sistema integral para baristas y cafeterías de especialidad, centrado en el segmento objetivo: dueños y gerentes de cafeterías. El User Journey Mapping describe las distintas etapas por las que atraviesa el usuario, desde el momento en que toma conocimiento de la solución tecnológica, pasando por su decisión de registrarse y configurarla según las necesidades de su operación, su uso activo en el día a día para estandarizar procesos y mejorar la trazabilidad, hasta llegar a la eventual decisión de dejar de utilizarla, ya sea por motivos estratégicos o de presupuesto.
 
 **Dueño de cafeteria:**
-![Journey Map - Fernando Goijman](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/JourneyMap/CustomerjourneymapFernandoGoijman.png)
+<td><img src="public\assets\images\JourneyMap\CustomerjourneymapFernandoGoijman.png" alt="Fernando Goijman"></td>
 
 
 **Barista Profesional:**
-![Journey Map - Valeria Ramos](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/JourneyMap/CustomerjourneymapValeriaRamos.png)
+<td><img src="public\assets\images\JourneyMap\CustomerjourneymapValeriaRamos.png" alt="Valeria Ramos"></td>
 
 
 
 ### 2.3.4. Empathy Mapping
 **Administradores y dueños de cafeterias de especialidad**
-![Empathy Mapping - Fernando Goijman](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/Empaty%20Mapping/EmpatyMapping_FernandoGoijman.png)
+<td><img src="public\assets\images\Empaty Mapping\EmpatyMapping_FernandoGoijman.png" alt="Fernando Goijman"></td>
 
 
 **Barista Profesional**
-![Empathy Mapping - Valeria Ramos](https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/raw/feature/informe-readme/public/assets/images/Empaty%20Mapping/EmpathyMapping_Valeria%20Ramos.png)
+<td><img src="public\assets\images\Empaty Mapping\EmpathyMapping_Valeria Ramos.png" alt="Valeria Ramos"></td>
 
 ### 2.3.5. As-is Scenario Mapping
+Para llevar a cabo el As-is Scenario Mapping, el equipo realizó un proceso de needfinding con el fin de comprender mejor el negocio y determinar la situación actual de las operaciones en las cafeterías de especialidad y el trabajo de los baristas. Este proceso permitió identificar las diferentes fases correspondientes a cada uno de los segmentos objetivos, brindando un entendimiento más profundo del flujo de trabajo y revelando las limitaciones y desafíos del sistema actual.
+
+**Administradores y dueños de cafeterías de especialidad**
+<td><img src="public/assets/images/AS-IS/AS_IS_ADMINISTRADORES_Y_DUEÑOS_DE_CAFETERIAS_DE_ESPECIALIDAD.png" alt="As-Is Administradores y dueños de cafeterías de especialidad"></td>
+
+
+**Barista Profesional**
+<td><img src="public/assets/images/AS-IS/AS_IS_BARISTA_PROFESIONAL.png" alt="As-Is Baristas profesionales"></td>
+
 ## 2.4. Ubiquitous Language
+En este proyecto, el uso de **Domain-Driven Design (DDD)** permite alinear el desarrollo de software con la realidad del negocio del café de especialidad. Uno de los pilares de DDD es el Lenguaje Ubicuo (Ubiquitous Language), el cual es un conjunto de términos compartidos que se construyen en colaboración entre desarrolladores, diseñadores y expertos del dominio, en nuestro caso, entre los desarrolladores, baristas y administradores de cafeterías.
+
+**Glosario de Términos:**
+
+<table border = 1>
+  <thead>
+    <tr>
+      <th>Término (Inglés)</th>
+      <th>Término (Español)</th>
+      <th>Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Coffee Lot</strong></td>
+      <td>Lote de Café</td>
+      <td>Conjunto de granos de café que comparten origen, variedad, proceso y cosecha.</td>
+    </tr>
+    <tr>
+      <td><strong>Storage Conditions</strong></td>
+      <td>Condiciones de Almacenamiento</td>
+      <td>Parámetros ambientales (temperatura y humedad relativa) que afectan la calidad del grano de café verde y que deben mantenerse dentro de rangos óptimos.</td>
+    </tr>
+    <tr>
+      <td><strong>Roast Profile</strong></td>
+      <td>Perfil de Tueste</td>
+      <td>Conjunto de parámetros que describen cómo se ha tostado un lote de café.</td>
+    </tr>
+    <tr>
+      <td><strong>Roast Curve</strong></td>
+      <td>Curva de Tueste</td>
+      <td>Gráfica que muestra la evolución de temperatura del grano y del ambiente durante el proceso de tueste.</td>
+    </tr>
+    <tr>
+      <td><strong>Calibration</strong></td>
+      <td>Calibración</td>
+      <td>Ajuste de variables en la preparación para estandarizar resultados sensoriales de una bebida.</td>
+    </tr>
+    <tr>
+      <td><strong>Traceability</strong></td>
+      <td>Trazabilidad</td>
+      <td>Capacidad de seguir el recorrido del café desde su origen hasta la taza, incluyendo certificaciones y condiciones.</td>
+    </tr>
+    <tr>
+      <td><strong>Cupping</strong></td>
+      <td>Cata</td>
+      <td>Evaluación sensorial del café basada en atributos como acidez, cuerpo, aroma y sabor.</td>
+    </tr>
+    <tr>
+      <td><strong>Sensory Hexagon</strong></td>
+      <td>Hexágono Sensorial</td>
+      <td>Visualización gráfica, en un hexágono de radar,  de los atributos sensoriales del café, útil para comparar cafés según su perfil en taza.</td>
+    </tr>
+    <tr>
+      <td><strong>Recipe Portfolio</strong></td>
+      <td>Portafolio de Recetas</td>
+      <td>Colección digital de recetas vinculadas a métodos, bebidas, clientes o competencias.</td>
+    </tr>
+    <tr>
+      <td><strong>Green Inventory</strong></td>
+      <td>Inventario de Café Verde</td>
+      <td>Registro y control del café sin tostar, incluyendo lotes, estado y trazabilidad.</td>
+    </tr>
+    <tr>
+      <td><strong>Roasted Inventory</strong></td>
+      <td>Inventario de Café Tostado</td>
+      <td>Registro del café ya tostado disponible, asociado a sus respectivos perfiles y lotes.</td>
+    </tr>
+    <tr>
+      <td><strong>Certification</strong></td>
+      <td>Certificación</td>
+      <td>Documentación que acredita prácticas éticas o sostenibles de cada lote, tales como orgánico, comercio justo, etc.</td>
+    </tr>
+    <tr>
+      <td><strong>TrackSilo</strong></td>
+      <td>TrackSilo</td>
+      <td>Dispositivo IoT que monitorea temperatura y humedad de los sacos de café verde, y alerta sobre condiciones fuera del rango óptimo.</td>
+    </tr>
+    <tr>
+      <td><strong>Yield Analysis</strong></td>
+      <td>Análisis de Rendimiento</td>
+      <td>Cálculo de pérdida de peso tras el tueste y análisis económico del proceso.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+En el caso del To-be Scenario Mapping, el equipo definió cómo se visualizaría el flujo de trabajo una vez que la solución CaféLab haya sido implementada en los dos segmentos objetivos. El propósito de este artefacto es analizar y mejorar los aspectos negativos identificados en el As-is Scenario, optimizando los procesos de monitoreo, registro y retroalimentación, y elevando la calidad del café, la eficiencia operativa y la capacidad para tomar decisiones informadas.
+
+**Administradores y dueños de cafeterias de especialidad**
+<td><img src="public\assets\images\TO-BE\TO_BE_ADMINISTRADORES_Y_DUEÑOS_DE_CAFETERIAS_DE_ESPECIALIDAD.png" alt="To-Be Administradores y dueños de cafeterías de especialidad"></td>
+
+**Barista Profesional**
+<td><img src="public\assets\images\TO-BE\TO_BE_BARISTA_PROFESIONAL.png" alt="To-Be Baristas profesionales"></td>
+
+
 ## 3.2. User Stories
+  Las user stories son una forma de convertir el lenguaje informal de los usuarios del sistema en requerimientos de software que deben ser considerados durante el desarrollo de la plataforma. Una user story bien construida le permite al desarrollador comprender la funcionalidad requerida, su propósito y el valor que aporta al usuario final. Para el proyecto Café Lab, se presenta un conjunto de user y technical stories que guían el desarrollo de la aplicación web, incluyendo módulos funcionales, vistas especializadas y componentes técnicos orientados a la trazabilidad y estandarización del café de especialidad.
+
+| Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-------|--------|------------|----------------------|-------------|
+| EP01 | Gestión de Usuarios y Seguridad | Como sistema, necesito tener un control de usuarios seguro y personalizado para proteger la información y ofrecer una experiencia adaptada al perfil | N/A | N/A |
+| US01 | Registro y Autenticación (Usuarios) | Como barista profesional o dueño de cafetería de especialidad, quiero registrarme y acceder de forma segura para mantener la confidencialidad de mis datos | **Escenario 1:** El usuario accede a la pantalla de registro.<br>**Dado que** el usuario no tiene una cuenta en el sistema<br>**Cuando** visualiza las opciones de registro (correo, Google, Facebook)<br>**Entonces** el sistema permite elegir su método preferido y completar el registro.<br><br>**Escenario 2:** El usuario inicia sesión.<br>**Dado que** el usuario ya tiene una cuenta registrada<br>**Cuando** ingresa sus credenciales correctamente<br>**Entonces** el sistema le permite acceder a su panel personalizado.<br><br>**Escenario 3:** El usuario ingresa credenciales incorrectas.<br>**Dado que** el usuario tiene una cuenta<br>**Cuando** ingresa datos erróneos<br>**Entonces** el sistema muestra un mensaje de error y opciones de recuperación. | EP01 |
+| US02 | Perfil Personalizado | Como barista profesional o dueño de cafetería de especialidad, quiero configurar mi perfil profesional para personalizar mi experiencia y mostrar mi identidad dentro del sistema | **Escenario 1:** Configuración inicial de perfil.<br>**Dado que** el usuario ha completado el registro exitosamente<br>**Cuando** accede por primera vez al sistema<br>**Entonces** el sistema solicita completar información básica (nombre, rol, experiencia).<br><br>**Escenario 2:** Actualización de perfil.<br>**Dado que** el usuario desea modificar sus datos personales<br>**Cuando** accede a la sección de perfil y realiza cambios<br>**Entonces** el sistema guarda la información actualizada correctamente. | EP01 |
+| US03 | Selección de Plan | Como barista profesional o dueño de cafetería de especialidad, quiero elegir entre los diferentes planes disponibles para acceder a las funcionalidades que mejor se adapten a mis necesidades | **Escenario 1:** Visualización de planes.<br>**Dado que** el usuario está registrado en el sistema<br>**Cuando** accede a la sección de planes disponibles<br>**Entonces** el sistema muestra una comparativa detallada de funcionalidades y precios.<br><br>**Escenario 2:** Selección de plan gratuito.<br>**Dado que** el usuario desea utilizar funcionalidades básicas<br>**Cuando** selecciona "Plan Base Cafetal"<br>**Entonces** el sistema le otorga acceso inmediato a las funcionalidades correspondientes. | EP01 |
+| EP02 | Gestión de Materia Prima | Como sistema, necesito ofrecer herramientas para el control, seguimiento y documentación del café verde para garantizar trazabilidad y calidad desde el origen | N/A | N/A |
+| US04 | Registro de Proveedores | Como dueño de cafetería de especialidad, quiero registrar y evaluar a mis proveedores para mantener un control de calidad y trazabilidad de origen | **Escenario 1:** Creación de nuevo proveedor.<br>**Dado que** se establece relación con un nuevo proveedor de café<br>**Cuando** el usuario ingresa los datos completos (nombre, ubicación, contacto, tipos de café)<br>**Entonces** el sistema registra la información y genera un perfil de proveedor.<br><br>**Escenario 2:** Evaluación de proveedor.<br>**Dado que** se han recibido lotes de un proveedor específico<br>**Cuando** el usuario completa el formulario de evaluación con criterios definidos<br>**Entonces** el sistema guarda la evaluación en el historial del proveedor. | EP02 |
+| US05 | Gestión de Lotes de Café Verde | Como barista profesional o dueño de cafetería de especialidad, quiero registrar y hacer seguimiento de cada lote de café verde para mantener control de inventario y trazabilidad | **Escenario 1:** Ingreso de nuevo lote.<br>**Dado que** se recibe un nuevo lote de café verde<br>**Cuando** el usuario registra sus características completas (origen, variedad, proceso, altitud, peso)<br>**Entonces** el sistema genera un código único de trazabilidad para ese lote.<br><br>**Escenario 2:** Actualización de estado.<br>**Dado que** un lote cambia de condición durante su ciclo de vida<br>**Cuando** el usuario actualiza su estado (almacenado, en tueste, agotado)<br>**Entonces** el sistema registra la fecha, hora y responsable del cambio de estado. | EP02 |
+| US06 | Registro de Certificaciones | Como dueño de cafetería de especialidad, quiero documentar las certificaciones de mis cafés para validar y comunicar su valor agregado | **Escenario 1:** Registro de certificación.<br>**Dado que** un lote cuenta con certificaciones oficiales (orgánico, comercio justo)<br>**Cuando** el usuario adjunta la documentación correspondiente al perfil del lote<br>**Entonces** el sistema valida y vincula la certificación, haciéndola verificable.<br><br>**Escenario 2:** Generación de etiquetas.<br>**Dado que** el usuario necesita comunicar certificaciones a clientes<br>**Cuando** selecciona un lote certificado y solicita generar etiquetas<br>**Entonces** el sistema produce etiquetas digitales con los sellos correspondientes. | EP02 |
+| EP03 | Gestión de Procesos de Tueste | Como sistema, necesito facilitar el registro, análisis y optimización de los procesos de tueste para garantizar resultados consistentes y de alta calidad | N/A | N/A |
+| US07 | Creación de Perfil de Tueste | Como barista profesional, quiero crear perfiles de tueste personalizados para documentar y replicar mis mejores resultados | **Escenario 1:** Creación manual de perfil.<br>**Dado que** el usuario desarrolla un nuevo perfil de tueste<br>**Cuando** ingresa todos los parámetros requeridos (temperatura inicial, curva, tiempo, desarrollo)<br>**Entonces** el sistema guarda el perfil en su biblioteca personal.<br><br>**Escenario 2:** Duplicación y modificación.<br>**Dado que** el usuario quiere adaptar un perfil existente<br>**Cuando** selecciona la opción "duplicar" y modifica valores específicos<br>**Entonces** el sistema crea una nueva variante manteniendo referencia al perfil original. | EP03 |
+| US08 | Registro de Sesión de Tueste | Como barista profesional, quiero documentar cada sesión de tueste asociada a un lote específico para mantener trazabilidad y control de calidad | **Escenario 1:** Inicio de sesión de tueste.<br>**Dado que** el usuario comienza el proceso de tostar un lote específico<br>**Cuando** selecciona el lote de origen y el perfil de tueste a utilizar<br>**Entonces** el sistema inicia el registro de la sesión con timestamp.<br><br>**Escenario 2:** Registro manual de puntos.<br>**Dado que** el usuario observa cambios durante el proceso de tueste<br>**Cuando** ingresa lecturas de temperatura y tiempo en puntos significativos<br>**Entonces** el sistema construye la curva real de tueste basada en estos datos. | EP03 |
+| US09 | Análisis Comparativo de Tuestes | Como barista profesional, quiero comparar diferentes sesiones de tueste para identificar patrones y optimizar resultados | **Escenario 1:** Selección de sesiones a comparar.<br>**Dado que** el usuario tiene múltiples sesiones de tueste registradas<br>**Cuando** selecciona dos o más sesiones para análisis comparativo<br>**Entonces** el sistema muestra las curvas superpuestas con códigos de color diferenciados.<br><br>**Escenario 2:** Análisis de variables específicas.<br>**Dado que** el usuario desea estudiar factores concretos del tueste<br>**Cuando** selecciona variables específicas de interés (tiempo desarrollo, temperatura final)<br>**Entonces** el sistema muestra su correlación con los resultados sensoriales registrados. | EP03 |
+| US10 | Biblioteca de Defectos de Tueste | Como barista profesional, quiero acceder a una biblioteca de defectos comunes para identificar y corregir problemas en mis tuestes | **Escenario 1:** Consulta de defecto.<br>**Dado que** el usuario observa anomalías en su café recién tostado<br>**Cuando** busca en el sistema por características visuales o descriptivas del problema<br>**Entonces** el sistema muestra posibles defectos coincidentes con sus causas y soluciones.<br><br>**Escenario 2:** Documentación de soluciones.<br>**Dado que** el usuario identifica un defecto específico en su tueste<br>**Cuando** accede a la ficha detallada del defecto en la biblioteca<br>**Entonces** el sistema presenta causas probables y soluciones recomendadas con ejemplos. | EP03 |
+| EP04 | Evaluación Sensorial del Café | Como sistema, necesito proveer herramientas para la evaluación, registro y análisis sensorial del café para vincular aspectos técnicos con la experiencia final en taza | N/A | N/A |
+| US11 | Cata Digital Estructurada | Como barista profesional, quiero registrar evaluaciones sensoriales estructuradas para documentar las características de cada lote y tueste | **Escenario 1:** Creación de nueva cata.<br>**Dado que** el usuario prueba un café recién tostado<br>**Cuando** inicia una nueva sesión de cata vinculada al lote y tueste específicos<br>**Entonces** el sistema presenta el formulario completo de evaluación sensorial.<br><br>**Escenario 2:** Evaluación por atributos.<br>**Dado que** el usuario sigue un protocolo estandarizado de cata<br>**Cuando** califica cada atributo sensorial (acidez, cuerpo, dulzor, etc.) en la escala definida<br>**Entonces** el sistema genera automáticamente el perfil sensorial completo. | EP04 |
+| US12 | Visualización de Perfiles Sensoriales | Como barista profesional o dueño de cafetería de especialidad, quiero visualizar perfiles sensoriales en formato de hexágono o gráfico de radar para interpretar y comparar cualidades | **Escenario 1:** Generación de hexágono sensorial.<br>**Dado que** el usuario ha completado una evaluación de cata<br>**Cuando** solicita la visualización gráfica de los resultados<br>**Entonces** el sistema genera el hexágono con los seis atributos principales evaluados.<br><br>**Escenario 2:** Comparación de perfiles.<br>**Dado que** el usuario desea contrastar diferentes cafés evaluados<br>**Cuando** selecciona múltiples catas para visualización simultánea<br>**Entonces** el sistema muestra los hexágonos superpuestos con códigos de color diferenciados. | EP04 |
+| US13 | Correlación Tueste-Sabor | Como barista profesional, quiero visualizar la correlación entre parámetros de tueste y resultados sensoriales para optimizar mis perfiles | **Escenario 1:** Análisis de factor específico.<br>**Dado que** el usuario busca entender la influencia de un parámetro técnico<br>**Cuando** selecciona una variable concreta de tueste (ej. tiempo de desarrollo)<br>**Entonces** el sistema muestra gráficos de correlación con atributos sensoriales registrados.<br><br>**Escenario 2:** Identificación de patrones.<br>**Dado que** el usuario busca consistencia en resultados sensoriales<br>**Cuando** analiza múltiples sesiones que produjeron perfiles similares<br>**Entonces** el sistema identifica y destaca patrones comunes en los perfiles de tueste. | EP04 |
+| US14 | Historial de Catas | Como barista profesional, quiero acceder al historial de catas por lote, origen o periodo para analizar tendencias y consistencia | **Escenario 1:** Filtrado por criterios múltiples.<br>**Dado que** el usuario busca catas específicas en su historial<br>**Cuando** aplica filtros combinados (fecha, origen, variedad, procesamiento)<br>**Entonces** el sistema muestra resultados que cumplen todos los criterios establecidos.<br><br>**Escenario 2:** Análisis de evolución temporal.<br>**Dado que** el usuario quiere evaluar cambios en el tiempo de un mismo café<br>**Cuando** selecciona un lote específico con múltiples catas realizadas<br>**Entonces** el sistema presenta gráficos de evolución de atributos a lo largo del tiempo. | EP04 |
+| EP05 | Gestión de Preparación y Recetas | Como sistema, necesito ofrecer herramientas para la gestión, estandarización y compartición de recetas y métodos de preparación para garantizar consistencia en la experiencia final | N/A | N/A |
+| US15 | Creación de Recetas de Preparación | Como barista profesional, quiero crear y documentar recetas detalladas para cada método de preparación y tipo de café | **Escenario 1:** Creación de receta estándar.<br>**Dado que** el usuario desarrolla una nueva receta de preparación<br>**Cuando** registra todos los parámetros requeridos (ratio, temperatura, tiempo, molienda, método)<br>**Entonces** el sistema guarda la receta completa en su biblioteca personal.<br><br>**Escenario 2:** Vinculación a lote específico.<br>**Dado que** el usuario optimiza una receta para un café particular<br>**Cuando** asocia la receta a un lote específico registrado en el sistema<br>**Entonces** el sistema establece la trazabilidad completa desde origen hasta método de preparación. | EP05 |
+| US16 | Calibración de Molienda | Como barista profesional, quiero documentar configuraciones de molienda para diferentes equipos y métodos para mantener consistencia entre preparaciones | **Escenario 1:** Registro de nueva calibración.<br>**Dado que** el usuario ajusta un molino para un método específico<br>**Cuando** documenta la configuración precisa (número, apertura) en el sistema<br>**Entonces** la calibración queda registrada con fecha, equipo y método asociados.<br><br>**Escenario 2:** Referencia visual comparativa.<br>**Dado que** el usuario necesita una referencia objetiva de molienda<br>**Cuando** adjunta foto de la molienda y registra el tiempo resultante de extracción<br>**Entonces** el sistema almacena estos datos como estándar visual para comparaciones futuras. | EP05 |
+| US17 | Portafolio de Bebidas | Como barista profesional o dueño de cafetería de especialidad, quiero crear un portafolio digital de bebidas y recetas para presentar a clientes o eventos | **Escenario 1:** Creación de ficha de bebida.<br>**Dado que** el usuario desarrolla una bebida especial para su menú<br>**Cuando** completa la ficha técnica (ingredientes, método, presentación, foto)<br>**Entonces** el sistema incorpora la bebida a su portafolio digital profesional.<br><br>**Escenario 2:** Organización por categorías personalizadas.<br>**Dado que** el usuario maneja diversas bebidas en su portafolio<br>**Cuando** las clasifica según tipos definidos (espresso, filtrado, signature, estacionales)<br>**Entonces** el sistema genera un catálogo organizado y fácilmente consultable. | EP05 |
+| US18 | Compartir Recetas | Como barista profesional, quiero compartir mis recetas con mi equipo para mantener consistencia en la preparación | **Escenario 1:** Compartir con equipo interno.<br>**Dado que** el usuario desarrolla una receta exitosa que debe estandarizarse<br>**Cuando** la marca como "compartida con equipo" y define permisos<br>**Entonces** el sistema la pone a disposición de todos los miembros autorizados.<br><br>**Escenario 2:** Sugerencia de mejoras.<br>**Dado que** un miembro del equipo prueba una receta compartida<br>**Cuando** implementa variaciones y propone ajustes documentados<br>**Entonces** el sistema notifica al creador original y registra las sugerencias manteniendo la versión original. | EP05 |
+| EP06 | Administración y Reportes | Como sistema, necesito proporcionar herramientas de gestión, análisis y reportes que conecten los aspectos técnicos con los operativos y financieros para optimizar la operación integral | N/A | N/A |
+| US19 | Control de Inventario Integrado | Como dueño de cafetería de especialidad, quiero gestionar el inventario de café verde y tostado de forma integrada para optimizar recursos y prevenir desabastecimiento | **Escenario 1:** Seguimiento centralizado de stock.<br>**Dado que** el usuario maneja múltiples productos y estados del café<br>**Cuando** accede al panel central de inventario<br>**Entonces** el sistema muestra niveles actuales, movimientos recientes y alertas activas.<br><br>**Escenario 2:** Registro de consumo con trazabilidad.<br>**Dado que** el usuario utiliza café para producción diaria<br>**Cuando** registra el consumo vinculándolo a lotes específicos y productos finales<br>**Entonces** el sistema actualiza automáticamente las existencias y mantiene la trazabilidad. | EP06 |
+| US20 | Gestión de Costos de Producción | Como dueño de cafetería de especialidad, quiero registrar y analizar los costos de producción de cada lote para optimizar mi estructura de precios y rentabilidad | **Escenario 1:** Registro completo de estructura de costos.<br>**Dado que** el usuario necesita documentar todos los costos de un lote<br>**Cuando** ingresa al módulo de costos y selecciona un lote procesado<br>**Entonces** el sistema presenta un formulario con categorías predefinidas para cada tipo de costo (compra, transporte, almacenamiento, mano de obra, procesamiento).<br><br>**Escenario 2:** Visualización de indicadores económicos.<br>**Dado que** el usuario ha completado el registro de costos<br>**Cuando** accede al dashboard económico del lote<br>**Entonces** el sistema muestra automáticamente indicadores clave como costo por kilo, costo por taza y margen potencial según precios de mercado. | EP06 |
+| US21 | Análisis de Eficiencia y Rendimiento | Como dueño de cafetería de especialidad, quiero monitorear y comparar el rendimiento productivo entre distintos lotes para identificar factores que afectan la eficiencia | **Escenario 1:** Registro automático de indicadores de rendimiento.<br>**Dado que** un lote ha sido procesado completamente<br>**Cuando** el usuario finaliza el registro de tueste y producción<br>**Entonces** el sistema calcula automáticamente métricas de rendimiento (% de merma, tiempo efectivo, productividad por hora).<br><br>**Escenario 2:** Comparativa avanzada entre lotes.<br>**Dado que** el usuario busca optimizar su producción<br>**Cuando** accede a la herramienta de análisis y selecciona múltiples lotes con atributos similares<br>**Entonces** el sistema genera una tabla comparativa que resalta variaciones significativas en rendimiento y señala posibles causas basadas en parámetros registrados. | EP06 |
+| US22 | Reportes de Trazabilidad | Como dueño de cafetería de especialidad, quiero generar reportes de trazabilidad completa para comunicar transparencia y valor agregado | **Escenario 1:** Generación de reporte integral por lote.<br>**Dado que** el usuario necesita documentar la trazabilidad completa<br>**Cuando** selecciona un lote específico que ha sido procesado<br>**Entonces** el sistema genera un informe detallado con toda la cadena documentada desde origen.<br><br>**Escenario 2:** Ficha técnica comercial para cliente.<br>**Dado que** el usuario necesita comunicar el valor diferencial de su producto<br>**Cuando** solicita generar una ficha para un producto específico de su catálogo<br>**Entonces** el sistema produce un documento que incluye origen, procesamiento, tueste y perfil sensorial. | EP06 |
+| EP07 | Landing Page y Sitio Web Estático | Como sistema, necesito proporcionar un sitio web informativo y atractivo que comunique el valor de la plataforma a diferentes segmentos objetivo | N/A | N/A |
+| US23 | Información del Producto | Como visitante de la landing page, quiero encontrar información clara sobre la plataforma para entender sus beneficios y decidir si me interesa | **Escenario 1:** Primera visita al sitio.<br>**Dado que** el visitante accede por primera vez al sitio web<br>**Cuando** carga la página de inicio<br>**Entonces** visualiza el mensaje principal (value proposition) y beneficios clave.<br><br>**Escenario 2:** Exploración de características.<br>**Dado que** el visitante desea conocer las funcionalidades<br>**Cuando** navega por la sección de características destacadas<br>**Entonces** encuentra información clara con ilustraciones visuales de cada funcionalidad. | EP07 |
+| US24 | Secciones Específicas por Segmento | Como visitante de la landing page, quiero encontrar información adaptada a mi perfil profesional para evaluar si la solución responde a mis necesidades específicas | **Escenario 1:** Sección para baristas.<br>**Dado que** el visitante se identifica como barista profesional<br>**Cuando** accede a la sección "Para Baristas"<br>**Entonces** encuentra contenido adaptado a sus desafíos específicos y testimonios relevantes.<br><br>**Escenario 2:** Sección para cafeterías.<br>**Dado que** el visitante administra o es dueño de una cafetería<br>**Cuando** accede a la sección "Para Cafeterías"<br>**Entonces** encuentra contenido enfocado en gestión de negocios, trazabilidad y certificaciones. | EP07 |
+| US25 | Contacto con Equipo | Como visitante de la landing page, quiero contactar con el equipo del sistema para resolver dudas específicas antes de registrarme | **Escenario 1:** Envío de consulta.<br>**Dado que** el visitante tiene preguntas sobre la plataforma<br>**Cuando** completa el formulario de contacto con sus datos y consulta<br>**Entonces** el sistema envía la información al equipo y muestra confirmación.<br><br>**Escenario 2:** Solicitud de demostración.<br>**Dado que** el visitante quiere ver el sistema en funcionamiento<br>**Cuando** solicita una demostración personalizada mediante el formulario específico<br>**Entonces** el sistema agenda la cita y envía confirmación con los detalles de conexión. | EP07 |
+| US26 | Acceso directo a plataforma | Como visitante de la landing page, quiero redirigirme hacia la aplicación principal desde la landing page para comenzar a usar el sistema inmediatamente | **Escenario 1:** Navegación exitosa<br>**Dado que** el visitante quiere empezar a usar el sistema<br>**Cuando** navegue por la landing page y pulse el botón de acceso a la plataforma<br>**Entonces** será transferido correctamente a la interfaz principal del sistema.<br><br>**Escenario 2:** Error de conexión<br>**Dado que** el visitante intenta ingresar al sistema<br>**Cuando** pulse el botón de acceso en la landing page y exista un problema de conexión o disponibilidad del servidor<br>**Entonces** visualizará una notificación clara explicando el problema. | EP07 |
+| TS01 | POST HTTPS Usuarios | Como desarrollador, quiero registrar nuevos usuarios mediante una API para permitir el acceso al sistema | **Escenario 1:**<br>**Dado que** tengo acceso a la API de registro de usuarios<br>**Cuando** solicito registrar un usuario con datos válidos<br>**Entonces** recibo confirmación de usuario creado con su identificador.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de registro de usuarios<br>**Cuando** solicito registrar un usuario con email ya existente<br>**Entonces** recibo un mensaje indicando que el email ya está registrado. | N/A |
+| TS02 | POST HTTPS Autenticación | Como desarrollador, quiero autenticar usuarios mediante una API para validar credenciales y permitir acceso seguro | **Escenario 1:**<br>**Dado que** tengo acceso a la API de autenticación<br>**Cuando** envío credenciales válidas de un usuario<br>**Entonces** recibo confirmación de acceso autorizado.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de autenticación<br>**Cuando** envío credenciales incorrectas<br>**Entonces** recibo un mensaje indicando error de autenticación. | N/A |
+| TS03 | GET HTTPS Planes | Como desarrollador, quiero obtener información sobre planes disponibles mediante una API para mostrar opciones de suscripción | **Escenario 1:**<br>**Dado que** tengo acceso a la API de planes<br>**Cuando** solicito la lista de planes disponibles<br>**Entonces** recibo todos los planes con sus características y precios.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de planes<br>**Cuando** solicito los planes y hay un problema técnico<br>**Entonces** recibo un mensaje indicando que el servicio no está disponible. | N/A |
+| TS04 | POST HTTPS Planes | Como desarrollador, quiero suscribir usuarios a planes mediante una API para gestionar acceso a funcionalidades | **Escenario 1:**<br>**Dado que** tengo acceso a la API de suscripciones<br>**Cuando** solicito una suscripción con plan y pago válidos<br>**Entonces** recibo confirmación de la suscripción activada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de suscripciones<br>**Cuando** solicito una suscripción con método de pago rechazado<br>**Entonces** recibo un mensaje sobre el problema de pago. | N/A |
+| TS05 | POST HTTPS Proveedores | Como desarrollador, quiero registrar nuevos proveedores mediante una API para ampliar la red de suministro | **Escenario 1:**<br>**Dado que** tengo acceso a la API de proveedores<br>**Cuando** solicito registrar un proveedor con datos completos<br>**Entonces** recibo confirmación del proveedor creado con su identificador.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de proveedores<br>**Cuando** solicito registrar un proveedor con datos incompletos<br>**Entonces** recibo un mensaje con los campos requeridos faltantes. | N/A |
+| TS06 | GET HTTPS Proveedores | Como desarrollador, quiero consultar proveedores mediante una API para mostrar opciones disponibles | **Escenario 1:**<br>**Dado que** tengo acceso a la API de proveedores<br>**Cuando** solicito la lista de proveedores con filtros<br>**Entonces** recibo los proveedores que cumplen los criterios.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de proveedores<br>**Cuando** solicito proveedores con parámetros incorrectos<br>**Entonces** recibo un mensaje indicando los parámetros inválidos. | N/A |
+| TS07 | POST HTTPS Lotes | Como desarrollador, quiero registrar nuevos lotes de café mediante una API para mantener el inventario actualizado | **Escenario 1:**<br>**Dado que** tengo acceso a la API de lotes<br>**Cuando** solicito registrar un lote con datos completos<br>**Entonces** recibo confirmación del lote creado con su código de trazabilidad.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de lotes<br>**Cuando** solicito registrar un lote con un proveedor inexistente<br>**Entonces** recibo un mensaje indicando que el proveedor no existe. | N/A |
+| TS08 | PATCH HTTPS Lotes | Como desarrollador, quiero actualizar el estado de lotes mediante una API para reflejar cambios en el ciclo de vida | **Escenario 1:**<br>**Dado que** tengo acceso a la API de lotes<br>**Cuando** solicito cambiar el estado de un lote a un valor válido<br>**Entonces** recibo el lote con su estado actualizado.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de lotes<br>**Cuando** solicito un cambio de estado no permitido<br>**Entonces** recibo un mensaje con los cambios de estado permitidos. | N/A |
+| TS09 | POST HTTPS Certificaciones | Como desarrollador, quiero registrar certificaciones mediante una API para validar la calidad y origen del café | **Escenario 1:**<br>**Dado que** tengo acceso a la API de certificaciones<br>**Cuando** solicito registrar una certificación válida para un lote<br>**Entonces** recibo confirmación de la certificación registrada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de certificaciones<br>**Cuando** solicito registrar un tipo de certificación no soportado<br>**Entonces** recibo un mensaje con los tipos de certificación válidos. | N/A |
+| TS10 | GET HTTPS Certificaciones | Como desarrollador, quiero obtener certificaciones mediante una API para mostrar valor agregado del producto | **Escenario 1:**<br>**Dado que** tengo acceso a la API de certificaciones<br>**Cuando** solicito las certificaciones de un lote existente<br>**Entonces** recibo todas las certificaciones asociadas al lote.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de certificaciones<br>**Cuando** solicito certificaciones de un lote que no existe<br>**Entonces** recibo un mensaje indicando que el lote no existe. | N/A |
+| TS11 | POST HTTPS Perfiles-Tueste | Como desarrollador, quiero crear perfiles de tueste mediante una API para estandarizar procesos | **Escenario 1:**<br>**Dado que** tengo acceso a la API de perfiles de tueste<br>**Cuando** solicito crear un perfil con parámetros completos<br>**Entonces** recibo confirmación del perfil creado en la biblioteca.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de perfiles de tueste<br>**Cuando** solicito crear un perfil con temperaturas fuera de rango<br>**Entonces** recibo un mensaje con los rangos permitidos. | N/A |
+| TS12 | POST HTTPS Sesiones-Tueste | Como desarrollador, quiero registrar sesiones de tueste mediante una API para documentar cada proceso | **Escenario 1:**<br>**Dado que** tengo acceso a la API de sesiones de tueste<br>**Cuando** solicito iniciar una sesión con lote y perfil válidos<br>**Entonces** recibo confirmación de la sesión iniciada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de sesiones de tueste<br>**Cuando** solicito iniciar sesión con un lote ya agotado<br>**Entonces** recibo un mensaje indicando que el lote no está disponible. | N/A |
+| TS13 | PATCH HTTPS Sesiones-Tueste | Como desarrollador, quiero actualizar lecturas de una sesión de tueste mediante una API para construir la curva real | **Escenario 1:**<br>**Dado que** tengo acceso a la API de sesiones de tueste<br>**Cuando** envío nuevas lecturas de tiempo y temperatura<br>**Entonces** recibo confirmación de la lectura registrada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de sesiones de tueste<br>**Cuando** envío lecturas a una sesión ya finalizada<br>**Entonces** recibo un mensaje indicando que la sesión está cerrada. | N/A |
+| TS14 | GET HTTPS Análisis-Tueste | Como desarrollador, quiero obtener análisis comparativo de tuestes mediante una API para identificar patrones | **Escenario 1:**<br>**Dado que** tengo acceso a la API de análisis<br>**Cuando** solicito comparar varias sesiones de tueste<br>**Entonces** recibo las curvas comparativas y correlaciones.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de análisis<br>**Cuando** solicito comparar demasiadas sesiones<br>**Entonces** recibo un mensaje indicando el límite máximo permitido. | N/A |
+| TS15 | GET HTTPS Defectos-Tueste | Como desarrollador, quiero consultar defectos comunes en tueste mediante una API para asistir en diagnóstico de problemas | **Escenario 1:**<br>**Dado que** tengo acceso a la API de defectos<br>**Cuando** busco defectos con criterios específicos<br>**Entonces** recibo los defectos coincidentes y sus soluciones.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de defectos<br>**Cuando** busco sin especificar ningún criterio<br>**Entonces** recibo un mensaje solicitando al menos un parámetro de búsqueda. | N/A |
+| TS16 | POST HTTPS Catas | Como desarrollador, quiero registrar evaluaciones sensoriales mediante una API para documentar características del café | **Escenario 1:**<br>**Dado que** tengo acceso a la API de catas<br>**Cuando** envío una evaluación completa de un café<br>**Entonces** recibo confirmación de la cata registrada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de catas<br>**Cuando** envío una cata sin identificar el lote o tueste<br>**Entonces** recibo un mensaje indicando que se requiere identificar el café. | N/A |
+| TS17 | GET HTTPS Perfiles-Sensoriales | Como desarrollador, quiero obtener perfiles sensoriales mediante una API para visualizar y comparar cualidades | **Escenario 1:**<br>**Dado que** tengo acceso a la API de perfiles sensoriales<br>**Cuando** solicito un perfil sensorial existente<br>**Entonces** recibo los datos para generar el hexágono sensorial.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de perfiles sensoriales<br>**Cuando** solicito un perfil que no existe<br>**Entonces** recibo un mensaje indicando que el perfil no se encontró. | N/A |
+| TS18 | GET HTTPS Correlaciones | Como desarrollador, quiero obtener correlaciones entre tueste y sabor mediante una API para optimizar procesos | **Escenario 1:**<br>**Dado que** tengo acceso a la API de análisis<br>**Cuando** solicito correlaciones entre parámetros específicos<br>**Entonces** recibo los datos de correlación estadística.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de análisis<br>**Cuando** solicito correlacionar parámetros incompatibles<br>**Entonces** recibo un mensaje con los parámetros que pueden correlacionarse. | N/A |
+| TS19 | POST HTTPS Recetas | Como desarrollador, quiero registrar recetas de preparación mediante una API para documentar métodos óptimos | **Escenario 1:**<br>**Dado que** tengo acceso a la API de recetas<br>**Cuando** envío una receta completa de preparación<br>**Entonces** recibo confirmación de la receta guardada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de recetas<br>**Cuando** envío una receta con método de preparación inválido<br>**Entonces** recibo un mensaje con los métodos válidos. | N/A |
+| TS20 | POST HTTPS Calibraciones | Como desarrollador, quiero registrar calibraciones de molienda mediante una API para mantener consistencia entre preparaciones | **Escenario 1:**<br>**Dado que** tengo acceso a la API de calibraciones<br>**Cuando** envío una nueva calibración con todos los datos<br>**Entonces** recibo confirmación de la calibración registrada.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de calibraciones<br>**Cuando** envío una imagen en formato no soportado<br>**Entonces** recibo un mensaje con los formatos de imagen permitidos. | N/A |
+| TS21 | GET HTTPS Inventario | Como desarrollador, quiero consultar el inventario integrado mediante una API para visualizar existencias | **Escenario 1:**<br>**Dado que** tengo acceso a la API de inventario<br>**Cuando** solicito el inventario con filtros específicos<br>**Entonces** recibo el listado de existencias actualizado.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de inventario<br>**Cuando** solicito información sin tener permisos suficientes<br>**Entonces** recibo un mensaje indicando acceso denegado. | N/A |
+| TS22 | PATCH HTTPS Inventario | Como desarrollador, quiero actualizar el consumo de inventario mediante una API para mantener existencias actualizadas | **Escenario 1:**<br>**Dado que** tengo acceso a la API de inventario<br>**Cuando** registro el consumo de un producto con cantidad válida<br>**Entonces** recibo confirmación del inventario actualizado.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API de inventario<br>**Cuando** registro un consumo mayor al disponible<br>**Entonces** recibo un mensaje indicando stock insuficiente. | N/A |
+| TS23 | POST HTTPS Contacto | Como desarrollador, quiero procesar formularios de contacto mediante una API para gestionar comunicaciones con visitantes | **Escenario 1:**<br>**Dado que** tengo acceso a la API pública<br>**Cuando** envío un formulario de contacto completo<br>**Entonces** recibo confirmación del mensaje enviado.<br><br>**Escenario 2:**<br>**Dado que** tengo acceso a la API pública<br>**Cuando** envío un formulario sin email de contacto<br>**Entonces** recibo un mensaje indicando que el email es obligatorio. | N/A | para comparar<br>**Entonces** recibo código 400 indicando el límite máximo de sesiones comparables.
+
 
 ## 3.3. Impact Mapping
+![Impact Mapping - Fernando Goijman 1](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-FernandoGoijman1.jpeg)
+![Impact Mapping - Valeria Ramos 1](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-ValeriaRamos1.jpeg)
+
+![Impact Mapping - Fernando Goijman 2](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-FernandoGoijman2.jpeg)
+![Impact Mapping - Valeria Ramos 2](https://raw.githubusercontent.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/ImpactMapping/ImpactMapping-ValeriaRamos2.jpeg)
+
+
 ## 3.4. Product Backlog
+<table>
+        <tr>
+            <th># Orden</th>
+            <th>User Story Id</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points<br>(1/2/3/5/8)</th>
+        </tr>
+        <tr>
+            <td class="center">1</td>
+            <td>US22</td>
+            <td>Información del Producto</td>
+            <td>Como visitante de la landing page, quiero encontrar información clara sobre la plataforma para entender sus beneficios y decidir si me interesa</td>
+            <td class="center">1</td>
+        </tr>
+        <tr>
+            <td class="center">2</td>
+            <td>US23</td>
+            <td>Secciones Específicas por Segmento</td>
+            <td>Como visitante de la landing page, quiero encontrar información adaptada a mi perfil profesional para evaluar si la solución responde a mis necesidades específicas</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">3</td>
+            <td>US24</td>
+            <td>Contacto con Equipo</td>
+            <td>Como visitante de la landing page, quiero contactar con el equipo del sistema para resolver dudas específicas antes de registrarme</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">4</td>
+            <td>US25</td>
+            <td>Acceso directo a plataforma</td>
+            <td>Como visitante de la landing page, quiero redirigirme hacia la aplicación principal desde la landing page para comenzar a usar el sistema inmediatamente</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">5</td>
+            <td>US05</td>
+            <td>Gestión de Lotes de Café Verde</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero registrar y hacer seguimiento de cada lote de café verde para mantener control de inventario y trazabilidad</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">6</td>
+            <td>US15</td>
+            <td>Creación de Recetas de Preparación</td>
+            <td>Como barista profesional, quiero crear y documentar recetas detalladas para cada método de preparación y tipo de café</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">7</td>
+            <td>US11</td>
+            <td>Cata Digital Estructurada</td>
+            <td>Como barista profesional, quiero registrar evaluaciones sensoriales estructuradas para documentar las características de cada lote y tueste</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">8</td>
+            <td>US19</td>
+            <td>Control de Inventario Integrado</td>
+            <td>Como dueño de cafetería de especialidad, quiero gestionar el inventario de café verde y tostado de forma integrada para optimizar recursos y prevenir desabastecimiento</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">9</td>
+            <td>US07</td>
+            <td>Creación de Perfil de Tueste</td>
+            <td>Como barista profesional, quiero crear perfiles de tueste personalizados para documentar y replicar mis mejores resultados</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">10</td>
+            <td>US20</td>
+            <td>Gestión de Costos de Producción</td>
+            <td>Como dueño de cafetería de especialidad, quiero registrar y analizar los costos de producción de cada lote para optimizar mi estructura de precios y rentabilidad</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">11</td>
+            <td>US21</td>
+            <td>Análisis de Eficiencia y Rendimiento</td>
+            <td>Como dueño de cafetería de especialidad, quiero monitorear y comparar el rendimiento productivo entre distintos lotes para identificar factores que afectan la eficiencia</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">12</td>
+            <td>US12</td>
+            <td>Visualización de Perfiles Sensoriales</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero visualizar perfiles sensoriales en formato de hexágono o gráfico de radar para interpretar y comparar cualidades</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">13</td>
+            <td>US08</td>
+            <td>Registro de Sesión de Tueste</td>
+            <td>Como barista profesional, quiero documentar cada sesión de tueste asociada a un lote específico para mantener trazabilidad y control de calidad</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">14</td>
+            <td>US04</td>
+            <td>Registro de Proveedores</td>
+            <td>Como dueño de cafetería de especialidad, quiero registrar y evaluar a mis proveedores para mantener un control de calidad y trazabilidad de origen</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">15</td>
+            <td>US16</td>
+            <td>Calibración de Molienda</td>
+            <td>Como barista profesional, quiero documentar configuraciones de molienda para diferentes equipos y métodos para mantener consistencia entre preparaciones</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">16</td>
+            <td>US13</td>
+            <td>Correlación Tueste-Sabor</td>
+            <td>Como barista profesional, quiero visualizar la correlación entre parámetros de tueste y resultados sensoriales para optimizar mis perfiles</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">17</td>
+            <td>US21</td>
+            <td>Reportes de Trazabilidad</td>
+            <td>Como dueño de cafetería de especialidad, quiero generar reportes de trazabilidad completa para comunicar transparencia y valor agregado</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">18</td>
+            <td>US06</td>
+            <td>Registro de Certificaciones</td>
+            <td>Como dueño de cafetería de especialidad, quiero documentar las certificaciones de mis cafés para validar y comunicar su valor agregado</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">19</td>
+            <td>US17</td>
+            <td>Portafolio de Bebidas</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero crear un portafolio digital de bebidas y recetas para presentar a clientes o eventos</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">20</td>
+            <td>US09</td>
+            <td>Análisis Comparativo de Tuestes</td>
+            <td>Como barista profesional, quiero comparar diferentes sesiones de tueste para identificar patrones y optimizar resultados</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">21</td>
+            <td>US18</td>
+            <td>Compartir Recetas</td>
+            <td>Como barista profesional, quiero compartir mis recetas con mi equipo para mantener consistencia en la preparación</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">22</td>
+            <td>US14</td>
+            <td>Historial de Catas</td>
+            <td>Como barista profesional, quiero acceder al historial de catas por lote, origen o periodo para analizar tendencias y consistencia</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">23</td>
+            <td>US10</td>
+            <td>Biblioteca de Defectos de Tueste</td>
+            <td>Como barista profesional, quiero acceder a una biblioteca de defectos comunes para identificar y corregir problemas en mis tuestes</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">24</td>
+            <td>US01</td>
+            <td>Registro y Autenticación (Usuarios)</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero registrarme y acceder de forma segura para mantener la confidencialidad de mis datos</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">25</td>
+            <td>US02</td>
+            <td>Perfil Personalizado</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero configurar mi perfil profesional para personalizar mi experiencia y mostrar mi identidad dentro del sistema</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">26</td>
+            <td>US03</td>
+            <td>Selección de Plan</td>
+            <td>Como barista profesional o dueño de cafetería de especialidad, quiero elegir entre los diferentes planes disponibles para acceder a las funcionalidades que mejor se adapten a mis necesidades</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">27</td>
+            <td>TS01</td>
+            <td>POST HTTPS Usuarios</td>
+            <td>Como desarrollador, quiero registrar nuevos usuarios mediante una API para permitir el acceso al sistema</td>
+            <td class="center">1</td>
+        </tr>
+        <tr>
+            <td class="center">28</td>
+            <td>TS02</td>
+            <td>POST HTTPS Autenticación</td>
+            <td>Como desarrollador, quiero autenticar usuarios mediante una API para validar credenciales y permitir acceso seguro</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">29</td>
+            <td>TS03</td>
+            <td>GET HTTPS Planes</td>
+            <td>Como desarrollador, quiero obtener información sobre planes disponibles mediante una API para mostrar opciones de suscripción</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">30</td>
+            <td>TS07</td>
+            <td>POST HTTPS Lotes</td>
+            <td>Como desarrollador, quiero registrar nuevos lotes de café mediante una API para mantener el inventario actualizado</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">31</td>
+            <td>TS19</td>
+            <td>POST HTTPS Recetas</td>
+            <td>Como desarrollador, quiero registrar recetas de preparación mediante una API para documentar métodos óptimos</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">32</td>
+            <td>TS16</td>
+            <td>POST HTTPS Catas</td>
+            <td>Como desarrollador, quiero registrar evaluaciones sensoriales mediante una API para documentar características del café</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">33</td>
+            <td>TS21</td>
+            <td>GET HTTPS Inventario</td>
+            <td>Como desarrollador, quiero consultar el inventario integrado mediante una API para visualizar existencias</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">34</td>
+            <td>TS11</td>
+            <td>POST HTTPS Perfiles-Tueste</td>
+            <td>Como desarrollador, quiero crear perfiles de tueste mediante una API para estandarizar procesos</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">35</td>
+            <td>TS18</td>
+            <td>GET HTTPS Correlaciones</td>
+            <td>Como desarrollador, quiero obtener correlaciones entre tueste y sabor mediante una API para optimizar procesos</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">36</td>
+            <td>TS12</td>
+            <td>POST HTTPS Sesiones-Tueste</td>
+            <td>Como desarrollador, quiero registrar sesiones de tueste mediante una API para documentar cada proceso</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">37</td>
+            <td>TS05</td>
+            <td>POST HTTPS Proveedores</td>
+            <td>Como desarrollador, quiero registrar nuevos proveedores mediante una API para ampliar la red de suministro</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">38</td>
+            <td>TS20</td>
+            <td>POST HTTPS Calibraciones</td>
+            <td>Como desarrollador, quiero registrar calibraciones de molienda mediante una API para mantener consistencia entre preparaciones</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">39</td>
+            <td>TS17</td>
+            <td>GET HTTPS Perfiles-Sensoriales</td>
+            <td>Como desarrollador, quiero obtener perfiles sensoriales mediante una API para visualizar y comparar cualidades</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">40</td>
+            <td>TS22</td>
+            <td>PATCH HTTPS Inventario</td>
+            <td>Como desarrollador, quiero actualizar el consumo de inventario mediante una API para mantener existencias actualizadas</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">41</td>
+            <td>TS09</td>
+            <td>POST HTTPS Certificaciones</td>
+            <td>Como desarrollador, quiero registrar certificaciones mediante una API para validar la calidad y origen del café</td>
+            <td class="center">3</td>
+        </tr>
+        <tr>
+            <td class="center">42</td>
+            <td>TS23</td>
+            <td>POST HTTPS Contacto</td>
+            <td>Como desarrollador, quiero procesar formularios de contacto mediante una API para gestionar comunicaciones con visitantes</td>
+            <td class="center">1</td>
+        </tr>
+        <tr>
+            <td class="center">43</td>
+            <td>TS14</td>
+            <td>GET HTTPS Análisis-Tueste</td>
+            <td>Como desarrollador, quiero obtener análisis comparativo de tuestes mediante una API para identificar patrones</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">44</td>
+            <td>TS04</td>
+            <td>POST HTTPS Planes</td>
+            <td>Como desarrollador, quiero suscribir usuarios a planes mediante una API para gestionar acceso a funcionalidades</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">45</td>
+            <td>TS06</td>
+            <td>GET HTTPS Proveedores</td>
+            <td>Como desarrollador, quiero consultar proveedores mediante una API para mostrar opciones disponibles</td>
+            <td class="center">1</td>
+        </tr>
+        <tr>
+            <td class="center">46</td>
+            <td>TS08</td>
+            <td>PATCH HTTPS Lotes</td>
+            <td>Como desarrollador, quiero actualizar el estado de lotes mediante una API para reflejar cambios en el ciclo de vida</td>
+            <td class="center">2</td>
+        </tr>
+        <tr>
+            <td class="center">47</td>
+            <td>TS10</td>
+            <td>GET HTTPS Certificaciones</td>
+            <td>Como desarrollador, quiero obtener certificaciones mediante una API para mostrar valor agregado del producto</td>
+            <td class="center">1</td>
+        </tr>
+        <tr>
+            <td class="center">48</td>
+            <td>TS13</td>
+            <td>PATCH HTTPS Sesiones-Tueste</td>
+            <td>Como desarrollador, quiero actualizar lecturas de una sesión de tueste mediante una API para construir la curva real</td>
+            <td class="center">5</td>
+        </tr>
+        <tr>
+            <td class="center">49</td>
+            <td>TS15</td>
+            <td>GET HTTPS Defectos-Tueste</td>
+            <td>Como desarrollador, quiero consultar defectos comunes en tueste mediante una API para asistir en diagnóstico de problemas</td>
+            <td class="center">1</td>
+        </tr>
+</table>
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guideline
@@ -802,9 +1649,34 @@ Los sistemas de navegación de Cafelab permiten al usuario recorrer los diferent
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
+
+El Domain Driven Design (DDD) busca establecer un entendimiento común del dominio que engloba el espacio del problema, fomentando una mejor colaboración entre desarrolladores y expertos del dominio. Este enfoque no se limita a emplear un lenguaje ubicuo, sino que incluye un conjunto de patrones, procesos y diagramas de la arquitectura del sistema, artefactos diseñados para alinear el software con el dominio y fortalecer la perspectiva compartida que promueve DDD.
+
 ### 4.6.1. Software Architecture Context Diagram.
+
+![image](https://github.com/user-attachments/assets/38460830-585d-4833-ae1a-4afa48e16528)
+
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+![image](https://github.com/user-attachments/assets/53a50408-68b1-4db5-bfc8-d0b588a4f9d8)
+
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+**Log-In Bounded Context**
+
+![structurizr-92816-ComponentsDiagram](https://github.com/user-attachments/assets/d74302e8-31a2-45de-b9a7-44bd5b5aa37d)
+
+**Companies Bounded Context**
+
+![structurizr-92816-ComponentsDiagram (1)](https://github.com/user-attachments/assets/eec71779-f7f1-4c00-850b-a76e28dd7ed8)
+
+**Crop Bounded Context**
+
+![structurizr-92816-ComponentsDiagram (2)](https://github.com/user-attachments/assets/5b179005-3810-4671-8366-22a662045acf)
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
