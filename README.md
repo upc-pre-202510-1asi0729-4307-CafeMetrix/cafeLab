@@ -245,8 +245,6 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             <td style="border: 1px solid #ddd; vertical-align: top;">
              3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-                <strong>Renzo Uribe</strong><br>
-                TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
