@@ -1744,6 +1744,9 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+User Goal: Registrarse
+
+![image](public/assets/images/Wireflows/Register.png)
 ### 4.4.2. Web Applications Mock-ups.
 Select Suscription - US03
 ![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
