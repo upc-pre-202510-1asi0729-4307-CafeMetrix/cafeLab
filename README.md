@@ -292,12 +292,12 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
-  <td><img src="/public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
+  <td><img src="public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
     <td>Mi nombre es <strong>Henry Esteban</strong>, tengo 19 años y me encuentro en ing de software. Me considero atractivo a abrir nuevas experiencias y ser mejor persona cada día, me gusta aprender y siempre escucho los buenos consejos</td>
   </tr>
-  <tr>
-    <td>Fila 4, Columna 1</td>
-    <td>Fila 4, Columna 2</td>
+  <tr> 
+    <td> <img src="public/assets/images/integrantes/fredy.jpeg"alt="Carlos Fredy" width="200">  </td>
+    <td> Mi nombre es <strong>Carlos Fernandez</strong>, tengo 21 años y estudio la carrera de Ingenieria de Software, me encuentro preparando en algunas areas como desarrollo de aplicaciones moviles con Flutter y desarrollo de videojuegos como Unity y Godot, considero que un desempeño adecuado en la universidad me ayudara a mejorar mis habilidades y conocimiento en el desarrollo de proyectos </td>
   </tr>
   <tr>
     <td>Fila 5, Columna 1</td>
