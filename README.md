@@ -1747,6 +1747,36 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+<h2>4.5 Web Applications Prototyping</h2>
+
+<p>
+En esta sección, se desarrollaron los primeros prototipos funcionales para las aplicaciones web de CaféLab, basados en los wireframes y mockups definidos previamente. El objetivo principal fue materializar la arquitectura de información, los flujos de usuario y las principales vistas del sistema, validando la experiencia de usuario de forma visual y navegable. 
+Se utilizaron herramientas de colaboración online para construir prototipos de alta fidelidad, enfocados en las funcionalidades críticas como la gestión de café verde, el registro de procesos de tueste, las evaluaciones sensoriales y la administración de recetas.
+</p>
+
+<h3>Prototipo en Lucidchart</h3>
+<p>Accede al prototipo interactivo desarrollado en LucidSpark haciendo clic en el siguiente enlace:</p>
+<p>
+<a href="https://lucid.app/lucidspark/c858f696-6a1b-4a60-a313-758367fc2a0d/edit?viewport_loc=-12280%2C-31145%2C18057%2C9180%2C0_0&invitationId=inv_d209f76f-ba63-4e88-aa0d-3705d146d991" target="_blank">
+Ver prototipo en LucidSpark
+</a>
+</p>
+
+<!-- Inserción de imágenes del prototipo -->
+<img src="/public/assets/images/Prototype/Web.png" alt="Imagen Flow Web" width="600">
+<br><br>
+<img src="/public/assets/images/Prototype/Movil.png" alt="Imagen Flow movil" width="600">
+
+<h3>Video Demostrativo del Prototipo</h3>
+<p>Para ver una demostración en video del prototipo navegable, accede mediante el siguiente enlace:</p>
+<p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EQZJw-3YWw5PkjlVXyPWFRkBlS-RTsyw06rtt4pmib3URw?e=SAb8JH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">
+Ver video de prototipo
+</a>
+</p>
+
+<!-- Imagen de enlace al video -->
+<img src="/public/assets/images/Prototype/Video.png" alt="Video Prototipo CaféLab" width="600">
 ## 4.6. Domain-Driven Software Architecture.
 
 El Domain Driven Design (DDD) busca establecer un entendimiento común del dominio que engloba el espacio del problema, fomentando una mejor colaboración entre desarrolladores y expertos del dominio. Este enfoque no se limita a emplear un lenguaje ubicuo, sino que incluye un conjunto de patrones, procesos y diagramas de la arquitectura del sistema, artefactos diseñados para alinear el software con el dominio y fortalecer la perspectiva compartida que promueve DDD.
