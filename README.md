@@ -119,7 +119,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Desarrollo de Entrevistas, user personas, User journey Mapping, Empathy mapping, Impact Mapping,Carlos Fredy Fenandez Camayo Desarrollo de Entrevistas, user personas, User journey Mapping, Empathy mapping, Impact Mapping Desarrollo de User Stories. landing page wireframe, mock up y web application, Despliegue de Landing page en Netlify</td>
   </tr>
 </table>
 
@@ -237,7 +237,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br>
                 <strong>Carlos Fernandez</strong><br>
-                TB1: 
+                TB1:Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. 
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
@@ -252,7 +252,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br>
                 <strong>Carlos Fernandez</strong><br>
-                TB1: 
+                TB1:La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
