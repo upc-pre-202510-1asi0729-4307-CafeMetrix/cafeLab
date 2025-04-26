@@ -292,8 +292,8 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
-    <td>Fila 3, Columna 1</td>
-    <td>Fila 3, Columna 2</td>
+  <td><img src="/public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
+    <td>Mi nombre es <strong>Henry Esteban</strong>, tengo 19 años y me encuentro en ing de software. Me considero atractivo a abrir nuevas experiencias y ser mejor persona cada día, me gusta aprender y siempre escucho los buenos consejos</td>
   </tr>
   <tr>
     <td>Fila 4, Columna 1</td>
