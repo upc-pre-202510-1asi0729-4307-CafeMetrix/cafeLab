@@ -111,7 +111,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Descripción de la startup, diseño de entrevistas, registro de entrevistas, user stories, product backlog, landing page wireframes, web aplication wireframes, Aspect Leaders and Collaborators, sprint backlog 1.</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Christian Inga</td>
@@ -229,36 +229,35 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
-                TB1: Participación activa en reuniones de coordinación del equipo para definir el enfoque de las secciones. <br><br>
+                TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: Logré comunicarme efectivamente con diferentes audiencias al entrevistar usuarios adaptando mi lenguaje, presentar la startup según cada interlocutor, traducir requisitos técnicos en user stories comprensibles, explicar wireframes de forma visual y coordinar reuniones del sprint backlog con diversos perfiles del equipo.<br><br>
+                TB1: <br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: 
         </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;"> - El equipo reforzó sus habilidades de comunicación oral mediante reuniones efectivas de coordinación y toma de decisiones colaborativas.</td>
+        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
              3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-                <strong>Guillermo Tantaleán</strong><br>
-                TB1: Redacción y documentación de la sección de style guidelines.<br><br> 
+                <strong>Renzo Uribe</strong><br>
+                TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
+                TB1: <br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: 
         </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;"> - Durante la entrega TB1, el equipo fortaleció sus habilidades de comunicación.Asimismo, a través de la redacción de las secciones del informe en formato Markdown y la documentación técnica del proyecto en el repositorio de GitHub, cada integrante mejoró su capacidad de comunicación escrita técnica y profesional, adaptándola al contexto del desarrollo de software y a los estándares solicitados.</td> 
+        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
-        
 </table>
 </div>
 <!--TODAS LAS SECCIONES A COMPLETAR-->
@@ -301,8 +300,8 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td> Mi nombre es <strong>Carlos Fernandez</strong>, tengo 21 años y estudio la carrera de Ingenieria de Software, me encuentro preparando en algunas areas como desarrollo de aplicaciones moviles con Flutter y desarrollo de videojuegos como Unity y Godot, considero que un desempeño adecuado en la universidad me ayudara a mejorar mis habilidades y conocimiento en el desarrollo de proyectos </td>
   </tr>
   <tr>
-    <td><img src="public/assets/images/integrantes/Chris.jpeg"alt="Christian Inga" width="200"></td>
-    <td> Mi nombre es <strong>Christian Inga</strong>, tengo 19 años y actualmente estoy estudiando la carrera de Ingenieria de Software. Tengo conocimientos en los lenguajes de programación de C++, Python y Javascript. Considero que puedo adaptarme a diferentes formas de trabajo para alcanzar un objetivo. Me considero una persona responsable y confiable. </td>
+    <td>Fila 5, Columna 1</td>
+    <td>Fila 5, Columna 2</td>
   </tr>
 </table>
 
@@ -1580,7 +1579,7 @@ La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se
 - **Texto principal:** Arial Nova Regular – 16px
 - **Texto técnico:** Roboto Mono – 14px
 
-<img src="public/assets/images/styleGuidelines/Heading.png" alt="Tipografía principal" width="7000">
+<img src="public/assets/images/styleGuidelines/Heading.png" alt="Tipofrafía principal" width="7000">
 
 <img src="public/assets/images/styleGuidelines/Body.png" alt="Tipografía secundaria" width="7000">
 
@@ -1744,408 +1743,174 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 
 **Web Application para Desktop Web Browser**
 
-Sign Up - Bar - US01
-
-![image](https://github.com/user-attachments/assets/d4f02b31-6134-42a4-b40e-6b51220217c1)
-
-Sign Up - Owner - US01
-
-![image](https://github.com/user-attachments/assets/bdcd182b-5895-4f30-bb46-fe0098c2b249)
-
-Message after correct Sign Up - US01
-
-![image](https://github.com/user-attachments/assets/4dbe1ebb-851e-43c2-b26a-ff66c75a116d)
-
-Message after correct Sign Up - US01
-
-![image](https://github.com/user-attachments/assets/6dde8004-ab5b-4f19-86f5-a5d34e1c8474)
-
-Sign In - US01
-
-![image](https://github.com/user-attachments/assets/8f30711a-b26a-46f7-ba04-ef33d2809b58)
-
-Message after incorrect Sign In - US01
-
-![image](https://github.com/user-attachments/assets/1ef88d30-20a0-4942-8144-086ed99dcf67)
-
-Message after correct Sign In - US01
-
-![image](https://github.com/user-attachments/assets/2377381e-629a-45eb-a2d6-1a4c1ebbe3ba)
-
-Select Suscription - US03
-
-![image](https://github.com/user-attachments/assets/b9de893a-696d-404f-bad6-0def9e1b888d)
-
-Payment - US?
-
-![image](https://github.com/user-attachments/assets/16e2e17d-05ad-40ae-8a48-162ecbc0f3bd)
-
-User Profile - US02
-
-![image](https://github.com/user-attachments/assets/5209406b-28b6-4f8c-91fe-cc4a2b168780)
-
-Welcome - US?
-
-![image](https://github.com/user-attachments/assets/14a7cf2c-b48e-496d-8365-605b8b283d60)
-
-Suppliers - US04
-
-![image](https://github.com/user-attachments/assets/ddd53c60-ce21-4cd9-94c5-3840a49763e3)
-
-Supplier Registration - US04
-
-![image](https://github.com/user-attachments/assets/97d1dca7-15cb-491c-b51e-761a29181049)
-
-Supplier Edition - US04
-
-![image](https://github.com/user-attachments/assets/a677207a-6e27-479f-8b7f-10b4fe337cdb)
-
-Supplier Information - US04
-
-![image](https://github.com/user-attachments/assets/b104d522-7a0e-4a60-aaa8-896a923a83a7)
-
-Coffee Lot - US05 y US06
-
-![image](https://github.com/user-attachments/assets/73195746-5583-4862-8eb6-de22d8367a59)
-
-Coffee Lot Registration - US05 y US06
-
-![image](https://github.com/user-attachments/assets/d8ae3e27-7df9-4c8d-9794-bc314c1bbab2)
-
-Coffee Lot Edition - US05 y US06
-
-![image](https://github.com/user-attachments/assets/c3227a83-e312-4e6f-9307-0f1116cab377)
-
-Coffee Lot Information - US04
-
-![image](https://github.com/user-attachments/assets/5497b45b-e00d-4e75-b73e-3231e86edd2c)
-
-Roast Profiles - US07
-
-![image](https://github.com/user-attachments/assets/6965b63d-ccc1-45a0-a033-2c760109e001)
-
-Roast Profiles - US07
-
-![image](https://github.com/user-attachments/assets/0cb820d8-1c97-4dfa-97d1-cb188d16d651)
-
-Roast Profiles Registration - US07
-
-![image](https://github.com/user-attachments/assets/c80e6d39-3f2a-4418-9352-b82161f2c501)
-
-Roast Edition - US07
-
-![image](https://github.com/user-attachments/assets/ce7a9940-5c45-49f1-bb34-4d0a38690703)
-
-Favorite Profiles Filter - US07
-
-![image](https://github.com/user-attachments/assets/ef0c54a7-4d12-4fe3-b2a8-8c7d6811a695)
-
-Visualize a Roast Profile - US07
-
-![image](https://github.com/user-attachments/assets/1d07264a-76cc-4e3b-84d0-729dca75d416)
-
-Roast Comparison - US09
-
-![image](https://github.com/user-attachments/assets/4361a472-496b-44e3-a060-d92a70149fa2)
-
-Cupping Sesions
-
-![image](https://github.com/user-attachments/assets/1798a5bc-d2e0-4fd0-b8df-2155efaa31a9)
-
-Cupping Sessions Filters - US11
-
-![image](https://github.com/user-attachments/assets/267dd974-65ec-4b5a-8119-69d355f89ab0)
-
-Cupping Sessions Registration - US11
-
-![image](https://github.com/user-attachments/assets/f7a4e261-2397-47e3-ae85-a760fa4ae1f7)
-
-Cupping Session Sensory Hexagon - US12
-
-![image](https://github.com/user-attachments/assets/f0aa8cea-52f3-49c0-b7a4-9da6a18159ce)
-
-Compare multiple Cupping Sessions 1 - US12
-
-![image](https://github.com/user-attachments/assets/b5921134-5ab2-49ef-a855-6e5861e51aa3)
-
-Compare multiple Cupping Sessions 2 - US12
-
-![image](https://github.com/user-attachments/assets/ef21b269-003a-49db-8a6d-9cbb229f104e)
-
-Library Defect Consultation - US10
-
-![image](https://github.com/user-attachments/assets/f6c20a8e-85f0-493c-b031-3e8d06d6a0b2)
-
-Defect Information - US10
-
-![image](https://github.com/user-attachments/assets/9430e309-861d-41a0-99a9-88d7e7389155)
-
-Patterns of Roast with Cupping - US13
-
-![image](https://github.com/user-attachments/assets/38b2f140-3f1f-4d09-8ab3-e9bb365d5d49)
-
-Library Relation of Roast with Cupping - US13
-
-![image](https://github.com/user-attachments/assets/de4c4604-3a11-423b-a64a-47bc5851e430)
-
-Portfolio and recipies - US15 and 17
-
-![image](https://github.com/user-attachments/assets/b23119f6-9ea0-479c-af27-a7b1661aa768)
-
-Recipes - US17
-
-![image](https://github.com/user-attachments/assets/83f74403-3095-4148-873f-8ed033cc9716)
-
-Recipe Registration coffee extraction - US15
-
-![image](https://github.com/user-attachments/assets/4d11dd0b-7ed1-40bc-9442-b5ecdd4cb7cf)
-
-Recipe Registration espresso method - US15
-
-![image](https://github.com/user-attachments/assets/950026bd-a81f-4f96-bc5f-770fc80df29d)
-
-Recipe Information coffee extraction - US18
-
-![image](https://github.com/user-attachments/assets/ff9a4474-202a-4c4b-aca5-f6404cbf6099)
-
-Recipe Information espresso method - US18
-
-![image](https://github.com/user-attachments/assets/75f42bda-0bc5-4329-a906-24d4120115f4)
-
-Record Grind Calibration - US16
-
-![image](https://github.com/user-attachments/assets/bc6fc3a5-caf7-44a3-8955-5b4406f3fbbc)
-
-Calibration record
-
-![image](https://github.com/user-attachments/assets/c619df4c-ca31-4f4c-89db-d2d294f07a7f)
-
-edit calibration
-
-![image](https://github.com/user-attachments/assets/97d950ad-70cf-48fd-8b23-eb27eb35c3fb)
-
-Inventary - US19
-
-![image](https://github.com/user-attachments/assets/5dfed7e1-ecb9-49df-b956-a413ced9769a)
-
-Inventary - US19
-
-![image](https://github.com/user-attachments/assets/5222c2dd-e694-4072-8709-8a876c2235b1)
-
-Register Production Cost Management 1 - US20
-
-![image](https://github.com/user-attachments/assets/ba550bab-5dd0-4e0f-abea-8048d1a3f571)
-
-Production Cost Management 2 - US20
-
-![image](https://github.com/user-attachments/assets/9d3971e3-e71f-466a-9fea-eae4a97b7388)
-
-Production Cost Management 3 - US20
-
-![image](https://github.com/user-attachments/assets/f9a08a11-3368-42f7-a59c-2b303b76895e)
-
-Production Cost Management 4 - US20
-
-![image](https://github.com/user-attachments/assets/30d29421-6452-49c7-832b-ef3ec05670c9)
-
-Production Cost Management 5 - US20
-
-![image](https://github.com/user-attachments/assets/b14e3691-0b52-4f36-9b16-00b2651ebeb9)
-
-**Web Application para Mobile Web Browser**
-
-Sign Up - Bar - US01
-
-<img src="public/assets/images/WebApplicationWireframes/signUpBar.jpeg" alt="  principal" width="200">
-
-Sign Up - Owner - US01
-
-<img src="public/assets/images/WebApplicationWireframes/signUpOwner.jpeg"   width="200">
-
-Message after correct Sign Up - US01
-
-<img src="public/assets/images/WebApplicationWireframes/messageCorrectSignUp.jpeg"   width="200">
-
-Sign In - US01
-
-<img src="public/assets/images/WebApplicationWireframes/signIn.png"   width="200">
-
-Message after incorrect Sign In - US01
-
-<img src="public/assets/images/WebApplicationWireframes/messageIncorrectSignIn.jpeg"   width="200">
-
-Message after correct Sign In - US01
-
-<img src="public/assets/images/WebApplicationWireframes/messageCorrectSignIn.jpeg"   width="200">
-
-Select Suscription - US03
-
-<img src="public/assets/images/WebApplicationWireframes/selectSuscription_01.jpeg"   width="200">
-
-<img src="public/assets/images/WebApplicationWireframes/selectSuscription_02.jpeg"   width="200">
-
-<img src="public/assets/images/WebApplicationWireframes/selectSuscription_03.jpeg"   width="200">
-
-<img src="public/assets/images/WebApplicationWireframes/selectSuscription_04. width="200">
-
-Payment - US?
-
-<img src="public/assets/images/WebApplicationWireframes/payment.jpeg"  width="200">
-
-User Profile - US02
-
-<img src="public/assets/images/WebApplicationWireframes/userProfile.jpeg"  width="200">
-
-Welcome - US?
-
-<img src="public/assets/images/WebApplicationWireframes/welcome.png" width="200">
-
-Suppliers - US04
-
-<img src="public/assets/images/WebApplicationWireframes/suppliers.png" width="200">
-
-Supplier Registration - US04
-
-<img src="public/assets/images/WebApplicationWireframes/supplierRegistration.png" width="200">
-
-Supplier Edition - US04
-
-<img src="public/assets/images/WebApplicationWireframes/supplierEditation.png" width="200">
-
-Coffee Lot - US05 y US06
-
-<img src="public/assets/images/WebApplicationWireframes/cafeLot.png" width="200">
-
-Coffee Lot Registration - US05 y US06
-
-<img src="public/assets/images/WebApplicationWireframes/coffeeLotRegistration.png" width="200">
-
-Coffee Lot Edition - US05 y US06
-
-<img src="public/assets/images/WebApplicationWireframes/welcome.png" width="200">
-
-Roast Profiles - US07
-
-<img src="public/assets/images/WebApplicationWireframes/roastProfiles.png" width="200">
-
-Roast Profiles Registration - US07
-
-<img src="public/assets/images/WebApplicationWireframes/roastProfilesRegistration.png" width="200">
-
-Roast Edition - US07
-
-<img src="public/assets/images/WebApplicationWireframes/roastEdition.png" width="200">
-
-Favorite Profiles Filter - US07
-
-<img src="public/assets/images/WebApplicationWireframes/favoriteProfilesFilters.png" width="200">
-
-<img src="public/assets/images/WebApplicationWireframes/favoriteProfilesFilters_2.png" width="200">
-
-Roast Comparison - US09
-
-<img src="public/assets/images/WebApplicationWireframes/roastComparison.png" width="200">
-
-Cupping Sesions
-
-<img src="public/assets/images/WebApplicationWireframes/cuppingSesions.png" width="200">
-
-Cupping Sessions Filters - US11
-
-<img src="public/assets/images/WebApplicationWireframes/cuppingSessionsFilters.png" width="200">
-
-Cupping Sessions Registration - US11
-
-<img src="public/assets/images/WebApplicationWireframes/cuppingSessionsRegistation .png" width="200">
-
-Cupping Session Sensory Hexagon - US12
-
-<img src="public/assets/images/WebApplicationWireframes/cuppingSessionSensoryHexagon.png" width="200">
-
-Compare multiple Cupping Sessions 1 - US12
-
-<img src="public/assets/images/WebApplicationWireframes/compareMultipleCata.png" width="200">
-
-Compare multiple Cupping Sessions 2 - US12
-
-<img src="public/assets/images/WebApplicationWireframes/compareMultipleCata_2.png" width="200">
-
-Library Defect Consultation - US10
-
-<img src="public/assets/images/WebApplicationWireframes/libraryDefectConsultation.png" width="200">
-
-Defect Information - US10
-
-<img src="public/assets/images/WebApplicationWireframes/defectInformation.png" width="200">
-
-Patterns of Roast with Cupping - US13
-
-<img src="public/assets/images/WebApplicationWireframes/patternsRoastwithCupping.png" width="200">
-
-Library Relation of Roast with Cupping - US13
-
-<img src="public/assets/images/WebApplicationWireframes/libraryRelationRoastCupping.png" width="200">
-
-Recipes - US17
-
-<img src="public/assets/images/WebApplicationWireframes/recipes.png" width="200">
-
-Recipe Registration coffee extraction - US15
-
-<img src="public/assets/images/WebApplicationWireframes/recipeRegistrationCoffeeExtraction.png" width="200">
-
-Recipe Registration espresso method - US15
-
-<img src="public/assets/images/WebApplicationWireframes/recipeRegistrationCoffeeExtraction.png" width="200">
-
-
-Recipe Information coffee extraction - US18
-
-<img src="public/assets/images/WebApplicationWireframes/recipeInformationCoffeeExtraction.png" width="200">
-
-Recipe Information espresso method - US18
-
-<img src="public/assets/images/WebApplicationWireframes/recipeInformationEspressoMethod.png" width="200">
-
-Record Grind Calibration - US16
-
-<img src="public/assets/images/WebApplicationWireframes/recordGrindCalibration.png" width="200">
-
-Calibration record
-
-<img src="public/assets/images/WebApplicationWireframes/calibrationRecord.png" width="200">
-
-edit calibration
-
-<img src="public/assets/images/WebApplicationWireframes/calibrationEdit.png" width="200">
-
-Inventary - US19
-
-<img src="public/assets/images/WebApplicationWireframes/inventary.png" width="200">
-
-Register Production Cost Management 1 - US20
-
-<img src="public/assets/images/WebApplicationWireframes/registerProductionCostManagement_1.png" width="200">
-
-Production Cost Management 2 - US20
-
-<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_2.png" width="200">
-
-Production Cost Management 3 - US20
-
-<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_3.png" width="200">
-
-Production Cost Management 4 - US20
-
-<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_4.png" width="200">
-
-Production Cost Management 5 - US20
-
-<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_5.png" width="200">
-
-
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
+Select Suscription - US03
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
+
+Select Payment - US?
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Payment.png)
+
+Sing Up - Bar US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20Up%20Bar%20US01.png)
+
+Message after correct Sign Up - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20In%20US01.png)
+
+Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20In%20US01.png)
+
+Message after correct Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20In%20US01.png)
+
+Message after incorrect Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20incorrect%20Sign%20In%20US01.png)
+
+Sign Up - Owner - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20Up%20Owner%20US01.png)
+
+Message after correct Sign Up - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20Up%20US01%20Owner%20.png)
+
+Sing in - Owner
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20In%20Owner%20.png)
+
+Message after incorrect Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20incorrect%20Sign%20In%20US01%20Owner.png)
+
+Message after correct Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20Up%20US01%20Owner%20.png)
+
+User Profile - US02
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/User%20Profile.png)
+
+Welcome - US?
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Welcome.png)
+
+Suppliers - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Suppliers%20.png)
+
+Supplier Registration - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Registration.png)
+
+Supplier Edition - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Edition.png)
+
+Supplier Information - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Information.png)
+
+Coffee Lot - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot.png)
+
+Coffee Lot Registration - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Registration.png)
+
+Coffee Lot Edition - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Edition.png)
+
+Coffee Lot Information - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Information.png)
+
+Roast Profiles - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles.png)
+
+Roast Profiles - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles%202.png)
+
+Roast Profiles Registration - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles%20Registration.png)
+
+Roast Edition - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Edition.png)
+
+Favorite Profiles Filter - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Favorite%20Profiles%20Filter.png)
+
+Visualize a Roast Profile - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Visualizer%20a%20Roast%20Profile.png)
+
+Roast Comparison - US09
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Comparison.png)
+
+Cupping Sessions - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions.png)
+
+Cupping Sessions Filters - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions%20Filters.png)
+
+Cupping Sessions Registration - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions%20Registration.png)
+
+Cupping Session Sensory Hexagon - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Session%20Sensory%20Hexagon.png)
+
+Compare multiple Cupping Sessions 1 - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Compare%20Multiple%20Cupping%20Sessions.png)
+
+Compare multiple Cupping Sessions 2 - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Compare%20Multiple%20Cupping%20Sessions%202.png)
+
+Library Defect Consultation - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Library%20Defect%20Consultation.png)
+
+Defect Information - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Defect%20Information.png)
+
+Defect Information - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Defect%20Information%20b.png)
+
+Patterns of Roast with Cupping - US13
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Patterns%20of%20Roast%20With%20cupping%20.png)
+
+Library Relation of Roast with Cupping - US13
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Library%20Relation%20of%20Roast%20with%20Cupping%20.png)
+
+Portfolio and recipies - US15 and 18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies.png)
+
+Portfolio and recipies - US15 and 19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies%20b.png)
+
+Portfolio and recipies - US15 and 20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies%20c.png)
+
+Recipes - US17
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipes.png)
+
+Recipe Registration - US15
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Registration.png)
+
+Recipe Registration - US15
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Registration%20b%20.png)
+
+Recipe Information coffee extraction - US18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Information%20Coffee%20Extraction.png)
+
+Recipe Information espresso method - US18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Information%20espresso%20method.png)
+
+Inventary - US19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Inventary.png)
+
+Inventary - US19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Inventary%20b.png)
+
+Register Production Cost Management 1 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Register%20Production%20Cost%20Management.png)
+
+Production Cost Management 2 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Management%202.png)
+
+Production Cost Management 3 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%203.png)
+
+Production Cost Management 4 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%204.png)
+
+Production Cost Management 5 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%205.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
@@ -2562,121 +2327,13 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 <img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-
-#### Project Management
-
-1. Trello: Para gestión general los sprints, tareas del equipo, etc.
-- Link: [Trello](https://trello.com/b/diGtoNBa/sprint-1)
-
-#### Product UX/UI Design:
-
-1. Figma: Para diseños como Wireframes, Mockups, Prototypes, etc) relacionados a archivos como 
-- Link: [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=0-1&t=lA86yZwaDqrxsCcw-1)
-
-
-2. Vertabelo: Para diagramas de base de datos (ERD, diagramas de clases, etc.)
-- Link: [Vertabelo](https://my.vertabelo.com/doc/G0Q82VsUEPCKHm23nIWxEd2E7wvZqifm)
-
-#### Software Development:
-1. Visual Studio Code: Para el desarrollo de la Landing Page del proyecto.
-- **Link:** [LandingPage]()
-
-#### Software Documentation:
-
-1. Visual Studio Code: Para la documentación de CaféLab se utilizó Visual Studio Code para el desarrollo de los capítulos en formato Markdown.
-- **Link:** [Documentation](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab)
-
-
 ### 5.1.2. Source Code Management.
-Para todo el desarrollo de CaféLab se usará el flujo de trabajo de Gitflow.
-Landing Page Repository: [Landing Page Repository](https://github.com/1ASI0730-2510-4370-G2-Youper/Landing-Page)
-
-
-**Flujo de trabajo GitFlow:** El flujo de trabajo Git Flow fue  planteado por Vincent Driessen en "A successful Git branching model".
-
-### Main branch
-La rama principal (main) es donde se mantiene el código más estable y desplegado.
-
-### **Develop branch**
-La rama develop actúa como el área principal donde se integran los últimos avances y correcciones antes de hacerles merge a master.
-
-### **Release branch**
-Las ramas release facilitan la preparación para una nueva versión del producto. Nos permiten aplicar correcciones menores en caso de imprevistos mientras develop sigue recibiendo nuevas funcionalidades.
-- Deriva de: develop
-- Se fusiona en: develop y master
-
-
-### **Feature branch**
-Las ramas feature son utilizadas para desarrollar nuevas funcionalidades o mejoras específicas. Cada característica se desarrolla de forma aislada hasta estar lista para integrarse.
-- Deriva de: develop
-- Se fusiona de regreso a: develop
-
-
-
-### **Hotfix branch**
-Las ramas hotfix se crean para corregir errores críticos detectados en producción, asegurando una reacción rápida sin interrumpir el trabajo de desarrollo continuo.
-- Deriva de: master.
-- Se fusiona en: master y develop.
-
-
-
-### **Conventional Commits**
-Aplicamos la convención **Conventional Commits** para redactar mensajes de commit claros, consistentes y semánticos. Esta práctica facilita el rastreo de cambios, la generación automática de registros de cambios y mejora la colaboración en equipo.
-
-La estructura recomendada para los mensajes es:
-
-~~~
-git commit -m “<type>[optional scope]: <title>“ -m “<description”
-~~~
-**Tipos De Conventional Commits**
-~~~
-1. feat: Para introducir una nueva funcionalidad.
-2. fix: Para corregir un error existente.
-3. docs: Cambios relacionados a la documentación.
-4. style: Modificaciones de formato que no afectan el comportamiento del código.
-5. refactor: Reestructuraciones internas sin cambios funcionales o correcciones de errores.
-6. test: Agregado o modificación de pruebas.
-7.chore: Tareas de mantenimiento o cambios que no afectan el código de producción.
-8. perf: Mejoras de rendimiento.
-~~~
-
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Todo el código de la solución deberá ser escrito completamente en inglés para mantener la consistencia internacional y facilitar su mantenimiento.
-
-**HTML**
-
-- Emplear nombres de etiquetas y atributos en minúscula.
-- Cerrar correctamente todas las etiquetas HTML.
-- Especificar siempre los atributos `alt`, `width`, y `height` para imágenes para mejorar la accesibilidad.
-- Evitar espacios innecesarios en los atributos HTML.
-
-**CSS**
-
-- Asignar nombres de IDs y clases descriptivos que reflejen el propósito del elemento.
-- Utilizar nombres cortos pero claros para IDs y clases.
-- Aplicar propiedades abreviadas cuando sea posible para optimizar el código.
-- Evitar el uso de unidades después de valores de cero (`0`).
-- Ordenar las declaraciones CSS en orden alfabético para facilitar su lectura.
-
-**JavaScript**
-
-- Mantener una sintaxis expandida: llaves de apertura en la misma línea de la declaración, cierre en línea nueva.
-- Aplicar `lowerCamelCase` en el nombramiento de variables y funciones.
-- Usar `let` y `const` para declarar variables en lugar de `var`.
-- Asegurar que los nombres de las funciones sean descriptivos y en `lowerCamelCase`.
-
-**Lenguaje Gherkin**
-
-- Redactar títulos descriptivos y concisos para escenarios (`Feature`, `Scenario`).
-- Respetar estrictamente la estructura `Given-When-Then`.
-- Usar un lenguaje orientado al negocio, entendible para todos los stakeholders, evitando detalles técnicos.
-- Implementar `Scenario Outline` cuando existan múltiples casos similares.
-- Agregar comentarios cuando se requiera contexto o explicaciones adicionales.
-  
-### 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration
 #### Landing Page Deployment
 Para desplegar la landing page, es necesario contar con una cuenta de GitHub y tener acceso como administrador al repositorio del proyecto. A partir de ahí, se pueden cargar los documentos desde un entorno local al repositorio y proceder con el despliegue. A continuación, se describen los pasos seguidos:
 
@@ -2731,18 +2388,7 @@ Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conec
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-El sprint constituye un período de tiempo establecido, con una duración que oscila entre una y cuatro semanas, durante el cual el equipo de desarrollo se enfoca en completar un conjunto específico de elementos previamente seleccionados del backlog del producto. Este marco temporal representa un elemento esencial en la metodología ágil Scrum, donde el equipo asume el compromiso de entregar un incremento funcional del producto al finalizar cada ciclo. La implementación de sprints permite establecer un enfoque iterativo e incremental en el desarrollo de software, proporcionando la flexibilidad necesaria para adaptarse a los cambios del mercado mientras se mantiene una cadencia constante en la entrega de valor al cliente.
-
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
-
-| Team Member (Last Name, First Name) | GitHub Username | Información del Producto (US23) | Secciones Específicas por Segmento (US24) | Contacto con Equipo (US25) | Acceso directo a plataforma (US26) |
-|-------------------------------------|-----------------|--------------------------------|------------------------------------------|---------------------------|----------------------------------|
-| Donayre, Adrian                     | adriandonayredev | C                              | L                                        | C                         | L                                |
-| Tantaleán, Guillermo                | guillermotantalean1 | C                              | C                                        | L                         | C                                |
-| Esteban, Henry                      | kalet123-commit | C                              | C                                        | L                         | C                                |
-| Fernández, Fredy                    | u202320083      | C                              | L                                        | C                         | C                                |
-| Inga, Christian                     | Christian1905   | C                              | L                                        | C                         | C                                |
 #### 5.2.1.3. Sprint Backlog 1.
 Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
 
@@ -2864,33 +2510,6 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|------------|--------|-----------|----------------|-------------------|-------------------|
-| upc-pre-202510-1asi0729-4307-CafeMetrix | main | c1560a3 | Merge pull request #7 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Merge pull request #7 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Apr 26, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | dad89fb | feat: add footer | feat: add footer | Apr 26, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | main | ad751ab | Merge pull request #6 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Merge pull request #6 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | b743dda | Merge pull request #5 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-planes-caracteristicas | Merge pull request #5 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-planes-caracteristicas | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | 95f142a | feat: add plans section | feat: add plans section | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | 5eeeb66 | Add changes to plans and features | Add changes to plans and features | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | bed640f | feat: organice images | feat: organice images | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | 66f0280 | feature opinion estrellas | feature opinion estrellas | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | cb34e9d | Merge pull request #4 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK06-testimonios | Merge pull request #4 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK06-testimonios | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | e26d7f8 | feat: join section testimonies | feat: join section testimonies | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 1864be9 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage into feature/TK06-testimonios | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage into feature/TK06-testimonios | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | cf283c1 | Merge pull request #3 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Merge pull request #3 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 6f41ee8 | style: increase benefits section font size on style.css | style: increase benefits section font size on style.css | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 57f555b | feat: Add benefits section to style.css | feat: Add benefits section to style.css | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 326e0e0 | feat: Add benefits section to index.html | feat: Add benefits section to index.html | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 88611f3 | Merge pull request #2 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #2 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-datos-graficos | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 37c105f | feat (landing): add sections and join with faq section | feat (landing): add sections and join with faq section | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 7bfc821 | Merge branch 'develop' into feature/TK04-datos-graficos | Merge branch 'develop' into feature/TK04-datos-graficos | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | afe4f71 | feat: add images of coffee parameters | feat: add images of coffee parameters | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK07-faq-contacto | e9b5b7d | Merge pull request #1 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK07-faq-contacto | Merge pull request #1 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK07-faq-contacto | Apr 25, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 5014830 | TK06 completo | TK06 completo | Apr 24, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 2ec0566 | Testimonios | Testimonios | Apr 24, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK07-faq-contacto | 4bb6c8d | feat: completed FAQ and contact section | feat: completed FAQ and contact section | Apr 23, 2025 |
-| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | 9040ad2 | chore: initial structure of folders and files | chore: initial structure of folders and files | Apr 21, 2025 |
-
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
