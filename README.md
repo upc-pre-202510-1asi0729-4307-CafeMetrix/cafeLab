@@ -1778,7 +1778,383 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+![image](https://github.com/user-attachments/assets/3a527d25-49fc-4c9c-a334-0cebe38422f2)
+
+
 ### 4.7.2. Class Dictionary.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th colspan="7" style="text-align:center; border: 1px solid #000;">CaféLab Class Dictionary (Actualizado)</th>
+    </tr>
+    <tr>
+        <th style="text-align:center; border: 1px solid #000;">Class</th>
+        <th style="text-align:center; border: 1px solid #000;">Bounded Context</th>
+        <th style="text-align:center; border: 1px solid #000;">Entity/Value Object</th>
+        <th style="text-align:center; border: 1px solid #000;">Description</th>
+        <th style="text-align:center; border: 1px solid #000;">Attributes</th>
+        <th style="text-align:center; border: 1px solid #000;">Methods</th>
+        <th style="text-align:center; border: 1px solid #000;">Relationships</th>
+    </tr>
+    <!-- USER MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>User</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a user of the CaféLab system (e.g., barista or café owner).</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - email: String<br>
+            - password: String<br>
+            - name: String<br>
+            - role: String<br>
+            - experience: String<br>
+            - plan: Plan
+        </td>
+        <td style="border: 1px solid #000;">
+            - register()<br>
+            - authenticate()<br>
+            - updateProfile()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..1 Plan: subscribes to<br>
+            - 1 to 0..* Supplier: manages<br>
+            - 1 to 0..* RoastProfile: creates<br>
+            - 1 to 0..* Recipe: creates<br>
+            - 1 to 0..* GrindCalibration: documents<br>
+            - 1 to 0..* Beverage: creates<br>
+            - 0..* StatusUpdate: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Plan</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a subscription plan for CaféLab users.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - price: Float<br>
+            - features: List of String
+        </td>
+        <td style="border: 1px solid #000;">
+            - getFeatures()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..1 to 1 User: subscribed by
+        </td>
+    </tr>
+    <!-- GREEN COFFEE MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Supplier</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a supplier of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - location: String<br>
+            - contact: String<br>
+            - coffeeTypes: List of String<br>
+            - evaluations: List of Float
+        </td>
+        <td style="border: 1px solid #000;">
+            - addEvaluation()<br>
+            - getAverageEvaluation()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* CoffeeLot: provides
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>CoffeeLot</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a batch of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - traceabilityCode: String<br>
+            - origin: String<br>
+            - variety: String<br>
+            - process: String<br>
+            - altitude: Float<br>
+            - weight: Float<br>
+            - status: String<br>
+            - statusUpdates: List of StatusUpdate
+        </td>
+        <td style="border: 1px solid #000;">
+            - updateStatus()<br>
+            - generateTraceabilityCode()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* Certification: has<br>
+            - 1 to 0..* RoastSession: used in<br>
+            - 1 to 0..* SensoryEvaluation: evaluated in<br>
+            - 0..* to 1 Inventory: tracked by<br>
+            - 1 to 0..1 Cost: incurs<br>
+            - 1 to 0..1 PerformanceAnalysis: analyzed in<br>
+            - 1 to 0..1 TraceabilityReport: documented in<br>
+            - 0..* to 1 Recipe: associated with
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>StatusUpdate</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Value Object</td>
+        <td style="border: 1px solid #000;">Represents a status change event for a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - timestamp: DateTime<br>
+            - status: String<br>
+            - responsible: User
+        </td>
+        <td style="border: 1px solid #000;">- None</td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: updates<br>
+            - 0..* to 1 User: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Certification</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a certification of a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - type: String<br>
+            - documentation: String<br>
+            - lotId: String
+        </td>
+        <td style="border: 1px solid #000;">
+            - validate()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: associated with
+        </td>
+    </tr>
+
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>SensoryEvaluation</strong></td>
+    <td style="border: 1px solid #000;">Sensory Evaluation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a sensory evaluation (tasting) of a roasted coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - roastSessionId: String<br>
+        - attributes: Map of String to Float<br>
+        - scores: Map of String to Float<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateProfile()<br>
+        - compare(other: SensoryEvaluation)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 CoffeeLot: evaluated in<br>
+        - 0..* to 1 RoastSession: evaluated in
+    </td>
+</tr>
+
+<!-- Preparation -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Recipe</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a coffee preparation recipe created by a user.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - method: String<br>
+        - ratio: Float<br>
+        - temperature: Float<br>
+        - time: Float<br>
+        - grindSetting: String<br>
+        - lotId: String<br>
+        - permissions: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - shareWithTeam(permissions: List of String)<br>
+        - suggestImprovement(changes: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by<br>
+        - 0..* to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>GrindCalibration</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a grind calibration for coffee preparation.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - equipment: String<br>
+        - grindSetting: String<br>
+        - timestamp: DateTime<br>
+        - image: String<br>
+        - extractionTime: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: GrindCalibration)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: documented by
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Beverage</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a beverage created by a user in their portfolio.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - category: String<br>
+        - ingredients: List of String<br>
+        - method: String<br>
+        - presentation: String<br>
+        - photo: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - categorize(category: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by
+    </td>
+</tr>
+
+<!-- Administration -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Inventory</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the inventory of green and roasted coffee.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - items: Map of CoffeeLot to Float<br>
+        - movements: List of Movement<br>
+        - alerts: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - updateStock(lot: CoffeeLot, quantity: Float)<br>
+        - generateAlert()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 1 to 0..* CoffeeLot: tracks<br>
+        - 0..* to 1 Movement: has
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Movement</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Value Object</td>
+    <td style="border: 1px solid #000;">Represents an inventory movement (addition or subtraction).</td>
+    <td style="border: 1px solid #000;">
+        - timestamp: DateTime<br>
+        - lotId: String<br>
+        - quantity: Float<br>
+        - type: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - None
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 Inventory: belongs to<br>
+        - 0..* to 1 CoffeeLot: affects
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Cost</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the cost structure associated with a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - categories: Map of String to Float<br>
+        - totalCost: Float<br>
+        - costPerKilo: Float<br>
+        - costPerCup: Float<br>
+        - margin: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - calculateMetrics()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>PerformanceAnalysis</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the performance analysis of a coffee lot production process.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - metrics: Map of String to Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: PerformanceAnalysis)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>TraceabilityReport</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a traceability report for a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - chainDetails: String<br>
+        - commercialSheet: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateCommercialSheet()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: documented for
+    </td>
+</tr>
+<!-- Landing Page -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>ContactForm</strong></td>
+    <td style="border: 1px solid #000;">Landing Page</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a contact form submission from the landing page.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - name: String<br>
+        - email: String<br>
+        - message: String<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - sendConfirmation()
+    </td>
+    <td style="border: 1px solid #000;">
+        - None (standalone entity)
+    </td>
+</tr>
+
+</table>
+
+</table>
+
 ## 4.8. Database Design.
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
