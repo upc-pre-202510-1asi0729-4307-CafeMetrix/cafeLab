@@ -231,7 +231,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
-                TB1: <br><br>
+                TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br>
                 <strong>Adrian Donayre</strong><br>
@@ -255,6 +255,8 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1:La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up
+                <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
+            Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final..<br><br>
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
