@@ -2171,7 +2171,10 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1.
+Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
+
+<img src="public\assets\images\Sprint1\trello.png" alt="Organización en la herramienta Trello">
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
