@@ -111,7 +111,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Descripción de la startup, diseño de entrevistas, registro de entrevistas, user stories, product backlog, landing page wireframes, web aplication wireframes, Aspect Leaders and Collaborators, sprint backlog 1</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Christian Inga</td>
@@ -233,7 +233,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: <br><br>
+                TB1: Logré comunicarme efectivamente con diferentes audiencias al entrevistar usuarios adaptando mi lenguaje, presentar la startup según cada interlocutor, traducir requisitos técnicos en user stories comprensibles, explicar wireframes de forma visual y coordinar reuniones del sprint backlog con diversos perfiles del equipo.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
@@ -250,7 +250,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: <br><br>
+                TB1: Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
@@ -2388,7 +2388,19 @@ Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conec
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
+
+Para este Sprint, los aspectos principales corresponden a las User Stories que definen el alcance funcional de nuestra landing page: Información del Producto (US23), Secciones Específicas por Segmento (US24), Contacto con Equipo (US25) y Acceso directo a plataforma (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+
+| Team Member (Last Name, First Name) | GitHub Username | Información del Producto (US23) | Secciones Específicas por Segmento (US24) | Contacto con Equipo (US25) | Acceso directo a plataforma (US26) |
+|-------------------------------------|-----------------|--------------------------------|------------------------------------------|---------------------------|----------------------------------|
+| Donayre, Adrian                     | adriandonayredev | C                              | L                                        | C                         | L                                |
+| Tantaleán, Guillermo                | guillermotantalean1 | C                              | C                                        | L                         | C                                |
+| Esteban, Henry                      | kalet123-commit | C                              | C                                        | L                         | C                                |
+| Fernández, Fredy                    | u202320083      | C                              | L                                        | C                         | C                                |
+| Inga, Christian                     | Christian1905   | C                              | L                                        | C                         | C                                |
 #### 5.2.1.3. Sprint Backlog 1.
 Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
 
@@ -2510,7 +2522,71 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|-------------------|-------------------|
+| upc-pre-202510-1asi0730-4364-CafeMetrix | main | d83b119 | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | develop | 52f8c02 | Cambios del footer | Cambios del footer | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | main | 88b0054 | Merge pull request #8 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Merge pull request #8 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 8b1ce23 | Merge pull request #7 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-planes-caracteristicas | Merge pull request #7 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-planes-caracteristicas | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 5d8e923 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-planes-caracteristicas | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-planes-caracteristicas | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 028ff5b | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 012ba1a | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | b7c7cc4 | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 8791f03 | add section plans-features and testimonials" | add section plans-features and testimonials" | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | 47e4882 | Merge pull request #5 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK06-faq-contacto | Merge pull request #5 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK06-faq-contacto | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | db22b02 | feat (landing): join section faq to the rest of sections | feat (landing): join section faq to the rest of sections | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | b5d8c31 | fix: sections visualization | fix: sections visualization | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 3dc985b | Merge pull request #4 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #4 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 752afd8 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-datos-graficos | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 52749d7 | feat: join sections | feat: join sections | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | ee480ec | Merge pull request #3 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Merge pull request #3 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | bbe8843 | feat: add data and graphics section | feat: add data and graphics section | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 59b8d36 | style: increase benefits section size on style.css | style: increase benefits section size on style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 1dd5638 | Feat: Add benefits section to style.css | Feat: Add benefits section to style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 79799eb | Feat: Add benefits section to index.html | Feat: Add benefits section to index.html | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | c6108c7 | Merge pull request #2 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #2 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | b00f2ac | Fix: Add active button corner | Fix: Add active button corner | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 4f51736 | style: change hover view | style: change hover view | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | develop | 4945634 | style: change files position and fix conflicts of this restructure | style: change files position and fix conflicts of this restructure | Apr 22, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK01-estructura-base | 1093b41 | Merge pull request #1 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK01-estructura-base | Merge pull request #1 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK01-estructura-base | Apr 22, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK01-estructura-base | 19f91f6 | Feat: Add banner, logo header and hero section | Feat: Add banner, logo header and hero section | Apr 21, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | f94808c | fix: Add again Chris profile. | fix: Add again Chris profile. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 8a54fb0 | Add images | Add images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 33d1049 | mock-up images | mock-up images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | f0aae0a | feat: add student outcome | feat: add student outcome | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 8ae118e | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b076138 | add tb1 actions | add tb1 actions | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 3aa9d15 | feat(readme): add student outcome | feat(readme): add student outcome | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 263068b | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | de95384 | feat: Add Chris profile. | feat: Add Chris profile. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5a4f156 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | a70beaa | feat(readme): add complementary content to web application wireframes for mobile enviroment | feat(readme): add complementary content to web application wireframes for mobile enviroment | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 484ef3e | feat: add development evidence for sprint review | feat: add development evidence for sprint review | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 3cacb73 | feat: add aspect leaders | feat: add aspect leaders | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 6d5b3dc | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 277efa6 | feat: add webapp wireframes desktop | feat: add webapp wireframes desktop | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 0847392 | fix(readme): resolve merge conflict in README.md | fix(readme): resolve merge conflict in README.md | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 760282c | feat(informe):add software development environment configuration, source code style guide and conventions section. | feat(informe):add software development environment configuration, source code style guide and conventions section. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 62f60f2 | feat: add description of sprint planing 1 | feat: add description of sprint planing 1 | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | d95e653 | Update section 5.1.4: Software Deployment Configuration with detailed instructions and images | Update section 5.1.4: Software Deployment Configuration with detailed instructions and images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 92a6413 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 0c881c7 | feat: add sprint backlog1 | feat: add sprint backlog1 | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b1c9b4d | Add Software Deployment Configuration images | Add Software Deployment Configuration images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 9e7fdbf | style: new center to trello image | style: new center to trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | ccdd13d | style: new center for trello image | style: new center for trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 31b9e4b | style: center the trello image | style: center the trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 2ccb5f0 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b13a831 | feat: add trello image | feat: add trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 308af54 | Add Fredy's image to assets for README | Add Fredy's image to assets for README | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | cf4ac47 | Update README with report information | Update README with report information | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 364dc8f | feat: add software object-oriented design | feat: add software object-oriented design | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5b93642 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 4243d25 | feat: add database diagram | feat: add database diagram | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5b3bc3a | feat: add new member | feat: add new member | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | ad5de07 | style: modify interviews header | style: modify interviews header | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 60bd2fd | feat: change an image link | feat: change an image link | Apr 25, 2025 |
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
