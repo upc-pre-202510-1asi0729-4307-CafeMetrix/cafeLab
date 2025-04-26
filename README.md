@@ -790,6 +790,25 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
 
 
 ### 2.2.3. Análisis de entrevistas
+<h3>2.2.3. Análisis de entrevistas</h3>
+<h4>Análisis del segmento de administradores o dueños de cafeterías de especialidad</h4>
+
+<p>
+Los entrevistados de este segmento presentan un perfil técnico-operativo consolidado, con experiencia directa en todos los procesos del café de especialidad. El 100% de ellos manifestó dominar aspectos como la selección del grano, el control del tueste y la calibración de bebidas, realizando estas tareas de forma personal o supervisada. Asimismo, todos coincidieron en que si bien utilizan herramientas como Excel y WhatsApp para registrar información clave (peso, rendimiento, trazabilidad, recetas y comunicación interna), muchos de estos procesos siguen siendo manuales, desorganizados y propensos a errores o pérdida de información.
+</p>
+
+<p>
+En cuanto a la gestión de proveedores, se evidencia que no existe un sistema formal de evaluación ni documentación; esta suele hacerse por medio de relaciones de confianza y catas, lo cual limita la trazabilidad y dificulta la toma de decisiones. Además, dos de cada tres entrevistados indicaron que han sufrido pérdidas en la calidad del grano debido a malas condiciones de almacenamiento, y reconocen que un sistema digital con alertas podría evitar dichos inconvenientes.
+</p>
+
+<p>
+Otro punto crítico identificado fue la transmisión del conocimiento técnico dentro del equipo. Aunque se aplican métodos como reuniones de cata o mentorías internas, se destacó la falta de documentación estructurada que permita estandarizar procesos, capacitar al personal y mantener la consistencia entre baristas. También se detectó que la comunicación con el cliente sobre el valor agregado del café (origen, procesos, certificaciones) es limitada y poco visual, lo que afecta la percepción de calidad y dificulta justificar precios diferenciados.
+</p>
+
+<p>
+Finalmente, el 100% de los entrevistados expresó interés en implementar una plataforma integral que les permita gestionar de forma centralizada la trazabilidad, el control de calidad, el inventario, las recetas y la capacitación del personal. Se valora especialmente la posibilidad de contar con herramientas visuales, módulos intuitivos y registros estructurados para mejorar la eficiencia operativa, elevar la calidad del producto final y fortalecer la experiencia del cliente.
+</p>
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 **Administradores y dueños de cafeterias de especialidad**
