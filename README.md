@@ -111,7 +111,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Descripción de la startup, diseño de entrevistas, registro de entrevistas, user stories, product backlog, landing page wireframes, web aplication wireframes, Aspect Leaders and Collaborators, sprint backlog 1</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Christian Inga</td>
@@ -233,7 +233,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: <br><br>
+                TB1: Logré comunicarme efectivamente con diferentes audiencias al entrevistar usuarios adaptando mi lenguaje, presentar la startup según cada interlocutor, traducir requisitos técnicos en user stories comprensibles, explicar wireframes de forma visual y coordinar reuniones del sprint backlog con diversos perfiles del equipo.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
@@ -250,7 +250,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
-                TB1: <br><br>
+                TB1: Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br><br>
                 <strong>Carlos Fernandez</strong><br>
@@ -292,16 +292,16 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
-  <td><img src="/public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
+  <td><img src="public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
     <td>Mi nombre es <strong>Henry Esteban</strong>, tengo 19 años y me encuentro en ing de software. Me considero atractivo a abrir nuevas experiencias y ser mejor persona cada día, me gusta aprender y siempre escucho los buenos consejos</td>
   </tr>
-  <tr>
-    <td>Fila 4, Columna 1</td>
-    <td>Fila 4, Columna 2</td>
+  <tr> 
+    <td> <img src="public/assets/images/integrantes/fredy.jpeg"alt="Carlos Fredy" width="200">  </td>
+    <td> Mi nombre es <strong>Carlos Fernandez</strong>, tengo 21 años y estudio la carrera de Ingenieria de Software, me encuentro preparando en algunas areas como desarrollo de aplicaciones moviles con Flutter y desarrollo de videojuegos como Unity y Godot, considero que un desempeño adecuado en la universidad me ayudara a mejorar mis habilidades y conocimiento en el desarrollo de proyectos </td>
   </tr>
   <tr>
-    <td>Fila 5, Columna 1</td>
-    <td>Fila 5, Columna 2</td>
+    <td><img src="public/assets/images/integrantes/Chris.jpeg"alt="Christian Inga" width="200"></td>
+    <td> Mi nombre es <strong>Christian Inga</strong>, tengo 19 años y actualmente estoy estudiando la carrera de Ingenieria de Software. Tengo conocimientos en los lenguajes de programación de C++, Python y Javascript. Considero que puedo adaptarme a diferentes formas de trabajo para alcanzar un objetivo. Me considero una persona responsable y confiable. </td>
   </tr>
 </table>
 
@@ -1744,7 +1744,227 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+User Goal: Registrarse.
+
+![image](public/assets/images/Wireflows/Register.png)
+
+User Goal: Iniciar Sesión.
+
+![image](public/assets/images/Wireflows/InicioSesion.png)
+
+User Goal: Editar su Perfil.
+
+![image](public/assets/images/Wireflows/Perfil.png)
+
+User Goal: Registrar, Editar y Observar sus Proveedores.
+
+![image](public/assets/images/Wireflows/Proveedores.png)
+
+User Goal: Registrar, Editar y Observar sus Lotes de Café.
+
+![image](public/assets/images/Wireflows/LoteCafe.png)
+
+User Goal: Registrar, Editar y Visualizar sus perfiles de tueste, también comparar entre 2 de ellos.
+
+![image](public/assets/images/Wireflows/PerfilTueste.png)
+
+User Goal: Registrar, Editar y Observar sus Catas con su hexágono sensorial.
+
+![image](public/assets/images/Wireflows/Catas.png)
+
+User Goal: Observar la biblioteca de defectos, con posibles causas y soluciones.
+
+![image](public/assets/images/Wireflows/Defectos.png)
+
+User Goal: Identificar la relación entre el tueste y los sabores del café.
+
+![image](public/assets/images/Wireflows/Relacion.png)
+
+User Goal: Poder registrar, editar y visualizar sus recetas, así como portafolios con las recetas especiales.
+
+![image](public/assets/images/Wireflows/Recetas.png)
+
+User Goal: Tener un registro de las calibraciones de sus moliendas para un mejor resultado.
+
+![image](public/assets/images/Wireflows/Calibracion.png)
+
+User Goal: Tener un adecuado manejo de su inventario, pudiendo registrar lotes y visualizar información importante.
+
+![image](public/assets/images/Wireflows/Inventario.png)
+
+User Goal: Poder gestionar sus costos de una manera eficiente, para optimizar sus ganancias y rentabilidad.
+
+![image](public/assets/images/Wireflows/GestorCostos.png)
+
+
 ### 4.4.2. Web Applications Mock-ups.
+Select Suscription - US03
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
+
+Select Payment - US?
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Payment.png)
+
+Sing Up - Bar US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20Up%20Bar%20US01.png)
+
+Message after correct Sign Up - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20In%20US01.png)
+
+Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20In%20US01.png)
+
+Message after correct Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20In%20US01.png)
+
+Message after incorrect Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20incorrect%20Sign%20In%20US01.png)
+
+Sign Up - Owner - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20Up%20Owner%20US01.png)
+
+Message after correct Sign Up - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20Up%20US01%20Owner%20.png)
+
+Sing in - Owner
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Sing%20In%20Owner%20.png)
+
+Message after incorrect Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20incorrect%20Sign%20In%20US01%20Owner.png)
+
+Message after correct Sign In - US01
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Message%20after%20correct%20Sign%20Up%20US01%20Owner%20.png)
+
+User Profile - US02
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/User%20Profile.png)
+
+Welcome - US?
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Welcome.png)
+
+Suppliers - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Suppliers%20.png)
+
+Supplier Registration - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Registration.png)
+
+Supplier Edition - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Edition.png)
+
+Supplier Information - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Supplier%20Information.png)
+
+Coffee Lot - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot.png)
+
+Coffee Lot Registration - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Registration.png)
+
+Coffee Lot Edition - US05 y US06
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Edition.png)
+
+Coffee Lot Information - US04
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Coffe%20Lot%20Information.png)
+
+Roast Profiles - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles.png)
+
+Roast Profiles - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles%202.png)
+
+Roast Profiles Registration - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Profiles%20Registration.png)
+
+Roast Edition - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Edition.png)
+
+Favorite Profiles Filter - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Favorite%20Profiles%20Filter.png)
+
+Visualize a Roast Profile - US07
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Visualizer%20a%20Roast%20Profile.png)
+
+Roast Comparison - US09
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Roast%20Comparison.png)
+
+Cupping Sessions - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions.png)
+
+Cupping Sessions Filters - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions%20Filters.png)
+
+Cupping Sessions Registration - US11
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Sessions%20Registration.png)
+
+Cupping Session Sensory Hexagon - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Cupping%20Session%20Sensory%20Hexagon.png)
+
+Compare multiple Cupping Sessions 1 - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Compare%20Multiple%20Cupping%20Sessions.png)
+
+Compare multiple Cupping Sessions 2 - US12
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Compare%20Multiple%20Cupping%20Sessions%202.png)
+
+Library Defect Consultation - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Library%20Defect%20Consultation.png)
+
+Defect Information - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Defect%20Information.png)
+
+Defect Information - US10
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Defect%20Information%20b.png)
+
+Patterns of Roast with Cupping - US13
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Patterns%20of%20Roast%20With%20cupping%20.png)
+
+Library Relation of Roast with Cupping - US13
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Library%20Relation%20of%20Roast%20with%20Cupping%20.png)
+
+Portfolio and recipies - US15 and 18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies.png)
+
+Portfolio and recipies - US15 and 19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies%20b.png)
+
+Portfolio and recipies - US15 and 20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Portafolio%20and%20recipies%20c.png)
+
+Recipes - US17
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipes.png)
+
+Recipe Registration - US15
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Registration.png)
+
+Recipe Registration - US15
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Registration%20b%20.png)
+
+Recipe Information coffee extraction - US18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Information%20Coffee%20Extraction.png)
+
+Recipe Information espresso method - US18
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Recipe%20Information%20espresso%20method.png)
+
+Inventary - US19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Inventary.png)
+
+Inventary - US19
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Inventary%20b.png)
+
+Register Production Cost Management 1 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Register%20Production%20Cost%20Management.png)
+
+Production Cost Management 2 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Management%202.png)
+
+Production Cost Management 3 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%203.png)
+
+Production Cost Management 4 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%204.png)
+
+Production Cost Management 5 - US20
+![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%205.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 <h2>4.5 Web Applications Prototyping</h2>
@@ -1808,9 +2028,387 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+![image](https://github.com/user-attachments/assets/3a527d25-49fc-4c9c-a334-0cebe38422f2)
+
+
 ### 4.7.2. Class Dictionary.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th colspan="7" style="text-align:center; border: 1px solid #000;">CaféLab Class Dictionary (Actualizado)</th>
+    </tr>
+    <tr>
+        <th style="text-align:center; border: 1px solid #000;">Class</th>
+        <th style="text-align:center; border: 1px solid #000;">Bounded Context</th>
+        <th style="text-align:center; border: 1px solid #000;">Entity/Value Object</th>
+        <th style="text-align:center; border: 1px solid #000;">Description</th>
+        <th style="text-align:center; border: 1px solid #000;">Attributes</th>
+        <th style="text-align:center; border: 1px solid #000;">Methods</th>
+        <th style="text-align:center; border: 1px solid #000;">Relationships</th>
+    </tr>
+    <!-- USER MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>User</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a user of the CaféLab system (e.g., barista or café owner).</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - email: String<br>
+            - password: String<br>
+            - name: String<br>
+            - role: String<br>
+            - experience: String<br>
+            - plan: Plan
+        </td>
+        <td style="border: 1px solid #000;">
+            - register()<br>
+            - authenticate()<br>
+            - updateProfile()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..1 Plan: subscribes to<br>
+            - 1 to 0..* Supplier: manages<br>
+            - 1 to 0..* RoastProfile: creates<br>
+            - 1 to 0..* Recipe: creates<br>
+            - 1 to 0..* GrindCalibration: documents<br>
+            - 1 to 0..* Beverage: creates<br>
+            - 0..* StatusUpdate: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Plan</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a subscription plan for CaféLab users.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - price: Float<br>
+            - features: List of String
+        </td>
+        <td style="border: 1px solid #000;">
+            - getFeatures()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..1 to 1 User: subscribed by
+        </td>
+    </tr>
+    <!-- GREEN COFFEE MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Supplier</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a supplier of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - location: String<br>
+            - contact: String<br>
+            - coffeeTypes: List of String<br>
+            - evaluations: List of Float
+        </td>
+        <td style="border: 1px solid #000;">
+            - addEvaluation()<br>
+            - getAverageEvaluation()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* CoffeeLot: provides
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>CoffeeLot</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a batch of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - traceabilityCode: String<br>
+            - origin: String<br>
+            - variety: String<br>
+            - process: String<br>
+            - altitude: Float<br>
+            - weight: Float<br>
+            - status: String<br>
+            - statusUpdates: List of StatusUpdate
+        </td>
+        <td style="border: 1px solid #000;">
+            - updateStatus()<br>
+            - generateTraceabilityCode()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* Certification: has<br>
+            - 1 to 0..* RoastSession: used in<br>
+            - 1 to 0..* SensoryEvaluation: evaluated in<br>
+            - 0..* to 1 Inventory: tracked by<br>
+            - 1 to 0..1 Cost: incurs<br>
+            - 1 to 0..1 PerformanceAnalysis: analyzed in<br>
+            - 1 to 0..1 TraceabilityReport: documented in<br>
+            - 0..* to 1 Recipe: associated with
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>StatusUpdate</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Value Object</td>
+        <td style="border: 1px solid #000;">Represents a status change event for a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - timestamp: DateTime<br>
+            - status: String<br>
+            - responsible: User
+        </td>
+        <td style="border: 1px solid #000;">- None</td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: updates<br>
+            - 0..* to 1 User: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Certification</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a certification of a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - type: String<br>
+            - documentation: String<br>
+            - lotId: String
+        </td>
+        <td style="border: 1px solid #000;">
+            - validate()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: associated with
+        </td>
+    </tr>
+
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>SensoryEvaluation</strong></td>
+    <td style="border: 1px solid #000;">Sensory Evaluation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a sensory evaluation (tasting) of a roasted coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - roastSessionId: String<br>
+        - attributes: Map of String to Float<br>
+        - scores: Map of String to Float<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateProfile()<br>
+        - compare(other: SensoryEvaluation)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 CoffeeLot: evaluated in<br>
+        - 0..* to 1 RoastSession: evaluated in
+    </td>
+</tr>
+
+<!-- Preparation -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Recipe</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a coffee preparation recipe created by a user.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - method: String<br>
+        - ratio: Float<br>
+        - temperature: Float<br>
+        - time: Float<br>
+        - grindSetting: String<br>
+        - lotId: String<br>
+        - permissions: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - shareWithTeam(permissions: List of String)<br>
+        - suggestImprovement(changes: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by<br>
+        - 0..* to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>GrindCalibration</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a grind calibration for coffee preparation.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - equipment: String<br>
+        - grindSetting: String<br>
+        - timestamp: DateTime<br>
+        - image: String<br>
+        - extractionTime: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: GrindCalibration)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: documented by
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Beverage</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a beverage created by a user in their portfolio.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - category: String<br>
+        - ingredients: List of String<br>
+        - method: String<br>
+        - presentation: String<br>
+        - photo: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - categorize(category: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by
+    </td>
+</tr>
+
+<!-- Administration -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Inventory</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the inventory of green and roasted coffee.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - items: Map of CoffeeLot to Float<br>
+        - movements: List of Movement<br>
+        - alerts: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - updateStock(lot: CoffeeLot, quantity: Float)<br>
+        - generateAlert()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 1 to 0..* CoffeeLot: tracks<br>
+        - 0..* to 1 Movement: has
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Movement</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Value Object</td>
+    <td style="border: 1px solid #000;">Represents an inventory movement (addition or subtraction).</td>
+    <td style="border: 1px solid #000;">
+        - timestamp: DateTime<br>
+        - lotId: String<br>
+        - quantity: Float<br>
+        - type: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - None
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 Inventory: belongs to<br>
+        - 0..* to 1 CoffeeLot: affects
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Cost</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the cost structure associated with a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - categories: Map of String to Float<br>
+        - totalCost: Float<br>
+        - costPerKilo: Float<br>
+        - costPerCup: Float<br>
+        - margin: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - calculateMetrics()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>PerformanceAnalysis</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the performance analysis of a coffee lot production process.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - metrics: Map of String to Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: PerformanceAnalysis)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>TraceabilityReport</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a traceability report for a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - chainDetails: String<br>
+        - commercialSheet: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateCommercialSheet()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: documented for
+    </td>
+</tr>
+<!-- Landing Page -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>ContactForm</strong></td>
+    <td style="border: 1px solid #000;">Landing Page</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a contact form submission from the landing page.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - name: String<br>
+        - email: String<br>
+        - message: String<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - sendConfirmation()
+    </td>
+    <td style="border: 1px solid #000;">
+        - None (standalone entity)
+    </td>
+</tr>
+
+</table>
+
+</table>
+
 ## 4.8. Database Design.
+El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1818,14 +2416,261 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ### 5.1.1. Software Development Environment Configuration.
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
-### 5.1.4. Software Deployment Configuration.
+
+### 5.1.4. Software Deployment Configuration
+#### Landing Page Deployment
+Para desplegar la landing page, es necesario contar con una cuenta de GitHub y tener acceso como administrador al repositorio del proyecto. A partir de ahí, se pueden cargar los documentos desde un entorno local al repositorio y proceder con el despliegue. A continuación, se describen los pasos seguidos:
+
+1. **Creación de ramas**: Se crean ramas para que cada miembro del proyecto pueda subir sus respectivas secciones de forma organizada.
+2. **Estructura del proyecto**: Se define una estructura clara:
+   - `index.html`: contiene el código principal de la landing.
+   - Carpeta `assets/css`: para los estilos.
+   - Carpeta `img`: para las imágenes usadas en el `index.html`.
+   - Archivos `.js`: para funcionalidades JavaScript necesarias.
+3. **Subida de archivos al repositorio**:
+   - Instalación de Git.
+   - Configuración del repositorio remoto.
+   - Uso de comandos Git para hacer commit y push de los cambios.
+4. **Configuración para despliegue**:
+   - Se realiza un pull request hacia la rama `main`.
+   - Verificación de que no haya errores para un despliegue limpio.
+5. **Resolución de conflictos**:
+   - En caso de conflictos, se resuelven con herramientas como Visual Studio Code.
+   - Se verifica que los conflictos hayan sido solucionados correctamente.
+
+Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conectamos el repositorio de GitHub para un despliegue seguro y que permita futuras actualizaciones sin afectar las funcionalidades del Front End.
+
+🔗 **Landing Page en Netlify**: [https://cafe-lab-landing-opensource.netlify.app/](https://cafe-lab-landing-opensource.netlify.app/)
+
+---
+
+#### Front End Web Application Deployment
+
+1. Iniciamos sesión en Netlify y vinculamos el repositorio correspondiente.  
+   ![Imagen 1](public/assets/images/SoftwareDeploymentConfiguration/Imagen1.png)
+
+2. Seleccionamos el proyecto adecuado desde la lista de repositorios.  
+   ![Imagen 2](public/assets/images/SoftwareDeploymentConfiguration/Imagen2.png)
+
+3. Completamos los campos necesarios:
+   - Equipo.
+   - Rama donde están los archivos.
+   - Nombre de la página a desplegar.  
+   ![Imagen 3](public/assets/images/SoftwareDeploymentConfiguration/Imagen3.png)  
+   ![Imagen 4](public/assets/images/SoftwareDeploymentConfiguration/Imagen4.png)
+
+4. Procedemos con el despliegue del sitio.  
+   ![Imagen 5](public/assets/images/SoftwareDeploymentConfiguration/Imagen5.png)
+
+5. Verificamos que el despliegue haya sido exitoso desde la sección de sitios activos en Netlify.  
+   ![Imagen 6](public/assets/images/SoftwareDeploymentConfiguration/Imagen6.png)  
+   ![Imagen 7](public/assets/images/SoftwareDeploymentConfiguration/Imagen7.png)
+
+🔗 **Página desplegada en Netlify**: [https://cafe-lab-landing-opensource.netlify.app/](https://cafe-lab-landing-opensource.netlify.app/)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-#### 5.2.1.3. Sprint Backlog n.
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
+
+Para este Sprint, los aspectos principales corresponden a las User Stories que definen el alcance funcional de nuestra landing page: Información del Producto (US23), Secciones Específicas por Segmento (US24), Contacto con Equipo (US25) y Acceso directo a plataforma (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+
+| Team Member (Last Name, First Name) | GitHub Username | Información del Producto (US23) | Secciones Específicas por Segmento (US24) | Contacto con Equipo (US25) | Acceso directo a plataforma (US26) |
+|-------------------------------------|-----------------|--------------------------------|------------------------------------------|---------------------------|----------------------------------|
+| Donayre, Adrian                     | adriandonayredev | C                              | L                                        | C                         | L                                |
+| Tantaleán, Guillermo                | guillermotantalean1 | C                              | C                                        | L                         | C                                |
+| Esteban, Henry                      | kalet123-commit | C                              | C                                        | L                         | C                                |
+| Fernández, Fredy                    | u202320083      | C                              | L                                        | C                         | C                                |
+| Inga, Christian                     | Christian1905   | C                              | L                                        | C                         | C                                |
+#### 5.2.1.3. Sprint Backlog 1.
+Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
+
+<p align="center">
+    <img src="public/assets/images/Sprint1/trello.png" alt="Organización en la herramienta Trello">
+</p>
+
+Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
+
+<table>
+        <thead>
+            <tr>
+                <th colspan="2">User Story</th>
+                <th colspan="6">Work-Item/Task</th>
+            </tr>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status (To-do / In Process / To Review / Done)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>US23</td>
+                <td>Información del Producto</td>
+                <td>TK01</td>
+                <td>Configurar proyecto y estructura base</td>
+                <td>Crear estructura inicial del proyecto e implementar header con navegación y hero banner principal</td>
+                <td>4</td>
+                <td>Renzo</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK02</td>
+                <td>Desarrollar sección "Enfoque en beneficios claros"</td>
+                <td>Implementar sección con título y áreas diferenciadas para baristas y cafeterías</td>
+                <td>3</td>
+                <td>Joseph</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US24</td>
+                <td>Secciones Específicas por Segmento</td>
+                <td>TK03</td>
+                <td>Implementar secciones para baristas y cafeterías</td>
+                <td>Crear las áreas "Soy barista" y "Tengo una cafetería" con descripciones y CTAs</td>
+                <td>4</td>
+                <td>Christian</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK04</td>
+                <td>Desarrollar sección de datos y gráficos</td>
+                <td>Implementar área "Datos que respaldan tus decisiones" con gráficos de dashboard y curvas</td>
+                <td>5</td>
+                <td>Adrian</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK05</td>
+                <td>Crear sección de planes y características</td>
+                <td>Implementar la comparativa de los 4 planes con precios y listas de características</td>
+                <td>5</td>
+                <td>Fredy</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US25</td>
+                <td>Contacto con Equipo</td>
+                <td>TK06</td>
+                <td>Desarrollar sección de testimonios</td>
+                <td>Crear área de testimonios con fotos y citas de usuarios actuales</td>
+                <td>3</td>
+                <td>Kalet</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK07</td>
+                <td>Implementar sección FAQ y contacto</td>
+                <td>Crear área combinada con preguntas frecuentes y formulario de contacto con validación básica</td>
+                <td>4</td>
+                <td>Guillermo</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US26</td>
+                <td>Acceso directo a plataforma</td>
+                <td>TK08</td>
+                <td>Crear footer y enlaces</td>
+                <td>Implementar pie de página con navegación, recursos y contacto</td>
+                <td>4</td>
+                <td>Joseph</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK09</td>
+                <td>Optimizar responsive y realizar pruebas</td>
+                <td>Asegurar compatibilidad con dispositivos móviles y ejecutar pruebas de funcionamiento</td>
+                <td>5</td>
+                <td>Adrian</td>
+                <td>To-do</td>
+            </tr>
+        </tbody>
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|-------------------|-------------------|
+| upc-pre-202510-1asi0730-4364-CafeMetrix | main | d83b119 | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | develop | 52f8c02 | Cambios del footer | Cambios del footer | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | main | 88b0054 | Merge pull request #8 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Merge pull request #8 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 8b1ce23 | Merge pull request #7 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-planes-caracteristicas | Merge pull request #7 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-planes-caracteristicas | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 5d8e923 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-planes-caracteristicas | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-planes-caracteristicas | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 028ff5b | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 012ba1a | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | b7c7cc4 | add section plans-features and testimonials | add section plans-features and testimonials | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-planes-caracteristicas | 8791f03 | add section plans-features and testimonials" | add section plans-features and testimonials" | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | 47e4882 | Merge pull request #5 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK06-faq-contacto | Merge pull request #5 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK06-faq-contacto | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | db22b02 | feat (landing): join section faq to the rest of sections | feat (landing): join section faq to the rest of sections | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK06-faq-contacto | b5d8c31 | fix: sections visualization | fix: sections visualization | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 3dc985b | Merge pull request #4 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #4 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 752afd8 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-datos-graficos | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab-landingPage into feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 52749d7 | feat: join sections | feat: join sections | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | ee480ec | Merge pull request #3 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Merge pull request #3 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | bbe8843 | feat: add data and graphics section | feat: add data and graphics section | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 59b8d36 | style: increase benefits section size on style.css | style: increase benefits section size on style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 1dd5638 | Feat: Add benefits section to style.css | Feat: Add benefits section to style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 79799eb | Feat: Add benefits section to index.html | Feat: Add benefits section to index.html | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | c6108c7 | Merge pull request #2 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #2 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK04-datos-graficos | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | b00f2ac | Fix: Add active button corner | Fix: Add active button corner | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK04-datos-graficos | 4f51736 | style: change hover view | style: change hover view | Apr 23, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | develop | 4945634 | style: change files position and fix conflicts of this restructure | style: change files position and fix conflicts of this restructure | Apr 22, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK01-estructura-base | 1093b41 | Merge pull request #1 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK01-estructura-base | Merge pull request #1 from upc-pre-202510-1asi0730-4364-CafeMetrix/feature/TK01-estructura-base | Apr 22, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/TK01-estructura-base | 19f91f6 | Feat: Add banner, logo header and hero section | Feat: Add banner, logo header and hero section | Apr 21, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | f94808c | fix: Add again Chris profile. | fix: Add again Chris profile. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 8a54fb0 | Add images | Add images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 33d1049 | mock-up images | mock-up images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | f0aae0a | feat: add student outcome | feat: add student outcome | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 8ae118e | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b076138 | add tb1 actions | add tb1 actions | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 3aa9d15 | feat(readme): add student outcome | feat(readme): add student outcome | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 263068b | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | de95384 | feat: Add Chris profile. | feat: Add Chris profile. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5a4f156 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | a70beaa | feat(readme): add complementary content to web application wireframes for mobile enviroment | feat(readme): add complementary content to web application wireframes for mobile enviroment | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 484ef3e | feat: add development evidence for sprint review | feat: add development evidence for sprint review | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 3cacb73 | feat: add aspect leaders | feat: add aspect leaders | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 6d5b3dc | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 277efa6 | feat: add webapp wireframes desktop | feat: add webapp wireframes desktop | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 0847392 | fix(readme): resolve merge conflict in README.md | fix(readme): resolve merge conflict in README.md | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 760282c | feat(informe):add software development environment configuration, source code style guide and conventions section. | feat(informe):add software development environment configuration, source code style guide and conventions section. | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 62f60f2 | feat: add description of sprint planing 1 | feat: add description of sprint planing 1 | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | d95e653 | Update section 5.1.4: Software Deployment Configuration with detailed instructions and images | Update section 5.1.4: Software Deployment Configuration with detailed instructions and images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 92a6413 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 0c881c7 | feat: add sprint backlog1 | feat: add sprint backlog1 | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b1c9b4d | Add Software Deployment Configuration images | Add Software Deployment Configuration images | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 9e7fdbf | style: new center to trello image | style: new center to trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | ccdd13d | style: new center for trello image | style: new center for trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 31b9e4b | style: center the trello image | style: center the trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 2ccb5f0 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | b13a831 | feat: add trello image | feat: add trello image | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 308af54 | Add Fredy's image to assets for README | Add Fredy's image to assets for README | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | cf4ac47 | Update README with report information | Update README with report information | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 364dc8f | feat: add software object-oriented design | feat: add software object-oriented design | Apr 26, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5b93642 | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Merge branch 'feature/informe-readme' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab into feature/informe-readme | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 4243d25 | feat: add database diagram | feat: add database diagram | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5b3bc3a | feat: add new member | feat: add new member | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | ad5de07 | style: modify interviews header | style: modify interviews header | Apr 25, 2025 |
+| upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 60bd2fd | feat: change an image link | feat: change an image link | Apr 25, 2025 |
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
