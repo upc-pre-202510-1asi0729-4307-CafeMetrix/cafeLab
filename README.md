@@ -276,9 +276,8 @@ La solución consiste en una plataforma dual que combina software y componentes 
 
 **Visión**: Ser líder en el estándar tecnológico que revoluciona la industria del café de especialidad.
 
-#### Logo de Café Metrix:
-
-#### Logo de Café Lab:
+#### Logo, isotipo y logotipo de Café Lab:
+<img src="public/assets/images/styleGuidelines/Branding.png" alt="Imagen de logo y variaciones" width="7000">
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <table border="1">
@@ -289,7 +288,7 @@ La solución consiste en una plataforma dual que combina software y componentes 
     carrera de Ingeniería de Software en la UPC. Tengo habilidad en los lenguajes C++ y javascript. Así mismo, cuento con experiencia en monitoreo de infraestructura en herramientas como Azure, NR y Kemp. Personalmente, opino que lo que hagamos en la universidad se verá reflejado en nuestra vida profesional. Por ello me esfuerzo en ampliar mis conocimientos y conseguir nuevas experiencias que me sumen para seguir mejorando.</td>
   </tr>
   <tr>
-    <td><img src="public/assets/images/integrantes/guillermot.jpeg" alt="Adrian Donayre" width="200"> </td>
+    <td><img src="public/assets/images/integrantes/guillermot.jpeg" alt="Guillermo Tantaleán" width="200"> </td>
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
@@ -472,7 +471,7 @@ Estas cafeterías no solo representan una oportunidad de mercado, sino también 
     <tr>
         <th style="border: 1px solid #000;"></th>
         <th style="text-align:center; border: 1px solid #000;"></th>
-        <th style="text-align:center; border: 1px solid #000;">CaféLab<img src="CUANDO TENGAMOS EL LOGO.jpeg" alt="Aqui va nuestro logooo" width="150"></th>
+        <th style="text-align:center; border: 1px solid #000;">CaféLab<img src="public\assets\images\styleGuidelines\Logo.jpg" alt="Logo Café Lab" width="150"></th>
         <th style="text-align:center; border: 1px solid #000;">Cropster<img src="public\assets\images\Competidores\cropster.jpg" alt="Logo Crospter" width="150"></th>
         <th style="text-align:center; border: 1px solid #000;">Ikawa<img src="public\assets\images\Competidores\ikawa.png" alt="Logo Ikawa" width="150"></th>
         <th style="text-align:center; border: 1px solid #000;">Beanconqueror<img src="public\assets\images\Competidores\conqueror.jpg" alt="Logo Beanconqueror" width="150"></th>
@@ -677,6 +676,33 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 3</td>
+    <td>Raul Donayre</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>42</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Borja</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Entrevistas\EntrevistaRaulDonayre.png" alt="Foto de Raul Donayre" width="7000"></td>
+    <td>Raul describió sus principales desafíos operativos y necesidades tecnológicas. Actualmente maneja de forma manual y desorganizada aspectos cruciales como certificaciones, información de proveedores y trazabilidad del café, lo que dificulta responder ágilmente a los clientes. Utiliza métodos básicos para comunicar las características especiales del café, incluyendo tarjetas informativas, aunque reconoce que necesita algo más visual y atractivo. Para mantener la consistencia entre baristas, implementa un sistema de mentoría y reuniones semanales de cata, pero admite que su documentación y capacitación necesitan actualización. En cuanto a tecnología, usa principalmente Excel, una caja registradora digital y aplicaciones básicas de tueste, pero carece de un sistema integral. Su principal necesidad es una plataforma que mejore la eficiencia operativa y la experiencia del cliente, permitiendo mostrar el valor agregado de sus productos para justificar precios más altos y aumentar la rentabilidad del negocio. El dueño enfatiza que cualquier solución debe ser tangible y visible para los clientes, ayudando a gestionar todo el proceso desde la recepción del grano hasta la taza final.</td>
+  </tr>
+  <tr>
+    <td>Timing:</td>
+    <td></td>
+  </tr>
+</table>
+
 ---
 #### Entrevistas a baristas profesionales
 
@@ -764,6 +790,42 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
 
 
 ### 2.2.3. Análisis de entrevistas
+<h3>2.2.3. Análisis de entrevistas</h3>
+<h4>Análisis del segmento de administradores o dueños de cafeterías de especialidad</h4>
+
+<p>
+Los entrevistados de este segmento presentan un perfil técnico-operativo consolidado, con experiencia directa en todos los procesos del café de especialidad. El 100% de ellos manifestó dominar aspectos como la selección del grano, el control del tueste y la calibración de bebidas, realizando estas tareas de forma personal o supervisada. Asimismo, todos coincidieron en que si bien utilizan herramientas como Excel y WhatsApp para registrar información clave (peso, rendimiento, trazabilidad, recetas y comunicación interna), muchos de estos procesos siguen siendo manuales, desorganizados y propensos a errores o pérdida de información.
+</p>
+
+<p>
+En cuanto a la gestión de proveedores, se evidencia que no existe un sistema formal de evaluación ni documentación; esta suele hacerse por medio de relaciones de confianza y catas, lo cual limita la trazabilidad y dificulta la toma de decisiones. Además, dos de cada tres entrevistados indicaron que han sufrido pérdidas en la calidad del grano debido a malas condiciones de almacenamiento, y reconocen que un sistema digital con alertas podría evitar dichos inconvenientes.
+</p>
+
+<p>
+Otro punto crítico identificado fue la transmisión del conocimiento técnico dentro del equipo. Aunque se aplican métodos como reuniones de cata o mentorías internas, se destacó la falta de documentación estructurada que permita estandarizar procesos, capacitar al personal y mantener la consistencia entre baristas. También se detectó que la comunicación con el cliente sobre el valor agregado del café (origen, procesos, certificaciones) es limitada y poco visual, lo que afecta la percepción de calidad y dificulta justificar precios diferenciados.
+</p>
+
+<p>
+Finalmente, el 100% de los entrevistados expresó interés en implementar una plataforma integral que les permita gestionar de forma centralizada la trazabilidad, el control de calidad, el inventario, las recetas y la capacitación del personal. Se valora especialmente la posibilidad de contar con herramientas visuales, módulos intuitivos y registros estructurados para mejorar la eficiencia operativa, elevar la calidad del producto final y fortalecer la experiencia del cliente.
+</p>
+<h4>Análisis del segmento de baristas profesionales</h4>
+
+<p>
+Los baristas entrevistados comparten un alto nivel de compromiso con la calidad y la estandarización de procesos, aunque sus perfiles son diversos en cuanto a formación y experiencia. Todos ellos demostraron conocimientos técnicos sobre calibración, evaluación sensorial y trazabilidad del grano, además de aplicar metodologías específicas para mantener la consistencia del café en sus espacios de trabajo, ya sea en cadenas, cafeterías independientes o a través de prácticas autodidactas.
+</p>
+
+<p>
+Uno de los retos comunes identificados es la dificultad para estandarizar recetas entre baristas, especialmente cuando se utilizan métodos de preparación variados o cuando las máquinas presentan inestabilidad. A ello se suma la necesidad de documentar procesos como curvas de tueste, temperaturas ideales o ajustes de molienda, tareas que actualmente se hacen de forma manual o informal. Esta situación incrementa el riesgo de variabilidad en la calidad del café y limita la posibilidad de replicar resultados exitosos.
+</p>
+
+<p>
+Asimismo, los entrevistados señalaron que la gestión del almacenamiento del café no siempre se realiza en condiciones óptimas, lo que puede afectar las propiedades del grano. También se evidenció un interés claro en herramientas que faciliten el análisis de variedades, la evaluación sensorial detallada y la integración de datos técnicos con perfiles de sabor, en especial en contextos de competencias o eventos formativos.
+</p>
+
+<p>
+El 100% de los baristas entrevistados manifestó la necesidad de contar con una plataforma digital integral que conecte todas las etapas del proceso, desde el grano verde hasta la taza final. Este sistema debería permitir la documentación estructurada de recetas, perfiles de tueste, calibraciones y resultados sensoriales, además de facilitar el trabajo colaborativo entre miembros del equipo. Se valoran especialmente los entornos tipo laboratorio, que integren teoría y práctica, y que permitan profesionalizar aún más la labor del barista mediante el uso eficiente de la tecnología.
+</p>
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 **Administradores y dueños de cafeterias de especialidad**
