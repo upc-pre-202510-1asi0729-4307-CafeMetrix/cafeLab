@@ -1579,7 +1579,7 @@ La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se
 - **Texto principal:** Arial Nova Regular – 16px
 - **Texto técnico:** Roboto Mono – 14px
 
-<img src="public/assets/images/styleGuidelines/Heading.png" alt="Tipofrafía principal" width="7000">
+<img src="public/assets/images/styleGuidelines/Heading.png" alt="Tipografía principal" width="7000">
 
 <img src="public/assets/images/styleGuidelines/Body.png" alt="Tipografía secundaria" width="7000">
 
@@ -1740,6 +1740,8 @@ En nuestra versión mock-up se evidencia la implementación de los elementos de 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=0-1&t=rINeeT0ZdWiMMppa-1)
+
+**Web Application para Desktop Web Browser**
 
 Sign Up - Bar - US01
 
@@ -1948,6 +1950,198 @@ Production Cost Management 4 - US20
 Production Cost Management 5 - US20
 
 ![image](https://github.com/user-attachments/assets/b14e3691-0b52-4f36-9b16-00b2651ebeb9)
+
+**Web Application para Mobile Web Browser**
+
+Sign Up - Bar - US01
+
+<img src="public/assets/images/WebApplicationWireframes/signUpBar.jpeg" alt="  principal" width="200">
+
+Sign Up - Owner - US01
+
+<img src="public/assets/images/WebApplicationWireframes/signUpOwner.jpeg"   width="200">
+
+Message after correct Sign Up - US01
+
+<img src="public/assets/images/WebApplicationWireframes/messageCorrectSignUp.jpeg"   width="200">
+
+Sign In - US01
+
+<img src="public/assets/images/WebApplicationWireframes/signIn.png"   width="200">
+
+Message after incorrect Sign In - US01
+
+<img src="public/assets/images/WebApplicationWireframes/messageIncorrectSignIn.jpeg"   width="200">
+
+Message after correct Sign In - US01
+
+<img src="public/assets/images/WebApplicationWireframes/messageCorrectSignIn.jpeg"   width="200">
+
+Select Suscription - US03
+
+<img src="public/assets/images/WebApplicationWireframes/selectSuscription_01.jpeg"   width="200">
+
+<img src="public/assets/images/WebApplicationWireframes/selectSuscription_02.jpeg"   width="200">
+
+<img src="public/assets/images/WebApplicationWireframes/selectSuscription_03.jpeg"   width="200">
+
+<img src="public/assets/images/WebApplicationWireframes/selectSuscription_04. width="200">
+
+Payment - US?
+
+<img src="public/assets/images/WebApplicationWireframes/payment.jpeg"  width="200">
+
+User Profile - US02
+
+<img src="public/assets/images/WebApplicationWireframes/userProfile.jpeg"  width="200">
+
+Welcome - US?
+
+<img src="public/assets/images/WebApplicationWireframes/welcome.png" width="200">
+
+Suppliers - US04
+
+<img src="public/assets/images/WebApplicationWireframes/suppliers.png" width="200">
+
+Supplier Registration - US04
+
+<img src="public/assets/images/WebApplicationWireframes/supplierRegistration.png" width="200">
+
+Supplier Edition - US04
+
+<img src="public/assets/images/WebApplicationWireframes/supplierEditation.png" width="200">
+
+Coffee Lot - US05 y US06
+
+<img src="public/assets/images/WebApplicationWireframes/cafeLot.png" width="200">
+
+Coffee Lot Registration - US05 y US06
+
+<img src="public/assets/images/WebApplicationWireframes/coffeeLotRegistration.png" width="200">
+
+Coffee Lot Edition - US05 y US06
+
+<img src="public/assets/images/WebApplicationWireframes/welcome.png" width="200">
+
+Roast Profiles - US07
+
+<img src="public/assets/images/WebApplicationWireframes/roastProfiles.png" width="200">
+
+Roast Profiles Registration - US07
+
+<img src="public/assets/images/WebApplicationWireframes/roastProfilesRegistration.png" width="200">
+
+Roast Edition - US07
+
+<img src="public/assets/images/WebApplicationWireframes/roastEdition.png" width="200">
+
+Favorite Profiles Filter - US07
+
+<img src="public/assets/images/WebApplicationWireframes/favoriteProfilesFilters.png" width="200">
+
+<img src="public/assets/images/WebApplicationWireframes/favoriteProfilesFilters_2.png" width="200">
+
+Roast Comparison - US09
+
+<img src="public/assets/images/WebApplicationWireframes/roastComparison.png" width="200">
+
+Cupping Sesions
+
+<img src="public/assets/images/WebApplicationWireframes/cuppingSesions.png" width="200">
+
+Cupping Sessions Filters - US11
+
+<img src="public/assets/images/WebApplicationWireframes/cuppingSessionsFilters.png" width="200">
+
+Cupping Sessions Registration - US11
+
+<img src="public/assets/images/WebApplicationWireframes/cuppingSessionsRegistation .png" width="200">
+
+Cupping Session Sensory Hexagon - US12
+
+<img src="public/assets/images/WebApplicationWireframes/cuppingSessionSensoryHexagon.png" width="200">
+
+Compare multiple Cupping Sessions 1 - US12
+
+<img src="public/assets/images/WebApplicationWireframes/compareMultipleCata.png" width="200">
+
+Compare multiple Cupping Sessions 2 - US12
+
+<img src="public/assets/images/WebApplicationWireframes/compareMultipleCata_2.png" width="200">
+
+Library Defect Consultation - US10
+
+<img src="public/assets/images/WebApplicationWireframes/libraryDefectConsultation.png" width="200">
+
+Defect Information - US10
+
+<img src="public/assets/images/WebApplicationWireframes/defectInformation.png" width="200">
+
+Patterns of Roast with Cupping - US13
+
+<img src="public/assets/images/WebApplicationWireframes/patternsRoastwithCupping.png" width="200">
+
+Library Relation of Roast with Cupping - US13
+
+<img src="public/assets/images/WebApplicationWireframes/libraryRelationRoastCupping.png" width="200">
+
+Recipes - US17
+
+<img src="public/assets/images/WebApplicationWireframes/recipes.png" width="200">
+
+Recipe Registration coffee extraction - US15
+
+<img src="public/assets/images/WebApplicationWireframes/recipeRegistrationCoffeeExtraction.png" width="200">
+
+Recipe Registration espresso method - US15
+
+<img src="public/assets/images/WebApplicationWireframes/recipeRegistrationCoffeeExtraction.png" width="200">
+
+
+Recipe Information coffee extraction - US18
+
+<img src="public/assets/images/WebApplicationWireframes/recipeInformationCoffeeExtraction.png" width="200">
+
+Recipe Information espresso method - US18
+
+<img src="public/assets/images/WebApplicationWireframes/recipeInformationEspressoMethod.png" width="200">
+
+Record Grind Calibration - US16
+
+<img src="public/assets/images/WebApplicationWireframes/recordGrindCalibration.png" width="200">
+
+Calibration record
+
+<img src="public/assets/images/WebApplicationWireframes/calibrationRecord.png" width="200">
+
+edit calibration
+
+<img src="public/assets/images/WebApplicationWireframes/calibrationEdit.png" width="200">
+
+Inventary - US19
+
+<img src="public/assets/images/WebApplicationWireframes/inventary.png" width="200">
+
+Register Production Cost Management 1 - US20
+
+<img src="public/assets/images/WebApplicationWireframes/registerProductionCostManagement_1.png" width="200">
+
+Production Cost Management 2 - US20
+
+<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_2.png" width="200">
+
+Production Cost Management 3 - US20
+
+<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_3.png" width="200">
+
+Production Cost Management 4 - US20
+
+<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_4.png" width="200">
+
+Production Cost Management 5 - US20
+
+<img src="public/assets/images/WebApplicationWireframes/productionCostManagement_5.png" width="200">
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
