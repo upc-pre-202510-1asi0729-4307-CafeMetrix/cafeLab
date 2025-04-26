@@ -231,7 +231,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
-                TB1: <br> Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br>
+                TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: Logré comunicarme efectivamente con diferentes audiencias al entrevistar usuarios adaptando mi lenguaje, presentar la startup según cada interlocutor, traducir requisitos técnicos en user stories comprensibles, explicar wireframes de forma visual y coordinar reuniones del sprint backlog con diversos perfiles del equipo.<br><br>
                 <strong>Christian Inga</strong><br>
@@ -248,8 +248,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Renzo Uribe</strong><br>
                 TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
-                TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.
-<br>
+                TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 <strong>Christian Inga</strong><br>
@@ -1745,60 +1744,6 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-
-User Goal: Registrarse.
-
-![image](public/assets/images/Wireflows/Register.png)
-
-User Goal: Iniciar Sesión.
-
-![image](public/assets/images/Wireflows/InicioSesion.png)
-
-User Goal: Editar su Perfil.
-
-![image](public/assets/images/Wireflows/Perfil.png)
-
-User Goal: Registrar, Editar y Observar sus Proveedores.
-
-![image](public/assets/images/Wireflows/Proveedores.png)
-
-User Goal: Registrar, Editar y Observar sus Lotes de Café.
-
-![image](public/assets/images/Wireflows/LoteCafe.png)
-
-User Goal: Registrar, Editar y Visualizar sus perfiles de tueste, también comparar entre 2 de ellos.
-
-![image](public/assets/images/Wireflows/PerfilTueste.png)
-
-User Goal: Registrar, Editar y Observar sus Catas con su hexágono sensorial.
-
-![image](public/assets/images/Wireflows/Catas.png)
-
-User Goal: Observar la biblioteca de defectos, con posibles causas y soluciones.
-
-![image](public/assets/images/Wireflows/Defectos.png)
-
-User Goal: Identificar la relación entre el tueste y los sabores del café.
-
-![image](public/assets/images/Wireflows/Relacion.png)
-
-User Goal: Poder registrar, editar y visualizar sus recetas, así como portafolios con las recetas especiales.
-
-![image](public/assets/images/Wireflows/Recetas.png)
-
-User Goal: Tener un registro de las calibraciones de sus moliendas para un mejor resultado.
-
-![image](public/assets/images/Wireflows/Calibracion.png)
-
-User Goal: Tener un adecuado manejo de su inventario, pudiendo registrar lotes y visualizar información importante.
-
-![image](public/assets/images/Wireflows/Inventario.png)
-
-User Goal: Poder gestionar sus costos de una manera eficiente, para optimizar sus ganancias y rentabilidad.
-
-![image](public/assets/images/Wireflows/GestorCostos.png)
-
-
 ### 4.4.2. Web Applications Mock-ups.
 Select Suscription - US03
 ![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
@@ -1968,36 +1913,6 @@ Production Cost Management 5 - US20
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
-<h2>4.5 Web Applications Prototyping</h2>
-
-<p>
-En esta sección, se desarrollaron los primeros prototipos funcionales para las aplicaciones web de CaféLab, basados en los wireframes y mockups definidos previamente. El objetivo principal fue materializar la arquitectura de información, los flujos de usuario y las principales vistas del sistema, validando la experiencia de usuario de forma visual y navegable. 
-Se utilizaron herramientas de colaboración online para construir prototipos de alta fidelidad, enfocados en las funcionalidades críticas como la gestión de café verde, el registro de procesos de tueste, las evaluaciones sensoriales y la administración de recetas.
-</p>
-
-<h3>Prototipo en Lucidchart</h3>
-<p>Accede al prototipo interactivo desarrollado en LucidSpark haciendo clic en el siguiente enlace:</p>
-<p>
-<a href="https://lucid.app/lucidspark/c858f696-6a1b-4a60-a313-758367fc2a0d/edit?viewport_loc=-12280%2C-31145%2C18057%2C9180%2C0_0&invitationId=inv_d209f76f-ba63-4e88-aa0d-3705d146d991" target="_blank">
-Ver prototipo en LucidSpark
-</a>
-</p>
-
-<!-- Inserción de imágenes del prototipo -->
-<img src="/public/assets/images/Prototype/Web.png" alt="Imagen Flow Web" width="600">
-<br><br>
-<img src="/public/assets/images/Prototype/Movil.png" alt="Imagen Flow movil" width="600">
-
-<h3>Video Demostrativo del Prototipo</h3>
-<p>Para ver una demostración en video del prototipo navegable, accede mediante el siguiente enlace:</p>
-<p>
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EQZJw-3YWw5PkjlVXyPWFRkBlS-RTsyw06rtt4pmib3URw?e=SAb8JH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">
-Ver video de prototipo
-</a>
-</p>
-
-<!-- Imagen de enlace al video -->
-<img src="/public/assets/images/Prototype/Video.png" alt="Video Prototipo CaféLab" width="600">
 ## 4.6. Domain-Driven Software Architecture.
 
 El Domain Driven Design (DDD) busca establecer un entendimiento común del dominio que engloba el espacio del problema, fomentando una mejor colaboración entre desarrolladores y expertos del dominio. Este enfoque no se limita a emplear un lenguaje ubicuo, sino que incluye un conjunto de patrones, procesos y diagramas de la arquitectura del sistema, artefactos diseñados para alinear el software con el dominio y fortalecer la perspectiva compartida que promueve DDD.
@@ -2672,18 +2587,15 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 | upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 60bd2fd | feat: change an image link | feat: change an image link | Apr 25, 2025 |
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
 
-## 5.4. Video About-the-Product.
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
+
 # Video About-the-Team.
 # Bibliografía
 - **Specialty Coffee Association (SCA).** (2022). *Annual Report: Certification and Professional Development Statistics*. [https://sca.coffee](https://sca.coffee)
