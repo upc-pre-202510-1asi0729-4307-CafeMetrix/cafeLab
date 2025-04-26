@@ -2733,6 +2733,15 @@ Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conec
 El sprint constituye un período de tiempo establecido, con una duración que oscila entre una y cuatro semanas, durante el cual el equipo de desarrollo se enfoca en completar un conjunto específico de elementos previamente seleccionados del backlog del producto. Este marco temporal representa un elemento esencial en la metodología ágil Scrum, donde el equipo asume el compromiso de entregar un incremento funcional del producto al finalizar cada ciclo. La implementación de sprints permite establecer un enfoque iterativo e incremental en el desarrollo de software, proporcionando la flexibilidad necesaria para adaptarse a los cambios del mercado mientras se mantiene una cadencia constante en la entrega de valor al cliente.
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
+
+| Team Member (Last Name, First Name) | GitHub Username | Información del Producto (US23) | Secciones Específicas por Segmento (US24) | Contacto con Equipo (US25) | Acceso directo a plataforma (US26) |
+|-------------------------------------|-----------------|--------------------------------|------------------------------------------|---------------------------|----------------------------------|
+| Donayre, Adrian                     | adriandonayredev | C                              | L                                        | C                         | L                                |
+| Tantaleán, Guillermo                | guillermotantalean1 | C                              | C                                        | L                         | C                                |
+| Esteban, Henry                      | kalet123-commit | C                              | C                                        | L                         | C                                |
+| Fernández, Fredy                    | u202320083      | C                              | L                                        | C                         | C                                |
+| Inga, Christian                     | Christian1905   | C                              | L                                        | C                         | C                                |
 #### 5.2.1.3. Sprint Backlog 1.
 Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
 
@@ -2854,6 +2863,33 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|-------------------|-------------------|
+| upc-pre-202510-1asi0729-4307-CafeMetrix | main | c1560a3 | Merge pull request #7 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Merge pull request #7 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Apr 26, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | dad89fb | feat: add footer | feat: add footer | Apr 26, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | main | ad751ab | Merge pull request #6 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Merge pull request #6 from upc-pre-202510-1asi0729-4307-CafeMetrix/develop | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | b743dda | Merge pull request #5 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-planes-caracteristicas | Merge pull request #5 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-planes-caracteristicas | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | 95f142a | feat: add plans section | feat: add plans section | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-planes-caracteristicas | 5eeeb66 | Add changes to plans and features | Add changes to plans and features | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | bed640f | feat: organice images | feat: organice images | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | 66f0280 | feature opinion estrellas | feature opinion estrellas | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | cb34e9d | Merge pull request #4 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK06-testimonios | Merge pull request #4 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK06-testimonios | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | e26d7f8 | feat: join section testimonies | feat: join section testimonies | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 1864be9 | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage into feature/TK06-testimonios | Merge branch 'develop' of https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage into feature/TK06-testimonios | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | cf283c1 | Merge pull request #3 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Merge pull request #3 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK03-segmentos-barista-cafeteria | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 6f41ee8 | style: increase benefits section font size on style.css | style: increase benefits section font size on style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 57f555b | feat: Add benefits section to style.css | feat: Add benefits section to style.css | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK03-segmentos-barista-cafeteria | 326e0e0 | feat: Add benefits section to index.html | feat: Add benefits section to index.html | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 88611f3 | Merge pull request #2 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-datos-graficos | Merge pull request #2 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 37c105f | feat (landing): add sections and join with faq section | feat (landing): add sections and join with faq section | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | 7bfc821 | Merge branch 'develop' into feature/TK04-datos-graficos | Merge branch 'develop' into feature/TK04-datos-graficos | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK04-datos-graficos | afe4f71 | feat: add images of coffee parameters | feat: add images of coffee parameters | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK07-faq-contacto | e9b5b7d | Merge pull request #1 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK07-faq-contacto | Merge pull request #1 from upc-pre-202510-1asi0729-4307-CafeMetrix/feature/TK07-faq-contacto | Apr 25, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 5014830 | TK06 completo | TK06 completo | Apr 24, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK06-testimonios | 2ec0566 | Testimonios | Testimonios | Apr 24, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | feature/TK07-faq-contacto | 4bb6c8d | feat: completed FAQ and contact section | feat: completed FAQ and contact section | Apr 23, 2025 |
+| upc-pre-202510-1asi0729-4307-CafeMetrix | develop | 9040ad2 | chore: initial structure of folders and files | chore: initial structure of folders and files | Apr 21, 2025 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
