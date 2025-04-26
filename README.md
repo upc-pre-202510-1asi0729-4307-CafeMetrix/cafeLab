@@ -1744,9 +1744,60 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-User Goal: Registrarse
+
+User Goal: Registrarse.
 
 ![image](public/assets/images/Wireflows/Register.png)
+
+User Goal: Iniciar Sesión.
+
+![image](public/assets/images/Wireflows/InicioSesion.png)
+
+User Goal: Editar su Perfil.
+
+![image](public/assets/images/Wireflows/Perfil.png)
+
+User Goal: Registrar, Editar y Observar sus Proveedores.
+
+![image](public/assets/images/Wireflows/Proveedores.png)
+
+User Goal: Registrar, Editar y Observar sus Lotes de Café.
+
+![image](public/assets/images/Wireflows/LoteCafe.png)
+
+User Goal: Registrar, Editar y Visualizar sus perfiles de tueste, también comparar entre 2 de ellos.
+
+![image](public/assets/images/Wireflows/PerfilTueste.png)
+
+User Goal: Registrar, Editar y Observar sus Catas con su hexágono sensorial.
+
+![image](public/assets/images/Wireflows/Catas.png)
+
+User Goal: Observar la biblioteca de defectos, con posibles causas y soluciones.
+
+![image](public/assets/images/Wireflows/Defectos.png)
+
+User Goal: Identificar la relación entre el tueste y los sabores del café.
+
+![image](public/assets/images/Wireflows/Relacion.png)
+
+User Goal: Poder registrar, editar y visualizar sus recetas, así como portafolios con las recetas especiales.
+
+![image](public/assets/images/Wireflows/Recetas.png)
+
+User Goal: Tener un registro de las calibraciones de sus moliendas para un mejor resultado.
+
+![image](public/assets/images/Wireflows/Calibracion.png)
+
+User Goal: Tener un adecuado manejo de su inventario, pudiendo registrar lotes y visualizar información importante.
+
+![image](public/assets/images/Wireflows/Inventario.png)
+
+User Goal: Poder gestionar sus costos de una manera eficiente, para optimizar sus ganancias y rentabilidad.
+
+![image](public/assets/images/Wireflows/GestorCostos.png)
+
+
 ### 4.4.2. Web Applications Mock-ups.
 Select Suscription - US03
 ![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
