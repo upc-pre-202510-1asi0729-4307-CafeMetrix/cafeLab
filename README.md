@@ -245,7 +245,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             <td style="border: 1px solid #ddd; vertical-align: top;">
              3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
-                <strong>Renzo Uribe</strong><br>
+                <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
@@ -292,12 +292,12 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td>Mi nombre es <strong>Guillermo Tantaleán</strong>, tengo 18 años y estoy cursando el quinto ciclo de Ingeniería de Software en la UPC. Me apasiona el desarrollo web y de aplicaciones móviles. Tengo habilidades para gestión de proyectos, trabajo en equipo, y ventas.</td>
   </tr>
   <tr>
-    <td>Fila 3, Columna 1</td>
-    <td>Fila 3, Columna 2</td>
+  <td><img src="public/assets/images/integrantes/Henry.jpg"alt="Henry Esteban" width="200"> </td>
+    <td>Mi nombre es <strong>Henry Esteban</strong>, tengo 19 años y me encuentro en ing de software. Me considero atractivo a abrir nuevas experiencias y ser mejor persona cada día, me gusta aprender y siempre escucho los buenos consejos</td>
   </tr>
-  <tr>
-    <td>Fila 4, Columna 1</td>
-    <td>Fila 4, Columna 2</td>
+  <tr> 
+    <td> <img src="public/assets/images/integrantes/fredy.jpeg"alt="Carlos Fredy" width="200">  </td>
+    <td> Mi nombre es <strong>Carlos Fernandez</strong>, tengo 21 años y estudio la carrera de Ingenieria de Software, me encuentro preparando en algunas areas como desarrollo de aplicaciones moviles con Flutter y desarrollo de videojuegos como Unity y Godot, considero que un desempeño adecuado en la universidad me ayudara a mejorar mis habilidades y conocimiento en el desarrollo de proyectos </td>
   </tr>
   <tr>
     <td>Fila 5, Columna 1</td>
@@ -644,8 +644,10 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Omar cuenta con una certificación internacional como barista por la SCA y actualmente es dueño de una cafetería especializada. Tiene un conocimiento sólido sobre los procesos del café, desde la selección del grano y sus características (como altura, proceso y humedad), hasta el control del tueste y la calibración diaria de las bebidas. Se encarga personalmente del almacenamiento y monitoreo del grano, utilizando herramientas como Excel para llevar registros de peso, rendimiento y trazabilidad. Aunque se maneja bien con herramientas digitales básicas, reconoce que ciertos procesos manuales podrían optimizarse mediante una plataforma digital especializada. Publica contenido educativo sobre café en LinkedIn, lo cual también refuerza su rol como formador dentro del rubro.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:26:13-32:40</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
+   
   </tr>
 </table>
 
@@ -671,8 +673,9 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Ivo es dueño de una cafetería de especialidad y cuenta con una amplia experiencia en el manejo integral del café, desde la selección del grano hasta la experiencia final en taza. Aunque actualmente no trabaja con cafés certificados, valora su importancia y reconoce la necesidad de herramientas digitales para gestionar mejor la documentación relacionada. La comunicación de las características del café hacia sus clientes es principalmente oral, apoyada en pizarras, y considera útil un sistema visual y estandarizado para este fin. Evalúa a sus proveedores mediante catas y relaciones de confianza, sin un registro formal, y le interesaría contar con una plataforma para organizar esa información. El almacenamiento de café lo gestiona de forma empírica, pero ha experimentado pérdidas que podrían evitarse con monitoreo digital. Para mantener la consistencia entre baristas, implementa protocolos de preparación y entrenamiento constante, aunque identifica la necesidad de una herramienta para estandarizar y compartir recetas. Transmite el conocimiento técnico de manera oral y presencial, y ve valor en una bitácora digital que permita documentar recetas, aprendizajes y procesos. Utiliza Excel y WhatsApp como herramientas principales, pero admite que muchos procesos siguen siendo manuales. Está interesado en una plataforma integral que permita gestionar trazabilidad, control de calidad, inventario, recetas, capacitación y costos de forma centralizada, mejorando así la eficiencia y la calidad de su operación.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:32:40-40:46</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
   </tr>
 </table>
 
@@ -698,8 +701,9 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Raul describió sus principales desafíos operativos y necesidades tecnológicas. Actualmente maneja de forma manual y desorganizada aspectos cruciales como certificaciones, información de proveedores y trazabilidad del café, lo que dificulta responder ágilmente a los clientes. Utiliza métodos básicos para comunicar las características especiales del café, incluyendo tarjetas informativas, aunque reconoce que necesita algo más visual y atractivo. Para mantener la consistencia entre baristas, implementa un sistema de mentoría y reuniones semanales de cata, pero admite que su documentación y capacitación necesitan actualización. En cuanto a tecnología, usa principalmente Excel, una caja registradora digital y aplicaciones básicas de tueste, pero carece de un sistema integral. Su principal necesidad es una plataforma que mejore la eficiencia operativa y la experiencia del cliente, permitiendo mostrar el valor agregado de sus productos para justificar precios más altos y aumentar la rentabilidad del negocio. El dueño enfatiza que cualquier solución debe ser tangible y visible para los clientes, ayudando a gestionar todo el proceso desde la recepción del grano hasta la taza final.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:19:48-26:13</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
   </tr>
 </table>
 
@@ -728,8 +732,9 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Alejandra trabaja en el área operativa de una cadena de cafeterías, donde se encarga de estandarizar las recetas y asegurar la consistencia en la calidad del café entre tiendas. Tiene conocimientos técnicos sobre calibración, evaluación sensorial y trazabilidad del grano, y maneja protocolos detallados para eventos fuera del entorno habitual. Utiliza balanzas de precisión y máquinas programables como parte de sus herramientas diarias. Si bien reconoce que ciertos datos sensibles no pueden compartirse por temas de confidencialidad, considera que una plataforma digital que integre información de trazabilidad, tueste y calidad sensorial podría ser de gran valor para su operación.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:00:00-06:55</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
   </tr>
 </table>
 
@@ -755,8 +760,9 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Anyela es una barista con 3 años de experiencia en café de especialidad y participante en competencias de latte art. Sus principales desafíos incluyen mantener la consistencia entre baristas, documentar recetas, encontrar temperaturas ideales para métodos filtrados, preservar propiedades del café mediante almacenamiento adecuado y lograr precisión en calibraciones. Aunque utiliza registros manuales, identifica la necesidad de herramientas tecnológicas para evaluación del café, análisis de variedades y monitoreo de almacenamiento. Considera valioso implementar una plataforma integral que conecte todo el proceso del café y espacios tipo laboratorio que integren teoría y práctica, desde el cultivo hasta la taza final.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:13:27-19:48</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
   </tr>
 </table>
 
@@ -782,15 +788,15 @@ Ofrecer el Plan Base Cafetal gratuito con funcionalidades clave (registro básic
     <td>Víctor Cruz es un barista autodidacta con experiencia en café de especialidad, formado a través de investigación personal, observación en cafeterías y visitas a fincas productoras de café como las de Villa Rica. Su enfoque destaca por la curiosidad y el aprendizaje empírico, aunque reconoce limitaciones en la documentación de métodos tradicionales como el tueste a leña. Sus principales desafíos incluyen la calibración precisa de máquinas inestables, la estandarización de recetas entre baristas, y el control del inventario ante la falta de tiempo y recursos. Utiliza métodos como el V60 para evaluación sensorial y busca profesionalizar aún más su práctica para aplicar su conocimiento a nivel internacional. Considera clave contar con una plataforma integral que permita rastrear todo el proceso del café, desde el grano verde hasta la taza de café final, y destaca el valor de la tecnología para mejorar consistencia, trazabilidad y eficiencia.</td>
   </tr>
   <tr>
-    <td>Timing:</td>
-    <td></td>
+    <td>Timing:06:55-13:27</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ESlL0dXXzIFHvNO_L7wd6lAB96OjUBRnmY5j9-DMdWezVg?e=6ZBgG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación</td>
   </tr>
 </table>
 
 
 
 ### 2.2.3. Análisis de entrevistas
-<h3>2.2.3. Análisis de entrevistas</h3>
 <h4>Análisis del segmento de administradores o dueños de cafeterías de especialidad</h4>
 
 <p>
@@ -1703,9 +1709,40 @@ Los sistemas de navegación de Cafelab permiten al usuario recorrer los diferent
 - Call To Action claros: “Registrar nuevo tueste”, “Crear receta”, “Ver historial”.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+**Landing Page para Desktop Web Browser**
+La versión wireframe de nuestra landing page presenta una estructura básica compuesta por diversos elementos fundamentales. En la parte superior se ubica la navegación principal representada mediante bloques simples que indican secciones como Beneficios, Planes, Contáctanos, Iniciar sesión y el selector de idioma. Las visualizaciones de datos se representan mediante áreas designadas para dashboards y gráficos, utilizando rectángulos con líneas básicas en su interior. Asimismo, los planes de suscripción se organizan en una cuadrícula de cuatro tarjetas, cada una como un rectángulo con espacios para encabezados y listas de características. Finalmente, la sección de testimonios se muestra con bloques para imágenes de perfil y áreas de texto para citas.
+
+![Hero](public/assets/images/LandingWireframes/1.png)
+![Segmentacion de usuarios](public/assets/images/LandingWireframes/2.png)
+![Visualizaciones](public/assets/images/LandingWireframes/3.png)
+![Planes](public/assets/images/LandingWireframes/4.png)
+![Testimonios](public/assets/images/LandingWireframes/5.png)
+![FAQ](public/assets/images/LandingWireframes/6.png)
+![Footer](public/assets/images/LandingWireframes/7.png)
+
+**Landing Page para Mobile Web Browser**
+![MobileWireframes](public/assets/images/LandingWireframes/8.png)
 ### 4.3.2. Landing Page Mock-up.
+**Landing Page para Desktop Web Browser**
+En nuestra versión mock-up se evidencia la implementación de los elementos de diseño específicos de Café Lab. Se aplicó la paleta de colores característica, que incluye tonos tierra y marrones cálidos como color primario, junto con verdes oscuros como color secundario, creando una estética que evoca la naturaleza del café y su proceso artesanal. La tipografía seleccionada se implementó de manera consistente en todos los elementos de texto, desde los encabezados principales hasta los párrafos descriptivos y botones de acción.
+
+![Hero](public/assets/images/LandingMockUps/1.png)
+![Segmentacion de usuarios](public/assets/images/LandingMockUps/2.png)
+![Visualizaciones](public/assets/images/LandingMockUps/3.png)
+![Planes](public/assets/images/LandingMockUps/4.png)
+![Testimonios](public/assets/images/LandingMockUps/5.png)
+![FAQ](public/assets/images/LandingMockUps/6.png)
+![Footer](public/assets/images/LandingMockUps/7.png)
+
+**Landing Page para Mobile Web Browser**
+![Inicio, menu, visualizaciones, planes](public/assets/images/LandingMockUps/8.png)
+![testimonios, FAQ, footer](public/assets/images/LandingMockUps/9.png)
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=0-1&t=rINeeT0ZdWiMMppa-1)
+
+**Web Application para Desktop Web Browser**
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
@@ -1741,9 +1778,387 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+![image](https://github.com/user-attachments/assets/3a527d25-49fc-4c9c-a334-0cebe38422f2)
+
+
 ### 4.7.2. Class Dictionary.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th colspan="7" style="text-align:center; border: 1px solid #000;">CaféLab Class Dictionary (Actualizado)</th>
+    </tr>
+    <tr>
+        <th style="text-align:center; border: 1px solid #000;">Class</th>
+        <th style="text-align:center; border: 1px solid #000;">Bounded Context</th>
+        <th style="text-align:center; border: 1px solid #000;">Entity/Value Object</th>
+        <th style="text-align:center; border: 1px solid #000;">Description</th>
+        <th style="text-align:center; border: 1px solid #000;">Attributes</th>
+        <th style="text-align:center; border: 1px solid #000;">Methods</th>
+        <th style="text-align:center; border: 1px solid #000;">Relationships</th>
+    </tr>
+    <!-- USER MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>User</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a user of the CaféLab system (e.g., barista or café owner).</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - email: String<br>
+            - password: String<br>
+            - name: String<br>
+            - role: String<br>
+            - experience: String<br>
+            - plan: Plan
+        </td>
+        <td style="border: 1px solid #000;">
+            - register()<br>
+            - authenticate()<br>
+            - updateProfile()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..1 Plan: subscribes to<br>
+            - 1 to 0..* Supplier: manages<br>
+            - 1 to 0..* RoastProfile: creates<br>
+            - 1 to 0..* Recipe: creates<br>
+            - 1 to 0..* GrindCalibration: documents<br>
+            - 1 to 0..* Beverage: creates<br>
+            - 0..* StatusUpdate: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Plan</strong></td>
+        <td style="border: 1px solid #000;">User Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a subscription plan for CaféLab users.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - price: Float<br>
+            - features: List of String
+        </td>
+        <td style="border: 1px solid #000;">
+            - getFeatures()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..1 to 1 User: subscribed by
+        </td>
+    </tr>
+    <!-- GREEN COFFEE MANAGEMENT -->
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Supplier</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a supplier of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - name: String<br>
+            - location: String<br>
+            - contact: String<br>
+            - coffeeTypes: List of String<br>
+            - evaluations: List of Float
+        </td>
+        <td style="border: 1px solid #000;">
+            - addEvaluation()<br>
+            - getAverageEvaluation()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* CoffeeLot: provides
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>CoffeeLot</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a batch of green coffee.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - traceabilityCode: String<br>
+            - origin: String<br>
+            - variety: String<br>
+            - process: String<br>
+            - altitude: Float<br>
+            - weight: Float<br>
+            - status: String<br>
+            - statusUpdates: List of StatusUpdate
+        </td>
+        <td style="border: 1px solid #000;">
+            - updateStatus()<br>
+            - generateTraceabilityCode()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 1 to 0..* Certification: has<br>
+            - 1 to 0..* RoastSession: used in<br>
+            - 1 to 0..* SensoryEvaluation: evaluated in<br>
+            - 0..* to 1 Inventory: tracked by<br>
+            - 1 to 0..1 Cost: incurs<br>
+            - 1 to 0..1 PerformanceAnalysis: analyzed in<br>
+            - 1 to 0..1 TraceabilityReport: documented in<br>
+            - 0..* to 1 Recipe: associated with
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>StatusUpdate</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Value Object</td>
+        <td style="border: 1px solid #000;">Represents a status change event for a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - timestamp: DateTime<br>
+            - status: String<br>
+            - responsible: User
+        </td>
+        <td style="border: 1px solid #000;">- None</td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: updates<br>
+            - 0..* to 1 User: responsible for
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #000;"><strong>Certification</strong></td>
+        <td style="border: 1px solid #000;">Green Coffee Management</td>
+        <td style="border: 1px solid #000;">Entity</td>
+        <td style="border: 1px solid #000;">Represents a certification of a coffee lot.</td>
+        <td style="border: 1px solid #000;">
+            - id: String<br>
+            - type: String<br>
+            - documentation: String<br>
+            - lotId: String
+        </td>
+        <td style="border: 1px solid #000;">
+            - validate()
+        </td>
+        <td style="border: 1px solid #000;">
+            - 0..* to 1 CoffeeLot: associated with
+        </td>
+    </tr>
+
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>SensoryEvaluation</strong></td>
+    <td style="border: 1px solid #000;">Sensory Evaluation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a sensory evaluation (tasting) of a roasted coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - roastSessionId: String<br>
+        - attributes: Map of String to Float<br>
+        - scores: Map of String to Float<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateProfile()<br>
+        - compare(other: SensoryEvaluation)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 CoffeeLot: evaluated in<br>
+        - 0..* to 1 RoastSession: evaluated in
+    </td>
+</tr>
+
+<!-- Preparation -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Recipe</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a coffee preparation recipe created by a user.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - method: String<br>
+        - ratio: Float<br>
+        - temperature: Float<br>
+        - time: Float<br>
+        - grindSetting: String<br>
+        - lotId: String<br>
+        - permissions: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - shareWithTeam(permissions: List of String)<br>
+        - suggestImprovement(changes: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by<br>
+        - 0..* to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>GrindCalibration</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a grind calibration for coffee preparation.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - equipment: String<br>
+        - grindSetting: String<br>
+        - timestamp: DateTime<br>
+        - image: String<br>
+        - extractionTime: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: GrindCalibration)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: documented by
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Beverage</strong></td>
+    <td style="border: 1px solid #000;">Preparation</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a beverage created by a user in their portfolio.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - userId: String<br>
+        - name: String<br>
+        - category: String<br>
+        - ingredients: List of String<br>
+        - method: String<br>
+        - presentation: String<br>
+        - photo: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - categorize(category: String)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 User: created by
+    </td>
+</tr>
+
+<!-- Administration -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>Inventory</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the inventory of green and roasted coffee.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - items: Map of CoffeeLot to Float<br>
+        - movements: List of Movement<br>
+        - alerts: List of String
+    </td>
+    <td style="border: 1px solid #000;">
+        - updateStock(lot: CoffeeLot, quantity: Float)<br>
+        - generateAlert()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 1 to 0..* CoffeeLot: tracks<br>
+        - 0..* to 1 Movement: has
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Movement</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Value Object</td>
+    <td style="border: 1px solid #000;">Represents an inventory movement (addition or subtraction).</td>
+    <td style="border: 1px solid #000;">
+        - timestamp: DateTime<br>
+        - lotId: String<br>
+        - quantity: Float<br>
+        - type: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - None
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..* to 1 Inventory: belongs to<br>
+        - 0..* to 1 CoffeeLot: affects
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>Cost</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the cost structure associated with a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - categories: Map of String to Float<br>
+        - totalCost: Float<br>
+        - costPerKilo: Float<br>
+        - costPerCup: Float<br>
+        - margin: Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - calculateMetrics()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>PerformanceAnalysis</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents the performance analysis of a coffee lot production process.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - metrics: Map of String to Float
+    </td>
+    <td style="border: 1px solid #000;">
+        - compareWith(other: PerformanceAnalysis)
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: associated with
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #000;"><strong>TraceabilityReport</strong></td>
+    <td style="border: 1px solid #000;">Administration</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a traceability report for a coffee lot.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - lotId: String<br>
+        - chainDetails: String<br>
+        - commercialSheet: String
+    </td>
+    <td style="border: 1px solid #000;">
+        - generateCommercialSheet()
+    </td>
+    <td style="border: 1px solid #000;">
+        - 0..1 to 1 CoffeeLot: documented for
+    </td>
+</tr>
+<!-- Landing Page -->
+<tr>
+    <td style="border: 1px solid #000;"><strong>ContactForm</strong></td>
+    <td style="border: 1px solid #000;">Landing Page</td>
+    <td style="border: 1px solid #000;">Entity</td>
+    <td style="border: 1px solid #000;">Represents a contact form submission from the landing page.</td>
+    <td style="border: 1px solid #000;">
+        - id: String<br>
+        - name: String<br>
+        - email: String<br>
+        - message: String<br>
+        - timestamp: DateTime
+    </td>
+    <td style="border: 1px solid #000;">
+        - sendConfirmation()
+    </td>
+    <td style="border: 1px solid #000;">
+        - None (standalone entity)
+    </td>
+</tr>
+
+</table>
+
+</table>
+
 ## 4.8. Database Design.
+El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -1861,11 +2276,183 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 - Agregar comentarios cuando se requiera contexto o explicaciones adicionales.
   
 ### 5.1.4. Software Deployment Configuration.
+#### Landing Page Deployment
+Para desplegar la landing page, es necesario contar con una cuenta de GitHub y tener acceso como administrador al repositorio del proyecto. A partir de ahí, se pueden cargar los documentos desde un entorno local al repositorio y proceder con el despliegue. A continuación, se describen los pasos seguidos:
+
+1. **Creación de ramas**: Se crean ramas para que cada miembro del proyecto pueda subir sus respectivas secciones de forma organizada.
+2. **Estructura del proyecto**: Se define una estructura clara:
+   - `index.html`: contiene el código principal de la landing.
+   - Carpeta `assets/css`: para los estilos.
+   - Carpeta `img`: para las imágenes usadas en el `index.html`.
+   - Archivos `.js`: para funcionalidades JavaScript necesarias.
+3. **Subida de archivos al repositorio**:
+   - Instalación de Git.
+   - Configuración del repositorio remoto.
+   - Uso de comandos Git para hacer commit y push de los cambios.
+4. **Configuración para despliegue**:
+   - Se realiza un pull request hacia la rama `main`.
+   - Verificación de que no haya errores para un despliegue limpio.
+5. **Resolución de conflictos**:
+   - En caso de conflictos, se resuelven con herramientas como Visual Studio Code.
+   - Se verifica que los conflictos hayan sido solucionados correctamente.
+
+Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conectamos el repositorio de GitHub para un despliegue seguro y que permita futuras actualizaciones sin afectar las funcionalidades del Front End.
+
+🔗 **Landing Page en Netlify**: [https://cafe-lab-landing-opensource.netlify.app/](https://cafe-lab-landing-opensource.netlify.app/)
+
+---
+
+#### Front End Web Application Deployment
+
+1. Iniciamos sesión en Netlify y vinculamos el repositorio correspondiente.  
+   ![Imagen 1](public/assets/images/SoftwareDeploymentConfiguration/Imagen1.png)
+
+2. Seleccionamos el proyecto adecuado desde la lista de repositorios.  
+   ![Imagen 2](public/assets/images/SoftwareDeploymentConfiguration/Imagen2.png)
+
+3. Completamos los campos necesarios:
+   - Equipo.
+   - Rama donde están los archivos.
+   - Nombre de la página a desplegar.  
+   ![Imagen 3](public/assets/images/SoftwareDeploymentConfiguration/Imagen3.png)  
+   ![Imagen 4](public/assets/images/SoftwareDeploymentConfiguration/Imagen4.png)
+
+4. Procedemos con el despliegue del sitio.  
+   ![Imagen 5](public/assets/images/SoftwareDeploymentConfiguration/Imagen5.png)
+
+5. Verificamos que el despliegue haya sido exitoso desde la sección de sitios activos en Netlify.  
+   ![Imagen 6](public/assets/images/SoftwareDeploymentConfiguration/Imagen6.png)  
+   ![Imagen 7](public/assets/images/SoftwareDeploymentConfiguration/Imagen7.png)
+
+🔗 **Página desplegada en Netlify**: [https://cafe-lab-landing-opensource.netlify.app/](https://cafe-lab-landing-opensource.netlify.app/)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+El sprint constituye un período de tiempo establecido, con una duración que oscila entre una y cuatro semanas, durante el cual el equipo de desarrollo se enfoca en completar un conjunto específico de elementos previamente seleccionados del backlog del producto. Este marco temporal representa un elemento esencial en la metodología ágil Scrum, donde el equipo asume el compromiso de entregar un incremento funcional del producto al finalizar cada ciclo. La implementación de sprints permite establecer un enfoque iterativo e incremental en el desarrollo de software, proporcionando la flexibilidad necesaria para adaptarse a los cambios del mercado mientras se mantiene una cadencia constante en la entrega de valor al cliente.
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1.
+Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
+
+<p align="center">
+    <img src="public/assets/images/Sprint1/trello.png" alt="Organización en la herramienta Trello">
+</p>
+
+Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
+
+<table>
+        <thead>
+            <tr>
+                <th colspan="2">User Story</th>
+                <th colspan="6">Work-Item/Task</th>
+            </tr>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status (To-do / In Process / To Review / Done)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>US23</td>
+                <td>Información del Producto</td>
+                <td>TK01</td>
+                <td>Configurar proyecto y estructura base</td>
+                <td>Crear estructura inicial del proyecto e implementar header con navegación y hero banner principal</td>
+                <td>4</td>
+                <td>Renzo</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK02</td>
+                <td>Desarrollar sección "Enfoque en beneficios claros"</td>
+                <td>Implementar sección con título y áreas diferenciadas para baristas y cafeterías</td>
+                <td>3</td>
+                <td>Joseph</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US24</td>
+                <td>Secciones Específicas por Segmento</td>
+                <td>TK03</td>
+                <td>Implementar secciones para baristas y cafeterías</td>
+                <td>Crear las áreas "Soy barista" y "Tengo una cafetería" con descripciones y CTAs</td>
+                <td>4</td>
+                <td>Christian</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK04</td>
+                <td>Desarrollar sección de datos y gráficos</td>
+                <td>Implementar área "Datos que respaldan tus decisiones" con gráficos de dashboard y curvas</td>
+                <td>5</td>
+                <td>Adrian</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK05</td>
+                <td>Crear sección de planes y características</td>
+                <td>Implementar la comparativa de los 4 planes con precios y listas de características</td>
+                <td>5</td>
+                <td>Fredy</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US25</td>
+                <td>Contacto con Equipo</td>
+                <td>TK06</td>
+                <td>Desarrollar sección de testimonios</td>
+                <td>Crear área de testimonios con fotos y citas de usuarios actuales</td>
+                <td>3</td>
+                <td>Kalet</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK07</td>
+                <td>Implementar sección FAQ y contacto</td>
+                <td>Crear área combinada con preguntas frecuentes y formulario de contacto con validación básica</td>
+                <td>4</td>
+                <td>Guillermo</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td>US26</td>
+                <td>Acceso directo a plataforma</td>
+                <td>TK08</td>
+                <td>Crear footer y enlaces</td>
+                <td>Implementar pie de página con navegación, recursos y contacto</td>
+                <td>4</td>
+                <td>Joseph</td>
+                <td>To-do</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>TK09</td>
+                <td>Optimizar responsive y realizar pruebas</td>
+                <td>Asegurar compatibilidad con dispositivos móviles y ejecutar pruebas de funcionamiento</td>
+                <td>5</td>
+                <td>Adrian</td>
+                <td>To-do</td>
+            </tr>
+        </tbody>
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
