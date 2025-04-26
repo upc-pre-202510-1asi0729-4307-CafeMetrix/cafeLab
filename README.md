@@ -107,7 +107,9 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Redacté el apartado de antecedentes y problemática, estructuré el análisis de entrevistas, elaboré el To-Be Scenario Mapping, algunas user stories y participé en el diseño de wireframes y mockups de la landing page.
+
+</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
