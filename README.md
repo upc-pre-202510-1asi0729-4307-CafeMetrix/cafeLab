@@ -229,7 +229,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
-                TB1: <br><br>
+                TB1: Participación activa en reuniones de coordinación del equipo para definir el enfoque de las secciones. <br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
@@ -239,14 +239,14 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Carlos Fernandez</strong><br>
                 TB1: 
         </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
+        <td style="border: 1px solid #ddd; vertical-align: top;"> - El equipo reforzó sus habilidades de comunicación oral mediante reuniones efectivas de coordinación y toma de decisiones colaborativas.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; vertical-align: top;">
              3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
-                TB1: <br><br>
+                TB1: Redacción y documentación de la sección de style guidelines.<br><br> 
                 <strong>Henry Esteban</strong><br>
                 TB1: <br><br>
                 <strong>Adrian Donayre</strong><br>
@@ -256,8 +256,9 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
                 <strong>Carlos Fernandez</strong><br>
                 TB1: 
         </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;"></td>
+        <td style="border: 1px solid #ddd; vertical-align: top;"> - Durante la entrega TB1, el equipo fortaleció sus habilidades de comunicación.Asimismo, a través de la redacción de las secciones del informe en formato Markdown y la documentación técnica del proyecto en el repositorio de GitHub, cada integrante mejoró su capacidad de comunicación escrita técnica y profesional, adaptándola al contexto del desarrollo de software y a los estándares solicitados.</td> 
         </tr>
+        
 </table>
 </div>
 <!--TODAS LAS SECCIONES A COMPLETAR-->
