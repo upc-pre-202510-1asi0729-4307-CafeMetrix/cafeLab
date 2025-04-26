@@ -2593,8 +2593,37 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 
-# Conclusiones
-## Conclusiones y recomendaciones.
+# Conclusiones y Recomendaciones
+
+## Conclusiones
+
+- **Identificación precisa del problema y usuario objetivo**  
+  El proyecto ha logrado identificar claramente dos segmentos clave (baristas profesionales y cafeterías de especialidad) con necesidades específicas en la cadena de valor del café de especialidad. La definición del problema basada en la metodología _Who, What, When, Where, Why, How_ muestra un análisis profundo de las necesidades del mercado.
+
+- **Propuesta de valor diferenciada**  
+  CaféLab ha desarrollado una solución dual (software + IoT) que aborda directamente los puntos de dolor identificados: la falta de integración entre procesos, la documentación inadecuada y la dificultad para replicar estándares de calidad.
+
+- **Enfoque metodológico sólido**  
+  La implementación de la metodología Lean UX con declaraciones de hipótesis claras y métricas de éxito cuantificables (mejora de consistencia en 40%, aumento de satisfacción del cliente en 30%, reducción de inconsistencias en extracción en 35%) demuestra un enfoque basado en datos.
+
+- **Integración tecnológica innovadora**  
+  La incorporación del sensor IoT _TrackSilo_ para monitorear en tiempo real la temperatura y humedad del café verde representa una innovación tecnológica alineada con las necesidades específicas del sector.
+
+- **Modelo de negocio claro**  
+  El proyecto contempla la generación de ingresos recurrentes mediante planes premium ($29 y $59/mes), lo que sugiere una estrategia de monetización viable.
+
+## Recomendaciones
+
+- **Estrategia de adopción gradual**  
+  Considerando la posible resistencia a la tecnología mencionada como riesgo, se recomienda desarrollar un plan de onboarding que permita a los usuarios migrar gradualmente de sus sistemas manuales/tradicionales a la plataforma digital CaféLab.
+
+- **Programa de embajadores**  
+  Identificar baristas de alto perfil o cafeterías reconocidas para que actúen como primeros adoptantes y embajadores de la solución, creando casos de éxito documentados que demuestren el valor tangible de la plataforma.
+
+- **Ampliación del ecosistema**  
+  Evaluar la posibilidad de integrar la plataforma con otros sistemas existentes en cafeterías (puntos de venta, gestión de inventario, CRM) para ofrecer una solución más completa y eliminar silos de información.
+
+
 
 # Video About-the-Team.
 # Bibliografía
