@@ -1752,6 +1752,11 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
  
  ![image](public/assets/images/Wireflows/Register.png)
 
+ **User Goal: Iniciar Sesión.**
+ <br>El usuario de la aplicación ya cuenta con una cuenta, sea de barista o dueño de cafetería, si ingresa mal sus datos, se le pedirá que los ingrese nuevamente, una vez los datos sean correctos, podrá acceder a las herramientas según su plan.
+ 
+ ![image](public/assets/images/Wireflows/InicioSesion.png)
+
 ### 4.4.2. Web Applications Mock-ups.
 Select Suscription - US03
 ![SelectSuscription](public/assets/images/WebAppMockup/SelectSuscriptionUS03.png)
