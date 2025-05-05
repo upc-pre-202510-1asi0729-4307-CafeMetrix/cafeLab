@@ -1746,6 +1746,12 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+ **User Goal: Registrarse y elegir suscripción**
+ <br>El usuario elegirá si es un barista o un dueño de cafetería, en base a esto el formulario de registro mostrará más o menos campos a completar, una vez registrados podrán elegir el plan que más deseen, luego, procederán a la pantalla de pago. Confirmado el pago, podrán acceder a las herramientas disponibles según su plan.
+ 
+ ![image](public/assets/images/Wireflows/Register.png)
+
 ### 4.4.2. Web Applications Mock-ups.
 Select Suscription - US03
 ![SelectSuscription](public/assets/images/WebAppMockup/SelectSuscriptionUS03.png)
