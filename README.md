@@ -2843,6 +2843,4 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 - **Evans, E.** (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Domain Language.[https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)
 # Anexos
 
-- Enlace para acceder al [video exposición de TB1]
-
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ERZ40FoLFUZNtB3YnDV_z-8Be3PzAv32V--VWLivNxBzUw?e=LodEfs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver grabación
+- Enlace para acceder al [video exposición de TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ERZ40FoLFUZNtB3YnDV_z-8Be3PzAv32V--VWLivNxBzUw?e=LodEfs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
