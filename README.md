@@ -1909,6 +1909,21 @@ Production Cost Management 5 - US20
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
+En el desarrollo de prototipos, se tomo en cuenta los style guides, tanto como para desktop y mobile, asi mismo para sus versiones en landing page y web app. Se tomaron en cuenta lo siguiente: 
+
+### Facilidad de reconocimiento
+Se cuenta con campos que los usuarios puedan reconocer para completar sus datos, asi como elementos conocidos como iconos e imagenes, de esta forma el usuario reconoce facilmente la seccion donde se encuentra
+### Diseño responsive
+Se toma un diseño que pueda adaptarse a los dispositivos del usuario, de esta forma puede contar con mayor portabilidad, sin perder los estilos y organizacion de los elementos
+### Informacion clara
+Los mensajes mostrados son claros, entendibles y universales en la pagina, de esta forma el usuario no tiene que procesar mayo informacion de forma irrelevante para su experiencia en la plataforma
+![Prototipo](public/assets/images/UserFlowDiagram/prototipoCafe.png)
+
+Enlace para acceder al video del [Web Applications Prototyping] (
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EQZJw-3YWw5PkjlVXyPWFRkBlS-RTsyw06rtt4pmib3URw?e=twr1MY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver grabación).
+
+Enlace del prototipo [Figma](https://www.figma.com/proto/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?page-id=140%3A178&node-id=642-1700&p=f&viewport=-12071%2C-1480%2C0.28&t=XMc9m3xS3bXemTM3-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=642%3A1700&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture.
 
 El Domain Driven Design (DDD) busca establecer un entendimiento común del dominio que engloba el espacio del problema, fomentando una mejor colaboración entre desarrolladores y expertos del dominio. Este enfoque no se limita a emplear un lenguaje ubicuo, sino que incluye un conjunto de patrones, procesos y diagramas de la arquitectura del sistema, artefactos diseñados para alinear el software con el dominio y fortalecer la perspectiva compartida que promueve DDD.
