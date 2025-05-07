@@ -2333,8 +2333,93 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+#### Project Management
+1. Trello: Para gestión general los sprints, tareas del equipo, etc.
+  - Link: [Trello](https://trello.com/b/diGtoNBa/sprint-1)
+
+#### Product UX/UI Design:
+1. Figma: Para diseños como Wireframes, Mockups, Prototypes, etc. relacionados a archivos como
+  - Link: [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=140-178&t=fprZU86nz2ahB2Bi-1)
+2. Vertabelo: Para diagramas de base de datos (ERD, diagramas de clases, etc.)
+  - Link: [Vertabelo](Vertabelo)
+
+#### Software Development:
+1. Visual Studio Code: Para el desarrollo de la Landing Page del proyecto.
+  - Link: [LandingPage](https://cafelab-landingpage-appweb.netlify.app/)
+
+#### Software Documentation:
+1. Visual Studio Code: Para la documentación de CaféLab se utilizó Visual Studio Code para el desarrollo de los capítulos en formato Markdown.
+  - Link: [Documentation](Documentation)
+
 ### 5.1.2. Source Code Management.
+Para todo el desarrollo de CaféLab se usará el flujo de trabajo de Gitflow. Landing Page Repository: [Landing Page Repository](Landing Page Repository)
+
+## Flujo de trabajo GitFlow:
+El flujo de trabajo Git Flow fue planteado por Vincent Driessen en "A successful Git branching model".
+
+#### Main branch
+La rama principal (main) es donde se mantiene el código más estable y desplegado.
+
+#### Develop branch
+La rama develop actúa como el área principal donde se integran los últimos avances y correcciones antes de hacerles merge a master.
+
+#### Release branch
+Las ramas release facilitan la preparación para una nueva versión del producto. Nos permiten aplicar correcciones menores en caso de imprevistos mientras develop sigue recibiendo nuevas funcionalidades.
+- Deriva de: develop
+- Se fusiona en: develop y master
+
+#### Feature branch
+Las ramas feature son utilizadas para desarrollar nuevas funcionalidades o mejoras específicas. Cada característica se desarrolla de forma aislada hasta estar lista para integrarse.
+- Deriva de: develop
+- Se fusiona de regreso a: develop
+
+#### Hotfix branch
+Las ramas hotfix se crean para corregir errores críticos detectados en producción, asegurando una reacción rápida sin interrumpir el trabajo de desarrollo continuo.
+- Deriva de: master.
+- Se fusiona en: master y develop.
+
+## Conventional Commits
+Aplicamos la convención Conventional Commits para redactar mensajes de commit claros, consistentes y semánticos. Esta práctica facilita el rastreo de cambios, la generación automática de registros de cambios y mejora la colaboración en equipo.
+
+## Tipos De Conventional Commits
+
+1. feat: Para introducir una nueva funcionalidad.
+2. fix: Para corregir un error existente.
+3. docs: Cambios relacionados a la documentación.
+4. style: Modificaciones de formato que no afectan el comportamiento del código.
+5. refactor: Reestructuraciones internas sin cambios funcionales o correcciones de errores.
+6. test: Agregado o modificación de pruebas.
+7. chore: Tareas de mantenimiento o cambios que no afectan el código de producción.
+8. perf: Mejoras de rendimiento.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+Todo el código de la solución deberá ser escrito completamente en inglés para mantener la consistencia internacional y facilitar su mantenimiento.
+
+## HTML
+- Emplear nombres de etiquetas y atributos en minúscula.
+- Cerrar correctamente todas las etiquetas HTML.
+- Especificar siempre los atributos alt, width, y height para imágenes para mejorar la accesibilidad.
+- Evitar espacios innecesarios en los atributos HTML.
+
+## CSS
+- Asignar nombres de IDs y clases descriptivos que reflejen el propósito del elemento.
+- Utilizar nombres cortos pero claros para IDs y clases.
+- Aplicar propiedades abreviadas cuando sea posible para optimizar el código.
+- Evitar el uso de unidades después de valores de cero (0).
+- Ordenar las declaraciones CSS en orden alfabético para facilitar su lectura.
+
+## JavaScript
+- Mantener una sintaxis expandida: llaves de apertura en la misma línea de la declaración, cierre en línea nueva.
+- Aplicar lowerCamelCase en el nombramiento de variables y funciones.
+- Usar let y const para declarar variables en lugar de var.
+- Asegurar que los nombres de las funciones sean descriptivos y en lowerCamelCase.
+
+## Lenguaje Gherkin
+- Redactar títulos descriptivos y concisos para escenarios (Feature, Scenario).
+- Respetar estrictamente la estructura Given-When-Then.
+- Usar un lenguaje orientado al negocio, entendible para todos los stakeholders, evitando detalles técnicos.
+- Implementar Scenario Outline cuando existan múltiples casos similares.
+- Agregar comentarios cuando se requiera contexto o explicaciones adicionales.
 
 ### 5.1.4. Software Deployment Configuration
 #### Landing Page Deployment
@@ -2588,12 +2673,67 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 | upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 5b3bc3a | feat: add new member | feat: add new member | Apr 25, 2025 |
 | upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | ad5de07 | style: modify interviews header | style: modify interviews header | Apr 25, 2025 |
 | upc-pre-202510-1asi0730-4364-CafeMetrix | feature/informe-readme | 60bd2fd | feat: change an image link | feat: change an image link | Apr 25, 2025 |
-#### 5.2.1.5. Execution Evidence for Sprint Review.
 
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### Sección diferenciación de segmentos objetivo
+<figure style="text-align: center;">
+    <img src="public\assets\images\Evidences\1.png" alt="Evidencia 1">
+</figure>
+
+#### Sección módulos a ofrecer
+<figure style="text-align: center;">
+    <img src="public\assets\images\Evidences\2.png" alt="Evidencia 2">
+</figure>
+
+#### Sección elección de suscripción
+<figure style="text-align: center;">
+    <img src="public\assets\images\Evidences\3.png" alt="Evidencia 3">
+</figure>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para la entrega de nuestro primer sprint no se contempló la documentación de servicios.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada para el segundo sprint, dado que se encontraron pequeñas partes que se pueden mejorar.
+<div align="center">
+  <img src="public\assets\images\Deployment1stSprint\1.png" alt="1">
+  <img src="public\assets\images\Deployment1stSprint\2.png" alt="2">
+  <img src="public\assets\images\Deployment1stSprint\3.png" alt="3">
+  <img src="public\assets\images\Deployment1stSprint\4.png" alt="4">
+  <img src="public\assets\images\Deployment1stSprint\5.png" alt="5">
+  <img src="public\assets\images\Deployment1stSprint\6.png" alt="6">
+  <img src="public\assets\images\Deployment1stSprint\7.png" alt="7">
+  <img src="public\assets\images\Deployment1stSprint\8.png" alt="8">
+  <img src="public\assets\images\Deployment1stSprint\9.png" alt="9">
+</div>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+<table border="1">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Guillermo Fabián Tantaleán Mesta </td>
+    <td>Creación de estructura inicial del proyecto e implementación de header con navegación y hero banner principal</td>
+  </tr>
+  <tr>
+    <td>Henry Kalet Esteban Roman</td>
+    <td>Implementación de sección con título y áreas diferenciadas para baristas y cafeterías</td>
+  </tr>
+  <tr>
+    <td>Adrian Ricardo Donayre Alvarez</td>
+    <td>Implementación de área "Datos que respaldan tus decisiones" con gráficos de dashboard y curvas</td>
+  </tr>
+  <tr>
+    <td>Christian Fabrizio Inga Orihuela</td>
+    <td>Creación de las áreas "Soy barista" y "Tengo una cafetería" con descripciones y CTAs</td>
+  </tr>
+  <tr>
+    <td>Carlos Fredy Fernandez Camayo</td>
+    <td>Implementación de la comparativa de los 4 planes con precios y listas de características</td>
+  </tr>
+</table>
 
 
 # Conclusiones y Recomendaciones
