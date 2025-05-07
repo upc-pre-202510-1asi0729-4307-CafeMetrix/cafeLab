@@ -2523,7 +2523,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Configurar proyecto y estructura base</td>
                 <td>Crear estructura inicial del proyecto e implementar header con navegación y hero banner principal</td>
                 <td>4</td>
-                <td>Renzo</td>
+                <td>Guillermo</td>
                 <td>To-do</td>
             </tr>
             <tr>
@@ -2533,7 +2533,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Desarrollar sección "Enfoque en beneficios claros"</td>
                 <td>Implementar sección con título y áreas diferenciadas para baristas y cafeterías</td>
                 <td>3</td>
-                <td>Joseph</td>
+                <td>Kalet</td>
                 <td>To-do</td>
             </tr>
             <tr>
@@ -2593,7 +2593,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Crear footer y enlaces</td>
                 <td>Implementar pie de página con navegación, recursos y contacto</td>
                 <td>4</td>
-                <td>Joseph</td>
+                <td>Kalet</td>
                 <td>To-do</td>
             </tr>
             <tr>
