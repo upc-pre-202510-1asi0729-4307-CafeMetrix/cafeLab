@@ -1740,7 +1740,7 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 **Web Application para Desktop Web Browser**
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 Select Suscription - US03
 ![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Select%20Suscription%20US03.png)
 
@@ -1907,7 +1907,31 @@ Production Cost Management 5 - US20
 ![image](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab/tree/feature/informe-readme/public/assets/images/Web%20App%20Mockup/Production%20Cost%20Managament%205.png)
 
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
+USER GOAL: Registrar bebida
+Como usuario, puedo ingresar a la herramienta de registrar bebida, una vez dentro se puede agregar recetas de bebidas y portafolios, el cual es usa para almacenar agrupadamente para diferentes fines como participacion en concursos. Al registrar la bebida se puede contar con multiples campos para poder registrar adecuadamente valores que me importan para los detalles.
+![Registrar Bebida](public/assets/images/UserFlowDiagram/BebidasPortafolio.png)
+
+USER GOAL: Calibracion
+Como usuario, puedo registrar las calibraciones registradas en las maquinas y herramientas que uso, de esta forma puedo replicar mis procesos en otros sitios, contando con la opcion de editar si en caso quiero modificar un valor. Esta herramienta tambien contribuye en la movilidad de mis calibraciones.
+![Registrar Bebida](public/assets/images/UserFlowDiagram/Calibracion.png)
+
+USER GOAL: Registrar Lotes de cafe
+Como usuario, puedo registrar los lotes que agregue a la tienda, asi como contar con espacios que me ayuden a tener un resumen general de la informacion de los lotes, ya que puedo agregar varios lotes sin confunsiones sobre su informacion, asi como poder editar campos que considere necesarios.
+![Registrar Bebida](public/assets/images/UserFlowDiagram/LoteCafe.png)
+
+USER GOAL: Registrar Costo por Lotes de cafe
+Como usuario, puedo registrar los costes de cada lote, como la materia prima, la mano de obra involucrada, luego de completar otros costos como transporte y gastos adicionales que se pueden generar ocasionalmente. De esta forma se genra un resumen didactico facil de entender, asi como poder imprimirlo. Esta herrramienta ayuda a mejorar la trazabilidad de los costos y una mejora en la administracion de la empresa.
+![Registrar Bebida](public/assets/images/UserFlowDiagram/RegistroLoteCoste.png)
+
+USER GOAL: Registrar Perfil de Tueste
+Como usuario, puedo registrar perfiles de tueste que logre desarrollar mediante datos que tome en cuenta en el tueste, ademas de contar con una herramienta que genere curvas de tueste del perfil creado, asimismo poder comparar con otros perfiles, con el fin de encontrar patrones y mejorar la calidad sensorial
+![Registrar Bebida](public/assets/images/UserFlowDiagram/RegitrarPerfilTueste.png)
+
+
+USER GOAL: Registro de Sesion de cata
+Como usuario, puedo registrar sesiones de cata, las cuales puedo vincular a lotes y perfiles, para tener una mejor descripcion de sabores y comparaciones, de esta forma mejorar la calidad del producto final, ademas se puede generar un hexagono sensorial con el que peuda comparar resultados de otras sesiones de cata, finalmente puedo contar con un filtro de busqueda para proximamente buscar de forma rapida y directa.
+![Registrar Bebida](public/assets/images/UserFlowDiagram/SesionCata.png)
 ## 4.5. Web Applications Prototyping.
 
 En el desarrollo de prototipos, se tomo en cuenta los style guides, tanto como para desktop y mobile, asi mismo para sus versiones en landing page y web app. Se tomaron en cuenta lo siguiente: 
@@ -1920,8 +1944,8 @@ Se toma un diseño que pueda adaptarse a los dispositivos del usuario, de esta f
 Los mensajes mostrados son claros, entendibles y universales en la pagina, de esta forma el usuario no tiene que procesar mayo informacion de forma irrelevante para su experiencia en la plataforma
 ![Prototipo](public/assets/images/UserFlowDiagram/prototipoCafe.png)
 
-Enlace para acceder al video del [Web Applications Prototyping] (
-  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EQZJw-3YWw5PkjlVXyPWFRkBlS-RTsyw06rtt4pmib3URw?e=twr1MY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver grabación).
+
+Enlace para acceder al video del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EQZJw-3YWw5PkjlVXyPWFRkBlS-RTsyw06rtt4pmib3URw?e=twr1MY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
 
 Enlace del prototipo [Figma](https://www.figma.com/proto/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?page-id=140%3A178&node-id=642-1700&p=f&viewport=-12071%2C-1480%2C0.28&t=XMc9m3xS3bXemTM3-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=642%3A1700&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture.
