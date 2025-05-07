@@ -2476,6 +2476,39 @@ Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conec
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
+            <th style="text-align:center; border: 1px solid #000;">Date</th>
+            <th style="text-align:center; border: 1px solid #000;">Time</th>
+            <th style="text-align:center; border: 1px solid #000;">Location</th>
+            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
+            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center; border: 1px solid #000;">1</td>
+            <td style="text-align:center; border: 1px solid #000;">26/04/2025</td>
+            <td style="text-align:center; border: 1px solid #000;">09:00 AM</td>
+            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
+            <td style="border: 1px solid #000;">Adrian Donayre</td>
+            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 1 Goal</td>
+            <td style="text-align:center; border: 1px solid #000;">Sprint 1 Velocity</td>
+            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar la landing page de nuestra startup Café Metrix</td>
+            <td style="text-align:center; border: 1px solid #000;">8</td>
+            <td style="text-align:center; border: 1px solid #000;">8</td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
