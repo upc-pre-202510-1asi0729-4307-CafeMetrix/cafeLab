@@ -1746,7 +1746,7 @@ Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYl
 Select Suscription - US03
 ![SelectSuscription](public/assets/images/WebAppMockup/SelectSuscriptionUS03.png)
 
-Select Payment - US?
+Select Payment - US
 ![SelectPayment](public/assets/images/WebAppMockup/SelectPayment.png)
 
 Sing Up - Bar US01
