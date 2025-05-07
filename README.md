@@ -107,9 +107,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Redacté el apartado de antecedentes y problemática, estructuré el análisis de entrevistas, elaboré el To-Be Scenario Mapping, algunas user stories y participé en el diseño de wireframes y mockups de la landing page.
-
-</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Redacté el apartado de antecedentes y problemática, estructuré el análisis de entrevistas, elaboré el To-Be Scenario Mapping, algunas user stories y participé en el diseño de wireframes y mockups de la landing page.</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
@@ -221,7 +219,7 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
 # Student Outcome
 <div style="text-align:center;">
     <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-        <tr style="background-color:rgb(164, 61, 61); color: white; font-weight: bold;">
+        <tr>
             <th style="text-align:center; border: 1px solid #ddd;">Student Outcomes</th>
             <th style="text-align:center; border: 1px solid #ddd;">Acciones realizadas</th>
             <th style="text-align:center; border: 1px solid #ddd;">Conclusiones</th>
@@ -231,16 +229,16 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
             3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Guillermo Tantaleán</strong><br>
-                TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br>
+                TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br><br>
                 <strong>Henry Esteban</strong><br>
-                TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br>
+                TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: Logré comunicarme efectivamente con diferentes audiencias al entrevistar usuarios adaptando mi lenguaje, presentar la startup según cada interlocutor, traducir requisitos técnicos en user stories comprensibles, explicar wireframes de forma visual y coordinar reuniones del sprint backlog con diversos perfiles del equipo.<br><br>
                 <strong>Christian Inga</strong><br>
-                TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br>
-                <strong>Carlos Fernandez</strong><br>
-                TB1:Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. 
-        </td>
+                TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
+                <strong>Carlos Fernandez</strong>
+                TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. 
+            </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
         <tr>
@@ -248,15 +246,15 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
              3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Henry Esteban</strong><br>
-                TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.<br>
-                <strong>Adrian Donayre</strong><br>
-                TB1: Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
-                <strong>Christian Inga</strong><br>
-                TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br>
-                <strong>Carlos Fernandez</strong><br>
-                TB1:La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up
-                <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
-            Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final..<br><br>
+                TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.<br><br>
+                <strong>Adrian Donayre</strong>
+                TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
+                <strong>Christian Inga</strong>
+                TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
+                <strong>Carlos Fernandez</strong>
+                TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
+                <strong>Guillermo Fabián Tantaleán Mesta</strong>
+                TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final.
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;"></td>
         </tr>
