@@ -1962,6 +1962,57 @@ Production Cost Management 5 - US20
 
 #### Web Application para Mobile Web Browser
 
+**Sign Up**
+
+![image](public/assets/images/MobileMockups/Signup.png)
+
+**Log In**
+
+![image](public/assets/images/MobileMockups/Login.png)
+
+**Welcome Page**
+
+![image](public/assets/images/MobileMockups/WelcomePage.png)
+
+**Suppliers**
+
+![image](public/assets/images/MobileMockups/Suppliers.png)
+
+**Coffee Lot**
+
+![image](public/assets/images/MobileMockups/Coffeelot.png)
+
+**Roast Profiles and Comparison**
+
+![image](public/assets/images/MobileMockups/Roast.png)
+
+**Cupping Sessions**
+
+![image](public/assets/images/MobileMockups/Cupping.png)
+
+**Recipes**
+
+![image](public/assets/images/MobileMockups/Recipes.png)
+
+**Grind Calibration**
+
+![image](public/assets/images/MobileMockups/Calibration.png)
+
+**Defects Library**
+
+![image](public/assets/images/MobileMockups/Defects.png)
+
+**Patterns of Roast and Cupping**
+
+![image](public/assets/images/MobileMockups/Patterns.png)
+
+**Inventory**
+
+![image](public/assets/images/MobileMockups/Inventory.png)
+
+**Cost Management**
+
+![image](public/assets/images/MobileMockups/Cost.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
