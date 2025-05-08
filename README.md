@@ -92,6 +92,21 @@
 # Project Report Collaboration Insights
 Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab)
 
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Networkgraph.png" alt="TB1 Network Graph">
+</figure>
+
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Contributors.png" alt="TB1 Contributors">
+</figure>
+
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Pulse.png" alt="TB1 Pulse">
+</figure>
+
 <h1>TB1</h1>
 
 <p>Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:</p>
