@@ -1155,7 +1155,17 @@ En el caso del To-be Scenario Mapping, el equipo definió cómo se visualizaría
 
 ## 3.4. Product Backlog
 <table>
-       </tr>
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th rowspan="2">#<br>Orden</th>
+      <th rowspan="2">User<br>Story<br>Id</th>
+      <th rowspan="2">Título</th>
+      <th rowspan="2">Descripción</th>
+      <th rowspan="2">Story<br>Points<br>(1/2/3/5/8)</th>
+    </tr>
+  </thead>
+ </tr>
         <tr>
             <td class="center">1</td>
             <td>US20</td>
