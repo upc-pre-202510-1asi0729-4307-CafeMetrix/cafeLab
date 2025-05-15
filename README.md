@@ -87,7 +87,7 @@
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">TB2</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">TP</td>
     <td style="border: 1px solid #ddd; padding: 8px;">15/05/2025</td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <ul>
@@ -160,17 +160,17 @@ Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-430
 
 **TP1 Network Graph**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\Networkgraph.png" alt="TB1 Network Graph">
+    <img src="public\assets\images\Insights\NetworkgraphTP.png" alt="TB1 Network Graph">
 </figure>
 
 **TP1 Contributors**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\Contributors.png" alt="TB1 Contributors">
+    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB1 Contributors">
 </figure>
 
 **TP1 Pulse**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\Pulse.png" alt="TB1 Pulse">
+    <img src="public\assets\images\Insights\PulseTP.png" alt="TB1 Pulse">
 </figure>
 
 <h1>TP</h1>
