@@ -3228,6 +3228,20 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 
 ### 5.2.1. Sprint 2
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada para el segundo sprint, dado que se encontraron pequeñas partes que se pueden mejorar.
+<div align="center">
+  <img src="public\assets\images\Deployment1stSprint\1.png" alt="1">
+  <img src="public\assets\images\Deployment1stSprint\2.png" alt="2">
+  <img src="public\assets\images\Deployment1stSprint\3.png" alt="3">
+  <img src="public\assets\images\Deployment1stSprint\4.png" alt="4">
+  <img src="public\assets\images\Deployment1stSprint\5.png" alt="5">
+  <img src="public\assets\images\Deployment1stSprint\6.png" alt="6">
+  <img src="public\assets\images\Deployment1stSprint\7.png" alt="7">
+  <img src="public\assets\images\Deployment1stSprint\8.png" alt="8">
+  <img src="public\assets\images\Deployment1stSprint\9.png" alt="9">
+</div>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 <table border="1">
   <tr>
