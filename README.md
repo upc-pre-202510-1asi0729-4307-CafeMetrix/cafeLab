@@ -3226,6 +3226,36 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
   </tr>
 </table>
 
+### 5.2.1. Sprint 2
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+<table border="1">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Guillermo Fabián Tantaleán Mesta </td>
+    <td>Creación de welcome barista, inventory, register production cost management and cupping sessions.</td>
+  </tr>
+  <tr>
+    <td>Henry Kalet Esteban Roman</td>
+    <td>Creación de defects library, patterns of roast with cupping, library relation of roast with cupping and record grind calibration.</td>
+  </tr>
+  <tr>
+    <td>Adrian Ricardo Donayre Alvarez</td>
+    <td>Creación de sign in, sign up barista, sign up owner, user profile and select suscription.</td>
+  </tr>
+  <tr>
+    <td>Christian Fabrizio Inga Orihuela</td>
+    <td>Creación de portfolio and recipes, recipe registration, recipe information coffee extraction and complete welcome.</td>
+  </tr>
+  <tr>
+    <td>Carlos Fredy Fernandez Camayo</td>
+    <td>Creación de welcome owner, suppliers, coffee lot, roast profiles, roast comparison, suppliers registration, coffee lot registration, roast profiles registration, supplier information and coffee lot information.</td>
+  </tr>
+</table>
+
 
 # Conclusiones y Recomendaciones
 
