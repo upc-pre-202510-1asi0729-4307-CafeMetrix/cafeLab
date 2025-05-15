@@ -3226,9 +3226,9 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
   </tr>
 </table>
 
-### 5.2.1. Sprint 2
+### 5.2.2. Sprint 2
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 <table border="1">
   <tr>
     <th>Alumno</th>
