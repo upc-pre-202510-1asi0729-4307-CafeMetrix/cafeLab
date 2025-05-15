@@ -3226,21 +3226,53 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
   </tr>
 </table>
 
-### 5.2.1. Sprint 2
+### 5.2.2. Sprint 2
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada para el segundo sprint, dado que se encontraron pequeñas partes que se pueden mejorar.
-<div align="center">
-  <img src="public\assets\images\Deployment1stSprint\1.png" alt="1">
-  <img src="public\assets\images\Deployment1stSprint\2.png" alt="2">
-  <img src="public\assets\images\Deployment1stSprint\3.png" alt="3">
-  <img src="public\assets\images\Deployment1stSprint\4.png" alt="4">
-  <img src="public\assets\images\Deployment1stSprint\5.png" alt="5">
-  <img src="public\assets\images\Deployment1stSprint\6.png" alt="6">
-  <img src="public\assets\images\Deployment1stSprint\7.png" alt="7">
-  <img src="public\assets\images\Deployment1stSprint\8.png" alt="8">
-  <img src="public\assets\images\Deployment1stSprint\9.png" alt="9">
-</div>
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+| Repository                                       | Branch                                  | Commit id | Commit Message                                                                 | Commit Message Body                                                              | Committer on (Date) |
+|--------------------------------------------------|-----------------------------------------|-----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------|
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | main                                    | d83b119   | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop     | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop         | Apr 26, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 52f8c02   | Cambios del footer                                                            | Cambios del footer                                                                | Apr 26, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 663d974   | set up the basic project structure                                            | set up the basic project structure                                                | May 8, 2025         |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 42fe08e   | initial commit                                                                 | initial commit                                                                   | May 8, 2025         |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | a6e63e7   | feat(public): finished all views in cupping sessions page component.          | feat(public): finished all views in cupping sessions page component.             | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 454a671   | feat(public): add the new cupping session button in cupping sessions page component | feat(public): add the new cupping session button in cupping sessions page component | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 0b7286f   | feat(public): add filter feature to cupping sessions page component.          | feat(public): add filter feature to cupping sessions page component.             | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 1244538   | feat(public): add cupping sessions page component                             | feat(public): add cupping sessions page component                                | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 929a31c   | feat(public): add cupping sessions component structure                        | feat(public): add cupping sessions component structure                             | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 8ba9c68   | fix(dashboard): correct title of cards                                        | fix(dashboard): correct title of cards                                             | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | b64833a   | fix(dashboard): correct navbar and color of exit button                       | fix(dashboard): correct navbar and color of exit button                            | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | e3891d3   | feat(public): add welcome barsta page component                               | feat(public): add welcome barsta page component                                    | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 5f4cf56   | fix(payments): correct to bold font type to mat cart titles                   | fix(payments): correct to bold font type to mat cart titles                        | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                                | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                     | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | 443a29d   | feat(public): add the register consume feature button to inventory page component. | feat(public): add the register consume feature button to inventory page component. | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | 56de333   | feat(public): add all view for inventory page component                       | feat(public): add all view for inventory page component                            | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | b5ce673   | feat(shared): import navbar component from welcome-barista branch.           | feat(shared): import navbar component from welcome-barista branch.                | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | a91f173   | feat(public): add initial structure for inventory page component.            | feat(public): add initial structure for inventory page component.                 | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/library-defects                 | 2bbcfde   | feature: new branch                                                           | feature: new branch                                                                 | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/portfolio-recipes               | ba4dce7   | Added recipes and portfolio page                                              | Added recipes and portfolio page                                                   | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | 34ffae4   | feat(public): finished all views for production cost management page component. | feat(public): finished all views for production cost management page component.    | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | d15cca1   | feat(public): add step 3 and 4 to production cost management page component.  | feat(public): add step 3 and 4 to production cost management page component.      | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | b55fef6   | feat(public): add the step 1 and 2 to production cost management page component. | feat(public): add the step 1 and 2 to production cost management page component. | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | b750203   | feat(shared): import navbar component from welcome-barista branch.           | feat(shared): import navbar component from welcome-barista branch.                | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | 8c806f9   | feat(public): add inicial version off product cost management page component. | feat(public): add inicial version off product cost management page component.     | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/select-payment                  | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                               | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/select-payment                  | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                    | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | befed27   | feat: add files                                                               | feat: add files                                                                    | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 9d1d245   | feat(i18n): add language switcher.                                            | feat(i18n): add language switcher.                                                 | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 6655b9f   | feat(i18n): add i18n support through ngx-translate.                           | feat(i18n): add i18n support through ngx-translate.                                | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 010e33f   | feat(environments): add courses endpoint path.                                 | feat(environments): add courses endpoint path.                                     | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | b3c9d1f   | feat(fake-api): add json-server and configure fake api.                      | feat(fake-api): add json-server and configure fake api.                           | May 15, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 8ba9c68   | fix(dashboard): correct title of cards                                        | fix(dashboard): correct title of cards                                             | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | b64833a   | fix(dashboard): correct navbar and color of exit button                       | fix(dashboard): correct navbar and color of exit button                            | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | e3891d3   | feat(public): add welcome barsta page component                               | feat(public): add welcome barsta page component                                    | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 5f4cf56   | fix(payments): correct to bold font type to mat cart titles                   | fix(payments): correct to bold font type to mat cart titles                        | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                               | May 14, 2025        |
+| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                    | May 14, 2025        |
+
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 <table border="1">
