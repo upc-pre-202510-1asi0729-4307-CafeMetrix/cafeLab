@@ -3342,8 +3342,8 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 - **International Coffee Organization (ICO).** (2023). *World Coffee Consumption Statistics*. [https://www.ico.org](https://www.ico.org)
 - **Khononov, V.** (2022). *Learning Domain-Driven Design*. O’Reilly Media, Inc.[https://dl.ebooksworld.ir/books/Learning.Domain-Driven.Design.9781098100131.EBooksWorld.ir.pdf](https://dl.ebooksworld.ir/books/Learning.Domain-Driven.Design.9781098100131.EBooksWorld.ir.pdf)
 - **Evans, E.** (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Domain Language.[https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)
-- **Teams, A** (s, f.).  Angular material. Angular Material. [https://material.angular.dev/]
-- **Vernon, V.** (2016). Domain-Driven Design Distilled, 1/4 [https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/]
+- **Teams, A** (s, f.).  Angular material. Angular Material. [https://material.angular.dev/](https://material.angular.dev/)
+- **Vernon, V.** (2016). Domain-Driven Design Distilled. [https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
 # Anexos
 
 - Enlace para acceder al [video exposición de TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ERZ40FoLFUZNtB3YnDV_z-8Be3PzAv32V--VWLivNxBzUw?e=LodEfs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
