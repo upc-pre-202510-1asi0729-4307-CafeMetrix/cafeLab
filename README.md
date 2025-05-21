@@ -3347,3 +3347,23 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 # Anexos
 
 - Enlace para acceder al [video exposición de TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/ERZ40FoLFUZNtB3YnDV_z-8Be3PzAv32V--VWLivNxBzUw?e=LodEfs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Enlace para acceder al [video exposición de TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Eav0WHfPjCtGkd9Wk7NTAqYB6NCRDf6wDUPPSl8q3srk5A?e=obT7Wm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Enlace para acceder al [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=140-178&p=f&t=f0KUudOr0KNMX5mk-0)
+
+- Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-frontEnd.git)
+
+- Enlace para acceder al  [Front-end]()
+
+
+
+- Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-backEnd.git)
+
+
+- Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage.git)
+
+- Enlace para acceder al [Landing-page](https://cafe-lab-landing-opensource.netlify.app/)
+
+- Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
+
