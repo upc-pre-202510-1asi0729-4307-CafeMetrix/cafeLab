@@ -282,6 +282,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3093,7 +3102,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Crear estructura inicial del proyecto e implementar header con navegación y hero banner principal</td>
                 <td>4</td>
                 <td>Guillermo</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td></td>
@@ -3103,7 +3112,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Implementar sección con título y áreas diferenciadas para baristas y cafeterías</td>
                 <td>3</td>
                 <td>Kalet</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td>US24</td>
@@ -3113,7 +3122,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Crear las áreas "Soy barista" y "Tengo una cafetería" con descripciones y CTAs</td>
                 <td>4</td>
                 <td>Christian</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td></td>
@@ -3123,7 +3132,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Implementar área "Datos que respaldan tus decisiones" con gráficos de dashboard y curvas</td>
                 <td>5</td>
                 <td>Adrian</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td></td>
@@ -3133,7 +3142,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Implementar la comparativa de los 4 planes con precios y listas de características</td>
                 <td>5</td>
                 <td>Fredy</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td>US25</td>
@@ -3143,7 +3152,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Crear área de testimonios con fotos y citas de usuarios actuales</td>
                 <td>3</td>
                 <td>Kalet</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td></td>
@@ -3153,7 +3162,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Crear área combinada con preguntas frecuentes y formulario de contacto con validación básica</td>
                 <td>4</td>
                 <td>Guillermo</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td>US26</td>
@@ -3163,7 +3172,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Implementar pie de página con navegación, recursos y contacto</td>
                 <td>4</td>
                 <td>Kalet</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
             <tr>
                 <td></td>
@@ -3173,7 +3182,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Asegurar compatibilidad con dispositivos móviles y ejecutar pruebas de funcionamiento</td>
                 <td>5</td>
                 <td>Adrian</td>
-                <td>To-do</td>
+                <td>Done</td>
             </tr>
         </tbody>
 </table>
@@ -3740,50 +3749,374 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 </table>
 
 ### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
+            <th style="text-align:center; border: 1px solid #000;">Date</th>
+            <th style="text-align:center; border: 1px solid #000;">Time</th>
+            <th style="text-align:center; border: 1px solid #000;">Location</th>
+            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
+            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center; border: 1px solid #000;">2</td>
+            <td style="text-align:center; border: 1px solid #000;">14/05/2025</td>
+            <td style="text-align:center; border: 1px solid #000;">08:00 PM</td>
+            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
+            <td style="border: 1px solid #000;">Adrian Donayre</td>
+            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 2 Goal</td>
+            <td style="text-align:center; border: 1px solid #000;">Sprint 2 Velocity</td>
+            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar el frontend de nuestra startup Café Metrix</td>
+            <td style="text-align:center; border: 1px solid #000;">10</td>
+            <td style="text-align:center; border: 1px solid #000;">10</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+
+#### 5.2.2.3. Sprint Backlog 2.
+Durante el primer sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
+
+
+
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
-| Repository                                       | Branch                                  | Commit id | Commit Message                                                                 | Commit Message Body                                                              | Committer on (Date) |
-|--------------------------------------------------|-----------------------------------------|-----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------|
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | main                                    | d83b119   | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop     | Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop         | Apr 26, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 52f8c02   | Cambios del footer                                                            | Cambios del footer                                                                | Apr 26, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 663d974   | set up the basic project structure                                            | set up the basic project structure                                                | May 8, 2025         |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | develop                                 | 42fe08e   | initial commit                                                                 | initial commit                                                                   | May 8, 2025         |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | a6e63e7   | feat(public): finished all views in cupping sessions page component.          | feat(public): finished all views in cupping sessions page component.             | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 454a671   | feat(public): add the new cupping session button in cupping sessions page component | feat(public): add the new cupping session button in cupping sessions page component | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 0b7286f   | feat(public): add filter feature to cupping sessions page component.          | feat(public): add filter feature to cupping sessions page component.             | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 1244538   | feat(public): add cupping sessions page component                             | feat(public): add cupping sessions page component                                | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 929a31c   | feat(public): add cupping sessions component structure                        | feat(public): add cupping sessions component structure                             | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 8ba9c68   | fix(dashboard): correct title of cards                                        | fix(dashboard): correct title of cards                                             | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | b64833a   | fix(dashboard): correct navbar and color of exit button                       | fix(dashboard): correct navbar and color of exit button                            | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | e3891d3   | feat(public): add welcome barsta page component                               | feat(public): add welcome barsta page component                                    | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 5f4cf56   | fix(payments): correct to bold font type to mat cart titles                   | fix(payments): correct to bold font type to mat cart titles                        | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                                | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/cupping-sessions                | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                     | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | 443a29d   | feat(public): add the register consume feature button to inventory page component. | feat(public): add the register consume feature button to inventory page component. | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | 56de333   | feat(public): add all view for inventory page component                       | feat(public): add all view for inventory page component                            | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | b5ce673   | feat(shared): import navbar component from welcome-barista branch.           | feat(shared): import navbar component from welcome-barista branch.                | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/inventory                       | a91f173   | feat(public): add initial structure for inventory page component.            | feat(public): add initial structure for inventory page component.                 | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/library-defects                 | 2bbcfde   | feature: new branch                                                           | feature: new branch                                                                 | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/portfolio-recipes               | ba4dce7   | Added recipes and portfolio page                                              | Added recipes and portfolio page                                                   | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | 34ffae4   | feat(public): finished all views for production cost management page component. | feat(public): finished all views for production cost management page component.    | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | d15cca1   | feat(public): add step 3 and 4 to production cost management page component.  | feat(public): add step 3 and 4 to production cost management page component.      | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | b55fef6   | feat(public): add the step 1 and 2 to production cost management page component. | feat(public): add the step 1 and 2 to production cost management page component. | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | b750203   | feat(shared): import navbar component from welcome-barista branch.           | feat(shared): import navbar component from welcome-barista branch.                | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/production-cost-management      | 8c806f9   | feat(public): add inicial version off product cost management page component. | feat(public): add inicial version off product cost management page component.     | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/select-payment                  | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                               | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/select-payment                  | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                    | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | befed27   | feat: add files                                                               | feat: add files                                                                    | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 9d1d245   | feat(i18n): add language switcher.                                            | feat(i18n): add language switcher.                                                 | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 6655b9f   | feat(i18n): add i18n support through ngx-translate.                           | feat(i18n): add i18n support through ngx-translate.                                | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | 010e33f   | feat(environments): add courses endpoint path.                                 | feat(environments): add courses endpoint path.                                     | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/signin-signout                  | b3c9d1f   | feat(fake-api): add json-server and configure fake api.                      | feat(fake-api): add json-server and configure fake api.                           | May 15, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 8ba9c68   | fix(dashboard): correct title of cards                                        | fix(dashboard): correct title of cards                                             | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | b64833a   | fix(dashboard): correct navbar and color of exit button                       | fix(dashboard): correct navbar and color of exit button                            | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | e3891d3   | feat(public): add welcome barsta page component                               | feat(public): add welcome barsta page component                                    | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 5f4cf56   | fix(payments): correct to bold font type to mat cart titles                   | fix(payments): correct to bold font type to mat cart titles                        | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 0a008de   | feat(payment): add select payment screen and navbar                           | feat(payment): add select payment screen and navbar                               | May 14, 2025        |
-| upc-pre-202510-1asi0730-4364-CafeMetrix          | feature/welcome-barista                 | 8621e4e   | feat(ui): add angular material                                                | feat(ui): add angular material                                                    | May 14, 2025        |
+<table border="1">
+<tr>
+<th>Repository</th>
+<th>Branch</th>
+<th>Commit id</th>
+<th>Commit Message</th>
+<th>Commit Message Body</th>
+<th>Committer on (Date)</th>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>main</td>
+<td>d83b119</td>
+<td>Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop</td>
+<td>Merge pull request #9 from upc-pre-202510-1asi0730-4364-CafeMetrix/develop</td>
+<td>Apr 26, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>develop</td>
+<td>52f8c02</td>
+<td>Cambios del footer</td>
+<td>Cambios del footer</td>
+<td>Apr 26, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>develop</td>
+<td>663d974</td>
+<td>set up the basic project structure</td>
+<td>set up the basic project structure</td>
+<td>May 8, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>develop</td>
+<td>42fe08e</td>
+<td>initial commit</td>
+<td>initial commit</td>
+<td>May 8, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>a6e63e7</td>
+<td>feat(public): finished all views in cupping sessions page component.</td>
+<td>feat(public): finished all views in cupping sessions page component.</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>454a671</td>
+<td>feat(public): add the new cupping session button in cupping sessions page component</td>
+<td>feat(public): add the new cupping session button in cupping sessions page component</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>0b7286f</td>
+<td>feat(public): add filter feature to cupping sessions page component.</td>
+<td>feat(public): add filter feature to cupping sessions page component.</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>1244538</td>
+<td>feat(public): add cupping sessions page component</td>
+<td>feat(public): add cupping sessions page component</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>929a31c</td>
+<td>feat(public): add cupping sessions component structure</td>
+<td>feat(public): add cupping sessions component structure</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>8ba9c68</td>
+<td>fix(dashboard): correct title of cards</td>
+<td>fix(dashboard): correct title of cards</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>b64833a</td>
+<td>fix(dashboard): correct navbar and color of exit button</td>
+<td>fix(dashboard): correct navbar and color of exit button</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>e3891d3</td>
+<td>feat(public): add welcome barsta page component</td>
+<td>feat(public): add welcome barsta page component</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>5f4cf56</td>
+<td>fix(payments): correct to bold font type to mat cart titles</td>
+<td>fix(payments): correct to bold font type to mat cart titles</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>0a008de</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/cupping-sessions</td>
+<td>8621e4e</td>
+<td>feat(ui): add angular material</td>
+<td>feat(ui): add angular material</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/inventory</td>
+<td>443a29d</td>
+<td>feat(public): add the register consume feature button to inventory page component.</td>
+<td>feat(public): add the register consume feature button to inventory page component.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/inventory</td>
+<td>56de333</td>
+<td>feat(public): add all view for inventory page component</td>
+<td>feat(public): add all view for inventory page component</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/inventory</td>
+<td>b5ce673</td>
+<td>feat(shared): import navbar component from welcome-barista branch.</td>
+<td>feat(shared): import navbar component from welcome-barista branch.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/inventory</td>
+<td>a91f173</td>
+<td>feat(public): add initial structure for inventory page component.</td>
+<td>feat(public): add initial structure for inventory page component.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/library-defects</td>
+<td>2bbcfde</td>
+<td>feature: new branch</td>
+<td>feature: new branch</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/portfolio-recipes</td>
+<td>ba4dce7</td>
+<td>Added recipes and portfolio page</td>
+<td>Added recipes and portfolio page</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/production-cost-management</td>
+<td>34ffae4</td>
+<td>feat(public): finished all views for production cost management page component.</td>
+<td>feat(public): finished all views for production cost management page component.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/production-cost-management</td>
+<td>d15cca1</td>
+<td>feat(public): add step 3 and 4 to production cost management page component.</td>
+<td>feat(public): add step 3 and 4 to production cost management page component.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/production-cost-management</td>
+<td>b55fef6</td>
+<td>feat(public): add the step 1 and 2 to production cost management page component.</td>
+<td>feat(public): add the step 1 and 2 to production cost management page component.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/production-cost-management</td>
+<td>b750203</td>
+<td>feat(shared): import navbar component from welcome-barista branch.</td>
+<td>feat(shared): import navbar component from welcome-barista branch.</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/production-cost-management</td>
+<td>8c806f9</td>
+<td>feat(public): add inicial version off product cost management page component.</td>
+<td>feat(public): add inicial version off product cost management page component.</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/select-payment</td>
+<td>0a008de</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/select-payment</td>
+<td>8621e4e</td>
+<td>feat(ui): add angular material</td>
+<td>feat(ui): add angular material</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/signin-signout</td>
+<td>befed27</td>
+<td>feat: add files</td>
+<td>feat: add files</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/signin-signout</td>
+<td>9d1d245</td>
+<td>feat(i18n): add language switcher.</td>
+<td>feat(i18n): add language switcher.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/signin-signout</td>
+<td>6655b9f</td>
+<td>feat(i18n): add i18n support through ngx-translate.</td>
+<td>feat(i18n): add i18n support through ngx-translate.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/signin-signout</td>
+<td>010e33f</td>
+<td>feat(environments): add courses endpoint path.</td>
+<td>feat(environments): add courses endpoint path.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/signin-signout</td>
+<td>b3c9d1f</td>
+<td>feat(fake-api): add json-server and configure fake api.</td>
+<td>feat(fake-api): add json-server and configure fake api.</td>
+<td>May 15, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>8ba9c68</td>
+<td>fix(dashboard): correct title of cards</td>
+<td>fix(dashboard): correct title of cards</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>b64833a</td>
+<td>fix(dashboard): correct navbar and color of exit button</td>
+<td>fix(dashboard): correct navbar and color of exit button</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>e3891d3</td>
+<td>feat(public): add welcome barsta page component</td>
+<td>feat(public): add welcome barsta page component</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>5f4cf56</td>
+<td>fix(payments): correct to bold font type to mat cart titles</td>
+<td>fix(payments): correct to bold font type to mat cart titles</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>0a008de</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>feat(payment): add select payment screen and navbar</td>
+<td>May 14, 2025</td>
+</tr>
+<tr>
+<td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+<td>feature/welcome-barista</td>
+<td>8621e4e</td>
+<td>feat(ui): add angular material</td>
+<td>feat(ui): add angular material</td>
+<td>May 14, 2025</td>
+</tr>
+</table>
 
 
 
