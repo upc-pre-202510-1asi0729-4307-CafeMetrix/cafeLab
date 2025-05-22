@@ -3014,7 +3014,7 @@ Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conec
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un artefacto clave que define la estructura de responsabilidades para el Sprint actual. Esta matriz identifica claramente quién asume el rol de líder y quiénes actúan como colaboradores en cada aspecto del proyecto, facilitando una comunicación efectiva y una distribución equitativa del trabajo.
 
-Para este Sprint, los aspectos principales corresponden a las User Stories que definen el alcance funcional de nuestra landing page: Información del Producto (US23), Secciones Específicas por Segmento (US24), Contacto con Equipo (US25) y Acceso directo a plataforma (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+Para este Sprint, los aspectos principales corresponden a las User Stories que definen el alcance funcional de nuestra landing page: Información del Producto (US20), Secciones Específicas por Segmento (US21), Contacto con Equipo (US22) y Acceso directo a plataforma (US23). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
 
 <table border="1">
 <tr>
