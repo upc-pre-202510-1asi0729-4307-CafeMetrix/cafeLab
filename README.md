@@ -3095,7 +3095,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
         </thead>
         <tbody>
             <tr>
-                <td>US23</td>
+                <td>US20</td>
                 <td>Información del Producto</td>
                 <td>TK01</td>
                 <td>Configurar proyecto y estructura base</td>
@@ -3115,7 +3115,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Done</td>
             </tr>
             <tr>
-                <td>US24</td>
+                <td>US21</td>
                 <td>Secciones Específicas por Segmento</td>
                 <td>TK03</td>
                 <td>Implementar secciones para baristas y cafeterías</td>
@@ -3145,7 +3145,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Done</td>
             </tr>
             <tr>
-                <td>US25</td>
+                <td>US22</td>
                 <td>Contacto con Equipo</td>
                 <td>TK06</td>
                 <td>Desarrollar sección de testimonios</td>
@@ -3165,7 +3165,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-1)
                 <td>Done</td>
             </tr>
             <tr>
-                <td>US26</td>
+                <td>US23</td>
                 <td>Acceso directo a plataforma</td>
                 <td>TK08</td>
                 <td>Crear footer y enlaces</td>
@@ -3788,7 +3788,7 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 
 
 #### 5.2.2.3. Sprint Backlog 2.
-Durante el primer sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
+Durante el segundo sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
 
 
 
