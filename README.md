@@ -109,7 +109,6 @@
 
 <!--Link al repositorio en la organización-->
 # Project Report Collaboration Insights
-Link de repositorio del reporte: [https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab)
 
 **TB1 Network Graph**
 <figure style="text-align: center;">
