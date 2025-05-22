@@ -310,18 +310,23 @@
                 <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br><br>
                 TP: <br>Durante las reuniones del equipo para organizar las tareas del TP, me encargué de explicar claramente cómo íbamos a estructurar las user stories y technical stories, asegurándome de que todos entendieran su orden y prioridad.<br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Al revisar los avances de los demás, brindé retroalimentación verbal sobre la estructura del backlog y la presentación de los reportes, cuidando mi forma de comunicar según el contexto de cada tarea.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
+                TB2: <br>TU TEXTO<br><br>
             </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común. El equipo comunicó ideas y necesidades del proyecto de manera clara, utilizando las herramientas adecuadas para comprender a los usuarios, lo que fue fundamental para la coordinación exitosa del Sprint 1 y el desarrollo de la landing page.
        <br> <br> Como equipo, organizamos reuniones efectivas donde cada integrante comunicó sus avances y dificultades, logrando una colaboración fluida que permitió mejorar la calidad del trabajo entregado en el TP.
@@ -333,22 +338,27 @@
             <td style="border: 1px solid #ddd; vertical-align: top;">
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.<br><br>
-                 TP: <br>Me encargué de editar el informe del TP, cuidando que la redacción de las nuevas secciones fuera clara, ordenada y adecuada para una lectura técnica fluida, facilitando así su revisión por parte del equipo y los evaluadores.<br><br>
+                TP: <br>Me encargué de editar el informe del TP, cuidando que la redacción de las nuevas secciones fuera clara, ordenada y adecuada para una lectura técnica fluida, facilitando así su revisión por parte del equipo y los evaluadores.<br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 TP: <br>	Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.
                 <br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
                 TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
                 <br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
                 TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
                 <br><br>
+                TB2: <br>TU TEXTO<br><br>
                 <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
                 TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final.
-                TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.
+                TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
+                TB2: <br>TU TEXTO
               </td>
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación escrita efectiva con diversas audiencias a través de la redacción clara de documentos técnicos como antecedentes, problemática objetivo y análisis de entrevistas. Se documentaron user stories en formato comprensible para lectores técnicos y no técnicos, se crearon descripciones de la startup adaptadas a diferentes stakeholders, y se elaboraron wireframes con anotaciones precisas. El equipo también desarrolló documentación para el product backlog, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para diversos públicos. Las entrevistas escritas y los wireflows contribuyeron a la comprensión de las necesidades de los usuarios, mientras que plataformas como Uxpressia permitieron plasmar efectivamente los requerimientos en el informe final.
