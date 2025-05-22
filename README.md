@@ -921,17 +921,17 @@ El 100% de los baristas entrevistados manifestó la necesidad de contar con una 
 En esta sección se presentan los **User Task Matrix** correspondientes a los segmentos objetivos del proyecto (barista profesional y dueño de cafetería de especialidad).  
 A continuación, se detallan las tareas que ambos realizan en su rutina profesional, asociadas a la preparación, análisis y gestión de café de especialidad.
 
-<table>
+<table border="1" align="center">
         <tr>
             <th rowspan="2">TASK</th>
-            <th colspan="2" class="main-header">Barista Profesional</th>
-            <th colspan="2" class="main-header">Dueño de cafetería de especialidad</th>
+            <th colspan="2">Barista Profesional</th>
+            <th colspan="2">Dueño de cafetería de especialidad</th>
         </tr>
         <tr>
-            <th class="sub-header">FRECUENCY</th>
-            <th class="sub-header">IMPORTANCE</th>
-            <th class="sub-header">FRECUENCY</th>
-            <th class="sub-header">IMPORTANCE</th>
+            <th>FRECUENCY</th>
+            <th>IMPORTANCE</th>
+            <th>FRECUENCY</th>
+            <th>IMPORTANCE</th>
         </tr>
         <tr>
             <td>Calibrar máquina de espresso</td>
@@ -1038,9 +1038,7 @@ A continuación, se detallan las tareas que ambos realizan en su rutina profesio
             <td>Sometimes</td>
             <td>Medium</td>
         </tr>
-    </table>
-
----
+</table>
 
 El análisis de las tareas de baristas profesionales y dueños de cafeterías de especialidad revela diferentes enfoques en el negocio del café: los baristas se concentran en tareas técnicas diarias como calibrar la máquina de espresso, registrar parámetros de extracción y preparación, y realizar catas sensoriales, todas orientadas a la consistencia y perfeccionamiento en taza, con interés en formación continua; mientras que los dueños priorizan aspectos estratégicos como documentar perfiles de tueste, supervisar calidad, gestionar inventarios, analizar datos para decisiones estratégicas y capacitar al equipo, enfocándose en control, trazabilidad y eficiencia operativa.
 
