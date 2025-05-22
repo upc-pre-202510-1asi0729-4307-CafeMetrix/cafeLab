@@ -3098,10 +3098,10 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
   - Link: [Trello](https://trello.com/b/diGtoNBa/sprint-1)
 
 #### Product UX/UI Design:
-1. Figma: Para diseños como Wireframes, Mockups, Prototypes, etc. relacionados a archivos como
+1. Figma: Para diseños como Wireframes, Mockups, Prototypes, etc.
   - Link: [Figma](https://www.figma.com/design/ac0fpdPl6fqEDpJxCEYlY0/CafeLab?node-id=140-178&t=fprZU86nz2ahB2Bi-1)
 2. Vertabelo: Para diagramas de base de datos (ERD, diagramas de clases, etc.)
-  - Link: [Vertabelo](Vertabelo)
+  - Link: [Vertabelo](https://vertabelo.com/)
 
 #### Software Development:
 1. Visual Studio Code: Para el desarrollo de la Landing Page del proyecto.
@@ -3112,7 +3112,7 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
   - Link: [Documentation](Documentation)
 
 ### 5.1.2. Source Code Management.
-Para todo el desarrollo de CaféLab se usará el flujo de trabajo de Gitflow. Landing Page Repository: [Landing Page Repository](Landing Page Repository)
+Para todo el desarrollo de CaféLab se usará el flujo de trabajo de Gitflow.
 
 ## Flujo de trabajo GitFlow:
 El flujo de trabajo Git Flow fue planteado por Vincent Driessen en "A successful Git branching model".
@@ -3275,13 +3275,57 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX), un a
 
 Para este Sprint, los aspectos principales corresponden a las User Stories que definen el alcance funcional de nuestra landing page: Información del Producto (US23), Secciones Específicas por Segmento (US24), Contacto con Equipo (US25) y Acceso directo a plataforma (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
 
-| Team Member (Last Name, First Name) | GitHub Username | Información del Producto (US23) | Secciones Específicas por Segmento (US24) | Contacto con Equipo (US25) | Acceso directo a plataforma (US26) |
-|-------------------------------------|-----------------|--------------------------------|------------------------------------------|---------------------------|----------------------------------|
-| Donayre, Adrian                     | adriandonayredev | C                              | L                                        | C                         | L                                |
-| Tantaleán, Guillermo                | guillermotantalean1 | C                              | C                                        | L                         | C                                |
-| Esteban, Henry                      | kalet123-commit | C                              | C                                        | L                         | C                                |
-| Fernández, Fredy                    | u202320083      | C                              | L                                        | C                         | C                                |
-| Inga, Christian                     | Christian1905   | C                              | L                                        | C                         | C                                |
+<table border="1">
+<tr>
+<th>Team Member (Last Name, First Name)</th>
+<th>GitHub Username</th>
+<th>Información del Producto (US23)</th>
+<th>Secciones Específicas por Segmento (US24)</th>
+<th>Contacto con Equipo (US25)</th>
+<th>Acceso directo a plataforma (US26)</th>
+</tr>
+<tr>
+<td>Donayre, Adrian</td>
+<td>adriandonayredev</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Tantaleán, Guillermo</td>
+<td>guillermotantalean1</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Esteban, Henry</td>
+<td>kalet123-commit</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Fernández, Fredy</td>
+<td>u202320083</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Inga, Christian</td>
+<td>Christian1905</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+</table>
+
 #### 5.2.1.3. Sprint Backlog 1.
 Durante el primer sprint, el equipo se propuso iniciar y finalizar la landing page. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. A pesar de ello, debido a las limitaciones de tiempo y la acumulación de tareas, no tuvimos la oportunidad de probar al completo todas las historias definidas.
 
