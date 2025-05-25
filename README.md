@@ -4922,11 +4922,128 @@ Link de [Trello]()
     <img src="public\assets\images\Evidences2\5.png" alt="Evidencia 5">
 </figure>
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el objetivo del equipo era avanzar con el desarrollo del front-end completo de la aplicación, dividiendo las responsabilidades por secciones entre los integrantes. Sin embargo, por motivos técnicos y de coordinación, algunas secciones asignadas no fueron completadas ni funcionales al momento del cierre del sprint.
+
+A pesar de estos inconvenientes, se logró desarrollar y desplegar la sección de la rama **OwnerPlan**, cumpliendo con los objetivos planteados para esa parte. Para no depender de un back-end aún no implementado, se optó por utilizar una **API simulada (fake API)** con **MockApi**, lo que permitió conectar el front-end con datos simulados y ofrecer una experiencia funcional para la revisión.
+
+[Link del MockApi](https://682697d8397e48c913169c83.mockapi.io/)
+
+<table border="1">
+  <tr>
+    <th>EndPoint</th>
+    <th>Details</th>
+
+  </tr>
+  <tr>
+    <td>/coffe-type </td>
+    <td>Se implementaron las operaciones crud en coffe-type, donde se intento desarrollar el funcionamiento create de forma local.</td>
+  </tr>
+  <tr>
+    <td>/defect-type</td>
+    <td>Se implementaron las operaciones crud en defect-type, donde se intento desarrollar el funcionamiento create de forma local.</td>
+  </tr>
+  <tr>
+    <td>/defect-records</td>
+    <td>Se implementaron las operaciones crud en defect-records, donde se intento desarrollar el funcionamiento create de forma local.</td>
+  </tr>
+  <tr>
+    <td>/recipes</td>
+    <td>Se implementaron las operaciones crud en base.service.ts, donde se logro desarrollar el funcionamiento de create de forma local, completando el funcionamiento de registro en la tabla del modulo recipes</td>
+  </tr>
+  <tr>
+    <td>/portafolios</td>
+    <td>Se implementaron las operaciones crud en base.service.ts, donde se logro desarrollar el funcionamiento de create de forma local, completando el funcionamiento de registro en la tabla del modulo portafolios</td>
+  </tr>
+      <td>/users</td>
+    <td>Se implementaron las funcionalidades en http-instance.service.ts, donde se intento desarrollar el funcionamiento de create de forma local y remota mediante mockApi.</td>
+  </tr>
+      <td>/coffee-lots</td>
+    <td>Se implementaron las operaciones crud en Coffe-lots.service.ts, donde se logro desarrollar el funcionamiento de create de forma remota y local mediante mockApi, completando el funcionamiento de registro en la tabla del modulo coffee-lots</td>
+  </tr>
+      <td>/providers</td>
+    <td>Se implementaron las operaciones crud en provider.service.ts, donde se logro desarrollar el funcionamiento de create de forma remota y local mediante mockApi, completando el funcionamiento de registro en la tabla del modulo provider</td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id </th>
+    <th>Commit message</th>
+    <th>Commited
+on (Date)</th>
+  </tr>
+  <tr>
+    <td>cafeLab-frontEnd</td>
+    <td>feature/library-defects</td>
+    <td>2bbcfde3f89e59c222010cc7f4767a0085fded17</td>
+    <td>feature: new branch</td>
+       <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>cafeLab-frontEnd</td>
+    <td>feature/portfolio-recipes</td>
+    <td>ba4dce7da059b556482f65fa2d1c5876368e3d60</td>
+    <td>Added recipes and portfolio page
+</td>
+       <td>15/05/2025</td>
+  </tr>
+
+  <tr>
+    <td>cafeLab-frontEnd</td>
+    <td>feature/signin-signout</td>
+    <td>befed27d619b28713e868ec39166a16e03a14203</td>
+    <td>feat: add files
+
+</td>
+       <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>cafeLab-frontEnd</td>
+    <td>ownerPlan</td>
+    <td>8b7281546f23b33499b5a6ea01f62811be5d04fe</td>
+    <td>deploy
+</td>
+       <td>15/05/2025</td>
+  </tr>
+ 
+</table>
 
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 En nuestro segundo sprint, logramos avanzar el front end mas no finalizarlo. Estará mejorada para el tercer sprint, dado que se encontraron inconvenientes al integrar el fake REST API en cada sección.
+
+#### Landing page:
+El despliegue de la landin page se mantiene en el mismo repositorio donde se realizo el despliegue de la misma, manteniendose en la rama main
+<figure style="text-align: center;">
+    <img src="public\assets\images\evidenceSprint2\evidenceLanding.png" alt="Evidencia 5">
+</figure>
+
+<div align="center">
+  <img src="public\assets\images\Deployment1stSprint\1.png" alt="1">
+  <img src="public\assets\images\Deployment1stSprint\2.png" alt="2">
+  <img src="public\assets\images\Deployment1stSprint\3.png" alt="3">
+  <img src="public\assets\images\Deployment1stSprint\4.png" alt="4">
+  <img src="public\assets\images\Deployment1stSprint\5.png" alt="5">
+  <img src="public\assets\images\Deployment1stSprint\6.png" alt="6">
+  <img src="public\assets\images\Deployment1stSprint\7.png" alt="7">
+  <img src="public\assets\images\Deployment1stSprint\8.png" alt="8">
+  <img src="public\assets\images\Deployment1stSprint\9.png" alt="9">
+</div>
+
+#### Web Application:
+El despligue de la aplicacion frontend se realizo en firebase, utilizando la rama OwnerPlan del repositorio. Mediante el uso de los comandos 'npm run build', la configuracion de la carpeta 'dist', con el fin de poder conservar unicamente lo realizado en esta rama, ya que se puede conectar a la base de datos remotas con mockApi, seguidamente se confirma el despligue con "firebase deploy --only hosting"
+
+<div align="center">
+  <img src="public\assets\images\evidenceSprint2\evidence1.png" alt="1">
+  <img src="public\assets\images\evidenceSprint2\evidence2.png" alt="2">
+  <img src="public\assets\images\evidenceSprint2\evidence3.png" alt="3">
+  <img src="public\assets\images\evidenceSprint2\evidence4.png" alt="4">
+</div>
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
