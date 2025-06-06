@@ -5075,6 +5075,674 @@ El despligue de la aplicacion frontend se realizo en firebase, utilizando la ram
 </table>
 
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
+            <th style="text-align:center; border: 1px solid #000;">Date</th>
+            <th style="text-align:center; border: 1px solid #000;">Time</th>
+            <th style="text-align:center; border: 1px solid #000;">Location</th>
+            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
+            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center; border: 1px solid #000;">3</td>
+            <td style="text-align:center; border: 1px solid #000;">29/05/2025</td>
+            <td style="text-align:center; border: 1px solid #000;">07:00 PM</td>
+            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
+            <td style="border: 1px solid #000;">Adrian Donayre</td>
+            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 3 Goal</td>
+            <td style="text-align:center; border: 1px solid #000;">Sprint 3 Velocity</td>
+            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar el frontend de nuestra startup Café Metrix</td>
+            <td style="text-align:center; border: 1px solid #000;">50</td>
+            <td style="text-align:center; border: 1px solid #000;">50</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+Para este Sprint, los aspectos principales corresponden a las User Stories restantes del alcance proyectado a nuestro front end: Registro de Sesión de Tueste (US05), Análisis Comparativo de Tuestes (US06), Biblioteca de Defectos de Tueste (US07), Cata Digital Estructurada (US08), Visualización de Perfiles Sensoriales (US09), Correlación Tueste-Sabor (US10), Historial de Catas (US11), Creación de Recetas de Preparación (US12), Calibración de Molienda (US13), Portafolio de Bebidas (US14), Compartir Recetas (US15), Control de Inventario Integrado (US16), Gestión de Costos de Producción (US17), Análisis de Eficiencia y Rendimiento (US18), Reportes de Trazabilidad (US19), Información del Producto (US20), Perfil Personalizado (US25) y Selección de Plan (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+
+<table border="1" align="center">
+<tr>
+<th rowspan="2">User Story</th>
+<th colspan="5">Team Members</th>
+</tr>
+<tr>
+<th>Adrian<br/>Donayre</th>
+<th>Guillermo<br/>Tantaleán</th>
+<th>Henry<br/>Esteban<br/>(Kalet)</th>
+<th>Fredy<br/>Fernández</th>
+<th>Christian<br/>Inga</th>
+<th>Juan Diego<br/>Mondoñedo</th>
+</tr>
+<tr>
+<td>US05: Registro de Sesión de Tueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US06: Análisis Comparativo de Tuestes</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US07: Biblioteca de Defectos de Tueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US08: Cata Digital Estructurada</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US09: Visualización de Perfiles Sensoriales</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US10: Correlación Tueste-Sabor</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US11: Historial de Catas</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US12: Creación de Recetas de Preparación</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US13: Calibración de Molienda</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US14: Portafolio de Bebidas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US15: Compartir Recetas</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US16: Control de Inventario Integrado</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US17: Gestión de Costos de Producción</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US18: Análisis de Eficiencia y Rendimiento</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US19: Reportes de Trazabilidad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US20: Información del Producto</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US25: Perfil Personalizado</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>US26: Selección de Plan</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3.
+<p align="center">
+    <img src="" alt="Organización en la herramienta Trello">
+</p>
+
+Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
+
+<table border="1">
+<tr>
+<th colspan="2">User Story</th>
+<th colspan="5">Work-Item/Task</th>
+</tr>
+<tr>
+<th>Id</th>
+<th>Title</th>
+<th>Id</th>
+<th>Title</th>
+<th>Description</th>
+<th>Estimation (Hours)</th>
+<th>Assigned To</th>
+<th>Status (To-do / In Process / To Review / Done)</th>
+</tr>
+<tr>
+<td rowspan="2">US05</td>
+<td rowspan="2">Registro de Sesión de Tueste</td>
+<td>TK11</td>
+<td>Crear formulario de sesión</td>
+<td>Diseñar interfaz para documentar cada sesión de tueste</td>
+<td>2</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK12</td>
+<td>Implementar vista de historial</td>
+<td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="3">US06</td>
+<td rowspan="3">Análisis Comparativo de Tuestes</td>
+<td>TK13</td>
+<td>Diseñar selector múltiple</td>
+<td>Crear interfaz para seleccionar y comparar varios tuestes</td>
+<td>2</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK14</td>
+<td>Implementar gráficos comparativos</td>
+<td>Desarrollar visualizaciones para comparar patrones y resultados</td>
+<td>2</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK15</td>
+<td>Agregar análisis estadístico</td>
+<td>Implementar cálculos y métricas comparativas</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US07</td>
+<td rowspan="2">Biblioteca de Defectos de Tueste</td>
+<td>TK16</td>
+<td>Crear catálogo visual</td>
+<td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK17</td>
+<td>Implementar sistema de búsqueda</td>
+<td>Agregar búsqueda y filtrado por categorías</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US08</td>
+<td rowspan="2">Cata Digital Estructurada</td>
+<td>TK18</td>
+<td>Diseñar formulario de cata</td>
+<td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK19</td>
+<td>Implementar herramienta visual</td>
+<td>Agregar rueda de sabores interactiva para selección de atributos</td>
+<td>1</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US09</td>
+<td rowspan="2">Visualización de Perfiles Sensoriales</td>
+<td>TK20</td>
+<td>Crear gráfico radial</td>
+<td>Implementar visualización tipo radar para perfiles sensoriales</td>
+<td>2</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK21</td>
+<td>Implementar comparación visual</td>
+<td>Agregar funcionalidad para superponer múltiples perfiles</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US10</td>
+<td rowspan="2">Correlación Tueste-Sabor</td>
+<td>TK22</td>
+<td>Diseñar vista de correlaciones</td>
+<td>Crear interfaz para visualizar relaciones entre parámetros</td>
+<td>2</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK23</td>
+<td>Implementar análisis sensorial</td>
+<td>Agregar funcionalidad para mostrar resultados sensoriales</td>
+<td>3</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="3">US11</td>
+<td rowspan="3">Historial de Catas</td>
+<td>TK24</td>
+<td>Crear vista de historial</td>
+<td>Diseñar interfaz para acceder a catas anteriores</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK25</td>
+<td>Implementar filtros avanzados</td>
+<td>Agregar filtros por lote, fecha, origen y período</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK26</td>
+<td>Agregar análisis de tendencias</td>
+<td>Implementar gráficos de evolución temporal</td>
+<td>1</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="3">US12</td>
+<td rowspan="3">Creación de Recetas de Preparación</td>
+<td>TK27</td>
+<td>Diseñar editor de recetas</td>
+<td>Crear interfaz para documentar recetas detalladas</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK28</td>
+<td>Implementar parámetros de preparación</td>
+<td>Agregar campos para temperatura, tiempo y proporciones</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK29</td>
+<td>Crear galería de métodos</td>
+<td>Implementar biblioteca visual de métodos de preparación</td>
+<td>1</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US13</td>
+<td rowspan="2">Calibración de Molienda</td>
+<td>TK30</td>
+<td>Diseñar configurador de molienda</td>
+<td>Crear interfaz para documentar configuraciones por equipo</td>
+<td>1</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK31</td>
+<td>Implementar guías visuales</td>
+<td>Agregar referencias visuales para tamaños de partícula</td>
+<td>1</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US14</td>
+<td rowspan="2">Portafolio de Bebidas</td>
+<td>TK32</td>
+<td>Crear catálogo digital</td>
+<td>Diseñar portafolio visual de bebidas y recetas</td>
+<td>2</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK33</td>
+<td>Implementar presentación interactiva</td>
+<td>Agregar funcionalidad para presentar a clientes</td>
+<td>1</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US15</td>
+<td rowspan="2">Compartir Recetas</td>
+<td>TK34</td>
+<td>Implementar sistema de compartir</td>
+<td>Crear funcionalidad para compartir recetas con el equipo</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK35</td>
+<td>Agregar control de versiones</td>
+<td>Implementar historial de cambios en recetas</td>
+<td>1</td>
+<td>Guillermo</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US16</td>
+<td rowspan="2">Control de Inventario Integrado</td>
+<td>TK36</td>
+<td>Diseñar dashboard de inventario</td>
+<td>Crear vista general de inventario de café verde y tostado</td>
+<td>2</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK37</td>
+<td>Implementar alertas de stock</td>
+<td>Agregar notificaciones para niveles bajos de inventario</td>
+<td>1</td>
+<td>Kalet</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US17</td>
+<td rowspan="2">Gestión de Costos de Producción</td>
+<td>TK38</td>
+<td>Crear calculadora de costos</td>
+<td>Diseñar herramienta para calcular costos por lote</td>
+<td>2</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK39</td>
+<td>Implementar análisis de rentabilidad</td>
+<td>Agregar visualizaciones de márgenes y rentabilidad</td>
+<td>1</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US18</td>
+<td rowspan="2">Análisis de Eficiencia y Rendimiento</td>
+<td>TK40</td>
+<td>Diseñar dashboard de métricas</td>
+<td>Crear vista con indicadores clave de producción</td>
+<td>2</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK41</td>
+<td>Implementar reportes comparativos</td>
+<td>Agregar comparación entre lotes y períodos</td>
+<td>1</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US19</td>
+<td rowspan="2">Reportes de Trazabilidad</td>
+<td>TK42</td>
+<td>Crear generador de reportes</td>
+<td>Diseñar sistema para generar reportes de trazabilidad completa</td>
+<td>2</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK43</td>
+<td>Implementar exportación</td>
+<td>Agregar funcionalidad para descargar reportes</td>
+<td>1</td>
+<td>Christian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US25</td>
+<td rowspan="2">Perfil Personalizado</td>
+<td>TK57</td>
+<td>Diseñar página de perfil</td>
+<td>Crear interfaz para configurar información profesional</td>
+<td>1</td>
+<td>Adrian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK58</td>
+<td>Implementar personalización</td>
+<td>Agregar opciones para personalizar la experiencia del usuario</td>
+<td>1</td>
+<td>Adrian</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td rowspan="2">US26</td>
+<td rowspan="2">Selección de Plan</td>
+<td>TK59</td>
+<td>Diseñar selector de planes</td>
+<td>Crear interfaz para elegir entre planes disponibles</td>
+<td>2</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+<tr>
+<td>TK60</td>
+<td>Implementar proceso de suscripción</td>
+<td>Agregar flujo completo de selección y confirmación</td>
+<td>1</td>
+<td>Fredy</td>
+<td>In Process</td>
+</tr>
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+<table border="1">
+<tr>
+<th>Repository</th>
+<th>Branch</th>
+<th>Commit id</th>
+<th>Commit Message</th>
+<th>Commit Message Body</th>
+<th>Committer on (Date)</th>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>1738bf2</td>
+  <td>fix(payment): se separó el component plan card correctamente.</td>
+  <td>guillermotantalean1</td>
+  <td>May 30, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>7b63c65</td>
+  <td>cambios en los archivos</td>
+  <td>guillermotantalean1</td>
+  <td>May 30, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>main</td>
+  <td>3c461bd</td>
+  <td>style: add favicon and rename the application</td>
+  <td>adriandonayredev</td>
+  <td>May 31, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>main</td>
+  <td>df9ca94</td>
+  <td>feat(chore): add auth domain with toolbar in public component and an endpoint</td>
+  <td>adriandonayredev</td>
+  <td>May 31, 2025</td>
+</tr>
+
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>0bb4258</td>
+  <td>fix(dashboard): fixed the welcome barista component to a correct ddd architecture</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>04a7887</td>
+  <td>fix(dashboards): correct the src route in welcome barista page component</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>c39e185</td>
+  <td>fix(cupping sessions): create service and entity in cupping sessions feature.</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>a2a167a</td>
+  <td>fix(payment): fix the route to the visa and mastercard logo.</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>e0e0b3b</td>
+  <td>fix(payment): fix styles of select-payment page component.</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+<tr>
+  <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
+  <td>feature/frontend-guillermo</td>
+  <td>7223931</td>
+  <td>add styles to select payment component</td>
+  <td>guillermotantalean1</td>
+  <td>Jun 1, 2025</td>
+</tr>
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+
+
+
 # Conclusiones y Recomendaciones
 
 ## Conclusiones
