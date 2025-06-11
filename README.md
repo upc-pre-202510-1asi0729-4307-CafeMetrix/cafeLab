@@ -5288,6 +5288,214 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 <td>C</td>
 </tr>
+<tr>
+<td>TS01: POST HTTPS Proveedores</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS02: GET HTTPS Proveedores</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS03: GET HTTPS Planes</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS04: POST HTTPS Planes</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS05: POST HTTPS Certificaciones</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS06: GET HTTPS Certificaciones</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS07: POST HTTPS Perfiles-Tueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS08: POST HTTPS SesionesTueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS09: PATCH HTTPS Sesiones Tueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS10: GET HTTPS Análisis-Tueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS11: GET HTTPS DefectosTueste</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS12: POST HTTPS Catas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS13: GET HTTPS PerfilesSensoriales</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS14: GET HTTPS Correlaciones</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS15: POST HTTPS Recetas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS16: POST HTTPS Calibraciones</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS17: GET HTTPS Inventario</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS18: PATCH HTTPS Inventario</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS19: POST HTTPS Contacto</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS20: POST HTTPS Usuarios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS21: POST HTTPS Autenticación</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS22: GET HTTPS Planes</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>TS23: POST HTTPS Planes</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+
 </table>
 
 #### 5.2.3.3. Sprint Backlog 3.
