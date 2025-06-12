@@ -47,6 +47,10 @@
             <td style="border: 1px solid #ddd;">Carlos Fredy Fernandez Camayo</td>
             <td style="border: 1px solid #ddd;">U202320083</td>
         </tr>
+         <tr>
+            <td style="border: 1px solid #ddd;">Juan Diego Mondoñedo Rodriguez</td>
+            <td style="border: 1px solid #ddd;">U202110373</td>
+        </tr>
     </table>
 </div>
 
@@ -101,6 +105,26 @@
     <td style="border: 1px solid #ddd; padding: 8px;">            
       <ul>
         <li>Capítulo V: Product Implementation, Validation & Deployment hasta el segundo sprint</li>
+        <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">TB2</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">15/06/2025</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <ul>
+        <li>Guillermo Tantaleán</li>
+        <li>Henry Esteban</li>
+        <li>Adrian Donayre</li>
+        <li>Christian Inga</li>
+        <li>Carlos Fernandez</li>
+        <li>Juan Diego Mondoñedo</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">            
+      <ul>
+        <li>Capítulo V: Product Implementation, Validation & Deployment, tercer sprint</li>
         <li>Avance de Conclusiones, Bibliografía y Anexos</li>
       </ul>
     </td>
@@ -202,6 +226,56 @@
   </tr>
 </table>
 
+**TP1 Network Graph**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\NetworkgraphTP.png" alt="TB1 Network Graph">
+</figure>
+
+**TP1 Contributors**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB1 Contributors">
+</figure>
+
+**TP1 Pulse**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\PulseTP.png" alt="TB1 Pulse">
+</figure>
+
+<h1>TB2</h1>
+
+<p>Para el desarrollo del informe perteneciente a la TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Integrante</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Tareas Asignadas</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Guillermo Tantaleán</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Realicé la edición del informe para agregar los nuevos trabajos realizados en el TP, ordené los user stories y technical stories</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Integré las imágenes correspondiente de los reportes de github desarrollo del informe.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Realicé la implementación del sprint backlog 1 y 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Christian Inga</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Mejoré la implementación del Lean UX Canvas y corregí el timing de las entrevistas para que se muestren de forma ascendente.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Juan Diego Mondoñedo</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Recreé la landing page en angular, desarrolle el tercer sprint.</td>
+  </tr>
+</table>
+
 <!--ÍNDICE-->
 # Contenido
 [Student Outcome](#student-outcome)
@@ -291,6 +365,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 2.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
