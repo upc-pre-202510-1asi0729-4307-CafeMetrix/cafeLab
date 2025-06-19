@@ -6031,7 +6031,46 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+# 5.3. Validation interviews
+## 5.3.1. Diseño de entrevistas.
 
+#### **Segmento #1: Dueños/Administradores de Cafeterías de Especialidad <br> (Funciones: Proveedores, Lotes de Café, Perfiles de Tuestes, Inventario, Gestión de Costos)**
+
+¿Cómo describirías tu experiencia general con la aplicación web?
+
+¿Hubo algo que no encontraste o que te confundió en cada una de esas secciones?
+
+De las tareas realizadas, ¿cuál te aportó mayor valor para la gestión de tu cafetería?
+
+¿Qué paso o flujo te sorprendió positivamente (por su rapidez, claridad o utilidad)?
+
+En una escala del 1 al 5, ¿cómo calificarías la intuitividad de la navegación para acceder a Proveedores, Lotes, Perfiles, Inventario y Costos?
+
+¿Viste algún elemento visual (íconos, botones, textos) que te distrajera o no resultara claro?
+
+Si pudieras añadir o mejorar una sola función en estas cinco áreas, ¿cuál sería y por qué?
+
+¿Recomendarías CaféLab a otros dueños o administradores de cafeterías? ¿Qué ventaja destacarías para convencerlos?
+
+#### **Segmento #2: Baristas Profesionales <br> (Funciones: Sesiones de Cata, Librería de Defectos, Correlación Tueste-Sabor, Calibración de Molienda, Recetas)**
+
+¿Cómo describirías tu experiencia general con la aplicación web?
+
+¿Hubo algo que no encontraste o que te confundió al interactuar con esas secciones?
+
+De las cinco funciones, ¿cuál te pareció la que aporta más valor a tu trabajo diario como barista?
+
+¿Qué parte del flujo te sorprendió positivamente (por ejemplo, la rapidez en cargar resultados de cata o la claridad de la librería)?
+
+En una escala del 1 al 5, ¿cómo calificarías la intuitividad de navegación en todas las funciones?
+
+¿Observaste algún elemento visual que distraiga o no te quedara claro?
+
+Del 1 al 10, ¿qué tan útil te resultó la plataforma para optimizar tus procesos de preparación y cata?
+
+Si pudieras añadir o mejorar una sola función orientada a baristas, ¿cuál sería y por qué?
+
+¿Recomendarías CaféLab a otros baristas profesionales? ¿Qué aspecto destacarías para convencerlos?
 
 
 # Conclusiones y Recomendaciones
