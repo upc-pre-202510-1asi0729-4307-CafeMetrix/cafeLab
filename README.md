@@ -420,6 +420,8 @@
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
                 TB2: <br>TU TEXTO<br><br>
+                <strong>Juan Diego Mondoñedo</strong><br>
+                TB2: <br>Participé activamente en la planificación y desarrollo del 3er sprint, comunicándome con mis compañeros para la delegación de tareas y obteniendo actualizaciones de los avances para actualizar los sprints a la par del desarrollo<br><br>
             </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común. El equipo comunicó ideas y necesidades del proyecto de manera clara, utilizando las herramientas adecuadas para comprender a los usuarios, lo que fue fundamental para la coordinación exitosa del Sprint 1 y el desarrollo de la landing page.
        <br> <br> Como equipo, organizamos reuniones efectivas donde cada integrante comunicó sus avances y dificultades, logrando una colaboración fluida que permitió mejorar la calidad del trabajo entregado en el TP.
@@ -453,6 +455,9 @@
                 TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
                 TB2: <br>Documenté el desarrollo de mis funcionalidades en el proyecto mediante comentarios en el código, comandos y descripciones en las tareas del repositorio. Además, redacté explicaciones claras sobre la lógica detrás del feature de sesiones de cata y los cambios realizados en el backend, permitiendo que tanto desarrolladores como docentes puedan comprender el funcionamiento sin ambigüedades.
 <br>
+              </td>
+              <strong>Juan Diego Mondoñedo Rodriguez</strong><br>
+                TB2: <br>Redacté las secciones del Sprint planning, Aspect Leaders and Collaborators y Sprint backlog del 2do y 3er sprint.<br><br>
               </td>
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación escrita efectiva con diversas audiencias a través de la redacción clara de documentos técnicos como antecedentes, problemática objetivo y análisis de entrevistas. Se documentaron user stories en formato comprensible para lectores técnicos y no técnicos, se crearon descripciones de la startup adaptadas a diferentes stakeholders, y se elaboraron wireframes con anotaciones precisas. El equipo también desarrolló documentación para el product backlog, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para diversos públicos. Las entrevistas escritas y los wireflows contribuyeron a la comprensión de las necesidades de los usuarios, mientras que plataformas como Uxpressia permitieron plasmar efectivamente los requerimientos en el informe final.
@@ -502,6 +507,10 @@ La solución consiste en una plataforma dual que combina software y componentes 
   <tr>
     <td><img src="public/assets/images/integrantes/Chris.jpeg"alt="Christian Inga" width="200"></td>
     <td> Mi nombre es <strong>Christian Inga</strong>, tengo 19 años y actualmente estoy estudiando la carrera de Ingenieria de Software. Tengo conocimientos en los lenguajes de programación de C++, Python y Javascript. Considero que puedo adaptarme a diferentes formas de trabajo para alcanzar un objetivo. Me considero una persona responsable y confiable. </td>
+  </tr>
+  <tr>
+    <td><img src="public/assets/images/integrantes/JD.jpeg"alt="Juan Diego" width="200"></td>
+    <td> Mi nombre es <strong>Juan Diego Mondoñedo</strong>, tengo 21 años y soy estudiante de la carrera de Ingenieria de Software. Soy una persona adaptable a las circunstancias y puedo amoldar mis estrategias de trabajo para cumplir las expectativas de cualquier equipo. </td>
   </tr>
 </table>
 
@@ -5196,7 +5205,7 @@ El despligue de la aplicacion frontend se realizo en firebase, utilizando la ram
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
-Para este Sprint, los aspectos principales corresponden a las User Stories restantes del alcance proyectado a nuestro front end: Registro de Sesión de Tueste (US05), Análisis Comparativo de Tuestes (US06), Biblioteca de Defectos de Tueste (US07), Cata Digital Estructurada (US08), Visualización de Perfiles Sensoriales (US09), Correlación Tueste-Sabor (US10), Historial de Catas (US11), Creación de Recetas de Preparación (US12), Calibración de Molienda (US13), Portafolio de Bebidas (US14), Compartir Recetas (US15), Control de Inventario Integrado (US16), Gestión de Costos de Producción (US17), Análisis de Eficiencia y Rendimiento (US18), Reportes de Trazabilidad (US19), Información del Producto (US20), Perfil Personalizado (US25) y Selección de Plan (US26). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+Para este Sprint, los aspectos principales corresponden a las User Stories restantes del alcance proyectado a nuestro front end sumado a la realización de las Technical Stories corresponientes al back end: Registro de Sesión de Tueste (US05), Análisis Comparativo de Tuestes (US06), Biblioteca de Defectos de Tueste (US07), Cata Digital Estructurada (US08), Visualización de Perfiles Sensoriales (US09), Correlación Tueste-Sabor (US10), Historial de Catas (US11), Creación de Recetas de Preparación (US12), Calibración de Molienda (US13), Portafolio de Bebidas (US14), Compartir Recetas (US15), Control de Inventario Integrado (US16), Gestión de Costos de Producción (US17), Análisis de Eficiencia y Rendimiento (US18), Reportes de Trazabilidad (US19), Perfil Personalizado (US25), Selección de Plan (US26), POST HTTPS Proveedores (TS01), GET HTTPS Proveedores (TS02), GET HTTPS Planes (TS03), POST HTTPS Planes (TS04), entre otros. Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
 
 <table border="1" align="center">
 <tr>
