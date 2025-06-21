@@ -6933,6 +6933,14 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 #### Recomendación:  Corregir la funcionalidad de estas secciones y asegurarse de que estén plenamente operativas. Se sugiere realizar pruebas de flujo de usuario para verificar que los registros se almacenen correctamente y que la interacción sea fluida.
 
+# Video About-the-Product
+Se muestra el video about the product, donde se evidencia la explicacion sobre los principales features, sustentacion de diseño  y proposito de la aplicacion.
+
+**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3`
+
+- **Microsoft Stream:** *()*
+- **YouTube:** *()*
+
 
 # Conclusiones y Recomendaciones
 
@@ -6967,6 +6975,15 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 
 # Video About-the-Team.
+En el video about the product se evidentcia la retrospectiva de los integrantes del equipo, asi como la explicacion del trabajo realizado por el equipo. Se rezalta la intencion de crecimiento del compañerismo y la mejora continua del proyecto mediante mejor organizacion.
+#### Desde el min 0:18 al 1:38, Atentonaire explica su participación en la redacción del informe, entrevistas de validación y desarrollo del backend de perfiles. Luego, entre el 1:38 y 2:35, otra integrante detalla su trabajo en el frontend del dashboard para baristas y módulos para dueños de cafeterías, aplicando Domain-Driven Design. Del 2:35 al 3:29, Cristian comenta su rol en entrevistas de validación, diseño de wireframes y desarrollo del módulo de recetas. Entre el 3:29 y 5:26, Henry resalta la buena comunicación del equipo, el manejo de documentación y coordinación interna. Del 5:26 al 7:01, Juan Diego, nuevo integrante, habla sobre su adaptación al equipo y su trabajo en el port de la landing page y planificación del backlog. Finalmente, del 7:01 al 8:32, Carlos Freddy comparte su experiencia en investigación, diseño en Figma, desarrollo frontend y uso de herramientas como Trello y GitHub.
+
+**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-team-sprint-3`
+
+- **YouTube:** [Ver en YouTube](https://youtu.be/APEWIFdtTf4)
+- **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu)
+
+
 # Bibliografía
 - **Specialty Coffee Association (SCA).** (2022). *Annual Report: Certification and Professional Development Statistics*. [https://sca.coffee](https://sca.coffee)
 - **Euromonitor International.** (2023). *Coffee Shops Market in Latin America*. [https://www.euromonitor.com](https://www.euromonitor.com)
@@ -6998,3 +7015,11 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 - Enlace para acceder al [Landing-page](https://cafe-lab-landing-opensource.netlify.app/)
 
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
+
+- Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Enlace para acceder al [video about the product]()
+
+- Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
+
+- Enlace para acceder al [video exposicion tb2]()
