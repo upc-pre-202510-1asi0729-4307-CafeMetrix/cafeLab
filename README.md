@@ -222,7 +222,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto.</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto. </td>
   </tr>
 </table>
 
@@ -268,7 +268,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto.</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto. Redaccion de entrevistas de validacion y heuristicas</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Juan Diego Mondoñedo</td>
@@ -420,8 +420,6 @@
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
                 TB2: <br>TU TEXTO<br><br>
-                <strong>Juan Diego Mondoñedo</strong><br>
-                TB2: <br>Participé activamente en la planificación y desarrollo del 3er sprint, comunicándome con mis compañeros para la delegación de tareas y obteniendo actualizaciones de los avances para actualizar los sprints a la par del desarrollo<br><br>
             </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común. El equipo comunicó ideas y necesidades del proyecto de manera clara, utilizando las herramientas adecuadas para comprender a los usuarios, lo que fue fundamental para la coordinación exitosa del Sprint 1 y el desarrollo de la landing page.
        <br> <br> Como equipo, organizamos reuniones efectivas donde cada integrante comunicó sus avances y dificultades, logrando una colaboración fluida que permitió mejorar la calidad del trabajo entregado en el TP.
@@ -449,7 +447,7 @@
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
                 TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
                 <br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br> Revision continua de codigo frontend y backend, comunicacion objetiva sobre las mejoras a implementarse, asi como la redaccion de analisis de entrevistas para considerar observaciones y mejors a aplicarse, ademas de poder actualizar la documentacion mediante la actividades y responsabilidades a entregarse<br><br>
                 <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
                 TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final. <br>
                 TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
@@ -6273,7 +6271,50 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 # 5.3. Validation interviews
+ En la sección de “Validation Interviews” del proyecto CafeLab nos enfocamos en mejorar la presentación y funcionalidad de la plataforma web dirigida a baristas y dueños/administradores de cafeterías. En este punto se llega a la comunicación directa con los segmentos objetivos con el fin de entrevistar y obtener respuestas sobre la experiencia y percepción dentro de la plataforma, ya sean criticas positivas o negativas, esto ayuda en la mejora continua para la integración adecuada de futuras integraciones o correcciones orientadas en mejorar la mejora continua de la plataforma. A continuación se muestran los user goals necesarios para la realización de las entrevistas:
+
 ## 5.3.1. Diseño de entrevistas.
+En esta sección de detallas los objetivos de los usuarios pertenecientes al segmento objetivo, mediante la definición de estos user gol se obtiene los resultados mas cercanos a la experiencia del usuario en la navegación y recorrido ideal en la plataforma para lograr sus objetivos ya sean baristas o dueños/administrados de cafeterías.
+
+#### User Goal: Registrarse y elegir suscripción(Barista y dueño/administrador de cafetería)
+El usuario elegirá si es un barista o un dueño de cafetería, en base a esto el formulario de registro mostrará más o menos campos a completar, una vez registrados podrán elegir el plan que más deseen, luego, procederán a la pantalla de pago. Confirmado el pago, podrán acceder a las herramientas disponibles según su plan.
+
+#### User Goal: Iniciar Sesión.(Barista y dueño/administrador de cafetería)
+El usuario de la aplicación ya cuenta con una cuenta, sea de barista o dueño de cafetería, si ingresa mal sus datos, se le pedirá que los ingrese nuevamente, una vez los datos sean correctos, podrá acceder a las herramientas según su plan.
+
+#### User Goal: Editar su Perfil. (Barista y dueño/administrador de cafetería)
+Una vez el usuario haya entrado a la app web, puede ver su perfil mediante el botón de "Perfil", de este modo puede editar los datos que le gusten.
+
+##### User Goal: Registrar, Editar y Observar sus Proveedores. (Barista y dueño/administrador de cafetería)
+El usuario desde la pantalla de inicio donde aparecen las herramientas, selecciona "Proveedores" accediendo a la pantalla de "Proveedores" el cuál tiene las funciones de registrar proveedores, editar los que ya están registrados y observar los datos del proveedor que gusten.
+
+#### User Goal: Registrar, Editar y Observar sus Lotes de Café. (Barista y dueño/administrador de cafetería)
+Desde el inicio, el usuario selecciona la herramienta de "Lotes de Café" accediendo a una lista con sus lotes registrados, del mismo modo puede registrar nuevos lotes de café, editar los existentes o simplemente ver la información de alguno que elija.
+
+#### User Goal: Registrar, Editar y Visualizar sus perfiles de tueste, también comparar entre dos de ellos. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Perfiles de Tueste", de este modo puede observar en una tabla sus perfiles registrados, así como registrar uno nuevo, editar un existente, visualizar los datos y curva de tueste del que seleccione y también comparar las curvas de tueste entre dos perfiles.
+
+#### User Goal: Registrar, Editar y Observar sus Catas con su hexágono sensorial. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Catas", accediendo a la tabla que contiene sus catas registradas, desde esta pantalla puede registrar una cata, editar una existente, visualizar sus catas registradas junto con su hexágono sensorial si lo requiere. Por otro lado, también puede comparar los hexágonos sensoriales entre dos catas.
+
+#### User Goal: Observar la biblioteca de defectos, con posibles causas y soluciones. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Biblioteca de defectos", teniendo una lista con los defectos, si selecciones alguno puede observar sus posibles causas y las soluciones recomendadas.
+
+#### User Goal: Identificar la relación entre el tueste y los sabores del café. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona la "Relación tueste - sabor", donde puede seleccionar las catas que se visualizarán en el gráfico mostrando la concentración de tuestes exitosos de color morado, en términos de temperatura y tiempo. También desde este apartado, pueden acceder a la biblioteca que muestra las variables en el tostado que pueden influir en la taza final de café.
+
+#### User Goal: Poder registrar, editar y visualizar sus recetas, así como portafolios con las recetas especiales. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Recetas", de este modo accediendo a una pantalla que le muestra los portafolios que tiene y las recetas que están fuera de este portafolio, puede crear un nuevo portafolio o visualizar los ya creados con sus recetas asociadas, también puede asignar nuevas recetas a un portafolio. Puede crear una receta, al crear una debería seleccionar si está hecho por extracción o por método de espresso. Por otro lado, al visualizar las recetas hechas se le mostrará toda la información asociada.
+
+#### User Goal: Tener un registro de las calibraciones de sus moliendas para un mejor resultado. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Calibración de Molienda", en este apartado puede registrar o editar las calibraciones de las moliendas, de este modo teniendo un acabado igual para sus recetas.
+
+#### User Goal: Tener un adecuado manejo de su inventario, pudiendo registrar lotes y visualizar información importante. (Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Inventario", en el cual se puede observar la cantidad restante del lote seleccionado, puede registrar el consumo que se haga para las recetas, de esta forma teniendo un buen manejo de su inventario y stock.
+
+#### User Goal: Poder gestionar sus costos de una manera eficiente, para optimizar sus ganancias y rentabilidad.(Barista y dueño/administrador de cafetería)
+Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo al proceso en el que puede registrar todos sus costos, como de materia prima, mano de obra, costos de transporte, etc., de este modo calculará su margen potencial y el precio sugerido por kg.
+
 
 #### **Segmento #1: Dueños/Administradores de Cafeterías de Especialidad <br> (Funciones: Proveedores, Lotes de Café, Perfiles de Tuestes, Inventario, Gestión de Costos)**
 
@@ -6312,6 +6353,574 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 8. Si pudieras añadir o mejorar una sola función orientada a baristas, ¿cuál sería y por qué?
 
 9. ¿Recomendarías CaféLab a otros baristas profesionales? ¿Qué aspecto destacarías para convencerlos?
+
+## 5.3.2. Registro de entrevistas
+#### Entrevistas a dueños o administradores de cafeterías de especialidad
+
+<table border="1">
+  <tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 1</td>
+    <td>Cesar Costa</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Interview-validation\interview-owner1.png" alt="Foto de Cesar Costa"></td>
+    <td>Tuvo una experiencia muy positiva con Cafelab, destacando especialmente la funcionalidad de perfiles de tueste como el aspecto más valioso, ya que le permite ser más exacto en la preparación del café y prever estadísticas clave. Dio una calificación perfecta (5/5) en navegación e interacción, y afirmó que recomendaría la aplicación a otros dueños. Aprecia su capacidad para gestionar integralmente el negocio, no solo las ventas, y valora las gráficas comparativas de tueste, así como la sección de soporte. Señaló la utilidad de visualizar diferencias de temperatura y tiempo como un beneficio clave.
+
+</td>
+  </tr>
+  <tr>
+    <td>Timing:00:09-04:25</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+
+<table border="1">
+<tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 2</td>
+    <td>Raul Donayre</td>
+  </tr>
+  <tr>
+  <td><img src="public\assets\images\Interview-validation\interview-owner2.png" alt="Foto de Raul Donayre"></td>
+    <td>Consideró que la aplicación es muy intuitiva, ágil y le permite obtener resultados rápidamente con menos esfuerzo operativo. Valoró especialmente el registro detallado de proveedores, granos y lotes, y la posibilidad de comparar perfiles de tueste. Describió la herramienta como un “paquete muy completo” y la recomendaría por su capacidad de centralizar información previamente dispersa.</td>
+  </tr>
+  <tr>
+    <td>Timing:04:25-08:57</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+
+<table border="1">
+  <tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 3</td>
+    <td>Ana Garcia</td>
+  </tr>
+
+  <tr>
+   <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Cesar Costa"></td>
+    <td>Resaltó la fluidez de la experiencia y la coherencia visual de la interfaz, otorgando un 4/5 en intuitividad. Destacó la gestión de costos como la función de mayor valor, y se sorprendió positivamente por el manejo de inventarios y alertas automáticas. Aprecia la integración de todas las funciones en un solo sistema. Como puntos de mejora, sugirió aumentar la visibilidad de los íconos de edición, marcar claramente los campos obligatorios, diferenciar mejor los botones de editar y clonar, y añadir un registro de cambios para mayor control interno.
+
+</td>
+  </tr>
+  <tr>
+    <td>Timing:08:57-14:34</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+
+#### Entrevistas a baristas de cafeterías de especialidad
+<table border="1">
+<tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 4</td>
+    <td>Ranferi Valdivia</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Interview-validation\interview-barista1.png" alt="Foto de Ranferi Valdivia"></td>
+    <td>Tuvo una excelente primera impresión de la aplicación, describiéndola como ordenada y bien organizada. Valoró la disponibilidad del sistema en español e inglés, otorgando una calificación de 4/5 en intuitividad y recomendándola con firmeza a otros baristas. Resaltó la utilidad de contar con herramientas centralizadas para estandarizar procedimientos antes realizados manualmente y destacó las gráficas de tueste como recurso clave para optimizar temperaturas y tiempos. Aunque al inicio tuvo cierta dificultad para ubicar algunas secciones, encontró el sistema útil para la profesionalización del trabajo del barista.</td>
+  </tr>
+  <tr>
+    <td>Timing:17:41-22:37
+</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+<table border="1">
+<tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 5</td>
+    <td>Patricia Alvarez</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Interview-validation\interview-barista2.png" alt="Foto de Patricia Alvarez"></td>
+    <td> Describió Cafelab como una aplicación amigable, práctica y suficiente para registrar la información necesaria en su día a día. Le dio una calificación perfecta de 10/10 en optimización de procesos, reconociendo su utilidad directa para la eficiencia del trabajo operativo.</td>
+  </tr>
+  <tr>
+    <td>Timing:22:37-29:42
+</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+<table border="1">
+<tr>
+    <th>Campo</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Entrevistado 6</td>
+    <td>Aldo Zavala</td>
+  </tr>
+  <tr>
+    <td><img src="public\assets\images\Interview-validation\interview-barista3.png" alt="Foto de Aldo Zavala"></td>
+    <td>Elogió la interfaz intuitiva, el diseño claro y la fluidez general del sistema. Calificó la navegación con un 4/5 y la optimización de procesos con un 9.5/10. Considera las sesiones de cata como la función más valiosa y destacó lo fácil que es gestionar recetas y centralizar notas, lo que le permite ahorrar tiempo en documentación. Propuso mejorar la biblioteca de defectos agregando filtros por intensidad y categoría, hacer más distinguibles los íconos de clonar, y añadió la sugerencia de integrar un temporizador en las sesiones de cata.</td>
+  </tr>
+  <tr>
+    <td>Timing:29:42-35:31</td>
+    <td>    <a href="https://upcedupe-my.sharepoint.com/personal/u202310210_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310210%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dvalidation%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaf630f9d%2D2b60%2D4b48%2D9493%2Dfb339c946e34">
+        Ver grabación</td>
+  </tr>
+</table>
+
+## 5.3.3. Evaluaciones según heurísticas.
+### Web Application a evaluar:
+#### Cafe Lab
+ Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web CafeLab.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+###  Evaluación de Aplicación Web - Plataforma para Baristas y Dueños de Cafeterías
+
+Este documento describe las **tareas clave a evaluar** en la aplicación web orientada a baristas y dueños de cafeterías. Las tareas están clasificadas por funcionalidades principales y por objetivos del usuario para asegurar una evaluación integral del sistema.
+
+---
+
+###  Tareas a evaluar
+
+### 1. Desktop Landing Page
+
+1. Información y descripción de la aplicación y sus funcionalidades.
+2. Visualización de planes de pago y precio de la aplicación.
+3. Header y footer apropiados para la landing page.
+4. Interacción del landing page con la aplicación (registro, redirección, login, etc.).
+
+---
+
+## Tareas a evaluar según User Goals
+
+### 1. Registro y Elección de Suscripción
+
+- Selección entre tipo de usuario: Barista o Dueño/Administrador.
+- Formulario dinámico según tipo de usuario.
+- Validación de campos del formulario.
+- Confirmación de registro exitoso.
+- Visualización y selección de plan de suscripción.
+- Proceso de pago funcional y validado.
+- Acceso a herramientas según el plan contratado.
+
+### 2. Inicio de Sesión
+
+- Ingreso correcto y validación de credenciales.
+- Manejo de errores por ingreso incorrecto.
+- Redirección al dashboard correcto según el rol y plan.
+
+### 3. Edición de Perfil
+
+- Acceso a sección de perfil.
+- Visualización y edición de datos personales.
+- Guardado y validación de cambios.
+
+### 4. Gestión de Proveedores
+
+- Acceso a la sección desde el menú principal.
+- Registro de nuevos proveedores.
+- Edición de proveedores existentes.
+- Visualización completa de información de proveedor.
+
+### 5. Gestión de Lotes de Café
+
+- Registro de nuevos lotes.
+- Edición de lotes registrados.
+- Visualización de información por lote.
+
+### 6. Gestión de Perfiles de Tueste
+
+- Registro de perfil de tueste con curva.
+- Edición de perfiles existentes.
+- Visualización de curvas.
+- Comparación entre dos perfiles.
+
+### 7. Gestión de Catas y Hexágono Sensorial
+
+- Registro de nuevas catas.
+- Edición de catas registradas.
+- Visualización de hexágono sensorial.
+- Comparación entre dos hexágonos.
+
+### 8. Biblioteca de Defectos
+
+- Acceso a biblioteca desde el menú.
+- Visualización de lista de defectos.
+- Detalles con causas y soluciones sugeridas.
+
+### 9. Relación Tueste - Sabor
+
+- Visualización de gráfico de relación.
+- Selección de catas para el gráfico.
+- Visualización de variables relacionadas en biblioteca auxiliar.
+
+### 10. Gestión de Recetas y Portafolios
+
+- Registro y visualización de recetas.
+- Clasificación por método: extracción o espresso.
+- Creación y administración de portafolios.
+- Asignación de recetas a portafolios.
+
+### 11. Calibración de Molienda
+
+- Registro de calibraciones de molienda.
+- Edición de calibraciones anteriores.
+- Asociación de calibraciones con recetas.
+
+### 12. Inventario
+
+- Registro y consumo de lotes para recetas.
+- Visualización del stock disponible por lote.
+- Actualización automática tras consumo registrado.
+
+### 13. Gestión de Costos
+
+- Registro de costos de producción (MP, MO, transporte, etc.).
+- Cálculo de margen de ganancia.
+- Visualización de precio sugerido por kilogramo.
+
+---
+
+###  Consideraciones de Evaluación
+
+Cada tarea debe evaluarse considerando:
+
+- **Funcionalidad**: Cumple correctamente con su objetivo.
+- **Usabilidad**: Interfaz clara, intuitiva y consistente.
+- **Validación**: Manejo adecuado de errores y validaciones.
+- **Accesibilidad y Rendimiento**: Interacciones rápidas, accesibles y accesibles para todos los usuarios.
+
+### Evaluación de Desktop Landing Page
+
+Este documento presenta los hallazgos identificados en la evaluación heurística de la **Landing Page** de la aplicación web para baristas y dueños de cafetería. Se utiliza una escala de severidad para clasificar los errores según su impacto en la experiencia de usuario.
+
+---
+
+##  Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### Problemas Identificados - Landing Page
+
+| #  | Problema                                                                                                                                           | Escala de Severidad | Heurística / Principio Violado                          |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------|
+| 1  | La seccion de about the product no esta mencionada en la landing page                              | 3                    | Usability: Coincidencia entre el sistema y el mundo real |
+| 2  | Al seleccionar los botones interactivos “Iniciar sesion” o "Quiero registrarme" del landing, el usuario no es direccionado al formulario de registro o inicio de sesión.          | 3                    | Usability: Coincidencia entre el sistema y el mundo real |
+| 3  | La iconografía empleada en las secciones no representa adecaudamente lo ofrecido en la pagina web.                                                        | 2                    | Usability: Diseño estético y minimalista                 |
+| 4  | La información relacionada con el startup y utilidad del producto es inexacta e insuficiente.                                                     | 3                    | Inclusive Design: Diseño centrado en el usuario          |
+| 5  | La informacion de los planes podria ser mas especifica.                            | 3                    | Information Architecture: Jerarquía de información       |
+| 6  | El formulario de contactanos no es funcional                                                                                              | 4                    | Usability: Visibilidad del estado del sistema            |
+| 7  | Los botones no llegan a ser del mismo nivel o tamaño                                                                         | 2                    | Usability: Consistencia y estándares                     |
+| 9  | El logo principal no muestra funcionalidad tal como es lo usual en otras plataformas                                                                               | 2                    | Usability: Coincidencia entre el sistema y el mundo real        |
+| 10 | La sección que integra misión, visión y valores muestra un tamaño impreciso.                                                                      | 2                    | Information Architecture: Organización y estructura      |
+| 11 | El footer “Recursos” no muestra funcionalidad ya que dirigen a la pagina principal                                           | 1                    | Usability: Visibilidad del estado del sistema            |
+| 12 | La internacionalizacion en general no presenta funcionalidad.                                                           | 3                    | Usability: Flexibilidad y eficiencia de uso              |
+
+---
+
+
+## PROBLEMA #01: La sección de “About the Product” no está mencionada en la landing page
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Coincidencia entre el sistema y el mundo real  
+
+**Descripción del problema:**  
+El usuario espera encontrar en una landing page una descripción clara y concisa sobre el producto y sus funcionalidades principales. Sin embargo, en esta aplicación, la sección que debería abordar “About the Product” no está presente. Esto genera confusión y desorientación, especialmente para los nuevos usuarios que buscan entender el propósito de la aplicación.
+
+**Recomendacion:**  
+Agrega una sección visible y destacada que describa el producto, sus funcionalidades principales y beneficios, usando un lenguaje claro, cercano y orientado al usuario.
+
+---
+
+## PROBLEMA #02: Los botones “Iniciar sesión” y “Quiero registrarme” no redireccionan correctamente
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Coincidencia entre el sistema y el mundo real  
+
+**Descripción del problema:**  
+Los botones interactivos en el landing page que deberían dirigir al usuario al formulario de registro o inicio de sesión no responden como se espera. Este comportamiento rompe con las expectativas convencionales de navegación y genera una experiencia frustrante para los usuarios que desean comenzar a utilizar la plataforma.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema02.png" alt="Problema 02 - Botones Registro"></td>
+
+**Recomendacion:**  
+Corrige la redirección de los botones asegurando que lleven a los formularios correspondientes, validando su comportamiento mediante pruebas funcionales básicas.
+
+
+---
+
+## PROBLEMA #03: La iconografía empleada no representa adecuadamente las secciones
+
+**Escala de severidad:** 2  
+**Principio violado:** Usability – Diseño estético y minimalista  
+
+**Descripción del problema:**  
+Las imágenes e íconos utilizados en las diferentes secciones no reflejan correctamente el contenido al que hacen referencia. Esto afecta la comunicación visual y la rápida comprensión del propósito de cada sección, violando los principios de claridad y minimalismo.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema03.png" alt="Problema 03 - Iconografía"></td>
+
+**Recomendacion:**  
+Reemplaza los íconos actuales por otros que representen de forma clara y directa cada sección, siguiendo convenciones visuales conocidas por los usuarios.
+
+
+
+---
+
+## PROBLEMA #04: Información inexacta o insuficiente sobre el startup y utilidad del producto
+
+**Escala de severidad:** 3  
+**Principio violado:** Inclusive Design – Diseño centrado en el usuario  
+
+**Descripción del problema:**  
+La información proporcionada sobre el propósito del producto y el equipo detrás del proyecto es vaga y poco clara. Esto afecta la confianza del usuario y su comprensión sobre el valor que ofrece la plataforma. Un diseño centrado en el usuario debe presentar información concreta y accesible.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema04.png" alt="Problema 04 - Startup Info"></td>
+
+**Recomendacion:**  
+Incluye una sección con información clara sobre el propósito del producto, el equipo detrás y su propuesta de valor, para generar confianza y contexto.
+
+
+
+
+---
+
+## PROBLEMA #05: La información de los planes es poco específica
+
+**Escala de severidad:** 3  
+**Principio violado:** Information Architecture – Jerarquía de información  
+
+**Descripción del problema:**  
+No se explican con claridad las funcionalidades y beneficios específicos de cada plan de suscripción. Esto impide que el usuario tome decisiones informadas respecto al plan que mejor se adapta a sus necesidades, y dificulta la conversión.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema05.png" alt="Problema 05 - Planes de suscripción"></td>
+
+**Recomendacion:**  
+Reestructura la sección de planes con comparativas claras, beneficios específicos y precios visibles para facilitar la toma de decisiones informadas.
+
+---
+
+## PROBLEMA #06: El formulario de contacto no es funcional
+
+**Escala de severidad:** 4  
+**Principio violado:** Usability – Visibilidad del estado del sistema  
+
+**Descripción del problema:**  
+El formulario de “Contáctanos” no muestra retroalimentación ni permite enviar mensajes. Esta falta de funcionalidad afecta directamente la comunicación entre el usuario y el equipo de soporte, lo cual es crítico para la atención al cliente y la conversión de usuarios interesados.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema06.png" alt="Problema 06 - Formulario Contacto"></td>
+
+**Recomendacion:**  
+Asegúrate de que el formulario permita enviar mensajes correctamente y brinde retroalimentación inmediata al usuario sobre el estado del envío.
+
+
+---
+
+## PROBLEMA #07: Botones con inconsistencias en nivel y tamaño
+
+**Escala de severidad:** 2  
+**Principio violado:** Usability – Consistencia y estándares  
+
+**Descripción del problema:**  
+Los botones dentro del landing page presentan inconsistencias en su tamaño y nivel jerárquico visual. Esto genera una experiencia de navegación inconsistente y confusa para el usuario, afectando la accesibilidad visual.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema07.png" alt="Problema 07 - Tamaño Botones"></td>
+
+**Recomendacion:**  
+Estandariza el tamaño, estilo y jerarquía visual de los botones para mantener una experiencia coherente y accesible en toda la página.
+
+
+---
+
+## PROBLEMA #08: El logo principal no tiene funcionalidad esperada
+
+**Escala de severidad:** 2  
+**Principio violado:** Usability – Coincidencia entre el sistema y el mundo real  
+
+**Descripción del problema:**  
+En la mayoría de los sitios web, hacer clic en el logo redirige al usuario al inicio. En esta aplicación, el logo no tiene ningún comportamiento, lo cual puede provocar desorientación y frenar la navegación fluida del usuario.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema08.png" alt="Problema 09 - Logo sin funcionalidad"></td>
+
+**Recomendacion:**  
+Configura el logo principal para redirigir al usuario al home al hacer clic, cumpliendo con el estándar de navegación común en sitios web.
+
+
+---
+
+## PROBLEMA #09: No se cuenta con vision y mision
+
+**Escala de severidad:** 2  
+**Principio violado:** Information Architecture – Organización y estructura  
+
+**Descripción del problema:**  
+No se cuenta con informacion que contribuya para la mejora de imagen o presentacion de empresa.
+
+**Recomendacion:**  
+Agrega una sección institucional que comunique la misión y visión de la empresa, reforzando identidad y credibilidad frente a los usuarios.
+
+
+---
+
+## PROBLEMA #10: El footer “Recursos” redirige a la misma página
+
+**Escala de severidad:** 1  
+**Principio violado:** Usability – Visibilidad del estado del sistema  
+
+**Descripción del problema:**  
+Los enlaces bajo la categoría “Recursos” en el footer no tienen comportamiento útil; al hacer clic redirigen a la misma página sin proporcionar información relevante, lo que puede interpretarse como un error de implementación o descuido.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema10.png" alt="Problema 11 - Footer Recursos sin función"></td>
+
+**Recomendacion:**  
+Corrige los enlaces del footer para que redirijan a páginas relevantes o elimínalos si no están disponibles para evitar confusión.
+
+
+---
+
+## PROBLEMA #11: Falta de internacionalización en toda la interfaz
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso  
+
+**Descripción del problema:**  
+La interfaz no permite cambiar el idioma de la aplicación. Esto impide la personalización para usuarios de otros idiomas y restringe la escalabilidad del producto a nivel internacional, lo que representa una limitación funcional importante.
+
+**Imagen del problema:**  
+<td><img src="public\assets\images\problemsLanding\problema11.png" alt="Problema 12 - Sin internacionalización"></td>
+
+**Recomendacion:**  
+Implementa la opción de cambiar el idioma en la interfaz para ampliar el alcance del producto y mejorar la experiencia de usuarios no hispanohablantes.
+
+
+
+
+## Web Application: Evaluación Heurística
+### Problemas Identificados
+
+| #  | Problema                                                                                                            | Escala de Severidad | Heurística / Principio Violado                          |
+|----|---------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------------|
+| 1  | Espaciado inadecuado para el logo                                  | 1                   | Usability – Estética y diseño minimalista              |
+| 2  | Funcionalidades indisponibles relacionadas a la modificación o personalización de perfil, además de eliminar cuenta de usuario | 3                   | Usability – Flexibilidad y eficiencia de uso / Usability – Prevenir errores |
+| 3  | Los planes podrian mostrar mejor informacion     | 2                   | Usability – Consistencia y estándares                   |
+| 4  | Inexistencia de la funcionalidad “recuperar contraseña” en el formulario de inicio de sesión                       | 3                   | Usability – Prevención de errores                       |
+| 5 | Las funcionalidades no estan enrutadas y dirigen a page no found en sesion de cata y calibracion   | 3                   | Usability – Consistencia y estándares                   |
+| 6 | No se puede registrar adecuadamente los registros de sesion de cata, libraria, inventario                  | 4                   | Usability – Flexibilidad y eficiencia de uso                     |
+
+### PROBLEMA #01: Espaciado inadecuado para el logo
+
+**Escala de severidad:** 1  
+**Principio violado:** Usability – Estética y diseño minimalista  
+
+**Descripción del problema:**  
+El logotipo principal dentro de la interfaz presenta un espaciado irregular respecto a los elementos que lo rodean. Esta falta de alineación afecta la armonía visual del sitio, generando una percepción de descuido en el diseño.
+
+<td><img src="public\assets\images\frontendProblem\problema001.png" alt="Espaciado inadecuado para el logo"></td>
+
+#### Recomendación:  Ajustar el espaciado del logo de manera que mantenga coherencia visual con los demás elementos de la interfaz, siguiendo principios de diseño responsivo y alineación de grillas.
+---
+
+### PROBLEMA #02: Funcionalidades indisponibles para modificar o eliminar cuenta de usuario
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso / Usability – Prevenir errores  
+
+**Descripción del problema:**  
+Actualmente no se encuentran disponibles opciones esenciales como editar información del perfil o eliminar la cuenta del usuario. Esta limitación afecta la autonomía del usuario y puede generar desconfianza al no poder controlar sus propios datos.
+
+
+<td><img src="public\assets\images\frontendProblem\problema1.png" alt="Falta de funciones de perfil de usuario"></td>
+
+
+#### Recomendación:  Incorporar una sección de gestión de cuenta dentro del perfil del usuario que permita realizar modificaciones y acciones críticas como eliminar su cuenta o cambiar la información de contacto.
+---
+
+### PROBLEMA #03: Información de los planes podría ser más clara y específica
+
+**Escala de severidad:** 2  
+**Principio violado:** Usability – Consistencia y estándares  
+
+**Descripción del problema:**  
+Los planes de suscripción mostrados carecen de detalles sobre sus beneficios, limitaciones o diferencias entre sí, lo que dificulta al usuario tomar una decisión informada.
+
+
+<td><img src="public\assets\images\frontendProblem\problema3.png" alt="Planes con información limitada"></td>
+
+#### Recomendación:    Estandarizar el formato de presentación de los planes y agregar descripciones claras de cada funcionalidad incluida, así como posibles restricciones. Se recomienda el uso de tablas comparativas o bullets jerarquizados.
+
+---
+
+### PROBLEMA #04: Inexistencia de la funcionalidad “recuperar contraseña”
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Prevención de errores  
+
+**Descripción del problema:**  
+El formulario de inicio de sesión no incluye una opción para recuperar la contraseña en caso de olvido. Esto representa una barrera importante para el acceso, obligando al usuario a buscar asistencia externa.
+
+<td><img src="public\assets\images\frontendProblem\problema4.png" alt="Falta recuperación de contraseña"></td>
+
+#### Recomendación:  Agregar un enlace visible y funcional con la opción “¿Olvidaste tu contraseña?” que permita recuperar el acceso de manera automática mediante correo electrónico u otro método seguro.
+---
+
+### PROBLEMA #05: Funcionalidades sin enrutar en sesiones de cata y calibración
+
+**Escala de severidad:** 3  
+**Principio violado:** Usability – Consistencia y estándares  
+
+**Descripción del problema:**  
+Al intentar acceder a las secciones de cata y calibración, el sistema redirige al usuario a una página de error (page not found). Esta inconsistencia genera confusión y afecta directamente la experiencia del usuario.
+
+<td><img src="public\assets\images\frontendProblem\problema5.png" alt="Error de navegación en secciones de cata"></td>
+
+#### Recomendación:  Verificar las rutas correspondientes a cada funcionalidad e implementar una arquitectura de navegación clara, evitando errores 404 mediante redirecciones y validaciones apropiadas.
+---
+
+### PROBLEMA #06: Imposibilidad de registrar sesiones de cata, librería e inventario
+
+**Escala de severidad:** 4  
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso  
+
+**Descripción del problema:**  
+Las funcionalidades clave de la aplicación, como registrar sesiones de cata, acceder a la librería o gestionar el inventario, están deshabilitadas o no funcionales. Esto impide que el usuario interactúe con el propósito principal de la herramienta.
+
+<td><img src="public\assets\images\frontendProblem\problema6.png" alt="Sesiones de cata no funcionales"></td>
+
+#### Recomendación:  Corregir la funcionalidad de estas secciones y asegurarse de que estén plenamente operativas. Se sugiere realizar pruebas de flujo de usuario para verificar que los registros se almacenen correctamente y que la interacción sea fluida.
 
 
 # Conclusiones y Recomendaciones
