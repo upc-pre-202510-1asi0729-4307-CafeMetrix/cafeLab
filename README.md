@@ -6937,6 +6937,9 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 Se muestra el video about the product, donde se evidencia la explicacion sobre los principales features, sustentacion de diseño  y proposito de la aplicacion.
 
 **Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3`
+<td><img src="public\assets\images\abouttheproduct\abouttheproduct.png" alt="Sesiones de cata no funcionales"></td>
+
+
 
 - **Microsoft Stream:** [upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **YouTube:** [https://youtu.be/AO7F5RHoMCY](https://youtu.be/AO7F5RHoMCY)
