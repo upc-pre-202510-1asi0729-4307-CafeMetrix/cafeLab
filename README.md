@@ -2787,33 +2787,31 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![image](https://github.com/user-attachments/assets/38460830-585d-4833-ae1a-4afa48e16528)
+<td><img src="public\assets\images\New-ddd\C4 Contexto.png"></td>
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![image](https://github.com/user-attachments/assets/53a50408-68b1-4db5-bfc8-d0b588a4f9d8)
+<td><img src="public\assets\images\New-ddd\C4 Contenedores.png"></td>
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-**Log-In Bounded Context**
+**Login-Logup - Frontend**
+<td><img src="public\assets\images\New-ddd\C4 Frontend Componentes LOGIN LOGUP.png"></td>
 
-![structurizr-92816-ComponentsDiagram](https://github.com/user-attachments/assets/d74302e8-31a2-45de-b9a7-44bd5b5aa37d)
+**Profiles Bounded Context - Backend**
 
-**Companies Bounded Context**
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes PROFILES.png"></td>
 
-![structurizr-92816-ComponentsDiagram (1)](https://github.com/user-attachments/assets/eec71779-f7f1-4c00-850b-a76e28dd7ed8)
+**Coffee Production Bounded Context - Backend**
 
-**Crop Bounded Context**
-
-![structurizr-92816-ComponentsDiagram (2)](https://github.com/user-attachments/assets/5b179005-3810-4671-8366-22a662045acf)
-
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes COFFEE-PRODUCTION.png"></td>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-![image](https://github.com/user-attachments/assets/3a527d25-49fc-4c9c-a334-0cebe38422f2)
+<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
 
 
 ### 4.7.2. Class Dictionary.
