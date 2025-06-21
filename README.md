@@ -341,6 +341,7 @@
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
+  - [4.9. Backend Diagrams](#49-backend-diagrams)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -2924,6 +2925,16 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
 <img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
+
+## 4.9. Backend Diagrams.
+#### Layers Diagram
+<td><img src="public\assets\images\Plantuml\cl-layers-diagram.png" alt="layer diagram"></td>
+
+#### Packages Diagram
+<td><img src="public\assets\images\Plantuml\cl-package-diagram.png" alt="packages diagram"></td>
+
+#### Class Diagram
+<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
