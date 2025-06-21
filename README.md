@@ -226,19 +226,19 @@
   </tr>
 </table>
 
-**TP1 Network Graph**
+**TB2 Network Graph**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\NetworkgraphTP.png" alt="TB1 Network Graph">
+    <img src="public\assets\images\Insights\NetworkgraphTP.png" alt="TB2 Network Graph">
 </figure>
 
-**TP1 Contributors**
+**TB2 Contributors**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB1 Contributors">
+    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB2 Contributors">
 </figure>
 
-**TP1 Pulse**
+**TB2 Pulse**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\PulseTP.png" alt="TB1 Pulse">
+    <img src="public\assets\images\Insights\PulseTP.png" alt="TB2 Pulse">
 </figure>
 
 <h1>TB2</h1>
@@ -256,7 +256,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">asumí un rol activo en la organización general del equipo. Coordiné la distribución de tareas y aseguré el cumplimiento de los entregables en los plazos establecidos. A nivel técnico, desarrollé las bases del backend para los Web Services y realicé correcciones funcionales y visuales tanto en el Frontend como en el Landing Page. Asimismo, estuve a cargo de la edición de los videos “About-The-Product” y “About-The-Team”. También lideré la mejora continua de artefactos presentados en sprints anteriores, implementando ajustes basados en retroalimentación y principios de usabilidad.</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Asumí un rol activo en la organización general del equipo. Coordiné la distribución de tareas y aseguré el cumplimiento de los entregables en los plazos establecidos. A nivel técnico, desarrollé las bases del backend para los Web Services y realicé correcciones funcionales y visuales tanto en el Frontend como en el Landing Page. Asimismo, estuve a cargo de la edición de los videos “About-The-Product” y “About-The-Team”. También lideré la mejora continua de artefactos presentados en sprints anteriores, implementando ajustes basados en retroalimentación y principios de usabilidad.</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
@@ -6416,7 +6416,6 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
   <tr>
    <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
     <td>Resaltó la fluidez de la experiencia y la coherencia visual de la interfaz, otorgando un 4/5 en intuitividad. Destacó la gestión de costos como la función de mayor valor, y se sorprendió positivamente por el manejo de inventarios y alertas automáticas. Aprecia la integración de todas las funciones en un solo sistema. Como puntos de mejora, sugirió aumentar la visibilidad de los íconos de edición, marcar claramente los campos obligatorios, diferenciar mejor los botones de editar y clonar, y añadir un registro de cambios para mayor control interno.
-
 </td>
   </tr>
   <tr>
