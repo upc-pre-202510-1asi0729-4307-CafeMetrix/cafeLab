@@ -6938,8 +6938,9 @@ Se muestra el video about the product, donde se evidencia la explicacion sobre l
 
 **Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3`
 
-- **Microsoft Stream:** *()*
-- **YouTube:** *()*
+- **Microsoft Stream:** [upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **YouTube:** [https://youtu.be/AO7F5RHoMCY](https://youtu.be/AO7F5RHoMCY)
+
 
 
 # Conclusiones y Recomendaciones
@@ -7017,8 +7018,9 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Enlace para acceder al [video about the product]()
+- **Enlace al video "About the Product":** [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 - Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
 
-- Enlace para acceder al [video exposicion tb2]()
+- Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/personal/u20231c111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea94fac08%2D3899%2D45ee%2D95f9%2De07a74c5b422)
