@@ -222,7 +222,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto. </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto.</td>
   </tr>
 </table>
 
@@ -269,6 +269,7 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
     <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto. Redaccion de entrevistas de validacion y heuristicas</td>
+
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Juan Diego Mondoñedo</td>
@@ -419,7 +420,9 @@
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Para las correcciones del frontend comunique oportunamente sobre la mejora continua y detalles a tomar en cuenta para el funcionamiento adecuado y visualizacion correcta de elementos y durante las entrevistas se logro reconocer los principales reconomientos e indicaciones a tomar en cuenta para el desarrollo adecuado, asimismo la revision adecuada y comunicacion sobre la implementacion de backend e indicaciones oportunas en reuniones de equipo.<br><br>
+                <strong>Juan Diego Mondoñedo</strong><br>
+                TB2: <br>Participé activamente en la planificación y desarrollo del 3er sprint, comunicándome con mis compañeros para la delegación de tareas y obteniendo actualizaciones de los avances para actualizar los sprints a la par del desarrollo<br><br>
             </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común. El equipo comunicó ideas y necesidades del proyecto de manera clara, utilizando las herramientas adecuadas para comprender a los usuarios, lo que fue fundamental para la coordinación exitosa del Sprint 1 y el desarrollo de la landing page.
        <br> <br> Como equipo, organizamos reuniones efectivas donde cada integrante comunicó sus avances y dificultades, logrando una colaboración fluida que permitió mejorar la calidad del trabajo entregado en el TP.
@@ -447,7 +450,7 @@
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
                 TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
                 <br><br>
-                TB2: <br> Revision continua de codigo frontend y backend, comunicacion objetiva sobre las mejoras a implementarse, asi como la redaccion de analisis de entrevistas para considerar observaciones y mejors a aplicarse, ademas de poder actualizar la documentacion mediante la actividades y responsabilidades a entregarse<br><br>
+                TB2: <br>Para las correcciones del frontend comunique oportunamente sobre la mejora continua y detalles a tomar en cuenta para el funcionamiento adecuado y visualizacion correcta de elementos y durante las entrevistas se logro reconocer los principales reconomientos e indicaciones a tomar en cuenta para el desarrollo adecuado, asimismo la revision adecuada y comunicacion sobre la implementacion de backend e indicaciones oportunas en reuniones de equipo.<br><br>
                 <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
                 TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final. <br>
                 TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
@@ -6987,4 +6990,3 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 - Enlace para acceder al [Landing-page](https://cafe-lab-landing-opensource.netlify.app/)
 
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
-
