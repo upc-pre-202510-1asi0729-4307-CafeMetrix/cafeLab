@@ -5599,7 +5599,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 
 <table border="1">
 <tr>
-<th colspan="2">User Story</th>
+<th colspan="2">User/Technical Story</th>
 <th colspan="5">Work-Item/Task</th>
 </tr>
 <tr>
@@ -5620,7 +5620,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar interfaz para documentar cada sesión de tueste</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK12</td>
@@ -5628,7 +5628,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US06</td>
@@ -5638,7 +5638,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para seleccionar y comparar varios tuestes</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK14</td>
@@ -5646,7 +5646,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Desarrollar visualizaciones para comparar patrones y resultados</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK15</td>
@@ -5654,7 +5654,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar cálculos y métricas comparativas</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US07</td>
@@ -5664,7 +5664,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK17</td>
@@ -5672,7 +5672,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar búsqueda y filtrado por categorías</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US08</td>
@@ -5682,7 +5682,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK19</td>
@@ -5690,7 +5690,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar rueda de sabores interactiva para selección de atributos</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US09</td>
@@ -5700,7 +5700,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar visualización tipo radar para perfiles sensoriales</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK21</td>
@@ -5708,7 +5708,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar funcionalidad para superponer múltiples perfiles</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US10</td>
@@ -5718,7 +5718,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para visualizar relaciones entre parámetros</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK23</td>
@@ -5726,7 +5726,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar funcionalidad para mostrar resultados sensoriales</td>
 <td>3</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US11</td>
@@ -5736,7 +5736,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar interfaz para acceder a catas anteriores</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK25</td>
@@ -5744,7 +5744,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar filtros por lote, fecha, origen y período</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK26</td>
@@ -5752,7 +5752,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar gráficos de evolución temporal</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US12</td>
@@ -5762,7 +5762,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para documentar recetas detalladas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK28</td>
@@ -5770,7 +5770,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar campos para temperatura, tiempo y proporciones</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK29</td>
@@ -5778,7 +5778,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar biblioteca visual de métodos de preparación</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US13</td>
@@ -5788,7 +5788,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para documentar configuraciones por equipo</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK31</td>
@@ -5796,7 +5796,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar referencias visuales para tamaños de partícula</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US14</td>
@@ -5806,7 +5806,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar portafolio visual de bebidas y recetas</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK33</td>
@@ -5814,7 +5814,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar funcionalidad para presentar a clientes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US15</td>
@@ -5824,7 +5824,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear funcionalidad para compartir recetas con el equipo</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK35</td>
@@ -5832,7 +5832,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar historial de cambios en recetas</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US16</td>
@@ -5842,7 +5842,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear vista general de inventario de café verde y tostado</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK37</td>
@@ -5850,7 +5850,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar notificaciones para niveles bajos de inventario</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US17</td>
@@ -5860,7 +5860,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar herramienta para calcular costos por lote</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK39</td>
@@ -5868,7 +5868,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar visualizaciones de márgenes y rentabilidad</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US18</td>
@@ -5878,7 +5878,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear vista con indicadores clave de producción</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK41</td>
@@ -5886,7 +5886,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar comparación entre lotes y períodos</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US19</td>
@@ -5896,7 +5896,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar sistema para generar reportes de trazabilidad completa</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK43</td>
@@ -5904,7 +5904,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar funcionalidad para descargar reportes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US25</td>
@@ -5914,7 +5914,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para configurar información profesional</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK58</td>
@@ -5922,7 +5922,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar opciones para personalizar la experiencia del usuario</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US26</td>
@@ -5932,7 +5932,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear interfaz para elegir entre planes disponibles</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK60</td>
@@ -5940,11 +5940,241 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Agregar flujo completo de selección y confirmación</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS01</td>
+<td>POST HTTPS Proveedores</td>
+<td>TK61</td>
+<td>Implementar API Proveedores</td>
+<td>Desarrollar endpoint POST seguro (HTTPS) para registro de proveedores</td>
+<td>3</td>
+<td>Adrian</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS02</td>
+<td>GET HTTPS Proveedores</td>
+<td>TK62</td>
+<td>Implementar consulta de proveedores</td>
+<td>Desarrollar endpoint GET seguro (HTTPS) para obtener listado de proveedores</td>
+<td>2</td>
+<td>Adrian</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS03</td>
+<td>GET HTTPS Planes</td>
+<td>TK63</td>
+<td>Implementar consulta de planes</td>
+<td>Crear endpoint GET seguro (HTTPS) para recuperar información de planes</td>
+<td>2</td>
+<td>Fredy</td>
+<td>To Review</td>
+</tr>
+<tr>
+<td>TS04</td>
+<td>POST HTTPS Planes</td>
+<td>TK64</td>
+<td>Implementar creación de planes</td>
+<td>Desarrollar endpoint POST seguro (HTTPS) para registro de nuevos planes</td>
+<td>3</td>
+<td>Guillermo</td>
+<td>To Review</td>
+</tr>
+<tr>
+<td>TS05</td>
+<td>POST HTTPS Certificaciones</td>
+<td>TK65</td>
+<td>Implementar registro de certificaciones</td>
+<td>Crear endpoint POST seguro (HTTPS) para gestionar certificaciones</td>
+<td>3</td>
+<td>Christian</td>
+<td>To Review</td>
+</tr>
+<tr>
+<td>TS06</td>
+<td>GET HTTPS Certificaciones</td>
+<td>TK66</td>
+<td>Implementar consulta de certificaciones</td>
+<td>Desarrollar endpoint GET seguro para obtener listado de certificaciones</td>
+<td>2</td>
+<td>Juan Diego</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS07</td>
+<td>POST HTTPS Perfiles-Tueste</td>
+<td>TK67</td>
+<td>Implementar registro de perfiles de tueste</td>
+<td>Crear endpoint POST para almacenar perfiles de tueste con seguridad HTTPS</td>
+<td>3</td>
+<td>Juan Diego</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS08</td>
+<td>POST HTTPS SesionesTueste</td>
+<td>TK68</td>
+<td>Implementar creación de sesiones de tueste</td>
+<td>Desarrollar endpoint POST seguro para registrar nuevas sesiones de tueste</td>
+<td>3</td>
+<td>Henry</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS09</td>
+<td>PATCH HTTPS Sesiones Tueste</td>
+<td>TK69</td>
+<td>Implementar actualización de sesiones</td>
+<td>Crear endpoint PATCH para modificar sesiones de tueste existentes</td>
+<td>2</td>
+<td>Henry</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS10</td>
+<td>GET HTTPS Análisis-Tueste</td>
+<td>TK70</td>
+<td>Implementar consulta de análisis</td>
+<td>Desarrollar endpoint GET seguro para recuperar análisis de tueste</td>
+<td>2</td>
+<td>Adrian</td>
+<td>To Review</td>
+</tr>
+<tr>
+<td>TS11</td>
+<td>GET HTTPS DefectosTueste</td>
+<td>TK71</td>
+<td>Implementar consulta de defectos</td>
+<td>Crear endpoint GET seguro para obtener listado de defectos de tueste</td>
+<td>2</td>
+<td>Guillermo</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS12</td>
+<td>POST HTTPS Catas</td>
+<td>TK72</td>
+<td>Implementar registro de catas</td>
+<td>Desarrollar endpoint POST seguro para almacenar resultados de catas</td>
+<td>3</td>
+<td>Christian</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS13</td>
+<td>GET HTTPS PerfilesSensoriales</td>
+<td>TK73</td>
+<td>Implementar consulta de perfiles</td>
+<td>Crear endpoint GET seguro para recuperar perfiles sensoriales</td>
+<td>2</td>
+<td>Juan Diego</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS14</td>
+<td>GET HTTPS Correlaciones</td>
+<td>TK74</td>
+<td>Implementar consulta de correlaciones</td>
+<td>Desarrollar endpoint GET seguro para obtener datos de correlaciones</td>
+<td>2</td>
+<td>Henry</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS15</td>
+<td>POST HTTPS Recetas</td>
+<td>TK75</td>
+<td>Implementar registro de recetas</td>
+<td>Crear endpoint POST seguro para almacenar recetas de tueste</td>
+<td>3</td>
+<td>Adrian</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS16</td>
+<td>POST HTTPS Calibraciones</td>
+<td>TK76</td>
+<td>Implementar registro de calibraciones</td>
+<td>Desarrollar endpoint POST seguro para guardar datos de calibración</td>
+<td>3</td>
+<td>Fredy</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS17</td>
+<td>GET HTTPS Inventario</td>
+<td>TK77</td>
+<td>Implementar consulta de inventario</td>
+<td>Crear endpoint GET seguro para obtener estado del inventario</td>
+<td>2</td>
+<td>Fredy</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS18</td>
+<td>PATCH HTTPS Inventario</td>
+<td>TK78</td>
+<td>Implementar actualización de inventario</td>
+<td>Desarrollar endpoint PATCH seguro para modificar registros de inventario</td>
+<td>2</td>
+<td>Adrian</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS19</td>
+<td>POST HTTPS Contacto</td>
+<td>TK79</td>
+<td>Implementar formulario de contacto</td>
+<td>Crear endpoint POST seguro para procesar mensajes de contacto</td>
+<td>2</td>
+<td>Adrian</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>TS20</td>
+<td>POST HTTPS Usuarios</td>
+<td>TK80</td>
+<td>Implementar registro de usuarios</td>
+<td>Desarrollar endpoint POST seguro para creación de usuarios</td>
+<td>3</td>
+<td>Fredy</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS21</td>
+<td>POST HTTPS Autenticación</td>
+<td>TK81</td>
+<td>Implementar sistema de autenticación</td>
+<td>Crear endpoint POST seguro para proceso de login y generación de tokens</td>
+<td>3</td>
+<td>Henry</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS22</td>
+<td>GET HTTPS Planes</td>
+<td>TK82</td>
+<td>Implementar consulta de planes</td>
+<td>Desarrollar endpoint GET seguro para obtener información de planes</td>
+<td>2</td>
+<td>Christian</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>TS23</td>
+<td>POST HTTPS Planes</td>
+<td>TK83</td>
+<td>Implementar creación de planes</td>
+<td>Crear endpoint POST seguro para registro de nuevos planes</td>
+<td>3</td>
+<td>Guillermo</td>
+<td>To review</td>
 </tr>
 </table>
 
-#### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.3.4. Development Evidence for Sprint Review.
 
 <table border="1">
 <tr>
