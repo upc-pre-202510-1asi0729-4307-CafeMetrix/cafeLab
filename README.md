@@ -413,7 +413,7 @@
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Al revisar los avances de los demás, brindé retroalimentación verbal sobre la estructura del backlog y la presentación de los reportes, cuidando mi forma de comunicar según el contexto de cada tarea.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Realicé 2 entrevistas de validación con nuestros segmentos objetivos, adaptando mi estilo de comunicación y nivel de detalle según el perfil de los entrevistados. Por otro lado, realicé mejoras y correcciones en el front-end y back-end. Transmití verbalmente al equipo las conclusiones extraídas de las entrevistas, empleando un lenguaje claro y preciso para garantizar que las recomendaciones surgidas de cada sesión se comprendieran y aplicaran correctamente.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
@@ -441,7 +441,7 @@
                 TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 TP: <br>	Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.
                 <br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Elaboré por escrito los resúmenes de las entrevistas de validación dirigidas a nuestros segmentos objetivo. Posteriormente, redacté un el análisis de las respuestas. De este modo, aseguré que se recibiera la información con el nivel de detalle y el estilo de comunicación adecuados, facilitando su comprensión y la aplicación efectiva de las recomendaciones.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
                 TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
