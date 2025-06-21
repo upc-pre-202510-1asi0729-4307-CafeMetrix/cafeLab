@@ -416,7 +416,7 @@
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
-                TB2: <br><br><br>
+                TB2: <br>Realicé entrevistas de validación con nuestros segmentos objetivos para recopilar feedback. Por otro lado, realicé mejoras y correcciones en el apartado de recetas en el front-end. Además, comuniqué mis hallazgos y propuestas oralmente al equipo, usando un lenguaje claro y colaborativo, de modo que los ajustes se integraran de forma coherente con los objetivos del proyecto.<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
@@ -445,7 +445,7 @@
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
                 TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
                 <br><br>
-                TB2: <br><br><br>
+                TB2: <br>Diseñé las preguntas de las entrevistas de validación, adaptando el lenguaje y la estructura de las preguntas según nuestros segmentos objetivos. Estas preguntas fueron las que se usaron para que todos entrevistemos a los usuarios, asegurando que cada grupo comprendiera el propósito y el alcance de las entrevistas, lo que facilitó su ejecución uniforme.<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
                 TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
@@ -510,7 +510,7 @@ La solución consiste en una plataforma dual que combina software y componentes 
     <td> Mi nombre es <strong>Christian Inga</strong>, tengo 19 años y actualmente estoy estudiando la carrera de Ingenieria de Software. Tengo conocimientos en los lenguajes de programación de C++, Python y Javascript. Considero que puedo adaptarme a diferentes formas de trabajo para alcanzar un objetivo. Me considero una persona responsable y confiable. </td>
   </tr>
   <tr>
-    <td><img src="public/assets/images/integrantes/JD.jpeg"alt="Juan Diego" width="200"></td>
+    <td><img src="public/assets/images/integrantes/JD.jpg"alt="Juan Diego" width="200"></td>
     <td> Mi nombre es <strong>Juan Diego Mondoñedo</strong>, tengo 21 años y soy estudiante de la carrera de Ingenieria de Software. Soy una persona adaptable a las circunstancias y puedo amoldar mis estrategias de trabajo para cumplir las expectativas de cualquier equipo. </td>
   </tr>
 </table>
