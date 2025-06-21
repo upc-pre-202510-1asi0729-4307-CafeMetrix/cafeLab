@@ -416,7 +416,7 @@
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br><br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
@@ -445,7 +445,7 @@
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
                 TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
                 <br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br><br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
                 TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
@@ -6413,9 +6413,8 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Entrevistado 3</td>
     <td>Ana Garcia</td>
   </tr>
-
   <tr>
-   <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Cesar Costa"></td>
+   <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
     <td>Resaltó la fluidez de la experiencia y la coherencia visual de la interfaz, otorgando un 4/5 en intuitividad. Destacó la gestión de costos como la función de mayor valor, y se sorprendió positivamente por el manejo de inventarios y alertas automáticas. Aprecia la integración de todas las funciones en un solo sistema. Como puntos de mejora, sugirió aumentar la visibilidad de los íconos de edición, marcar claramente los campos obligatorios, diferenciar mejor los botones de editar y clonar, y añadir un registro de cambios para mayor control interno.
 
 </td>
