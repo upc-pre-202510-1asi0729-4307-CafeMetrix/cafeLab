@@ -402,7 +402,8 @@
                 <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br><br>
                 TP: <br>Durante las reuniones del equipo para organizar las tareas del TP, me encargué de explicar claramente cómo íbamos a estructurar las user stories y technical stories, asegurándome de que todos entendieran su orden y prioridad.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Durante la entrega,expuse avances técnicos, resolví mis dudas con compañeros y comuniqué decisiones de diseño. También presenté oralmente el funcionamiento del feature de sesiones de cata, inventario y production cost management.
+<br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
@@ -448,9 +449,10 @@
                 <br><br>
                 TB2: <br>TU TEXTO<br><br>
                 <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
-                TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final.
+                TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final. <br>
                 TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
-                TB2: <br>TU TEXTO
+                TB2: <br>Documenté el desarrollo de mis funcionalidades en el proyecto mediante comentarios en el código, comandos y descripciones en las tareas del repositorio. Además, redacté explicaciones claras sobre la lógica detrás del feature de sesiones de cata y los cambios realizados en el backend, permitiendo que tanto desarrolladores como docentes puedan comprender el funcionamiento sin ambigüedades.
+<br>
               </td>
         </td>
         <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación escrita efectiva con diversas audiencias a través de la redacción clara de documentos técnicos como antecedentes, problemática objetivo y análisis de entrevistas. Se documentaron user stories en formato comprensible para lectores técnicos y no técnicos, se crearon descripciones de la startup adaptadas a diferentes stakeholders, y se elaboraron wireframes con anotaciones precisas. El equipo también desarrolló documentación para el product backlog, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para diversos públicos. Las entrevistas escritas y los wireflows contribuyeron a la comprensión de las necesidades de los usuarios, mientras que plataformas como Uxpressia permitieron plasmar efectivamente los requerimientos en el informe final.
