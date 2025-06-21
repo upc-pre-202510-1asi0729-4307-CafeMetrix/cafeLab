@@ -6281,6 +6281,14 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+Se muestran evidencias de la implementacion de frontend, considerando las user goals y correciones del despliegue anterior
+<td><img src="images/evidencefrontend/evidence1.png" alt="Foto de Evidence 1"></td>
+<td><img src="images/evidencefrontend/evidence2.png" alt="Foto de Evidence 2"></td>
+<td><img src="images/evidencefrontend/evidence3.png" alt="Foto de Evidence 3"></td>
+<td><img src="images/evidencefrontend/evidence4.png" alt="Foto de Evidence 4"></td>
+
+
+
 
 # 5.3. Validation interviews
  En la sección de “Validation Interviews” del proyecto CafeLab nos enfocamos en mejorar la presentación y funcionalidad de la plataforma web dirigida a baristas y dueños/administradores de cafeterías. En este punto se llega a la comunicación directa con los segmentos objetivos con el fin de entrevistar y obtener respuestas sobre la experiencia y percepción dentro de la plataforma, ya sean criticas positivas o negativas, esto ayuda en la mejora continua para la integración adecuada de futuras integraciones o correcciones orientadas en mejorar la mejora continua de la plataforma. A continuación se muestran los user goals necesarios para la realización de las entrevistas:
