@@ -256,7 +256,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Integré las imágenes correspondiente de los reportes de github desarrollo del informe.</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">asumí un rol activo en la organización general del equipo. Coordiné la distribución de tareas y aseguré el cumplimiento de los entregables en los plazos establecidos. A nivel técnico, desarrollé las bases del backend para los Web Services y realicé correcciones funcionales y visuales tanto en el Frontend como en el Landing Page. Asimismo, estuve a cargo de la edición de los videos “About-The-Product” y “About-The-Team”. También lideré la mejora continua de artefactos presentados en sprints anteriores, implementando ajustes basados en retroalimentación y principios de usabilidad.</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
@@ -408,7 +408,7 @@
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Durante este Sprint, fui responsable de la sección 5.3.3 Sprint Backlog 3 y asumí un rol activo en la organización general del equipo. Coordiné la distribución de tareas y aseguré el cumplimiento de los entregables en los plazos establecidos. A nivel técnico, desarrollé las bases del backend para los Web Services y realicé correcciones funcionales y visuales tanto en el Frontend como en el Landing Page. Asimismo, estuve a cargo de la edición de los videos “About-The-Product” y “About-The-Team”. También lideré la mejora continua de artefactos presentados en sprints anteriores, implementando ajustes basados en retroalimentación y principios de usabilidad.<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Al revisar los avances de los demás, brindé retroalimentación verbal sobre la estructura del backlog y la presentación de los reportes, cuidando mi forma de comunicar según el contexto de cada tarea.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
@@ -435,7 +435,7 @@
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.<br><br>
                 TP: <br>Me encargué de editar el informe del TP, cuidando que la redacción de las nuevas secciones fuera clara, ordenada y adecuada para una lectura técnica fluida, facilitando así su revisión por parte del equipo y los evaluadores.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Durante este Sprint, contribuí a la documentación técnica del proyecto, cuidando la claridad y el orden en los entregables escritos para facilitar su comprensión tanto por parte del equipo como del docente revisor. Redacté y estructuré el Sprint Backlog 3 de forma precisa y coherente, y también colaboré en la corrección de artefactos previos, enfocándome en mejorar la calidad de la redacción. Concluyo que adaptar el lenguaje y la estructura del contenido escrito según el público objetivo es clave para una comunicación efectiva y profesional.<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 TP: <br>	Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.
