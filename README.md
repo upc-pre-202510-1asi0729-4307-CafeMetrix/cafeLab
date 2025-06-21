@@ -341,6 +341,7 @@
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
+  - [4.9. Backend Diagrams](#49-backend-diagrams)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -412,7 +413,7 @@
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Al revisar los avances de los demás, brindé retroalimentación verbal sobre la estructura del backlog y la presentación de los reportes, cuidando mi forma de comunicar según el contexto de cada tarea.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Realicé 2 entrevistas de validación con nuestros segmentos objetivos, adaptando mi estilo de comunicación y nivel de detalle según el perfil de los entrevistados. Por otro lado, realicé mejoras y correcciones en el front-end y back-end. Transmití verbalmente al equipo las conclusiones extraídas de las entrevistas, empleando un lenguaje claro y preciso para garantizar que las recomendaciones surgidas de cada sesión se comprendieran y aplicaran correctamente.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
@@ -440,7 +441,7 @@
                 TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
                 TP: <br>	Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.
                 <br><br>
-                TB2: <br>TU TEXTO<br><br>
+                TB2: <br>Elaboré por escrito los resúmenes de las entrevistas de validación dirigidas a nuestros segmentos objetivo. Posteriormente, redacté un el análisis de las respuestas. De este modo, aseguré que se recibiera la información con el nivel de detalle y el estilo de comunicación adecuados, facilitando su comprensión y la aplicación efectiva de las recomendaciones.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
                 TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
@@ -2786,33 +2787,31 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![image](https://github.com/user-attachments/assets/38460830-585d-4833-ae1a-4afa48e16528)
+<td><img src="public\assets\images\New-ddd\C4 Contexto.png"></td>
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![image](https://github.com/user-attachments/assets/53a50408-68b1-4db5-bfc8-d0b588a4f9d8)
+<td><img src="public\assets\images\New-ddd\C4 Contenedores.png"></td>
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-**Log-In Bounded Context**
+**Login-Logup - Frontend**
+<td><img src="public\assets\images\New-ddd\C4 Frontend Componentes LOGIN LOGUP.png"></td>
 
-![structurizr-92816-ComponentsDiagram](https://github.com/user-attachments/assets/d74302e8-31a2-45de-b9a7-44bd5b5aa37d)
+**Profiles Bounded Context - Backend**
 
-**Companies Bounded Context**
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes PROFILES.png"></td>
 
-![structurizr-92816-ComponentsDiagram (1)](https://github.com/user-attachments/assets/eec71779-f7f1-4c00-850b-a76e28dd7ed8)
+**Coffee Production Bounded Context - Backend**
 
-**Crop Bounded Context**
-
-![structurizr-92816-ComponentsDiagram (2)](https://github.com/user-attachments/assets/5b179005-3810-4671-8366-22a662045acf)
-
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes COFFEE-PRODUCTION.png"></td>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-![image](https://github.com/user-attachments/assets/3a527d25-49fc-4c9c-a334-0cebe38422f2)
+<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
 
 
 ### 4.7.2. Class Dictionary.
@@ -2924,6 +2923,16 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
 <img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
+
+## 4.9. Backend Diagrams.
+#### Layers Diagram
+<td><img src="public\assets\images\Plantuml\cl-layers-diagram.png" alt="layer diagram"></td>
+
+#### Packages Diagram
+<td><img src="public\assets\images\Plantuml\cl-package-diagram.png" alt="packages diagram"></td>
+
+#### Class Diagram
+<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -6272,6 +6281,14 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+Se muestran evidencias de la implementacion de frontend, considerando las user goals y correciones del despliegue anterior
+<td><img src="images/evidencefrontend/evidence1.png" alt="Foto de Evidence 1"></td>
+<td><img src="images/evidencefrontend/evidence2.png" alt="Foto de Evidence 2"></td>
+<td><img src="images/evidencefrontend/evidence3.png" alt="Foto de Evidence 3"></td>
+<td><img src="images/evidencefrontend/evidence4.png" alt="Foto de Evidence 4"></td>
+
+
+
 
 # 5.3. Validation interviews
  En la sección de “Validation Interviews” del proyecto CafeLab nos enfocamos en mejorar la presentación y funcionalidad de la plataforma web dirigida a baristas y dueños/administradores de cafeterías. En este punto se llega a la comunicación directa con los segmentos objetivos con el fin de entrevistar y obtener respuestas sobre la experiencia y percepción dentro de la plataforma, ya sean criticas positivas o negativas, esto ayuda en la mejora continua para la integración adecuada de futuras integraciones o correcciones orientadas en mejorar la mejora continua de la plataforma. A continuación se muestran los user goals necesarios para la realización de las entrevistas:
@@ -6923,6 +6940,18 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 #### Recomendación:  Corregir la funcionalidad de estas secciones y asegurarse de que estén plenamente operativas. Se sugiere realizar pruebas de flujo de usuario para verificar que los registros se almacenen correctamente y que la interacción sea fluida.
 
+# Video About-the-Product
+Se muestra el video about the product, donde se evidencia la explicacion sobre los principales features, sustentacion de diseño  y proposito de la aplicacion.
+
+**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3`
+<td><img src="public\assets\images\abouttheproduct\abouttheproduct.png" alt="Sesiones de cata no funcionales"></td>
+
+
+
+- **Microsoft Stream:** [upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **YouTube:** [https://youtu.be/AO7F5RHoMCY](https://youtu.be/AO7F5RHoMCY)
+
+
 
 # Conclusiones y Recomendaciones
 
@@ -6957,6 +6986,15 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 
 # Video About-the-Team.
+En el video about the product se evidentcia la retrospectiva de los integrantes del equipo, asi como la explicacion del trabajo realizado por el equipo. Se rezalta la intencion de crecimiento del compañerismo y la mejora continua del proyecto mediante mejor organizacion.
+#### Desde el min 0:18 al 1:38, Atentonaire explica su participación en la redacción del informe, entrevistas de validación y desarrollo del backend de perfiles. Luego, entre el 1:38 y 2:35, otra integrante detalla su trabajo en el frontend del dashboard para baristas y módulos para dueños de cafeterías, aplicando Domain-Driven Design. Del 2:35 al 3:29, Cristian comenta su rol en entrevistas de validación, diseño de wireframes y desarrollo del módulo de recetas. Entre el 3:29 y 5:26, Henry resalta la buena comunicación del equipo, el manejo de documentación y coordinación interna. Del 5:26 al 7:01, Juan Diego, nuevo integrante, habla sobre su adaptación al equipo y su trabajo en el port de la landing page y planificación del backlog. Finalmente, del 7:01 al 8:32, Carlos Freddy comparte su experiencia en investigación, diseño en Figma, desarrollo frontend y uso de herramientas como Trello y GitHub.
+
+**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-team-sprint-3`
+
+- **YouTube:** [Ver en YouTube](https://youtu.be/APEWIFdtTf4)
+- **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu)
+
+
 # Bibliografía
 - **Specialty Coffee Association (SCA).** (2022). *Annual Report: Certification and Professional Development Statistics*. [https://sca.coffee](https://sca.coffee)
 - **Euromonitor International.** (2023). *Coffee Shops Market in Latin America*. [https://www.euromonitor.com](https://www.euromonitor.com)
@@ -6976,8 +7014,7 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 - Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-frontEnd.git)
 
-- Enlace para acceder al  [Front-end]()
-
+- Enlace para acceder al  [Front-end](https://coffee-lab-10031.web.app/login)
 
 
 - Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-backEnd.git)
@@ -6985,6 +7022,15 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 
 - Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage.git)
 
-- Enlace para acceder al [Landing-page](https://cafe-lab-landing-opensource.netlify.app/)
+- Enlace para acceder al [Landing-page](https://cafelanding-60903.web.app/)
 
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
+
+- Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- **Enlace al video "About the Product":** [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+- Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
+
+- Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/personal/u20231c111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea94fac08%2D3899%2D45ee%2D95f9%2De07a74c5b422)
