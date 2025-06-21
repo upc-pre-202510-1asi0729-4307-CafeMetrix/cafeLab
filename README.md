@@ -7003,8 +7003,7 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-frontEnd.git)
 
-- Enlace para acceder al  [Front-end]()
-
+- Enlace para acceder al  [Front-end](https://coffee-lab-10031.web.app/login)
 
 
 - Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-backEnd.git)
@@ -7012,7 +7011,7 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage.git)
 
-- Enlace para acceder al [Landing-page](https://cafe-lab-landing-opensource.netlify.app/)
+- Enlace para acceder al [Landing-page](https://cafelanding-60903.web.app/)
 
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
 
