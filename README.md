@@ -2950,7 +2950,7 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 
 #### Software Development:
 1. Visual Studio Code: Para el desarrollo de la Landing Page del proyecto.
-  - Link: [LandingPage](https://cafelab-landingpage-appweb.netlify.app/)
+  - Link: [LandingPage](https://cafelanding-60903.web.app/)
 
 #### Software Documentation:
 1. Visual Studio Code: Para la documentación de CaféLab se utilizó Visual Studio Code para el desarrollo de los capítulos en formato Markdown.
@@ -3030,26 +3030,31 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 #### Landing Page Deployment
 Para desplegar la landing page, es necesario contar con una cuenta de GitHub y tener acceso como administrador al repositorio del proyecto. A partir de ahí, se pueden cargar los documentos desde un entorno local al repositorio y proceder con el despliegue. A continuación, se describen los pasos seguidos:
 
-1. **Creación de ramas**: Se crean ramas para que cada miembro del proyecto pueda subir sus respectivas secciones de forma organizada.
+1. **Creación de ramas**: Se crean ramas específicas para que cada miembro del equipo pueda trabajar en módulos o componentes del proyecto Angular de forma organizada y sin generar conflictos en la rama principal.
 2. **Estructura del proyecto**: Se define una estructura clara:
-   - `index.html`: contiene el código principal de la landing.
-   - Carpeta `assets/css`: para los estilos.
-   - Carpeta `img`: para las imágenes usadas en el `index.html`.
-   - Archivos `.js`: para funcionalidades JavaScript necesarias.
+   - Carpeta `src/public/components`: para los componentes principales.
+   - Carpeta `public`: para las imágenes y configuración i18n.
+   - Carpeta `src/core/services`: para los servicios para implementar el i18n.
 3. **Subida de archivos al repositorio**:
    - Instalación de Git.
    - Configuración del repositorio remoto.
    - Uso de comandos Git para hacer commit y push de los cambios.
 4. **Configuración para despliegue**:
-   - Se realiza un pull request hacia la rama `main`.
-   - Verificación de que no haya errores para un despliegue limpio.
+   - Instalación de Firebase CLI con el comando **npm install -g firebase-tools**
+   - Nos autenticamos en Firebase con el comando **firebase login**.
+   - Inicialización del proyecto Firebase en el directorio del proyecto Angular con el comando **firebase init**.
+   - Seleccionamos Hosting.
+   - Elegimos el proyecto Firebase creado previamente.
+   - Indicamos como carpeta de despliegue dist/nombre-del-proyecto.
+   - Realizamos el build del proyecto con **ng build** para luego hacer el deploy con **firebase deploy**.
+
 5. **Resolución de conflictos**:
    - En caso de conflictos, se resuelven con herramientas como Visual Studio Code.
    - Se verifica que los conflictos hayan sido solucionados correctamente.
 
-Posteriormente, iniciamos sesión en [Netlify](https://www.netlify.com/) y conectamos el repositorio de GitHub para un despliegue seguro y que permita futuras actualizaciones sin afectar las funcionalidades del Front End.
+Con este flujo, la aplicación Angular queda desplegada en Firebase Hosting, permitiendo actualizaciones automáticas tras nuevas versiones y asegurando un entorno estable para el front-end.
 
-🔗 **Landing Page en Netlify**: [https://cafe-lab-landing-opensource.netlify.app/](https://cafe-lab-landing-opensource.netlify.app/)
+🔗 **Landing Page en FireBase**: [https://cafelanding-60903.web.app/](https://cafelanding-60903.web.app/)
 
 ---
 
@@ -6994,7 +6999,6 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 - **YouTube:** [Ver en YouTube](https://youtu.be/APEWIFdtTf4)
 - **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu)
 
-
 # Bibliografía
 - **Specialty Coffee Association (SCA).** (2022). *Annual Report: Certification and Professional Development Statistics*. [https://sca.coffee](https://sca.coffee)
 - **Euromonitor International.** (2023). *Coffee Shops Market in Latin America*. [https://www.euromonitor.com](https://www.euromonitor.com)
@@ -7016,9 +7020,7 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al  [Front-end](https://coffee-lab-10031.web.app/login)
 
-
 - Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-backEnd.git)
-
 
 - Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-landingPage.git)
 
@@ -7029,7 +7031,6 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 - Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - **Enlace al video "About the Product":** [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 
 - Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
 
