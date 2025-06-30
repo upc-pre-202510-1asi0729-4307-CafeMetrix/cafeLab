@@ -47,7 +47,7 @@
             <td style="border: 1px solid #ddd;">Carlos Fredy Fernandez Camayo</td>
             <td style="border: 1px solid #ddd;">U202320083</td>
         </tr>
-         <tr>
+        <tr>
             <td style="border: 1px solid #ddd;">Juan Diego Mondoñedo Rodriguez</td>
             <td style="border: 1px solid #ddd;">U202110373</td>
         </tr>
@@ -4119,10 +4119,10 @@ Para este Sprint, los aspectos principales corresponden a las User Stories que d
 Durante el segundo sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
 
 <p align="center">
-    <img src="" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint2/trello.png" alt="Organización en la herramienta Trello">
 </p>
 
-Link de [Trello]()
+Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 
 <table border="1">
 <tr>
@@ -5604,7 +5604,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 
 #### 5.2.3.3. Sprint Backlog 3.
 <p align="center">
-    <img src="" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint3/trello.png" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
