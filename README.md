@@ -129,6 +129,27 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">TF</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">06/07/2025</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <ul>
+        <li>Guillermo Tantaleán</li>
+        <li>Henry Esteban</li>
+        <li>Adrian Donayre</li>
+        <li>Christian Inga</li>
+        <li>Carlos Fernandez</li>
+        <li>Juan Diego Mondoñedo</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">            
+      <ul>
+        <li>Capítulo V: Product Implementation, Validation & Deployment, cuarto sprint</li>
+        <li>Nueva versión del video about the product </li>
+        <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+      </ul>
+    </td>
+  </tr>
 </table><br>
 
 <!--Link al repositorio en la organización-->
