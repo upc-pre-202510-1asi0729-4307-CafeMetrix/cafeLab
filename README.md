@@ -4234,7 +4234,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz de usuario para el registro de proveedores con campos requeridos</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK02</td>
@@ -4242,7 +4242,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar validaciones de campos y manejo de errores</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK03</td>
@@ -4250,7 +4250,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar comunicación con la fake API para guardar proveedores</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US02</td>
@@ -4260,7 +4260,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para registrar información de lotes de café verde</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK05</td>
@@ -4268,7 +4268,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista de tabla con todos los lotes y opciones de filtrado</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK06</td>
@@ -4276,7 +4276,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar crear, leer, actualizar y eliminar lotes</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US03</td>
@@ -4286,7 +4286,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear formulario para documentar certificaciones con campos necesarios</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK08</td>
@@ -4294,7 +4294,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para simular carga y vista previa de archivos</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US04</td>
@@ -4304,7 +4304,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para configurar perfiles de tueste personalizados</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK10</td>
@@ -4312,7 +4312,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar gráficos de curvas de temperatura y tiempo</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US05</td>
@@ -4322,7 +4322,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para documentar cada sesión de tueste</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK12</td>
@@ -4330,7 +4330,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US06</td>
@@ -4340,7 +4340,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para seleccionar y comparar varios tuestes</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK14</td>
@@ -4348,7 +4348,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Desarrollar visualizaciones para comparar patrones y resultados</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK15</td>
@@ -4356,7 +4356,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar cálculos y métricas comparativas</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US07</td>
@@ -4366,7 +4366,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK17</td>
@@ -4374,7 +4374,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar búsqueda y filtrado por categorías</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US08</td>
@@ -4384,7 +4384,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK19</td>
@@ -4392,7 +4392,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar rueda de sabores interactiva para selección de atributos</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US09</td>
@@ -4402,7 +4402,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar visualización tipo radar para perfiles sensoriales</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK21</td>
@@ -4410,7 +4410,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para superponer múltiples perfiles</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US10</td>
@@ -4420,7 +4420,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para visualizar relaciones entre parámetros</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK23</td>
@@ -4428,7 +4428,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para mostrar resultados sensoriales</td>
 <td>3</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US11</td>
@@ -4438,7 +4438,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para acceder a catas anteriores</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK25</td>
@@ -4446,7 +4446,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar filtros por lote, fecha, origen y período</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK26</td>
@@ -4454,7 +4454,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar gráficos de evolución temporal</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US12</td>
@@ -4464,7 +4464,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para documentar recetas detalladas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK28</td>
@@ -4472,7 +4472,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar campos para temperatura, tiempo y proporciones</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK29</td>
@@ -4480,7 +4480,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar biblioteca visual de métodos de preparación</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US13</td>
@@ -4490,7 +4490,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para documentar configuraciones por equipo</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK31</td>
@@ -4498,7 +4498,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar referencias visuales para tamaños de partícula</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US14</td>
@@ -4508,7 +4508,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar portafolio visual de bebidas y recetas</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK33</td>
@@ -4516,7 +4516,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para presentar a clientes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US15</td>
@@ -4526,7 +4526,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear funcionalidad para compartir recetas con el equipo</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK35</td>
@@ -4534,7 +4534,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar historial de cambios en recetas</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US16</td>
@@ -4544,7 +4544,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista general de inventario de café verde y tostado</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK37</td>
@@ -4552,7 +4552,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar notificaciones para niveles bajos de inventario</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US17</td>
@@ -4562,7 +4562,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar herramienta para calcular costos por lote</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK39</td>
@@ -4570,7 +4570,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar visualizaciones de márgenes y rentabilidad</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US18</td>
@@ -4580,7 +4580,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista con indicadores clave de producción</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK41</td>
@@ -4588,7 +4588,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar comparación entre lotes y períodos</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US19</td>
@@ -4598,7 +4598,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar sistema para generar reportes de trazabilidad completa</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK43</td>
@@ -4606,7 +4606,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para descargar reportes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US20</td>
@@ -4704,7 +4704,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaces de registro e inicio de sesión con validaciones</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK55</td>
@@ -4712,7 +4712,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar manejo de estado de autenticación del usuario</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK56</td>
@@ -4720,7 +4720,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar flujo para recuperar acceso a la cuenta</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US25</td>
@@ -4730,7 +4730,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para configurar información profesional</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK58</td>
@@ -4738,7 +4738,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar opciones para personalizar la experiencia del usuario</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US26</td>
@@ -4748,7 +4748,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para elegir entre planes disponibles</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK60</td>
@@ -4756,7 +4756,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar flujo completo de selección y confirmación</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 </table>
 
