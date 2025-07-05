@@ -357,12 +357,12 @@
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.6.4. Software Architecture Packages and Layers Diagrams](#464-software-architecture-packages-and-layers-diagrams)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-  - [4.9. Backend Diagrams](#49-backend-diagrams)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -2815,22 +2815,87 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-**Login-Logup - Frontend**
-<td><img src="public\assets\images\New-ddd\C4 Frontend Componentes LOGIN LOGUP.png"></td>
+### SPA
 
-**Profiles Bounded Context - Backend**
+**Auth**
+<td><img src="public\assets\images\New-ddd\C4 Frontend Componentes AUTH.png"></td>
+
+### Api Application
+
+<!--Continúen poniendo sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
+
+**Coffee Production Bounded Context**
+
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes COFFEE-PRODUCTION.png"></td>
+
+**Profiles Bounded Context**
 
 <td><img src="public\assets\images\New-ddd\C4 Backend Componentes PROFILES.png"></td>
 
-**Coffee Production Bounded Context - Backend**
+**IAM Bounded Context**
 
-<td><img src="public\assets\images\New-ddd\C4 Backend Componentes COFFEE-PRODUCTION.png"></td>
+<td><img src="public\assets\images\New-ddd\C4 Backend Componentes IAM.png"></td>
+
+### 4.6.4. Software Architecture Packages and Layers Diagrams.
+
+<!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
+
+### Profiles
+**Packages**
+<td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-profiles NUEVO.png"></td>
+
+**Layers**
+<td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-profiles NUEVO.png"></td>
+
+### IAM
+**Packages**
+<td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-iam NUEVO.png"></td>
+
+**Layers**
+<td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-iam NUEVO.png"></td>
+
+### Shared
+**Packages**
+<td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-shared NUEVO.png"></td>
+
+**Layers**
+<td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-shared NUEVO.png"></td>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
+<!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
 
+### Profiles
+
+**Domain**
+<td><img src="public\assets\images\Plantuml\classes\profiles\domain.png"></td>
+
+**Infrastructure**
+<td><img src="public\assets\images\Plantuml\classes\profiles\infrastructure.png"></td>
+
+**Interfaces**
+<td><img src="public\assets\images\Plantuml\classes\profiles\interfaces.png"></td>
+
+**Application**
+<td><img src="public\assets\images\Plantuml\classes\profiles\application.png"></td>
+
+### IAM
+
+**Domain**
+<td><img src="public\assets\images\Plantuml\classes\IAM\domain.png"></td>
+
+**Infrastructure**
+<td><img src="public\assets\images\Plantuml\classes\IAM\infraestructura.png"></td>
+
+**Interfaces**
+<td><img src="public\assets\images\Plantuml\classes\IAM\interface.png"></td>
+
+**Application**
+<td><img src="public\assets\images\Plantuml\classes\IAM\application.png"></td>
+
+### Shared
+<td><img src="public\assets\images\Plantuml\classes\shared\cl-class-diagram-shared NUEVO.png"></td>
 
 ### 4.7.2. Class Dictionary.
 
@@ -2941,16 +3006,6 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 ### 4.8.1. Database Diagram.
 <img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4364-CafeMetrix/cafeLab/feature/informe-readme/public/assets/images/Database%20Diagram/Database_Diagram.png" alt="Database Diagram">
-
-## 4.9. Backend Diagrams.
-#### Layers Diagram
-<td><img src="public\assets\images\Plantuml\cl-layers-diagram.png" alt="layer diagram"></td>
-
-#### Packages Diagram
-<td><img src="public\assets\images\Plantuml\cl-package-diagram.png" alt="packages diagram"></td>
-
-#### Class Diagram
-<td><img src="public\assets\images\Plantuml\cl-class-diagram.png" alt="class diagram"></td>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
