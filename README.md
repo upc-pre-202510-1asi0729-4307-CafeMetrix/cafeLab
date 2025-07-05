@@ -397,6 +397,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 2](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 2.](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3185,7 +3194,7 @@ Con este flujo, la aplicación Angular queda desplegada en Firebase Hosting, per
             <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar la landing page de nuestra startup Café Metrix</td>
+            <td colspan="4" style="border: 1px solid #000;">Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje la propuesta de valor de Café Metrix</td>
             <td style="text-align:center; border: 1px solid #000;">8</td>
             <td style="text-align:center; border: 1px solid #000;">8</td>
         </tr>
@@ -3958,7 +3967,7 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
             <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar el frontend de nuestra startup Café Metrix</td>
+            <td colspan="4" style="border: 1px solid #000;">Habilitar la interacción y el valor inicial para los usuarios a través del desarrollo de las principales funcionalidades del frontend de Café Metrix</td>
             <td style="text-align:center; border: 1px solid #000;">10</td>
             <td style="text-align:center; border: 1px solid #000;">10</td>
         </tr>
@@ -5285,7 +5294,7 @@ El despligue de la aplicacion frontend se realizo en firebase, utilizando la ram
             <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Desarrollar y desplegar el frontend de nuestra startup Café Metrix</td>
+            <td colspan="4" style="border: 1px solid #000;">Consolidar la experiencia integral del usuario mediante la finalización del frontend y el despliegue de capacidades backend, enfocadas en la gestión y análisis de datos de la cadena productiva del café</td>
             <td style="text-align:center; border: 1px solid #000;">50</td>
             <td style="text-align:center; border: 1px solid #000;">50</td>
         </tr>
