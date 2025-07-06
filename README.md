@@ -2968,6 +2968,10 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ### 4.6.4. Software Architecture Packages and Layers Diagrams.
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
+# Preparation
+**Packages**
+<td><img 
+src="public\assets\images\Plantuml\classes\preparation\PreparationLayersDiagram.png"></td>
 
 # Profiles
 **Packages**
@@ -3008,10 +3012,11 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 <td><img src="public\assets\images\Plantuml\classes\preparation\PreparationFront.png"></td>
 
+# Production
+
 ## Backend
 
-<td><img src="public\assets\images\Plantuml\classes\preparaion\PreparationFront.png"></td>
-
+<td><img src="public\assets\images\Plantuml\classes\production\Production_Bounded_Context.png"></td>
 
 # Coffee-Lot
 
@@ -3030,6 +3035,9 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 <td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
 
+## Backend
+
+<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Management_Bounded_Context.png"></td>
 
 # Inventory
 
@@ -7776,5 +7784,28 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 - Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
 
 - Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/personal/u20231c111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea94fac08%2D3899%2D45ee%2D95f9%2De07a74c5b422)
+
+- **Usuarios con los diferentes planes:**
+
+- Francis Barista Account:
+
+- Email: francis_barista@gmail.com
+
+- Pass: francis123
+
+
+- Martín Rios Owner Account:
+
+- Email: martin.rios@espressohaven.com
+
+- Pass: espresso1
+
+
+- Sofía Morales Complete Account:
+
+- Email: sofia.morales@granovainilla.com
+
+- Pass: mocha789
+
 
 - Enlace para acceder al [video exposicion trabajo final](no hay nada por ahora. cambiar eso)
