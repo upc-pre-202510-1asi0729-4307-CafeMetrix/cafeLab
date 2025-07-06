@@ -3092,7 +3092,7 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## FrontEnd
 
-<td><img src="public\assets\images\Plantuml\classes\Auth\FrontEnd.png"></td>
+<td><img src="public\assets\images\Plantuml\classes\Auth\Frontend.png"></td>
 
 ## BackEnd(Profiles)
 
@@ -3377,38 +3377,66 @@ Con este flujo, la aplicación Angular queda desplegada en Firebase Hosting, per
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">1</td>
-            <td style="text-align:center; border: 1px solid #000;">26/04/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">09:00 AM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+            <th>Sprint #</th>
+            <td>1</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 1 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 1 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje la propuesta de valor de Café Metrix</td>
-            <td style="text-align:center; border: 1px solid #000;">8</td>
-            <td style="text-align:center; border: 1px solid #000;">8</td>
+            <th>Date</th>
+            <td>26/04/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>09:00 AM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Sprint 0 Review Summary</th>
+            <td>
+                Se completaron las actividades de preparación inicial, como la definición del alcance, la formación del equipo y la configuración de las herramientas. El equipo mostró compromiso y buena organización en la etapa previa al inicio formal del proyecto.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 0 Retrospective Summary</th>
+            <td>
+                El equipo destacó la claridad en los roles y la importancia de la comunicación continua. Se identificó como mejora futura documentar los acuerdos tomados y realizar reuniones breves de seguimiento.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje la propuesta de valor de Café Metrix</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>8</td>
         </tr>
     </tbody>
 </table>
+
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
@@ -4150,35 +4178,61 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">2</td>
-            <td style="text-align:center; border: 1px solid #000;">14/05/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">08:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+            <th>Sprint #</th>
+            <td>2</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 2 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 2 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Habilitar la interacción y el valor inicial para los usuarios a través del desarrollo de las principales funcionalidades del frontend de Café Metrix</td>
-            <td style="text-align:center; border: 1px solid #000;">10</td>
-            <td style="text-align:center; border: 1px solid #000;">10</td>
+            <th>Date</th>
+            <td>14/05/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>08:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>
+                El equipo logró implementar la landing page y captar a los primeros usuarios interesados. Se recibieron comentarios positivos sobre la propuesta visual y la claridad del mensaje.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td>
+                Se identificó como oportunidad de mejora la necesidad de organizar mejor las tareas del frontend y asegurar la integración continua. Se propuso fortalecer la comunicación en las revisiones técnicas.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 2 Goal</th>
+            <td>Habilitar la interacción y el valor inicial para los usuarios a través del desarrollo de las principales funcionalidades del frontend de Café Metrix</td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Velocity</th>
+            <td>10</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>10</td>
         </tr>
     </tbody>
 </table>
@@ -4415,7 +4469,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories que d
 Durante el segundo sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
 
 <p align="center">
-    <img src="public/assets/images/Sprint2/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint2/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
@@ -5476,35 +5530,61 @@ El despligue de la aplicacion frontend se realizo en firebase, utilizando la ram
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">3</td>
-            <td style="text-align:center; border: 1px solid #000;">29/05/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">07:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+            <th>Sprint #</th>
+            <td>3</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 3 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 3 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Consolidar la experiencia integral del usuario mediante la finalización del frontend y el despliegue de capacidades backend, enfocadas en la gestión y análisis de datos de la cadena productiva del café</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
+            <th>Date</th>
+            <td>29/05/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>07:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Review Summary</th>
+            <td>
+                Se logró el desarrollo de las principales vistas del frontend y se integraron funcionalidades críticas para los usuarios. El feedback recogido permitió ajustar detalles de la interfaz y mejorar la experiencia general.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Retrospective Summary</th>
+            <td>
+                El equipo valoró la capacidad de adaptación frente a cambios de requerimientos. Se identificó como área de mejora una mayor cobertura de pruebas y la necesidad de documentar flujos complejos en backend y frontend.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 3 Goal</th>
+            <td>Consolidar la experiencia integral del usuario mediante la finalización del frontend y el despliegue de capacidades backend, enfocadas en la gestión y análisis de datos de la cadena productiva del café</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Velocity</th>
+            <td>50</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>50</td>
         </tr>
     </tbody>
 </table>
@@ -5899,7 +5979,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 
 #### 5.2.3.3. Sprint Backlog 3.
 <p align="center">
-    <img src="public/assets/images/Sprint3/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint3/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
@@ -6583,49 +6663,72 @@ Se muestran evidencias de la implementacion de frontend, considerando las user g
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">4</td>
-            <td style="text-align:center; border: 1px solid #000;">23/06/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">07:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+            <th>Sprint #</th>
+            <td>4</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 4 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 4 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Culminar la entrega de la plataforma Café Metrix, integrando y desplegando todas las funcionalidades clave en frontend y backend, listas para su adopción por parte de baristas y cafeterías de especialidad 
+            <th>Date</th>
+            <td>4/07/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>06:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Review Summary</th>
+            <td>
+                El equipo completó parcielmente el desarrollo del backend. Se realizó la primera pruebas preliminares datos reales y se recibieron sugerencias para el despliegue final de ambas capas.
             </td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Retrospective Summary</th>
+            <td>
+                Se reconoció la mejora en los procesos de integración y comunicación. El equipo propuso enfocar la siguiente etapa en completar el backend y su implementación con el front end.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 4 Goal</th>
+            <td>Culminar la entrega de la plataforma Café Metrix, integrando y desplegando todas las funcionalidades clave en frontend y backend, listas para su adopción por parte de baristas y cafeterías de especialidad</td>
+        </tr>
+        <tr>
+            <th>Sprint 4 Velocity</th>
+            <td>50</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>50</td>
         </tr>
     </tbody>
 </table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
-Para este Sprint, los aspectos principales corresponden a las User Stories restantes del alcance proyectado a nuestro front end sumado a la realización de las Technical Stories corresponientes al back end: Registro de Sesión de Tueste (US05), Análisis Comparativo de Tuestes (US06), Biblioteca de Defectos de Tueste (US07), Cata Digital Estructurada (US08), Visualización de Perfiles Sensoriales (US09), Correlación Tueste-Sabor (US10), Historial de Catas (US11), Creación de Recetas de Preparación (US12), Calibración de Molienda (US13), Portafolio de Bebidas (US14), Compartir Recetas (US15), Control de Inventario Integrado (US16), Gestión de Costos de Producción (US17), Análisis de Eficiencia y Rendimiento (US18), Reportes de Trazabilidad (US19), Perfil Personalizado (US25), Selección de Plan (US26), POST HTTPS Proveedores (TS01), GET HTTPS Proveedores (TS02), GET HTTPS Planes (TS03), POST HTTPS Planes (TS04), entre otros. Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+Para este Sprint, los aspectos principales se centrarán en el desarrollo de las User Stories clave Análisis Comparativo de Tuestes (US06), Correlación Tueste-Sabor (US10) y Gestión de Costos de Producción (US17), junto con sus Technical Stories asociadas: GET HTTPS Análisis-Tueste (TS10), GET HTTPS Correlaciones (TS14), GET HTTPS Inventario (TS17) y PATCH HTTPS Inventario (TS18). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada, manteniendo un equilibrio entre las necesidades de front end y back end para garantizar una implementación eficiente y coordinada de estas funcionalidades críticas del sistema.
 
 <table border="1" align="center">
 <tr>
-<th rowspan="2">User Story</th>
-<th colspan="5">Team Members</th>
+<th rowspan="2">User Story / Technical Story</th>
+<th colspan="6">Team Members</th>
 </tr>
 <tr>
 <th>Adrian<br/>Donayre</th>
@@ -6636,43 +6739,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <th>Juan Diego<br/>Mondoñedo</th>
 </tr>
 <tr>
-<td>US05: Registro de Sesión de Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>US06: Análisis Comparativo de Tuestes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US07: Biblioteca de Defectos de Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US08: Cata Digital Estructurada</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US09: Visualización de Perfiles Sensoriales</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
@@ -6690,192 +6757,12 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 </tr>
 <tr>
-<td>US11: Historial de Catas</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US12: Creación de Recetas de Preparación</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US13: Calibración de Molienda</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US14: Portafolio de Bebidas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US15: Compartir Recetas</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US16: Control de Inventario Integrado</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>US17: Gestión de Costos de Producción</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
 <td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US18: Análisis de Eficiencia y Rendimiento</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US19: Reportes de Trazabilidad</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US20: Información del Producto</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US25: Perfil Personalizado</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US26: Selección de Plan</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS01: POST HTTPS Proveedores</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS02: GET HTTPS Proveedores</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS03: GET HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS04: POST HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS05: POST HTTPS Certificaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS06: GET HTTPS Certificaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS07: POST HTTPS Perfiles-Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS08: POST HTTPS SesionesTueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS09: PATCH HTTPS Sesiones Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
 <td>C</td>
 </tr>
 <tr>
@@ -6888,52 +6775,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 </tr>
 <tr>
-<td>TS11: GET HTTPS DefectosTueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS12: POST HTTPS Catas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS13: GET HTTPS PerfilesSensoriales</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>TS14: GET HTTPS Correlaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS15: POST HTTPS Recetas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS16: POST HTTPS Calibraciones</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
@@ -6959,58 +6801,11 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 <td>C</td>
 </tr>
-<tr>
-<td>TS19: POST HTTPS Contacto</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS20: POST HTTPS Usuarios</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS21: POST HTTPS Autenticación</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS22: GET HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS23: POST HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-
 </table>
 
-#### 5.2.3.3. Sprint Backlog 4.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
+#### 5.2.4.3. Sprint Backlog 4.
 <p align="center">
-    <img src="public/assets/images/Sprint3/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint4/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
@@ -7028,25 +6823,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <th>Description</th>
 <th>Estimation (Hours)</th>
 <th>Assigned To</th>
-<th>Status (To-do / In Process / To Review / Done)</th>
-</tr>
-<tr>
-<td rowspan="2">US05</td>
-<td rowspan="2">Registro de Sesión de Tueste</td>
-<td>TK11</td>
-<td>Crear formulario de sesión</td>
-<td>Diseñar interfaz para documentar cada sesión de tueste</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK12</td>
-<td>Implementar vista de historial</td>
-<td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
+<th>Status</th>
 </tr>
 <tr>
 <td rowspan="3">US06</td>
@@ -7055,7 +6832,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar selector múltiple</td>
 <td>Crear interfaz para seleccionar y comparar varios tuestes</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Guillermo</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7063,7 +6840,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar gráficos comparativos</td>
 <td>Desarrollar visualizaciones para comparar patrones y resultados</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Christian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7075,67 +6852,13 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Done</td>
 </tr>
 <tr>
-<td rowspan="2">US07</td>
-<td rowspan="2">Biblioteca de Defectos de Tueste</td>
-<td>TK16</td>
-<td>Crear catálogo visual</td>
-<td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK17</td>
-<td>Implementar sistema de búsqueda</td>
-<td>Agregar búsqueda y filtrado por categorías</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US08</td>
-<td rowspan="2">Cata Digital Estructurada</td>
-<td>TK18</td>
-<td>Diseñar formulario de cata</td>
-<td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK19</td>
-<td>Implementar herramienta visual</td>
-<td>Agregar rueda de sabores interactiva para selección de atributos</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US09</td>
-<td rowspan="2">Visualización de Perfiles Sensoriales</td>
-<td>TK20</td>
-<td>Crear gráfico radial</td>
-<td>Implementar visualización tipo radar para perfiles sensoriales</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK21</td>
-<td>Implementar comparación visual</td>
-<td>Agregar funcionalidad para superponer múltiples perfiles</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
 <td rowspan="2">US10</td>
 <td rowspan="2">Correlación Tueste-Sabor</td>
 <td>TK22</td>
 <td>Diseñar vista de correlaciones</td>
 <td>Crear interfaz para visualizar relaciones entre parámetros</td>
 <td>2</td>
-<td>Kalet</td>
+<td>Juan Diego</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7143,131 +6866,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar análisis sensorial</td>
 <td>Agregar funcionalidad para mostrar resultados sensoriales</td>
 <td>3</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="3">US11</td>
-<td rowspan="3">Historial de Catas</td>
-<td>TK24</td>
-<td>Crear vista de historial</td>
-<td>Diseñar interfaz para acceder a catas anteriores</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK25</td>
-<td>Implementar filtros avanzados</td>
-<td>Agregar filtros por lote, fecha, origen y período</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK26</td>
-<td>Agregar análisis de tendencias</td>
-<td>Implementar gráficos de evolución temporal</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="3">US12</td>
-<td rowspan="3">Creación de Recetas de Preparación</td>
-<td>TK27</td>
-<td>Diseñar editor de recetas</td>
-<td>Crear interfaz para documentar recetas detalladas</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK28</td>
-<td>Implementar parámetros de preparación</td>
-<td>Agregar campos para temperatura, tiempo y proporciones</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK29</td>
-<td>Crear galería de métodos</td>
-<td>Implementar biblioteca visual de métodos de preparación</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US13</td>
-<td rowspan="2">Calibración de Molienda</td>
-<td>TK30</td>
-<td>Diseñar configurador de molienda</td>
-<td>Crear interfaz para documentar configuraciones por equipo</td>
-<td>1</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK31</td>
-<td>Implementar guías visuales</td>
-<td>Agregar referencias visuales para tamaños de partícula</td>
-<td>1</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US14</td>
-<td rowspan="2">Portafolio de Bebidas</td>
-<td>TK32</td>
-<td>Crear catálogo digital</td>
-<td>Diseñar portafolio visual de bebidas y recetas</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK33</td>
-<td>Implementar presentación interactiva</td>
-<td>Agregar funcionalidad para presentar a clientes</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US15</td>
-<td rowspan="2">Compartir Recetas</td>
-<td>TK34</td>
-<td>Implementar sistema de compartir</td>
-<td>Crear funcionalidad para compartir recetas con el equipo</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK35</td>
-<td>Agregar control de versiones</td>
-<td>Implementar historial de cambios en recetas</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US16</td>
-<td rowspan="2">Control de Inventario Integrado</td>
-<td>TK36</td>
-<td>Diseñar dashboard de inventario</td>
-<td>Crear vista general de inventario de café verde y tostado</td>
-<td>2</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK37</td>
-<td>Implementar alertas de stock</td>
-<td>Agregar notificaciones para niveles bajos de inventario</td>
-<td>1</td>
-<td>Kalet</td>
+<td>Adrian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7277,7 +6876,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear calculadora de costos</td>
 <td>Diseñar herramienta para calcular costos por lote</td>
 <td>2</td>
-<td>Christian</td>
+<td>Henry</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7285,169 +6884,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar análisis de rentabilidad</td>
 <td>Agregar visualizaciones de márgenes y rentabilidad</td>
 <td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US18</td>
-<td rowspan="2">Análisis de Eficiencia y Rendimiento</td>
-<td>TK40</td>
-<td>Diseñar dashboard de métricas</td>
-<td>Crear vista con indicadores clave de producción</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK41</td>
-<td>Implementar reportes comparativos</td>
-<td>Agregar comparación entre lotes y períodos</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US19</td>
-<td rowspan="2">Reportes de Trazabilidad</td>
-<td>TK42</td>
-<td>Crear generador de reportes</td>
-<td>Diseñar sistema para generar reportes de trazabilidad completa</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK43</td>
-<td>Implementar exportación</td>
-<td>Agregar funcionalidad para descargar reportes</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US25</td>
-<td rowspan="2">Perfil Personalizado</td>
-<td>TK57</td>
-<td>Diseñar página de perfil</td>
-<td>Crear interfaz para configurar información profesional</td>
-<td>1</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK58</td>
-<td>Implementar personalización</td>
-<td>Agregar opciones para personalizar la experiencia del usuario</td>
-<td>1</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US26</td>
-<td rowspan="2">Selección de Plan</td>
-<td>TK59</td>
-<td>Diseñar selector de planes</td>
-<td>Crear interfaz para elegir entre planes disponibles</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK60</td>
-<td>Implementar proceso de suscripción</td>
-<td>Agregar flujo completo de selección y confirmación</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS01</td>
-<td>POST HTTPS Proveedores</td>
-<td>TK61</td>
-<td>Implementar API Proveedores</td>
-<td>Desarrollar endpoint POST seguro (HTTPS) para registro de proveedores</td>
-<td>3</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS02</td>
-<td>GET HTTPS Proveedores</td>
-<td>TK62</td>
-<td>Implementar consulta de proveedores</td>
-<td>Desarrollar endpoint GET seguro (HTTPS) para obtener listado de proveedores</td>
-<td>2</td>
-<td>Adrian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS03</td>
-<td>GET HTTPS Planes</td>
-<td>TK63</td>
-<td>Implementar consulta de planes</td>
-<td>Crear endpoint GET seguro (HTTPS) para recuperar información de planes</td>
-<td>2</td>
-<td>Fredy</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS04</td>
-<td>POST HTTPS Planes</td>
-<td>TK64</td>
-<td>Implementar creación de planes</td>
-<td>Desarrollar endpoint POST seguro (HTTPS) para registro de nuevos planes</td>
-<td>3</td>
 <td>Guillermo</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS05</td>
-<td>POST HTTPS Certificaciones</td>
-<td>TK65</td>
-<td>Implementar registro de certificaciones</td>
-<td>Crear endpoint POST seguro (HTTPS) para gestionar certificaciones</td>
-<td>3</td>
-<td>Christian</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS06</td>
-<td>GET HTTPS Certificaciones</td>
-<td>TK66</td>
-<td>Implementar consulta de certificaciones</td>
-<td>Desarrollar endpoint GET seguro para obtener listado de certificaciones</td>
-<td>2</td>
-<td>Juan Diego</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS07</td>
-<td>POST HTTPS Perfiles-Tueste</td>
-<td>TK67</td>
-<td>Implementar registro de perfiles de tueste</td>
-<td>Crear endpoint POST para almacenar perfiles de tueste con seguridad HTTPS</td>
-<td>3</td>
-<td>Juan Diego</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS08</td>
-<td>POST HTTPS SesionesTueste</td>
-<td>TK68</td>
-<td>Implementar creación de sesiones de tueste</td>
-<td>Desarrollar endpoint POST seguro para registrar nuevas sesiones de tueste</td>
-<td>3</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS09</td>
-<td>PATCH HTTPS Sesiones Tueste</td>
-<td>TK69</td>
-<td>Implementar actualización de sesiones</td>
-<td>Crear endpoint PATCH para modificar sesiones de tueste existentes</td>
-<td>2</td>
-<td>Henry</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7457,38 +6894,8 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de análisis</td>
 <td>Desarrollar endpoint GET seguro para recuperar análisis de tueste</td>
 <td>2</td>
-<td>Adrian</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS11</td>
-<td>GET HTTPS DefectosTueste</td>
-<td>TK71</td>
-<td>Implementar consulta de defectos</td>
-<td>Crear endpoint GET seguro para obtener listado de defectos de tueste</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS12</td>
-<td>POST HTTPS Catas</td>
-<td>TK72</td>
-<td>Implementar registro de catas</td>
-<td>Desarrollar endpoint POST seguro para almacenar resultados de catas</td>
-<td>3</td>
 <td>Christian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS13</td>
-<td>GET HTTPS PerfilesSensoriales</td>
-<td>TK73</td>
-<td>Implementar consulta de perfiles</td>
-<td>Crear endpoint GET seguro para recuperar perfiles sensoriales</td>
-<td>2</td>
-<td>Juan Diego</td>
-<td>To review</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TS14</td>
@@ -7497,28 +6904,8 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de correlaciones</td>
 <td>Desarrollar endpoint GET seguro para obtener datos de correlaciones</td>
 <td>2</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS15</td>
-<td>POST HTTPS Recetas</td>
-<td>TK75</td>
-<td>Implementar registro de recetas</td>
-<td>Crear endpoint POST seguro para almacenar recetas de tueste</td>
-<td>3</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS16</td>
-<td>POST HTTPS Calibraciones</td>
-<td>TK76</td>
-<td>Implementar registro de calibraciones</td>
-<td>Desarrollar endpoint POST seguro para guardar datos de calibración</td>
-<td>3</td>
 <td>Fredy</td>
-<td>To review</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TS17</td>
@@ -7527,7 +6914,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de inventario</td>
 <td>Crear endpoint GET seguro para obtener estado del inventario</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Adrian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7537,63 +6924,13 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar actualización de inventario</td>
 <td>Desarrollar endpoint PATCH seguro para modificar registros de inventario</td>
 <td>2</td>
-<td>Adrian</td>
+<td>Juan Diego</td>
 <td>Done</td>
-</tr>
-<tr>
-<td>TS19</td>
-<td>POST HTTPS Contacto</td>
-<td>TK79</td>
-<td>Implementar formulario de contacto</td>
-<td>Crear endpoint POST seguro para procesar mensajes de contacto</td>
-<td>2</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS20</td>
-<td>POST HTTPS Usuarios</td>
-<td>TK80</td>
-<td>Implementar registro de usuarios</td>
-<td>Desarrollar endpoint POST seguro para creación de usuarios</td>
-<td>3</td>
-<td>Fredy</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS21</td>
-<td>POST HTTPS Autenticación</td>
-<td>TK81</td>
-<td>Implementar sistema de autenticación</td>
-<td>Crear endpoint POST seguro para proceso de login y generación de tokens</td>
-<td>3</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS22</td>
-<td>GET HTTPS Planes</td>
-<td>TK82</td>
-<td>Implementar consulta de planes</td>
-<td>Desarrollar endpoint GET seguro para obtener información de planes</td>
-<td>2</td>
-<td>Christian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS23</td>
-<td>POST HTTPS Planes</td>
-<td>TK83</td>
-<td>Implementar creación de planes</td>
-<td>Crear endpoint POST seguro para registro de nuevos planes</td>
-<td>3</td>
-<td>Guillermo</td>
-<td>To review</td>
 </tr>
 </table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
+
 
 <table border="1">
 <tr>
@@ -7794,7 +7131,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Cesar Costa</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-owner1.png" alt="Foto de Cesar Costa"></td>
+    <td><img src="public\assets\images\interview-validation\Interview-owner1.png" alt="Foto de Cesar Costa"></td>
     <td>Tuvo una experiencia muy positiva con Cafelab, destacando especialmente la funcionalidad de perfiles de tueste como el aspecto más valioso, ya que le permite ser más exacto en la preparación del café y prever estadísticas clave. Dio una calificación perfecta (5/5) en navegación e interacción, y afirmó que recomendaría la aplicación a otros dueños. Aprecia su capacidad para gestionar integralmente el negocio, no solo las ventas, y valora las gráficas comparativas de tueste, así como la sección de soporte. Señaló la utilidad de visualizar diferencias de temperatura y tiempo como un beneficio clave.
 
 </td>
@@ -7817,7 +7154,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Raul Donayre</td>
   </tr>
   <tr>
-  <td><img src="public\assets\images\Interview-validation\interview-owner2.png" alt="Foto de Raul Donayre"></td>
+  <td><img src="public\assets\images\interview-validation\interview-owner2.png" alt="Foto de Raul Donayre"></td>
     <td>Consideró que la aplicación es muy intuitiva, ágil y le permite obtener resultados rápidamente con menos esfuerzo operativo. Valoró especialmente el registro detallado de proveedores, granos y lotes, y la posibilidad de comparar perfiles de tueste. Describió la herramienta como un “paquete muy completo” y la recomendaría por su capacidad de centralizar información previamente dispersa.</td>
   </tr>
   <tr>
@@ -7838,7 +7175,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Ana Garcia</td>
   </tr>
   <tr>
-   <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
+   <td><img src="public\assets\images\interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
     <td>Resaltó la fluidez de la experiencia y la coherencia visual de la interfaz, otorgando un 4/5 en intuitividad. Destacó la gestión de costos como la función de mayor valor, y se sorprendió positivamente por el manejo de inventarios y alertas automáticas. Aprecia la integración de todas las funciones en un solo sistema. Como puntos de mejora, sugirió aumentar la visibilidad de los íconos de edición, marcar claramente los campos obligatorios, diferenciar mejor los botones de editar y clonar, y añadir un registro de cambios para mayor control interno.
 </td>
   </tr>
@@ -7861,7 +7198,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Ranferi Valdivia</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista1.png" alt="Foto de Ranferi Valdivia"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista1.png" alt="Foto de Ranferi Valdivia"></td>
     <td>Tuvo una excelente primera impresión de la aplicación, describiéndola como ordenada y bien organizada. Valoró la disponibilidad del sistema en español e inglés, otorgando una calificación de 4/5 en intuitividad y recomendándola con firmeza a otros baristas. Resaltó la utilidad de contar con herramientas centralizadas para estandarizar procedimientos antes realizados manualmente y destacó las gráficas de tueste como recurso clave para optimizar temperaturas y tiempos. Aunque al inicio tuvo cierta dificultad para ubicar algunas secciones, encontró el sistema útil para la profesionalización del trabajo del barista.</td>
   </tr>
   <tr>
@@ -7882,7 +7219,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Patricia Alvarez</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista2.png" alt="Foto de Patricia Alvarez"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista2.png" alt="Foto de Patricia Alvarez"></td>
     <td> Describió Cafelab como una aplicación amigable, práctica y suficiente para registrar la información necesaria en su día a día. Le dio una calificación perfecta de 10/10 en optimización de procesos, reconociendo su utilidad directa para la eficiencia del trabajo operativo.</td>
   </tr>
   <tr>
@@ -7903,7 +7240,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Aldo Zavala</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista3.png" alt="Foto de Aldo Zavala"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista3.png" alt="Foto de Aldo Zavala"></td>
     <td>Elogió la interfaz intuitiva, el diseño claro y la fluidez general del sistema. Calificó la navegación con un 4/5 y la optimización de procesos con un 9.5/10. Considera las sesiones de cata como la función más valiosa y destacó lo fácil que es gestionar recetas y centralizar notas, lo que le permite ahorrar tiempo en documentación. Propuso mejorar la biblioteca de defectos agregando filtros por intensidad y categoría, hacer más distinguibles los íconos de clonar, y añadió la sugerencia de integrar un temporizador en las sesiones de cata.</td>
   </tr>
   <tr>
