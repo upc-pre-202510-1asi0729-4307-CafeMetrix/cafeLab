@@ -5329,7 +5329,6 @@ A pesar de estos inconvenientes, se logró desarrollar y desplegar la sección d
   <tr>
     <th>EndPoint</th>
     <th>Details</th>
-
   </tr>
   <tr>
     <td>/coffe-type </td>
