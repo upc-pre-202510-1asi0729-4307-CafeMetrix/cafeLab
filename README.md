@@ -7810,4 +7810,4 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 - Pass: mocha789
 
 
-- Enlace para acceder al [video exposicion trabajo final](no hay nada por ahora. cambiar eso)
+- Enlace para acceder al [video exposicion trabajo final](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EXTgtJ1iT_1BuvycyqIfL6MBtVgbXII7T44DHC15zl1ktA?e=cO4etJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
