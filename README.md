@@ -3002,6 +3002,53 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
 
+# Preparation
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\preparation\PreparationFront.png"></td>
+
+## Backend
+
+<td><img src="public\assets\images\Plantuml\classes\preparaion\PreparationFront.png"></td>
+
+
+# Coffee-Lot
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Coffe-lot\Frontend.png"></td>
+
+# Cupping-Sessions
+
+## FrontEnd
+<td><img src="public\assets\images\Plantuml\classes\Cupping-Sessions\FrontEnd.png"></td>
+
+# Cost-Management
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
+
+
+# Inventory
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Inventory\Frontend.png"></td>
+
+# Roasting
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\roasting\Frontend.png"></td>
+
+# Supply
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\supply\Frontend.png"></td>
+
 # Profiles
 
 **Domain**
@@ -3041,12 +3088,6 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ## BackEnd
 <td><img src="public\assets\images\Plantuml\classes\Consultations\BackEnd.png"></td>
 
-# Cupping-Sessions
-
-## FrontEnd
-<td><img src="public\assets\images\Plantuml\classes\Cupping-Sessions\FrontEnd.png"></td>
-
-
 # Auth
 
 ## FrontEnd
@@ -3056,41 +3097,6 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ## BackEnd(Profiles)
 
 <td><img src="public\assets\images\Plantuml\classes\Auth\Backend.png"></td>
-
-# Coffee-Lot
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Coffe-lot\Frontend.png"></td>
-
-
-# Cost-Management
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
-
-
-# Inventory
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Inventory\Frontend.png"></td>
-
-# Roasting
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\roasting\Frontend.png"></td>
-
-# Supply
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\supply\Frontend.png"></td>
-
-
-
 
 
 
