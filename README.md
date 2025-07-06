@@ -3051,7 +3051,7 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## FrontEnd
 
-<td><img src="public\assets\images\Plantuml\classes\Auth\FrontEnd.png"></td>
+<td><img src="public\assets\images\Plantuml\classes\Auth\Frontend.png"></td>
 
 ## BackEnd(Profiles)
 
@@ -4409,7 +4409,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories que d
 Durante el segundo sprint, el equipo se propuso iniciar y finalizar el frontend. Para la organización y gestión de sus integrantes, se empleó Trello, lo que facilitó la división de las historias de usuario en tareas más pequeñas y su asignación según las habilidades de cada miembro. 
 
 <p align="center">
-    <img src="public/assets/images/Sprint2/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint2/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
@@ -5893,7 +5893,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 
 #### 5.2.3.3. Sprint Backlog 3.
 <p align="center">
-    <img src="public/assets/images/Sprint3/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint3/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
@@ -7001,10 +7001,10 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 
 </table>
 
-#### 5.2.3.3. Sprint Backlog 4.
+#### 5.2.4.3. Sprint Backlog 4.
 <!--> CAMBIAR INFO PARA SPRINT 4 <-->
 <p align="center">
-    <img src="public/assets/images/Sprint3/trello.png" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint3/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
@@ -7788,7 +7788,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Cesar Costa</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-owner1.png" alt="Foto de Cesar Costa"></td>
+    <td><img src="public\assets\images\interview-validation\Interview-owner1.png" alt="Foto de Cesar Costa"></td>
     <td>Tuvo una experiencia muy positiva con Cafelab, destacando especialmente la funcionalidad de perfiles de tueste como el aspecto más valioso, ya que le permite ser más exacto en la preparación del café y prever estadísticas clave. Dio una calificación perfecta (5/5) en navegación e interacción, y afirmó que recomendaría la aplicación a otros dueños. Aprecia su capacidad para gestionar integralmente el negocio, no solo las ventas, y valora las gráficas comparativas de tueste, así como la sección de soporte. Señaló la utilidad de visualizar diferencias de temperatura y tiempo como un beneficio clave.
 
 </td>
@@ -7811,7 +7811,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Raul Donayre</td>
   </tr>
   <tr>
-  <td><img src="public\assets\images\Interview-validation\interview-owner2.png" alt="Foto de Raul Donayre"></td>
+  <td><img src="public\assets\images\interview-validation\interview-owner2.png" alt="Foto de Raul Donayre"></td>
     <td>Consideró que la aplicación es muy intuitiva, ágil y le permite obtener resultados rápidamente con menos esfuerzo operativo. Valoró especialmente el registro detallado de proveedores, granos y lotes, y la posibilidad de comparar perfiles de tueste. Describió la herramienta como un “paquete muy completo” y la recomendaría por su capacidad de centralizar información previamente dispersa.</td>
   </tr>
   <tr>
@@ -7832,7 +7832,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Ana Garcia</td>
   </tr>
   <tr>
-   <td><img src="public\assets\images\Interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
+   <td><img src="public\assets\images\interview-validation\interview-owner3.png" alt="Foto de Ana Garcia"></td>
     <td>Resaltó la fluidez de la experiencia y la coherencia visual de la interfaz, otorgando un 4/5 en intuitividad. Destacó la gestión de costos como la función de mayor valor, y se sorprendió positivamente por el manejo de inventarios y alertas automáticas. Aprecia la integración de todas las funciones en un solo sistema. Como puntos de mejora, sugirió aumentar la visibilidad de los íconos de edición, marcar claramente los campos obligatorios, diferenciar mejor los botones de editar y clonar, y añadir un registro de cambios para mayor control interno.
 </td>
   </tr>
@@ -7855,7 +7855,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Ranferi Valdivia</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista1.png" alt="Foto de Ranferi Valdivia"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista1.png" alt="Foto de Ranferi Valdivia"></td>
     <td>Tuvo una excelente primera impresión de la aplicación, describiéndola como ordenada y bien organizada. Valoró la disponibilidad del sistema en español e inglés, otorgando una calificación de 4/5 en intuitividad y recomendándola con firmeza a otros baristas. Resaltó la utilidad de contar con herramientas centralizadas para estandarizar procedimientos antes realizados manualmente y destacó las gráficas de tueste como recurso clave para optimizar temperaturas y tiempos. Aunque al inicio tuvo cierta dificultad para ubicar algunas secciones, encontró el sistema útil para la profesionalización del trabajo del barista.</td>
   </tr>
   <tr>
@@ -7876,7 +7876,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Patricia Alvarez</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista2.png" alt="Foto de Patricia Alvarez"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista2.png" alt="Foto de Patricia Alvarez"></td>
     <td> Describió Cafelab como una aplicación amigable, práctica y suficiente para registrar la información necesaria en su día a día. Le dio una calificación perfecta de 10/10 en optimización de procesos, reconociendo su utilidad directa para la eficiencia del trabajo operativo.</td>
   </tr>
   <tr>
@@ -7897,7 +7897,7 @@ Desde el apartado de herramientas, selecciona "Gestión de Costos", accediendo a
     <td>Aldo Zavala</td>
   </tr>
   <tr>
-    <td><img src="public\assets\images\Interview-validation\interview-barista3.png" alt="Foto de Aldo Zavala"></td>
+    <td><img src="public\assets\images\interview-validation\interview-barista3.png" alt="Foto de Aldo Zavala"></td>
     <td>Elogió la interfaz intuitiva, el diseño claro y la fluidez general del sistema. Calificó la navegación con un 4/5 y la optimización de procesos con un 9.5/10. Considera las sesiones de cata como la función más valiosa y destacó lo fácil que es gestionar recetas y centralizar notas, lo que le permite ahorrar tiempo en documentación. Propuso mejorar la biblioteca de defectos agregando filtros por intensidad y categoría, hacer más distinguibles los íconos de clonar, y añadió la sugerencia de integrar un temporizador en las sesiones de cata.</td>
   </tr>
   <tr>
