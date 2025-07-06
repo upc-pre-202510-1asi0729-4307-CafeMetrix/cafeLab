@@ -6689,13 +6689,13 @@ Se muestran evidencias de la implementacion de frontend, considerando las user g
         <tr>
             <th>Sprint 3 Review Summary</th>
             <td>
-                El equipo finalizó el desarrollo de la experiencia integral de usuario, logrando la integración entre frontend y backend. Se realizó la primera prueba completa de la cadena productiva del café con datos reales y se recibieron sugerencias para el despliegue final.
+                El equipo completó parcielmente el desarrollo del backend. Se realizó la primera pruebas preliminares datos reales y se recibieron sugerencias para el despliegue final de ambas capas.
             </td>
         </tr>
         <tr>
             <th>Sprint 3 Retrospective Summary</th>
             <td>
-                Se reconoció la mejora en los procesos de integración y comunicación. El equipo propuso enfocar la siguiente etapa en asegurar la calidad del producto y preparar el soporte post-lanzamiento.
+                Se reconoció la mejora en los procesos de integración y comunicación. El equipo propuso enfocar la siguiente etapa en completar el backend y su implementación con el front end.
             </td>
         </tr>
         <tr>
@@ -6717,13 +6717,12 @@ Se muestran evidencias de la implementacion de frontend, considerando las user g
 </table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
-Para este Sprint, los aspectos principales corresponden a las User Stories restantes del alcance proyectado a nuestro front end sumado a la realización de las Technical Stories corresponientes al back end: Registro de Sesión de Tueste (US05), Análisis Comparativo de Tuestes (US06), Biblioteca de Defectos de Tueste (US07), Cata Digital Estructurada (US08), Visualización de Perfiles Sensoriales (US09), Correlación Tueste-Sabor (US10), Historial de Catas (US11), Creación de Recetas de Preparación (US12), Calibración de Molienda (US13), Portafolio de Bebidas (US14), Compartir Recetas (US15), Control de Inventario Integrado (US16), Gestión de Costos de Producción (US17), Análisis de Eficiencia y Rendimiento (US18), Reportes de Trazabilidad (US19), Perfil Personalizado (US25), Selección de Plan (US26), POST HTTPS Proveedores (TS01), GET HTTPS Proveedores (TS02), GET HTTPS Planes (TS03), POST HTTPS Planes (TS04), entre otros. Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada.
+Para este Sprint, los aspectos principales se centrarán en el desarrollo de las User Stories clave Análisis Comparativo de Tuestes (US06), Correlación Tueste-Sabor (US10) y Gestión de Costos de Producción (US17), junto con sus Technical Stories asociadas: GET HTTPS Análisis-Tueste (TS10), GET HTTPS Correlaciones (TS14), GET HTTPS Inventario (TS17) y PATCH HTTPS Inventario (TS18). Cada miembro del equipo ha sido asignado estratégicamente como líder (L) o colaborador (C) según sus fortalezas y la carga de trabajo planificada, manteniendo un equilibrio entre las necesidades de front end y back end para garantizar una implementación eficiente y coordinada de estas funcionalidades críticas del sistema.
 
 <table border="1" align="center">
 <tr>
-<th rowspan="2">User Story</th>
-<th colspan="5">Team Members</th>
+<th rowspan="2">User Story / Technical Story</th>
+<th colspan="6">Team Members</th>
 </tr>
 <tr>
 <th>Adrian<br/>Donayre</th>
@@ -6734,43 +6733,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <th>Juan Diego<br/>Mondoñedo</th>
 </tr>
 <tr>
-<td>US05: Registro de Sesión de Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>US06: Análisis Comparativo de Tuestes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US07: Biblioteca de Defectos de Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US08: Cata Digital Estructurada</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US09: Visualización de Perfiles Sensoriales</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
@@ -6788,192 +6751,12 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 </tr>
 <tr>
-<td>US11: Historial de Catas</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US12: Creación de Recetas de Preparación</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US13: Calibración de Molienda</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US14: Portafolio de Bebidas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US15: Compartir Recetas</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US16: Control de Inventario Integrado</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>US17: Gestión de Costos de Producción</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
 <td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US18: Análisis de Eficiencia y Rendimiento</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US19: Reportes de Trazabilidad</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US20: Información del Producto</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US25: Perfil Personalizado</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>US26: Selección de Plan</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS01: POST HTTPS Proveedores</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS02: GET HTTPS Proveedores</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS03: GET HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS04: POST HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS05: POST HTTPS Certificaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS06: GET HTTPS Certificaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS07: POST HTTPS Perfiles-Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS08: POST HTTPS SesionesTueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS09: PATCH HTTPS Sesiones Tueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
 <td>C</td>
 </tr>
 <tr>
@@ -6986,52 +6769,7 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 </tr>
 <tr>
-<td>TS11: GET HTTPS DefectosTueste</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS12: POST HTTPS Catas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS13: GET HTTPS PerfilesSensoriales</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
 <td>TS14: GET HTTPS Correlaciones</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS15: POST HTTPS Recetas</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS16: POST HTTPS Calibraciones</td>
 <td>C</td>
 <td>C</td>
 <td>C</td>
@@ -7057,58 +6795,11 @@ Para este Sprint, los aspectos principales corresponden a las User Stories resta
 <td>C</td>
 <td>C</td>
 </tr>
-<tr>
-<td>TS19: POST HTTPS Contacto</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS20: POST HTTPS Usuarios</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS21: POST HTTPS Autenticación</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS22: GET HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-<tr>
-<td>TS23: POST HTTPS Planes</td>
-<td>C</td>
-<td>C</td>
-<td>C</td>
-<td>L</td>
-<td>C</td>
-<td>C</td>
-</tr>
-
 </table>
 
 #### 5.2.4.3. Sprint Backlog 4.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
 <p align="center">
-    <img src="public/assets/images/Sprint3/trello.PNG" alt="Organización en la herramienta Trello">
+    <img src="public/assets/images/Sprint4/trello.PNG" alt="Organización en la herramienta Trello">
 </p>
 
 Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e840bf4e7e3608009f8f64e64a47551EC81/sprint-3-cafelab)
@@ -7126,25 +6817,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <th>Description</th>
 <th>Estimation (Hours)</th>
 <th>Assigned To</th>
-<th>Status (To-do / In Process / To Review / Done)</th>
-</tr>
-<tr>
-<td rowspan="2">US05</td>
-<td rowspan="2">Registro de Sesión de Tueste</td>
-<td>TK11</td>
-<td>Crear formulario de sesión</td>
-<td>Diseñar interfaz para documentar cada sesión de tueste</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK12</td>
-<td>Implementar vista de historial</td>
-<td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
+<th>Status</th>
 </tr>
 <tr>
 <td rowspan="3">US06</td>
@@ -7153,7 +6826,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Diseñar selector múltiple</td>
 <td>Crear interfaz para seleccionar y comparar varios tuestes</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Guillermo</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7161,7 +6834,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar gráficos comparativos</td>
 <td>Desarrollar visualizaciones para comparar patrones y resultados</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Christian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7173,67 +6846,13 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Done</td>
 </tr>
 <tr>
-<td rowspan="2">US07</td>
-<td rowspan="2">Biblioteca de Defectos de Tueste</td>
-<td>TK16</td>
-<td>Crear catálogo visual</td>
-<td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK17</td>
-<td>Implementar sistema de búsqueda</td>
-<td>Agregar búsqueda y filtrado por categorías</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US08</td>
-<td rowspan="2">Cata Digital Estructurada</td>
-<td>TK18</td>
-<td>Diseñar formulario de cata</td>
-<td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK19</td>
-<td>Implementar herramienta visual</td>
-<td>Agregar rueda de sabores interactiva para selección de atributos</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US09</td>
-<td rowspan="2">Visualización de Perfiles Sensoriales</td>
-<td>TK20</td>
-<td>Crear gráfico radial</td>
-<td>Implementar visualización tipo radar para perfiles sensoriales</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK21</td>
-<td>Implementar comparación visual</td>
-<td>Agregar funcionalidad para superponer múltiples perfiles</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
 <td rowspan="2">US10</td>
 <td rowspan="2">Correlación Tueste-Sabor</td>
 <td>TK22</td>
 <td>Diseñar vista de correlaciones</td>
 <td>Crear interfaz para visualizar relaciones entre parámetros</td>
 <td>2</td>
-<td>Kalet</td>
+<td>Juan Diego</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7241,131 +6860,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar análisis sensorial</td>
 <td>Agregar funcionalidad para mostrar resultados sensoriales</td>
 <td>3</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="3">US11</td>
-<td rowspan="3">Historial de Catas</td>
-<td>TK24</td>
-<td>Crear vista de historial</td>
-<td>Diseñar interfaz para acceder a catas anteriores</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK25</td>
-<td>Implementar filtros avanzados</td>
-<td>Agregar filtros por lote, fecha, origen y período</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK26</td>
-<td>Agregar análisis de tendencias</td>
-<td>Implementar gráficos de evolución temporal</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="3">US12</td>
-<td rowspan="3">Creación de Recetas de Preparación</td>
-<td>TK27</td>
-<td>Diseñar editor de recetas</td>
-<td>Crear interfaz para documentar recetas detalladas</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK28</td>
-<td>Implementar parámetros de preparación</td>
-<td>Agregar campos para temperatura, tiempo y proporciones</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK29</td>
-<td>Crear galería de métodos</td>
-<td>Implementar biblioteca visual de métodos de preparación</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US13</td>
-<td rowspan="2">Calibración de Molienda</td>
-<td>TK30</td>
-<td>Diseñar configurador de molienda</td>
-<td>Crear interfaz para documentar configuraciones por equipo</td>
-<td>1</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK31</td>
-<td>Implementar guías visuales</td>
-<td>Agregar referencias visuales para tamaños de partícula</td>
-<td>1</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US14</td>
-<td rowspan="2">Portafolio de Bebidas</td>
-<td>TK32</td>
-<td>Crear catálogo digital</td>
-<td>Diseñar portafolio visual de bebidas y recetas</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK33</td>
-<td>Implementar presentación interactiva</td>
-<td>Agregar funcionalidad para presentar a clientes</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US15</td>
-<td rowspan="2">Compartir Recetas</td>
-<td>TK34</td>
-<td>Implementar sistema de compartir</td>
-<td>Crear funcionalidad para compartir recetas con el equipo</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK35</td>
-<td>Agregar control de versiones</td>
-<td>Implementar historial de cambios en recetas</td>
-<td>1</td>
-<td>Guillermo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US16</td>
-<td rowspan="2">Control de Inventario Integrado</td>
-<td>TK36</td>
-<td>Diseñar dashboard de inventario</td>
-<td>Crear vista general de inventario de café verde y tostado</td>
-<td>2</td>
-<td>Kalet</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK37</td>
-<td>Implementar alertas de stock</td>
-<td>Agregar notificaciones para niveles bajos de inventario</td>
-<td>1</td>
-<td>Kalet</td>
+<td>Adrian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7375,7 +6870,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Crear calculadora de costos</td>
 <td>Diseñar herramienta para calcular costos por lote</td>
 <td>2</td>
-<td>Christian</td>
+<td>Henry</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7383,169 +6878,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar análisis de rentabilidad</td>
 <td>Agregar visualizaciones de márgenes y rentabilidad</td>
 <td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US18</td>
-<td rowspan="2">Análisis de Eficiencia y Rendimiento</td>
-<td>TK40</td>
-<td>Diseñar dashboard de métricas</td>
-<td>Crear vista con indicadores clave de producción</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK41</td>
-<td>Implementar reportes comparativos</td>
-<td>Agregar comparación entre lotes y períodos</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US19</td>
-<td rowspan="2">Reportes de Trazabilidad</td>
-<td>TK42</td>
-<td>Crear generador de reportes</td>
-<td>Diseñar sistema para generar reportes de trazabilidad completa</td>
-<td>2</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK43</td>
-<td>Implementar exportación</td>
-<td>Agregar funcionalidad para descargar reportes</td>
-<td>1</td>
-<td>Christian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US25</td>
-<td rowspan="2">Perfil Personalizado</td>
-<td>TK57</td>
-<td>Diseñar página de perfil</td>
-<td>Crear interfaz para configurar información profesional</td>
-<td>1</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK58</td>
-<td>Implementar personalización</td>
-<td>Agregar opciones para personalizar la experiencia del usuario</td>
-<td>1</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td rowspan="2">US26</td>
-<td rowspan="2">Selección de Plan</td>
-<td>TK59</td>
-<td>Diseñar selector de planes</td>
-<td>Crear interfaz para elegir entre planes disponibles</td>
-<td>2</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TK60</td>
-<td>Implementar proceso de suscripción</td>
-<td>Agregar flujo completo de selección y confirmación</td>
-<td>1</td>
-<td>Fredy</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS01</td>
-<td>POST HTTPS Proveedores</td>
-<td>TK61</td>
-<td>Implementar API Proveedores</td>
-<td>Desarrollar endpoint POST seguro (HTTPS) para registro de proveedores</td>
-<td>3</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS02</td>
-<td>GET HTTPS Proveedores</td>
-<td>TK62</td>
-<td>Implementar consulta de proveedores</td>
-<td>Desarrollar endpoint GET seguro (HTTPS) para obtener listado de proveedores</td>
-<td>2</td>
-<td>Adrian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS03</td>
-<td>GET HTTPS Planes</td>
-<td>TK63</td>
-<td>Implementar consulta de planes</td>
-<td>Crear endpoint GET seguro (HTTPS) para recuperar información de planes</td>
-<td>2</td>
-<td>Fredy</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS04</td>
-<td>POST HTTPS Planes</td>
-<td>TK64</td>
-<td>Implementar creación de planes</td>
-<td>Desarrollar endpoint POST seguro (HTTPS) para registro de nuevos planes</td>
-<td>3</td>
 <td>Guillermo</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS05</td>
-<td>POST HTTPS Certificaciones</td>
-<td>TK65</td>
-<td>Implementar registro de certificaciones</td>
-<td>Crear endpoint POST seguro (HTTPS) para gestionar certificaciones</td>
-<td>3</td>
-<td>Christian</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS06</td>
-<td>GET HTTPS Certificaciones</td>
-<td>TK66</td>
-<td>Implementar consulta de certificaciones</td>
-<td>Desarrollar endpoint GET seguro para obtener listado de certificaciones</td>
-<td>2</td>
-<td>Juan Diego</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS07</td>
-<td>POST HTTPS Perfiles-Tueste</td>
-<td>TK67</td>
-<td>Implementar registro de perfiles de tueste</td>
-<td>Crear endpoint POST para almacenar perfiles de tueste con seguridad HTTPS</td>
-<td>3</td>
-<td>Juan Diego</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS08</td>
-<td>POST HTTPS SesionesTueste</td>
-<td>TK68</td>
-<td>Implementar creación de sesiones de tueste</td>
-<td>Desarrollar endpoint POST seguro para registrar nuevas sesiones de tueste</td>
-<td>3</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS09</td>
-<td>PATCH HTTPS Sesiones Tueste</td>
-<td>TK69</td>
-<td>Implementar actualización de sesiones</td>
-<td>Crear endpoint PATCH para modificar sesiones de tueste existentes</td>
-<td>2</td>
-<td>Henry</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7555,38 +6888,8 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de análisis</td>
 <td>Desarrollar endpoint GET seguro para recuperar análisis de tueste</td>
 <td>2</td>
-<td>Adrian</td>
-<td>To Review</td>
-</tr>
-<tr>
-<td>TS11</td>
-<td>GET HTTPS DefectosTueste</td>
-<td>TK71</td>
-<td>Implementar consulta de defectos</td>
-<td>Crear endpoint GET seguro para obtener listado de defectos de tueste</td>
-<td>2</td>
-<td>Guillermo</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS12</td>
-<td>POST HTTPS Catas</td>
-<td>TK72</td>
-<td>Implementar registro de catas</td>
-<td>Desarrollar endpoint POST seguro para almacenar resultados de catas</td>
-<td>3</td>
 <td>Christian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS13</td>
-<td>GET HTTPS PerfilesSensoriales</td>
-<td>TK73</td>
-<td>Implementar consulta de perfiles</td>
-<td>Crear endpoint GET seguro para recuperar perfiles sensoriales</td>
-<td>2</td>
-<td>Juan Diego</td>
-<td>To review</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TS14</td>
@@ -7595,28 +6898,8 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de correlaciones</td>
 <td>Desarrollar endpoint GET seguro para obtener datos de correlaciones</td>
 <td>2</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS15</td>
-<td>POST HTTPS Recetas</td>
-<td>TK75</td>
-<td>Implementar registro de recetas</td>
-<td>Crear endpoint POST seguro para almacenar recetas de tueste</td>
-<td>3</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS16</td>
-<td>POST HTTPS Calibraciones</td>
-<td>TK76</td>
-<td>Implementar registro de calibraciones</td>
-<td>Desarrollar endpoint POST seguro para guardar datos de calibración</td>
-<td>3</td>
 <td>Fredy</td>
-<td>To review</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TS17</td>
@@ -7625,7 +6908,7 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar consulta de inventario</td>
 <td>Crear endpoint GET seguro para obtener estado del inventario</td>
 <td>2</td>
-<td>Fredy</td>
+<td>Adrian</td>
 <td>Done</td>
 </tr>
 <tr>
@@ -7635,63 +6918,13 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 <td>Implementar actualización de inventario</td>
 <td>Desarrollar endpoint PATCH seguro para modificar registros de inventario</td>
 <td>2</td>
-<td>Adrian</td>
+<td>Juan Diego</td>
 <td>Done</td>
-</tr>
-<tr>
-<td>TS19</td>
-<td>POST HTTPS Contacto</td>
-<td>TK79</td>
-<td>Implementar formulario de contacto</td>
-<td>Crear endpoint POST seguro para procesar mensajes de contacto</td>
-<td>2</td>
-<td>Adrian</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>TS20</td>
-<td>POST HTTPS Usuarios</td>
-<td>TK80</td>
-<td>Implementar registro de usuarios</td>
-<td>Desarrollar endpoint POST seguro para creación de usuarios</td>
-<td>3</td>
-<td>Fredy</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS21</td>
-<td>POST HTTPS Autenticación</td>
-<td>TK81</td>
-<td>Implementar sistema de autenticación</td>
-<td>Crear endpoint POST seguro para proceso de login y generación de tokens</td>
-<td>3</td>
-<td>Henry</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS22</td>
-<td>GET HTTPS Planes</td>
-<td>TK82</td>
-<td>Implementar consulta de planes</td>
-<td>Desarrollar endpoint GET seguro para obtener información de planes</td>
-<td>2</td>
-<td>Christian</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>TS23</td>
-<td>POST HTTPS Planes</td>
-<td>TK83</td>
-<td>Implementar creación de planes</td>
-<td>Crear endpoint POST seguro para registro de nuevos planes</td>
-<td>3</td>
-<td>Guillermo</td>
-<td>To review</td>
 </tr>
 </table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
+
 
 <table border="1">
 <tr>
