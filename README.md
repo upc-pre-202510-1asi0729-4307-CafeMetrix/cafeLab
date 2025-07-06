@@ -7760,6 +7760,8 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al [Landing-page](https://cafelanding-60903.web.app/)
 
+- Enlace para acceder al [Backend deployado](https://cafelabbackend.azurewebsites.net/swagger-ui/index.html#/)
+
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
 
 - Enlace al video "About the Team": [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EWBbZlEJWvlOul4JJ3Fs680BFBcnnShu-gBUrL3WtAr7lQ?e=VwaxEe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
