@@ -290,11 +290,60 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
     <td style="border: 1px solid #ddd; padding: 8px;">Ordené los user stories y technical stories según corresponde a la importancia del producto. Redaccion de entrevistas de validacion y heuristicas</td>
-
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Juan Diego Mondoñedo</td>
     <td style="border: 1px solid #ddd; padding: 8px;">Recreé la landing page en angular, desarrolle el tercer sprint.</td>
+  </tr>
+</table>
+
+**TF1 Network Graph**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\tf1 network graph.png" alt="TF1 Network Graph">
+</figure>
+
+**TF1 Contributors**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\tf1 contributors.png" alt="TB2 Contributors">
+</figure>
+
+**TF1 Pulse**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\tf1 pulse.png" alt="TF1 Pulse">
+</figure>
+
+<h1>TF1</h1>
+
+<p>Para el desarrollo del informe perteneciente al TF1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Integrante</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Tareas Asignadas</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Guillermo Tantaleán</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Documenté las user stories no implementadas y de estado "done". Además, incluí fragmentos de los comentarios positivos de las entrevistas de validación en el "about the product".</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Henry Esteban</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Actualicé mis bounded contexts en el servidor de aplicación, así como también apoyé a elaborar los demás diagramas de mis compañeros de equipo. Edité el video "about the team" para colocar imágenes de las reuniones pressenciales que nuestro equipo llevó a cabo en este último tramo del proyecto.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Añadí en el servidor de aplicación el bounded context IAM, además de validar su correcto funcionamiento con el frontend. Actualicé los sprint goals para orientarlos aún más al negocio. Me aseguré que en main estén las últimas versiones de código</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Christian Inga</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Agregué usuarios de prueba, por cada segmento objetivo, para validar la correcta funcionalidad del signin dependiendo del tipo de usuario. Además, actualicé el frontend para remover datos redundantes que ya eran previamente obtenidos.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Corregí una incongruencia generada en el registro del tipo de usuario y del tipo de oferta de planes relacionado a este. Relacionado a este punto, corregí el campo de experiencia en el formulario de regisstro de usuario. Así como también apoyé en la elaboración de diagramas C4 y de arquitectura.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Juan Diego Mondoñedo</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Cubrí todos los puntos de exposición en la elaboración del artefacto de presentación. Me encargué de deplegar el servidor de aplicación. Así como también, de trasladar las versiones finales del contenido de las ramas en los repositorios a sus ramas main.</td>
   </tr>
 </table>
 
