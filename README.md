@@ -208,12 +208,12 @@
 
 **TP1 Contributors**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB1 Contributors">
+    <img src="public\assets\images\Insights\contributorsTP.png" alt="TB1 Contributors">
 </figure>
 
 **TP1 Pulse**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\PulseTP.png" alt="TB1 Pulse">
+    <img src="public\assets\images\Insights\pulseTP.png" alt="TB1 Pulse">
 </figure>
 
 <h1>TP</h1>
