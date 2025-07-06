@@ -2968,6 +2968,10 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ### 4.6.4. Software Architecture Packages and Layers Diagrams.
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
+# Preparation
+**Packages**
+<td><img 
+src="public\assets\images\Plantuml\classes\preparation\PreparationLayersDiagram.png"></td>
 
 # Profiles
 **Packages**
@@ -3001,6 +3005,57 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ### 4.7.1. Class Diagrams.
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
+
+# Preparation
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\preparation\PreparationFront.png"></td>
+
+# Production
+
+## Backend
+
+<td><img src="public\assets\images\Plantuml\classes\production\Production_Bounded_Context.png"></td>
+
+# Coffee-Lot
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Coffe-lot\Frontend.png"></td>
+
+# Cupping-Sessions
+
+## FrontEnd
+<td><img src="public\assets\images\Plantuml\classes\Cupping-Sessions\FrontEnd.png"></td>
+
+# Cost-Management
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
+
+## Backend
+
+<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Management_Bounded_Context.png"></td>
+
+# Inventory
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Inventory\Frontend.png"></td>
+
+# Roasting
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\roasting\Frontend.png"></td>
+
+# Supply
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\supply\Frontend.png"></td>
 
 # Profiles
 
@@ -3041,12 +3096,6 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ## BackEnd
 <td><img src="public\assets\images\Plantuml\classes\Consultations\BackEnd.png"></td>
 
-# Cupping-Sessions
-
-## FrontEnd
-<td><img src="public\assets\images\Plantuml\classes\Cupping-Sessions\FrontEnd.png"></td>
-
-
 # Auth
 
 ## FrontEnd
@@ -3056,41 +3105,6 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 ## BackEnd(Profiles)
 
 <td><img src="public\assets\images\Plantuml\classes\Auth\Backend.png"></td>
-
-# Coffee-Lot
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Coffe-lot\Frontend.png"></td>
-
-
-# Cost-Management
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
-
-
-# Inventory
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\Inventory\Frontend.png"></td>
-
-# Roasting
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\roasting\Frontend.png"></td>
-
-# Supply
-
-## FrontEnd
-
-<td><img src="public\assets\images\Plantuml\classes\supply\Frontend.png"></td>
-
-
-
 
 
 
@@ -7773,4 +7787,27 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/personal/u20231c111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea94fac08%2D3899%2D45ee%2D95f9%2De07a74c5b422)
 
-- Enlace para acceder al [video exposicion trabajo final](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EXTgtJ1iT_1BuvycyqIfL6MBtVgbXII7T44DHC15zl1ktA?e=cO4etJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Usuarios con los diferentes planes:**
+
+- Francis Barista Account:
+
+- Email: francis_barista@gmail.com
+
+- Pass: francis123
+
+
+- Martín Rios Owner Account:
+
+- Email: martin.rios@espressohaven.com
+
+- Pass: espresso1
+
+
+- Sofía Morales Complete Account:
+
+- Email: sofia.morales@granovainilla.com
+
+- Pass: mocha789
+
+
+- Enlace para acceder al [video exposicion trabajo final](no hay nada por ahora. cambiar eso)
