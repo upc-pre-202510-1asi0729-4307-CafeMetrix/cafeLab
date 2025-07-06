@@ -6519,7 +6519,6 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
   <td>adriandonayredev</td>
   <td>May 31, 2025</td>
 </tr>
-
 <tr>
   <td>upc-pre-202510-1asi0730-4364-CafeMetrix</td>
   <td>feature/frontend-guillermo</td>
