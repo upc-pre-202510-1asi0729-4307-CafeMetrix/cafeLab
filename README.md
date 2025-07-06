@@ -434,28 +434,37 @@
                 <strong>Guillermo Tantaleán</strong><br>
                 TB1: <br>Durante el TB1, me comuniqué oralmente con efectividad al participar en la planificación del Sprint 1, donde expliqué de manera clara los avances de wireframes y mockups de la landing page para diversos públicos del equipo. También aporté en reuniones para estructurar el análisis de entrevistas, asegurándome de adaptar mi lenguaje a interlocutores técnicos y no técnicos.<br><br>
                 TP: <br>Durante las reuniones del equipo para organizar las tareas del TP, me encargué de explicar claramente cómo íbamos a estructurar las user stories y technical stories, asegurándome de que todos entendieran su orden y prioridad.<br><br>
-                TB2: <br>Durante la entrega,expuse avances técnicos, resolví mis dudas con compañeros y comuniqué decisiones de diseño. También presenté oralmente el funcionamiento del feature de sesiones de cata, inventario y production cost management.<br><br>
+                TB2: <br>Durante la entrega, expuse avances técnicos, resolví mis dudas con compañeros y comuniqué decisiones de diseño. También presenté oralmente el funcionamiento del feature de sesiones de cata, inventario y production cost management.<br><br>
+                TF: <br>En la etapa final, presenté de manera oral los cambios realizados en el backend y frontend, así como la integración de los comentarios de usuarios en el producto. Expliqué la importancia de la documentación de historias de usuario y la incorporación de feedback de entrevistas, asegurando que el equipo comprendiera el impacto de estas mejoras en la experiencia del usuario.<br><br>
                 <strong>Henry Esteban</strong><br>
                 TB1: <br>Logré comunicarme efectivamente con diferentes audiencias al estructurar y presentar la problemática y los segmentos objetivo de manera clara y adaptada al perfil de los usuarios, además de explicar conceptos durante las reuniones de coordinación del análisis de entrevistas y del diseño de la landing page, asegurando una comprensión común entre los integrantes del equipo.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
                 TB2: <br>Durante este Sprint, fui responsable de la sección 5.3.3 Sprint Backlog 3 y asumí un rol activo en la organización general del equipo. Coordiné la distribución de tareas y aseguré el cumplimiento de los entregables en los plazos establecidos. A nivel técnico, desarrollé las bases del backend para los Web Services y realicé correcciones funcionales y visuales tanto en el Frontend como en el Landing Page. Asimismo, estuve a cargo de la edición de los videos “About-The-Product” y “About-The-Team”. También lideré la mejora continua de artefactos presentados en sprints anteriores, implementando ajustes basados en retroalimentación y principios de usabilidad.<br><br>
+                TF: <br>En la entrega final, coordiné y organicé las tareas del grupo para la entrega del avance del Final Project Report, comuniqué los cambios y correcciones necesarias en el backend y lideré la revisión y mejora de artefactos previos, asegurando que todos los miembros comprendieran los objetivos y entregables.<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Al revisar los avances de los demás, brindé retroalimentación verbal sobre la estructura del backlog y la presentación de los reportes, cuidando mi forma de comunicar según el contexto de cada tarea.<br><br>
                 TP: <br>En las coordinaciones para la edición del informe del TP, pude expresar mis ideas de manera clara al proponer la organización del contenido, logrando consenso en las decisiones tomadas.<br><br>
                 TB2: <br>Realicé 2 entrevistas de validación con nuestros segmentos objetivos, adaptando mi estilo de comunicación y nivel de detalle según el perfil de los entrevistados. Por otro lado, realicé mejoras y correcciones en el front-end y back-end. Transmití verbalmente al equipo las conclusiones extraídas de las entrevistas, empleando un lenguaje claro y preciso para garantizar que las recomendaciones surgidas de cada sesión se comprendieran y aplicaran correctamente.<br><br>
+                TF: <br>Expliqué al equipo la importancia de los nuevos sprint goals y la integración del bounded context IAM en el backend, asegurando que todos comprendieran los cambios y su impacto en la arquitectura del sistema.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme de manera efectiva con diferentes audiencias al realizar las entrevistas, también mediante el lenguaje ubicuo, ya que este es muy importante para que todos se puedan entender durante el desarrollo del proyecto.<br><br>
                 TP: <br>Al momento de validar que el informe tuviera coherencia entre las secciones, presenté mis observaciones oralmente al grupo para facilitar los ajustes necesarios, priorizando la claridad y el tono colaborativo.<br><br>
                 TB2: <br>Realicé entrevistas de validación con nuestros segmentos objetivos para recopilar feedback. Por otro lado, realicé mejoras y correcciones en el apartado de recetas en el front-end. Además, comuniqué mis hallazgos y propuestas oralmente al equipo, usando un lenguaje claro y colaborativo, de modo que los ajustes se integraran de forma coherente con los objetivos del proyecto.<br><br>
+                TF: <br>Presenté los avances de la implementación del backend y la creación de usuarios de prueba, explicando al equipo y al docente cómo probar el login y la integración de los diferentes roles.<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>Para una adecuado desarrollo del proyecto, comunique oportunamente las ideas que se plasmaron, asi como el uso de herramientas adecuadas para concoer mas a los usuario, asi como las entrevistas, donde pude conocer mas a los segmentos objetivos y sus necesidades, las cuales abarcariamos mediante el desarrollo de una landing page. <br><br>
                 TP: <br>Participé activamente en conversaciones con el team leader y compañeros para coordinar tareas pendientes del TP, explicando con claridad los cambios que estaba realizando y cómo se relacionaban con el resto del informe.<br><br>
                 TB2: <br>Para las correcciones del frontend comunique oportunamente sobre la mejora continua y detalles a tomar en cuenta para el funcionamiento adecuado y visualizacion correcta de elementos y durante las entrevistas se logro reconocer los principales reconomientos e indicaciones a tomar en cuenta para el desarrollo adecuado, asimismo la revision adecuada y comunicacion sobre la implementacion de backend e indicaciones oportunas en reuniones de equipo.<br><br>
+                TF: <br>Comuniqué al equipo las correcciones realizadas en el backend, asegurando que todos comprendieran los cambios en los tipos de usuario y planes, y coordiné la integración de mi sección con el resto del proyecto.<br><br>
                 <strong>Juan Diego Mondoñedo</strong><br>
-                TB2: <br>Participé activamente en la planificación y desarrollo del 3er sprint, comunicándome con mis compañeros para la delegación de tareas y obteniendo actualizaciones de los avances para actualizar los sprints a la par del desarrollo<br><br>
+                TB2: <br>Participé activamente en la planificación y desarrollo del 3er sprint, comunicándome con mis compañeros para la delegación de tareas y obteniendo actualizaciones de los avances para actualizar los sprints a la par del desarrollo.<br><br>
+                TF: <br>Me aseguré de que los artefactos estuvieran actualizados y comuniqué al equipo la importancia de la integración y revisión previa a la entrega final. Expliqué la organización de la exposición y la estructura del informe, coordinando la entrega de cada sección.<br><br>
             </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común. El equipo comunicó ideas y necesidades del proyecto de manera clara, utilizando las herramientas adecuadas para comprender a los usuarios, lo que fue fundamental para la coordinación exitosa del Sprint 1 y el desarrollo de la landing page.
-       <br> <br> Como equipo, organizamos reuniones efectivas donde cada integrante comunicó sus avances y dificultades, logrando una colaboración fluida que permitió mejorar la calidad del trabajo entregado en el TP.
+        <td style="border: 1px solid #ddd; vertical-align: top;">
+            <b>TB1:</b> El equipo demostró comunicación oral efectiva con diversas audiencias al explicar avances de wireframes y mockups de la landing page, adaptando el lenguaje según el perfil del interlocutor. Se realizaron entrevistas a usuarios, se tradujeron requisitos técnicos en user stories comprensibles y se utilizó un lenguaje ubicuo para asegurar la comprensión común.<br><br>
+            <b>TP:</b> Durante la edición y organización del informe, la comunicación oral permitió consensuar la estructura y el contenido, logrando acuerdos efectivos y facilitando la colaboración entre los miembros.<br><br>
+            <b>TB2:</b> En la presentación de avances técnicos y validaciones, la comunicación oral fue clave para transmitir hallazgos, coordinar correcciones y asegurar la integración de feedback de usuarios y docentes.<br><br>
+            <b>TF:</b> En la entrega final, cada integrante expuso de manera clara y efectiva los avances y correcciones realizados en sus respectivas áreas, facilitando la integración de los entregables y asegurando que todos los miembros comprendieran el impacto de los cambios. La comunicación oral fue clave para coordinar la revisión de artefactos, la integración de funcionalidades y la preparación de la exposición final, logrando una presentación coherente y profesional del proyecto.
         </td>
         </tr>
         <tr>
@@ -466,30 +475,36 @@
                 TB1: <br>Redacté el apartado de antecedentes y la problemática objetivo utilizando un lenguaje técnico claro y coherente, elaboré el análisis de entrevistas de forma organizada y detallada, y aporté en la documentación del To-Be Scenario Mapping, user stories y wireframes, transmitiendo la información de manera precisa para distintos públicos lectores del informe final.<br><br>
                 TP: <br>Me encargué de editar el informe del TP, cuidando que la redacción de las nuevas secciones fuera clara, ordenada y adecuada para una lectura técnica fluida, facilitando así su revisión por parte del equipo y los evaluadores.<br><br>
                 TB2: <br>Durante este Sprint, contribuí a la documentación técnica del proyecto, cuidando la claridad y el orden en los entregables escritos para facilitar su comprensión tanto por parte del equipo como del docente revisor. Redacté y estructuré el Sprint Backlog 3 de forma precisa y coherente, y también colaboré en la corrección de artefactos previos, enfocándome en mejorar la calidad de la redacción. Concluyo que adaptar el lenguaje y la estructura del contenido escrito según el público objetivo es clave para una comunicación efectiva y profesional.<br><br>
+                TF: <br>Redacté y actualicé mi sección designada del backend con las correcciones correspondientes, y fui el encargado principal de la revisión y mejora de artefactos previos, corrigiendo errores funcionales y visuales en la documentación final.<br><br>
                 <strong>Adrian Donayre</strong><br>
                 TB1: <br>Logré comunicarme por escrito efectivamente con diferentes audiencias al documentar entrevistas adaptando el registro según el usuario, redactar user stories en formato comprensible para técnicos y no técnicos, crear descripciones claras de la startup para diferentes stakeholders, documentar wireframes con anotaciones precisas y elaborar el product backlog con especificaciones detalladas para el equipo de desarrollo.<br><br>
-                TP: <br>	Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.
-                <br><br>
+                TP: <br>Al subir mis cambios al repositorio, documenté claramente los commits y mensajes para que otros pudieran entender las ediciones realizadas en el informe, promoviendo la trazabilidad de las contribuciones.<br><br>
                 TB2: <br>Elaboré por escrito los resúmenes de las entrevistas de validación dirigidas a nuestros segmentos objetivo. Posteriormente, redacté un el análisis de las respuestas. De este modo, aseguré que se recibiera la información con el nivel de detalle y el estilo de comunicación adecuados, facilitando su comprensión y la aplicación efectiva de las recomendaciones.<br><br>
+                TF: <br>Redacté los nuevos sprint goals orientados al negocio y documenté la integración del bounded context IAM en el backend, asegurando que la información fuera clara y accesible para el equipo.<br><br>
                 <strong>Christian Inga</strong><br>
                 TB1: <br>Logré comunicarme por escrito satisfactoriamente con diferentes audiencias, ya que las entrevistas ayudan a entender mejor las necesidades de nuestros usuarios. También con los wireflows de manera que se entienda los flujos.<br><br>
-                TP: <br>	Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.
-                <br><br>
+                TP: <br>Aporté en la mejora de la redacción de algunas secciones del TP, cuidando aspectos de estilo, ortografía y consistencia, para asegurar que el informe tuviera un lenguaje profesional y técnico adecuado.<br><br>
                 TB2: <br>Diseñé las preguntas de las entrevistas de validación, adaptando el lenguaje y la estructura de las preguntas según nuestros segmentos objetivos. Estas preguntas fueron las que se usaron para que todos entrevistemos a los usuarios, asegurando que cada grupo comprendiera el propósito y el alcance de las entrevistas, lo que facilitó su ejecución uniforme.<br><br>
+                TF: <br>Documenté la implementación de mi sección del backend y la creación de usuarios de prueba, detallando el proceso para que el docente pudiera probar el login y la funcionalidad de los diferentes roles.<br><br>
                 <strong>Carlos Fernandez</strong><br>
                 TB1: <br>La comunicacion adecuada con la audiencia, en especial durante las entrevistas, me ha permitido mejorar mis habilidades comunicativas, asi como descriptivas. En el presente documento pude plasmar los pensamientos y necesidades de los segmentos objetivos mediante plataformas como Uxpressia, asi como el adecuado texto utilizado en los wireframe y Mock Up.<br><br>
-                TP: <br>	Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.
-                <br><br>
-                TB2: <br> Revision continua de codigo frontend y backend, comunicacion objetiva sobre las mejoras a implementarse, asi como la redaccion de analisis de entrevistas para considerar observaciones y mejors a aplicarse, ademas de poder actualizar la documentacion mediante la actividades y responsabilidades a entregarse<br><br>
+                TP: <br>Revisé el documento del informe del TP con atención a la coherencia textual entre secciones, proponiendo ajustes escritos para mantener un hilo conductor claro que permitiera una lectura comprensible del proceso del proyecto.<br><br>
+                TB2: <br>Revision continua de codigo frontend y backend, comunicacion objetiva sobre las mejoras a implementarse, asi como la redaccion de analisis de entrevistas para considerar observaciones y mejors a aplicarse, ademas de poder actualizar la documentacion mediante la actividades y responsabilidades a entregarse<br><br>
+                TF: <br>Redacté y completé mi sección designada del backend, corrigiendo incongruencias entre los usuarios y planes disponibles, y asegurando la integración adecuada con el resto del proyecto.<br><br>
                 <strong>Guillermo Fabián Tantaleán Mesta</strong><br>
                 TB1: <br>Redacté de manera clara y coherente el apartado de antecedentes y la problemática objetivo del proyecto, elaboré el análisis de entrevistas, y documenté procesos en el desarrollo de user stories, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para que fuera comprensible a diferentes audiencias lectoras del informe final. <br>
                 TP: <br>Redacté las secciones relacionadas con los user stories y technical stories, organizándolos de forma lógica y comprensible, utilizando una estructura coherente que facilitara su comprensión por todos los miembros del grupo.<br><br>
                 TB2: <br>Documenté el desarrollo de mis funcionalidades en el proyecto mediante comentarios en el código, comandos y descripciones en las tareas del repositorio. Además, redacté explicaciones claras sobre la lógica detrás del feature de sesiones de cata y los cambios realizados en el backend, permitiendo que tanto desarrolladores como docentes puedan comprender el funcionamiento sin ambigüedades.<br><br>
+                TF: <br>Documenté las historias de usuario no implementadas, la integración del bounded context nuevo en el backend y frontend, y la segunda versión del video “About the Product”, asegurando que la documentación fuera clara y útil para el equipo y los evaluadores.<br><br>
                 <strong>Juan Diego Mondoñedo Rodriguez</strong><br>
                 TB2: <br>Redacté las secciones del Sprint planning, Aspect Leaders and Collaborators y Sprint backlog del 2do y 3er sprint.<br><br>
+                TF: <br>Eliminé las secciones duplicadas de mi parte desarrollada en el frontend, realicé las correcciones pendientes al informe, documenté la organización de la exposición y el deployment del backend, asegurando que los artefactos estuvieran actualizados y listos para la revisión final.<br><br>
             </td>
-        <td style="border: 1px solid #ddd; vertical-align: top;">Durante el TB1, el equipo demostró comunicación escrita efectiva con diversas audiencias a través de la redacción clara de documentos técnicos como antecedentes, problemática objetivo y análisis de entrevistas. Se documentaron user stories en formato comprensible para lectores técnicos y no técnicos, se crearon descripciones de la startup adaptadas a diferentes stakeholders, y se elaboraron wireframes con anotaciones precisas. El equipo también desarrolló documentación para el product backlog, To-Be Scenario Mapping y Web Style Guidelines, adaptando el lenguaje técnico para diversos públicos. Las entrevistas escritas y los wireflows contribuyeron a la comprensión de las necesidades de los usuarios, mientras que plataformas como Uxpressia permitieron plasmar efectivamente los requerimientos en el informe final.
-        <br> <br> Como grupo, redactamos el informe del TP colaborativamente, combinando nuestras habilidades para presentar los avances del proyecto con un lenguaje claro, técnico y adecuado para diferentes audiencias.
+        <td style="border: 1px solid #ddd; vertical-align: top;">
+            <b>TB1:</b> El equipo demostró comunicación escrita efectiva con diversas audiencias a través de la redacción clara de documentos técnicos como antecedentes, problemática objetivo y análisis de entrevistas. Se documentaron user stories en formato comprensible para lectores técnicos y no técnicos, se crearon descripciones de la startup adaptadas a diferentes stakeholders, y se elaboraron wireframes con anotaciones precisas.<br><br>
+            <b>TP:</b> Durante la edición y revisión del informe, la comunicación escrita permitió mantener la coherencia textual, la trazabilidad de los cambios y la claridad en la presentación de los avances del proyecto.<br><br>
+            <b>TB2:</b> En la documentación de validaciones, análisis de entrevistas y actualización de artefactos, la comunicación escrita fue esencial para plasmar hallazgos, recomendaciones y cambios técnicos de manera comprensible para el equipo y los evaluadores.<br><br>
+            <b>TF:</b> En la entrega final, cada integrante documentó de manera clara y precisa sus entregables, corrigiendo y actualizando las secciones asignadas, lo que permitió una integración efectiva de los artefactos y facilitó la revisión por parte del equipo y los evaluadores. La comunicación escrita fue fundamental para asegurar la coherencia, trazabilidad y calidad del informe final, cumpliendo con los estándares técnicos y adaptándose a diferentes públicos lectores.
         </td>
       </tr>
 </table>
@@ -2905,33 +2920,40 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
 
-### Profiles
+# Profiles
 **Packages**
 <td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-profiles NUEVO.png"></td>
 
 **Layers**
 <td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-profiles NUEVO.png"></td>
 
-### IAM
+# IAM
 **Packages**
 <td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-iam NUEVO.png"></td>
 
 **Layers**
 <td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-iam NUEVO.png"></td>
 
-### Shared
+# Shared
 **Packages**
-<td><img src="public\assets\images\Plantuml\packages\cl-packages-diagram-shared NUEVO.png"></td>
+<td><img src="public\assets\images\Plantuml\packages\package.png"></td>
 
 **Layers**
 <td><img src="public\assets\images\Plantuml\layers\cl-layers-diagram-shared NUEVO.png"></td>
+
+# Consultations
+**Packages**
+<td><img src="public\assets\images\Plantuml\classes\Consultations\package.png"></td>
+
+**Layers**
+<td><img src="public\assets\images\Plantuml\classes\Consultations\layers.png"></td>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
 <!--Pongan sus diagramas aquí, antes de profiles, porque el profe quiere core de negocio antes de cosas genéricas-->
 
-### Profiles
+# Profiles
 
 **Domain**
 <td><img src="public\assets\images\Plantuml\classes\profiles\domain.png"></td>
@@ -2961,6 +2983,82 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ### Shared
 <td><img src="public\assets\images\Plantuml\classes\shared\cl-class-diagram-shared NUEVO.png"></td>
+
+# Consultations
+
+## FrontEnd
+<td><img src="public\assets\images\Plantuml\classes\Consultations\FrontEnd.png"></td>
+
+## BackEnd
+<td><img src="public\assets\images\Plantuml\classes\Consultations\BackEnd.png"></td>
+
+# Cupping-Sessions
+
+## FrontEnd
+<td><img src="public\assets\images\Plantuml\classes\Cupping-Sessions\FrontEnd.png"></td>
+
+
+# Auth
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Auth\FrontEnd.png"></td>
+
+## BackEnd(Profiles)
+
+<td><img src="public\assets\images\Plantuml\classes\Auth\Backend.png"></td>
+
+# Coffee-Lot
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Coffe-lot\Frontend.png"></td>
+
+
+# Cost-Management
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Cost-Management\Frontend.png"></td>
+
+
+# Inventory
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Inventory\Frontend.png"></td>
+
+# Roasting
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\Roasting\Frontend.png"></td>
+
+# Supply
+
+## FrontEnd
+
+<td><img src="public\assets\images\Plantuml\classes\supply\Frontend.png"></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 4.7.2. Class Dictionary.
 
