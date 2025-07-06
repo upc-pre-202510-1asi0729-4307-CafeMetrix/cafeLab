@@ -3081,7 +3081,7 @@ El Domain Driven Design (DDD) busca establecer un entendimiento común del domin
 
 ## FrontEnd
 
-<td><img src="public\assets\images\Plantuml\classes\Roasting\Frontend.png"></td>
+<td><img src="public\assets\images\Plantuml\classes\roasting\Frontend.png"></td>
 
 # Supply
 
