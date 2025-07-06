@@ -8201,12 +8201,12 @@ Las funcionalidades clave de la aplicación, como registrar sesiones de cata, ac
 Se muestra el video about the product, donde se evidencia la explicacion sobre los principales features, sustentacion de diseño  y proposito de la aplicacion.
 
 **Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3`
-<td><img src="public\assets\images\abouttheproduct\abouttheproduct.png" alt="Sesiones de cata no funcionales"></td>
+<td><img src="public\assets\images\abouttheproduct\v2.png" alt="Sesiones de cata no funcionales"></td>
 
 
 
-- **Microsoft Stream:** [upc-pre-202510-1asi0729-4307-cafemetrix-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **YouTube:** [https://youtu.be/AO7F5RHoMCY](https://youtu.be/AO7F5RHoMCY)
+- **YouTube:** [Ver en YouTube](https://www.youtube.com/watch?v=hYDHNbU16zw)
+- **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EQ3UsP_LFOBBupVW2DAhJhgBZMjSyG5l-4oysyROw2Patw?e=N5dUfT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
@@ -8244,12 +8244,13 @@ Se muestra el video about the product, donde se evidencia la explicacion sobre l
 
 # Video About-the-Team.
 En el video about the product se evidentcia la retrospectiva de los integrantes del equipo, asi como la explicacion del trabajo realizado por el equipo. Se rezalta la intencion de crecimiento del compañerismo y la mejora continua del proyecto mediante mejor organizacion.
-#### Desde el min 0:18 al 1:38, Atentonaire explica su participación en la redacción del informe, entrevistas de validación y desarrollo del backend de perfiles. Luego, entre el 1:38 y 2:35, otra integrante detalla su trabajo en el frontend del dashboard para baristas y módulos para dueños de cafeterías, aplicando Domain-Driven Design. Del 2:35 al 3:29, Cristian comenta su rol en entrevistas de validación, diseño de wireframes y desarrollo del módulo de recetas. Entre el 3:29 y 5:26, Henry resalta la buena comunicación del equipo, el manejo de documentación y coordinación interna. Del 5:26 al 7:01, Juan Diego, nuevo integrante, habla sobre su adaptación al equipo y su trabajo en el port de la landing page y planificación del backlog. Finalmente, del 7:01 al 8:32, Carlos Freddy comparte su experiencia en investigación, diseño en Figma, desarrollo frontend y uso de herramientas como Trello y GitHub.
+#### En el video, cada miembro del equipo CaféLab expone su participación en el proyecto. Henry lideró la organización del equipo, desarrolló el backend, editó los videos y fortaleció sus competencias de comunicación y liderazgo técnico. Guillermo se encargó del branding, la arquitectura visual y la documentación de historias, destacando en redacción técnica y diseño. Adrian diseñó entrevistas, desarrolló los primeros sprints y comunicó hallazgos clave del usuario, combinando habilidades técnicas con empatía. Christian trabajó en mockups, prototipos y validaciones, enfocándose en claridad comunicativa y experiencia de usuario. Carlos contribuyó en entrevistas, mapas de empatía y validaciones funcionales, aplicando mejoras tanto visuales como de contenido. Finalmente, Juan Diego implementó la landing page en Angular y redactó la planificación de sprints, mostrando organización y capacidad técnica. Todos reforzaron sus competencias 3.c.1 y 3.c.2 a lo largo del proceso.
 
-**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-team-sprint-3`
+**Título:** `upc-pre-202510-1asi0729-4307-cafemetrix-about-the-team-sprint-4`
+<td><img src="public\assets\images\abouttheteam\v1.png" alt="Sesiones de cata no funcionales"></td>
 
-- **YouTube:** [Ver en YouTube](https://youtu.be/APEWIFdtTf4)
-- **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu)
+- **YouTube:** [Ver en YouTube](https://youtu.be/vh3wes0YLWY)
+- **Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EWBbZlEJWvlOul4JJ3Fs680BFBcnnShu-gBUrL3WtAr7lQ?e=VwaxEe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Bibliografía
 - **Specialty Coffee Association (SCA).** (2022). *Annual Report: Certification and Professional Development Statistics*. [https://sca.coffee](https://sca.coffee)
@@ -8280,10 +8281,13 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al [repositorio Informe](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab.git)
 
-- Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/Ea2_UfcqpWxFl0C5m-uxunABF6EFJ6foSR5w9wKrze_2Cw?e=K8H7Xu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace al video "About the Team": [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EWBbZlEJWvlOul4JJ3Fs680BFBcnnShu-gBUrL3WtAr7lQ?e=VwaxEe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- **Enlace al video "About the Product":** [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/Eb-ofWuwIoFFgOpmhbTq5n0B_KNFSRY30c-xQJS1pwUFYA?e=M8YiED&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace al video "About the Product": [video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EQ3UsP_LFOBBupVW2DAhJhgBZMjSyG5l-4oysyROw2Patw?e=oOeUxQ
+)
 
 - Enlace para acceder al [video de entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310210_upc_edu_pe/EcWZn2YfObZBh4M3zCg6WU0B6d2mLOuhCCA9tmsVkKQVHg?e=82qMBU)
 
 - Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/personal/u20231c111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4307%2Dcafemetrix%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea94fac08%2D3899%2D45ee%2D95f9%2De07a74c5b422)
+
+- Enlace para acceder al [video exposicion trabajo final](no hay nada por ahora. cambiar eso)
