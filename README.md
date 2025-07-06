@@ -3371,38 +3371,66 @@ Con este flujo, la aplicación Angular queda desplegada en Firebase Hosting, per
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">1</td>
-            <td style="text-align:center; border: 1px solid #000;">26/04/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">09:00 AM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+            <th>Sprint #</th>
+            <td>1</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 1 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 1 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje la propuesta de valor de Café Metrix</td>
-            <td style="text-align:center; border: 1px solid #000;">8</td>
-            <td style="text-align:center; border: 1px solid #000;">8</td>
+            <th>Date</th>
+            <td>26/04/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>09:00 AM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Sprint 0 Review Summary</th>
+            <td>
+                Se completaron las actividades de preparación inicial, como la definición del alcance, la formación del equipo y la configuración de las herramientas. El equipo mostró compromiso y buena organización en la etapa previa al inicio formal del proyecto.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 0 Retrospective Summary</th>
+            <td>
+                El equipo destacó la claridad en los roles y la importancia de la comunicación continua. Se identificó como mejora futura documentar los acuerdos tomados y realizar reuniones breves de seguimiento.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje la propuesta de valor de Café Metrix</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>8</td>
         </tr>
     </tbody>
 </table>
+
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
@@ -4144,35 +4172,61 @@ En nuestro primer sprint, logramos desplegar la landing page. Estará mejorada p
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">2</td>
-            <td style="text-align:center; border: 1px solid #000;">14/05/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">08:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+            <th>Sprint #</th>
+            <td>2</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 2 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 2 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Habilitar la interacción y el valor inicial para los usuarios a través del desarrollo de las principales funcionalidades del frontend de Café Metrix</td>
-            <td style="text-align:center; border: 1px solid #000;">10</td>
-            <td style="text-align:center; border: 1px solid #000;">10</td>
+            <th>Date</th>
+            <td>14/05/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>08:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>
+                El equipo logró implementar la landing page y captar a los primeros usuarios interesados. Se recibieron comentarios positivos sobre la propuesta visual y la claridad del mensaje.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td>
+                Se identificó como oportunidad de mejora la necesidad de organizar mejor las tareas del frontend y asegurar la integración continua. Se propuso fortalecer la comunicación en las revisiones técnicas.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 2 Goal</th>
+            <td>Habilitar la interacción y el valor inicial para los usuarios a través del desarrollo de las principales funcionalidades del frontend de Café Metrix</td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Velocity</th>
+            <td>10</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>10</td>
         </tr>
     </tbody>
 </table>
@@ -5470,35 +5524,61 @@ El despligue de la aplicacion frontend se realizo en firebase, utilizando la ram
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">3</td>
-            <td style="text-align:center; border: 1px solid #000;">29/05/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">07:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+            <th>Sprint #</th>
+            <td>3</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 3 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 3 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Consolidar la experiencia integral del usuario mediante la finalización del frontend y el despliegue de capacidades backend, enfocadas en la gestión y análisis de datos de la cadena productiva del café</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
+            <th>Date</th>
+            <td>29/05/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>07:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Review Summary</th>
+            <td>
+                Se logró el desarrollo de las principales vistas del frontend y se integraron funcionalidades críticas para los usuarios. El feedback recogido permitió ajustar detalles de la interfaz y mejorar la experiencia general.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Retrospective Summary</th>
+            <td>
+                El equipo valoró la capacidad de adaptación frente a cambios de requerimientos. Se identificó como área de mejora una mayor cobertura de pruebas y la necesidad de documentar flujos complejos en backend y frontend.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 3 Goal</th>
+            <td>Consolidar la experiencia integral del usuario mediante la finalización del frontend y el despliegue de capacidades backend, enfocadas en la gestión y análisis de datos de la cadena productiva del café</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Velocity</th>
+            <td>50</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>50</td>
         </tr>
     </tbody>
 </table>
@@ -6577,37 +6657,61 @@ Se muestran evidencias de la implementacion de frontend, considerando las user g
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr>
-            <th style="text-align:center; border: 1px solid #000;">Sprint #</th>
-            <th style="text-align:center; border: 1px solid #000;">Date</th>
-            <th style="text-align:center; border: 1px solid #000;">Time</th>
-            <th style="text-align:center; border: 1px solid #000;">Location</th>
-            <th style="text-align:center; border: 1px solid #000;">Prepared By</th>
-            <th style="text-align:center; border: 1px solid #000;">Attendees</th>
-        </tr>
-    </thead>
+<table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
-            <td style="text-align:center; border: 1px solid #000;">4</td>
-            <td style="text-align:center; border: 1px solid #000;">23/06/2025</td>
-            <td style="text-align:center; border: 1px solid #000;">07:00 PM</td>
-            <td style="border: 1px solid #000;">Reunión virtual mediante la aplicación Discord</td>
-            <td style="border: 1px solid #000;">Adrian Donayre</td>
-            <td style="border: 1px solid #000;">Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+            <th>Sprint #</th>
+            <td>4</td>
         </tr>
         <tr>
-            <td colspan="4" style="text-align:center; border: 1px solid #000;">Sprint 4 Goal</td>
-            <td style="text-align:center; border: 1px solid #000;">Sprint 4 Velocity</td>
-            <td style="text-align:center; border: 1px solid #000;">Sum of Story Points</td>
+            <th colspan="2">Sprint Planning Background</th>
         </tr>
         <tr>
-            <td colspan="4" style="border: 1px solid #000;">Culminar la entrega de la plataforma Café Metrix, integrando y desplegando todas las funcionalidades clave en frontend y backend, listas para su adopción por parte de baristas y cafeterías de especialidad 
+            <th>Date</th>
+            <td>4/07/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>06:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual mediante la aplicación Discord</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Adrian Donayre</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Fredy Fernández, Christian Inga, Kalet Esteban, Guillermo Tantaleán, Adrian Donayre, Juan Diego Mondoñedo</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Review Summary</th>
+            <td>
+                El equipo finalizó el desarrollo de la experiencia integral de usuario, logrando la integración entre frontend y backend. Se realizó la primera prueba completa de la cadena productiva del café con datos reales y se recibieron sugerencias para el despliegue final.
             </td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
-            <td style="text-align:center; border: 1px solid #000;">50</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Retrospective Summary</th>
+            <td>
+                Se reconoció la mejora en los procesos de integración y comunicación. El equipo propuso enfocar la siguiente etapa en asegurar la calidad del producto y preparar el soporte post-lanzamiento.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 4 Goal</th>
+            <td>Culminar la entrega de la plataforma Café Metrix, integrando y desplegando todas las funcionalidades clave en frontend y backend, listas para su adopción por parte de baristas y cafeterías de especialidad</td>
+        </tr>
+        <tr>
+            <th>Sprint 4 Velocity</th>
+            <td>50</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>50</td>
         </tr>
     </tbody>
 </table>
