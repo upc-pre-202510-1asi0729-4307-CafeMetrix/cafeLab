@@ -203,7 +203,7 @@
 
 **TP1 Network Graph**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\NeetworkgraphTP.png" alt="TB1 Network Graph">
+    <img src="public\assets\images\Insights\neetworkgraphTP.png" alt="TB1 Network Graph">
 </figure>
 
 **TP1 Contributors**
