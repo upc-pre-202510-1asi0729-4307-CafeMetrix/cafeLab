@@ -1363,45 +1363,101 @@ Las user stories son una forma de convertir el lenguaje informal de los usuarios
 </tr>
 <tr>
 <td>US03</td>
-<td>Registro de Certificaciones</td>
-<td>Como dueño de cafetería de especialidad, quiero documentar las certificaciones de mis cafés para validar y comunicar su valor agregado</td>
-<td><strong>Escenario 1:</strong> Registro de certificación.<br><strong>Dado que</strong> un lote cuenta con certificaciones oficiales (orgánico, comercio justo)<br><strong>Cuando</strong> el usuario adjunta la documentación correspondiente al perfil del lote<br><strong>Entonces</strong> el sistema valida y vincula la certificación, haciéndola verificable.<br><br><strong>Escenario 2:</strong> Generación de etiquetas.<br><strong>Dado que</strong> el usuario necesita comunicar certificaciones a clientes<br><strong>Cuando</strong> selecciona un lote certificado y solicita generar etiquetas<br><strong>Entonces</strong> el sistema produce etiquetas digitales con los sellos correspondientes.</td>
+<td>Creación de Perfil de Tueste</td>
+<td>Como barista profesional, quiero crear perfiles de tueste personalizados para documentar y replicar mis mejores resultados</td>
+<td><strong>Escenario 1:</strong> Creación manual de perfil.<br><strong>Dado que</strong> el usuario desarrolla un nuevo perfil de tueste<br><strong>Cuando</strong> ingresa todos los parámetros requeridos (temperatura inicial, curva, tiempo, desarrollo)<br><strong>Entonces</strong> el sistema guarda el perfil en su biblioteca personal.<br><br><strong>Escenario 2:</strong> Duplicación y modificación.<br><strong>Dado que</strong> el usuario quiere adaptar un perfil existente<br><strong>Cuando</strong> selecciona la opción "duplicar" y modifica valores específicos<br><strong>Entonces</strong> el sistema crea una nueva variante manteniendo referencia al perfil original.</td>
+
 <td>EP02</td>
 </tr>
 <tr>
 <td>TS05</td>
-<td>POST HTTPS Certificaciones</td>
-<td>Como desarrollador, quiero registrar certificaciones mediante una API para validar la calidad y origen del café</td>
-<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de certificaciones<br><strong>Cuando</strong> solicito registrar una certificación válida para un lote<br><strong>Entonces</strong> recibo confirmación de la certificación registrada.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de certificaciones<br><strong>Cuando</strong> solicito registrar un tipo de certificación no soportado<br><strong>Entonces</strong> recibo un mensaje con los tipos de certificación válidos.</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>TS06</td>
-<td>GET HTTPS Certificaciones</td>
-<td>Como desarrollador, quiero obtener certificaciones mediante una API para mostrar valor agregado del producto</td>
-<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de certificaciones<br><strong>Cuando</strong> solicito las certificaciones de un lote existente<br><strong>Entonces</strong> recibo todas las certificaciones asociadas al lote.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de certificaciones<br><strong>Cuando</strong> solicito certificaciones de un lote que no existe<br><strong>Entonces</strong> recibo un mensaje indicando que el lote no existe.</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>US04</td>
-<td>Creación de Perfil de Tueste</td>
-<td>Como barista profesional, quiero crear perfiles de tueste personalizados para documentar y replicar mis mejores resultados</td>
-<td><strong>Escenario 1:</strong> Creación manual de perfil.<br><strong>Dado que</strong> el usuario desarrolla un nuevo perfil de tueste<br><strong>Cuando</strong> ingresa todos los parámetros requeridos (temperatura inicial, curva, tiempo, desarrollo)<br><strong>Entonces</strong> el sistema guarda el perfil en su biblioteca personal.<br><br><strong>Escenario 2:</strong> Duplicación y modificación.<br><strong>Dado que</strong> el usuario quiere adaptar un perfil existente<br><strong>Cuando</strong> selecciona la opción "duplicar" y modifica valores específicos<br><strong>Entonces</strong> el sistema crea una nueva variante manteniendo referencia al perfil original.</td>
-<td>EP03</td>
-</tr>
-<tr>
-<td>TS07</td>
 <td>POST HTTPS Perfiles-Tueste</td>
 <td>Como desarrollador, quiero crear perfiles de tueste mediante una API para estandarizar procesos</td>
 <td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de perfiles de tueste<br><strong>Cuando</strong> solicito crear un perfil con parámetros completos<br><strong>Entonces</strong> recibo confirmación del perfil creado en la biblioteca.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de perfiles de tueste<br><strong>Cuando</strong> solicito crear un perfil con temperaturas fuera de rango<br><strong>Entonces</strong> recibo un mensaje con los rangos permitidos.</td>
 <td>N/A</td>
 </tr>
 <tr>
-<td>US05</td>
-<td>Registro de Sesión de Tueste</td>
-<td>Como barista profesional, quiero documentar cada sesión de tueste asociada a un lote específico para mantener trazabilidad y control de calidad</td>
-<td><strong>Escenario 1:</strong> Inicio de sesión de tueste.<br><strong>Dado que</strong> el usuario comienza el proceso de tostar un lote específico<br><strong>Cuando</strong> selecciona el lote de origen y el perfil de tueste a utilizar<br><strong>Entonces</strong> el sistema inicia el registro de la sesión con timestamp.<br><br><strong>Escenario 2:</strong> Registro manual de puntos.<br><strong>Dado que</strong> el usuario observa cambios durante el proceso de tueste<br><strong>Cuando</strong> ingresa lecturas de temperatura y tiempo en puntos significativos<br><strong>Entonces</strong> el sistema construye la curva real de tueste basada en estos datos.</td>
+<td>US04</td>
+<td>Biblioteca de Defectos de Tueste</td>
+<td>Como barista profesional, quiero acceder a una biblioteca de defectos comunes para identificar y corregir problemas en mis tuestes</td>
+<td><strong>Escenario 1:</strong> Consulta de defecto.<br><strong>Dado que</strong> el usuario observa anomalías en su café recién tostado<br><strong>Cuando</strong> busca en el sistema por características visuales o descriptivas del problema<br><strong>Entonces</strong> el sistema muestra posibles defectos coincidentes con sus causas y soluciones.<br><br><strong>Escenario 2:</strong> Documentación de soluciones.<br><strong>Dado que</strong> el usuario identifica un defecto específico en su tueste<br><strong>Cuando</strong> accede a la ficha detallada del defecto en la biblioteca<br><strong>Entonces</strong> el sistema presenta causas probables y soluciones recomendadas con ejemplos.</td>
 <td>EP03</td>
+</tr>
+<td>TS06</td>
+<td>GET HTTPS DefectosTueste</td>
+<td>Como desarrollador, quiero consultar defectos comunes en tueste mediante una API para asistir en diagnóstico de problemas</td>
+<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de defectos<br><strong>Cuando</strong> busco defectos con criterios específicos<br><strong>Entonces</strong> recibo los defectos coincidentes y sus soluciones.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de defectos<br><strong>Cuando</strong> busco sin especificar ningún criterio<br><strong>Entonces</strong> recibo un mensaje solicitando al menos un parámetro de búsqueda.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>US05</td>
+<td>Cata Digital Estructurada</td>
+<td>Como barista profesional, quiero registrar evaluaciones sensoriales estructuradas para documentar las características de cada lote y tueste</td>
+<td><strong>Escenario 1:</strong> Creación de nueva cata.<br><strong>Dado que</strong> el usuario prueba un café recién tostado<br><strong>Cuando</strong> inicia una nueva sesión de cata vinculada al lote y tueste específicos<br><strong>Entonces</strong> el sistema presenta el formulario completo de evaluación sensorial.<br><br><strong>Escenario 2:</strong> Evaluación por atributos.<br><strong>Dado que</strong> el usuario sigue un protocolo estandarizado de cata<br><strong>Cuando</strong> califica cada atributo sensorial (acidez, cuerpo, dulzor, etc.) en la escala definida<br><strong>Entonces</strong> el sistema genera automáticamente el perfil sensorial completo.</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>TS07</td>
+<td>POST HTTPS Catas</td>
+<td>Como desarrollador, quiero registrar evaluaciones sensoriales mediante una API para documentar características del café</td>
+<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de catas<br><strong>Cuando</strong> envío una evaluación completa de un café<br><strong>Entonces</strong> recibo confirmación de la cata registrada.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de catas<br><strong>Cuando</strong> envío una cata sin identificar el lote o tueste<br><strong>Entonces</strong> recibo un mensaje indicando que se requiere identificar el café.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>TS08</td>
+<td>GET HTTPS PerfilesSensoriales</td>
+<td>Como desarrollador, quiero obtener perfiles sensoriales mediante una API para visualizar y comparar cualidades</td>
+<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de perfiles sensoriales<br><strong>Cuando</strong> solicito un perfil sensorial existente<br><strong>Entonces</strong> recibo los datos para generar el hexágono sensorial.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de perfiles sensoriales<br><strong>Cuando</strong> solicito un perfil que no existe<br><strong>Entonces</strong> recibo un mensaje indicando que el perfil no se encontró.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>US06</td>
+<td>Historial de Catas</td>
+<td>Como barista profesional, quiero acceder al historial de catas por lote, origen o periodo para analizar tendencias y consistencia</td>
+<td><strong>Escenario 1:</strong> Filtrado por criterios múltiples.<br><strong>Dado que</strong> el usuario busca catas específicas en su historial<br><strong>Cuando</strong> aplica filtros combinados (fecha, origen, variedad, procesamiento)<br><strong>Entonces</strong> el sistema muestra resultados que cumplen todos los criterios establecidos.<br><br><strong>Escenario 2:</strong> Análisis de evolución temporal.<br><strong>Dado que</strong> el usuario quiere evaluar cambios en el tiempo de un mismo café<br><strong>Cuando</strong> selecciona un lote específico con múltiples catas realizadas<br><strong>Entonces</strong> el sistema presenta gráficos de evolución de atributos a lo largo del tiempo.</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>US07</td>
+<td>Creación de Recetas de Preparación</td>
+<td>Como barista profesional, quiero crear y documentar recetas detalladas para cada método de preparación y tipo de café</td>
+<td><strong>Escenario 1:</strong> Creación de receta estándar.<br><strong>Dado que</strong> el usuario desarrolla una nueva receta de preparación<br><strong>Cuando</strong> registra todos los parámetros requeridos (ratio, temperatura, tiempo, molienda, método)<br><strong>Entonces</strong> el sistema guarda la receta completa en su biblioteca personal.<br><br><strong>Escenario 2:</strong> Vinculación a lote específico.<br><strong>Dado que</strong> el usuario optimiza una receta para un café particular<br><strong>Cuando</strong> asocia la receta a un lote específico registrado en el sistema<br><strong>Entonces</strong> el sistema establece la trazabilidad completa desde origen hasta método de preparación.</td>
+<td>EP05</td>
+</tr>
+<tr>
+<td>TS09</td>
+<td>POST HTTPS Recetas</td>
+<td>Como desarrollador, quiero registrar recetas de preparación mediante una API para documentar métodos óptimos</td>
+<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de recetas<br><strong>Cuando</strong> envío una receta completa de preparación<br><strong>Entonces</strong> recibo confirmación de la receta guardada.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de recetas<br><strong>Cuando</strong> envío una receta con método de preparación inválido<br><strong>Entonces</strong> recibo un mensaje con los métodos válidos.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>US08</td>
+<td>Calibración de Molienda</td>
+<td>Como barista profesional, quiero documentar configuraciones de molienda para diferentes equipos y métodos para mantener consistencia entre preparaciones</td>
+<td><strong>Escenario 1:</strong> Registro de nueva calibración.<br><strong>Dado que</strong> el usuario ajusta un molino para un método específico<br><strong>Cuando</strong> documenta la configuración precisa (número, apertura) en el sistema<br><strong>Entonces</strong> la calibración queda registrada con fecha, equipo y método asociados.<br><br><strong>Escenario 2:</strong> Referencia visual comparativa.<br><strong>Dado que</strong> el usuario necesita una referencia objetiva de molienda<br><strong>Cuando</strong> adjunta foto de la molienda y registra el tiempo resultante de extracción<br><strong>Entonces</strong> el sistema almacena estos datos como estándar visual para comparaciones futuras.</td>
+<td>EP05</td>
+</tr>
+<tr>
+<td>TS10</td>
+<td>POST HTTPS Calibraciones</td>
+<td>Como desarrollador, quiero registrar calibraciones de molienda mediante una API para mantener consistencia entre preparaciones</td>
+<td><strong>Escenario 1:</strong><br><strong>Dado que</strong> tengo acceso a la API de calibraciones<br><strong>Cuando</strong> envío una nueva calibración con todos los datos<br><strong>Entonces</strong> recibo confirmación de la calibración registrada.<br><br><strong>Escenario 2:</strong><br><strong>Dado que</strong> tengo acceso a la API de calibraciones<br><strong>Cuando</strong> envío una imagen en formato no soportado<br><strong>Entonces</strong> recibo un mensaje con los formatos de imagen permitidos.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>US09</td>
+<td>Portafolio de Bebidas</td>
+<td>Como barista profesional o dueño de cafetería de especialidad, quiero crear un portafolio digital de bebidas y recetas para presentar a clientes o eventos</td>
+<td><strong>Escenario 1:</strong> Creación de ficha de bebida.<br><strong>Dado que</strong> el usuario desarrolla una bebida especial para su menú<br><strong>Cuando</strong> completa la ficha técnica (ingredientes, método, presentación, foto)<br><strong>Entonces</strong> el sistema incorpora la bebida a su portafolio digital profesional.<br><br><strong>Escenario 2:</strong> Organización por categorías personalizadas.<br><strong>Dado que</strong> el usuario maneja diversas bebidas en su portafolio<br><strong>Cuando</strong> las clasifica según tipos definidos (espresso, filtrado, signature, estacionales)<br><strong>Entonces</strong> el sistema genera un catálogo organizado y fácilmente consultable.</td>
+<td>EP05</td>
+</tr>
+<tr>
+<td>US10</td>
+<td>Control de Inventario Integrado</td>
+<td>Como dueño de cafetería de especialidad, quiero gestionar el inventario de café verde y tostado de forma integrada para optimizar recursos y prevenir desabastecimiento</td>
+<td><strong>Escenario 1:</strong> Seguimiento centralizado de stock.<br><strong>Dado que</strong> el usuario maneja múltiples productos y estados del café<br><strong>Cuando</strong> accede al panel central de inventario<br><strong>Entonces</strong> el sistema muestra niveles actuales, movimientos recientes y alertas activas.<br><br><strong>Escenario 2:</strong> Registro de consumo con trazabilidad.<br><strong>Dado que</strong> el usuario utiliza café para producción diaria<br><strong>Cuando</strong> registra el consumo vinculándolo a lotes específicos y productos finales<br><strong>Entonces</strong> el sistema actualiza automáticamente las existencias y mantiene la trazabilidad.</td>
+<td>EP06</td>
 </tr>
 <tr>
 <td>TS08</td>
@@ -4234,7 +4290,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz de usuario para el registro de proveedores con campos requeridos</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK02</td>
@@ -4242,7 +4298,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar validaciones de campos y manejo de errores</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK03</td>
@@ -4250,7 +4306,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar comunicación con la fake API para guardar proveedores</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US02</td>
@@ -4260,7 +4316,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para registrar información de lotes de café verde</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK05</td>
@@ -4268,7 +4324,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista de tabla con todos los lotes y opciones de filtrado</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK06</td>
@@ -4276,7 +4332,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar crear, leer, actualizar y eliminar lotes</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US03</td>
@@ -4286,7 +4342,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear formulario para documentar certificaciones con campos necesarios</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK08</td>
@@ -4294,7 +4350,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para simular carga y vista previa de archivos</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US04</td>
@@ -4304,7 +4360,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para configurar perfiles de tueste personalizados</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK10</td>
@@ -4312,7 +4368,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar gráficos de curvas de temperatura y tiempo</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US05</td>
@@ -4322,7 +4378,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para documentar cada sesión de tueste</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK12</td>
@@ -4330,7 +4386,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear tabla con historial de sesiones, paginación y búsqueda</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US06</td>
@@ -4340,7 +4396,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para seleccionar y comparar varios tuestes</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK14</td>
@@ -4348,7 +4404,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Desarrollar visualizaciones para comparar patrones y resultados</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK15</td>
@@ -4356,7 +4412,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar cálculos y métricas comparativas</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US07</td>
@@ -4366,7 +4422,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar galería de defectos comunes con imágenes y descripciones</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK17</td>
@@ -4374,7 +4430,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar búsqueda y filtrado por categorías</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US08</td>
@@ -4384,7 +4440,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para evaluaciones sensoriales estructuradas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK19</td>
@@ -4392,7 +4448,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar rueda de sabores interactiva para selección de atributos</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US09</td>
@@ -4402,7 +4458,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar visualización tipo radar para perfiles sensoriales</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK21</td>
@@ -4410,7 +4466,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para superponer múltiples perfiles</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US10</td>
@@ -4420,7 +4476,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para visualizar relaciones entre parámetros</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK23</td>
@@ -4428,7 +4484,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para mostrar resultados sensoriales</td>
 <td>3</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US11</td>
@@ -4438,7 +4494,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar interfaz para acceder a catas anteriores</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK25</td>
@@ -4446,7 +4502,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar filtros por lote, fecha, origen y período</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK26</td>
@@ -4454,7 +4510,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar gráficos de evolución temporal</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US12</td>
@@ -4464,7 +4520,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para documentar recetas detalladas</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK28</td>
@@ -4472,7 +4528,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar campos para temperatura, tiempo y proporciones</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK29</td>
@@ -4480,7 +4536,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar biblioteca visual de métodos de preparación</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US13</td>
@@ -4490,7 +4546,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para documentar configuraciones por equipo</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK31</td>
@@ -4498,7 +4554,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar referencias visuales para tamaños de partícula</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US14</td>
@@ -4508,7 +4564,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar portafolio visual de bebidas y recetas</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK33</td>
@@ -4516,7 +4572,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para presentar a clientes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US15</td>
@@ -4526,7 +4582,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear funcionalidad para compartir recetas con el equipo</td>
 <td>2</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK35</td>
@@ -4534,7 +4590,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar historial de cambios en recetas</td>
 <td>1</td>
 <td>Guillermo</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US16</td>
@@ -4544,7 +4600,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista general de inventario de café verde y tostado</td>
 <td>2</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK37</td>
@@ -4552,7 +4608,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar notificaciones para niveles bajos de inventario</td>
 <td>1</td>
 <td>Kalet</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US17</td>
@@ -4562,7 +4618,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar herramienta para calcular costos por lote</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK39</td>
@@ -4570,7 +4626,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar visualizaciones de márgenes y rentabilidad</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US18</td>
@@ -4580,7 +4636,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear vista con indicadores clave de producción</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK41</td>
@@ -4588,7 +4644,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar comparación entre lotes y períodos</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US19</td>
@@ -4598,7 +4654,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Diseñar sistema para generar reportes de trazabilidad completa</td>
 <td>2</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK43</td>
@@ -4606,7 +4662,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar funcionalidad para descargar reportes</td>
 <td>1</td>
 <td>Christian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="3">US20</td>
@@ -4704,7 +4760,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaces de registro e inicio de sesión con validaciones</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK55</td>
@@ -4712,7 +4768,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar manejo de estado de autenticación del usuario</td>
 <td>2</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK56</td>
@@ -4720,7 +4776,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Implementar flujo para recuperar acceso a la cuenta</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US25</td>
@@ -4730,7 +4786,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para configurar información profesional</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK58</td>
@@ -4738,7 +4794,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar opciones para personalizar la experiencia del usuario</td>
 <td>1</td>
 <td>Adrian</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td rowspan="2">US26</td>
@@ -4748,7 +4804,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Crear interfaz para elegir entre planes disponibles</td>
 <td>2</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>TK60</td>
@@ -4756,7 +4812,7 @@ Link de [Trello](https://trello.com/b/diGtoNBa/sprint-2)
 <td>Agregar flujo completo de selección y confirmación</td>
 <td>1</td>
 <td>Fredy</td>
-<td>In Process</td>
+<td>Done</td>
 </tr>
 </table>
 
