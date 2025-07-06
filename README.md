@@ -249,17 +249,17 @@
 
 **TB2 Network Graph**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\NetworkgraphTP.png" alt="TB2 Network Graph">
+    <img src="public\assets\images\Insights\Networkgraph.png" alt="TB2 Network Graph">
 </figure>
 
 **TB2 Contributors**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\ContributorsTP.png" alt="TB2 Contributors">
+    <img src="public\assets\images\Insights\Contributors.png" alt="TB2 Contributors">
 </figure>
 
 **TB2 Pulse**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\PulseTP.png" alt="TB2 Pulse">
+    <img src="public\assets\images\Insights\Pulse.png" alt="TB2 Pulse">
 </figure>
 
 <h1>TB2</h1>
