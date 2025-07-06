@@ -6572,10 +6572,10 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 Se muestran evidencias de la implementacion de frontend, considerando las user goals y correciones del despliegue anterior
-<td><img src="images/evidencefrontend/evidence1.png" alt="Foto de Evidence 1"></td>
-<td><img src="images/evidencefrontend/evidence2.png" alt="Foto de Evidence 2"></td>
-<td><img src="images/evidencefrontend/evidence3.png" alt="Foto de Evidence 3"></td>
-<td><img src="images/evidencefrontend/evidence4.png" alt="Foto de Evidence 4"></td>
+<td><img src="public\assets\images\evidencefrontend\evidence1.png" alt="Foto de Evidence 1"></td>
+<td><img src="public\assets\images\evidencefrontend\evidence2.png" alt="Foto de Evidence 2"></td>
+<td><img src="public\assets\images\evidencefrontend\evidence3.png" alt="Foto de Evidence 3"></td>
+<td><img src="public\assets\images\evidencefrontend\evidence4.png" alt="Foto de Evidence 4"></td>
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
@@ -7684,12 +7684,11 @@ Link de [Trello](https://trello.com/invite/b/6838b336ae571514f224c6eb/ATTIdf676e
 </table>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-<!--> CAMBIAR INFO PARA SPRINT 4 <-->
-Se muestran evidencias de la implementacion de frontend, considerando las user goals y correciones del despliegue anterior
-<td><img src="images/evidencefrontend/evidence1.png" alt="Foto de Evidence 1"></td>
-<td><img src="images/evidencefrontend/evidence2.png" alt="Foto de Evidence 2"></td>
-<td><img src="images/evidencefrontend/evidence3.png" alt="Foto de Evidence 3"></td>
-<td><img src="images/evidencefrontend/evidence4.png" alt="Foto de Evidence 4"></td>
+Se muestran evidencias de la implementacion del frontend con backend, considerando las user goals y correciones del despliegue anterior.
+<td><img src="public\assets\images\EvidencesFinal\1.jpeg" alt="Foto de Evidence 1"></td>
+<td><img src="public\assets\images\EvidencesFinal\2.jpeg" alt="Foto de Evidence 2"></td>
+<td><img src="public\assets\images\EvidencesFinal\3.jpeg" alt="Foto de Evidence 3"></td>
+<td><img src="public\assets\images\EvidencesFinal\4.jpeg" alt="Foto de Evidence 4"></td>
 
 
 
