@@ -7766,7 +7766,7 @@ En el video about the product se evidentcia la retrospectiva de los integrantes 
 
 - Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-frontEnd.git)
 
-- Enlace para acceder al  [Front-end](https://coffee-lab-10031.web.app/login)
+- Enlace para acceder al  [Front-end](https://cafelab-fb6bd.web.app/login)
 
 - Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202510-1asi0729-4307-CafeMetrix/cafeLab-backEnd.git)
 
