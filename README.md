@@ -1,6 +1,6 @@
 <h1 align="center">Informe de Trabajo Final</h1>
 <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-<br><strong>Ingeniería de sistemas y Computación | Ingeniería de software</strong>
+<br><strong> Ingeniería de software</strong>
 
 <!--Logo UPC-->
 <p align="center">
@@ -10,7 +10,7 @@
 <!--Profesor, seccion, etc-->
 <p align="left">
     <strong>Docente: </strong>Efraín Ricardo Bautista Ubillús<br><!--El br es para el salto de línea-->
-    <strong>Sección: </strong>4307<br>
+    <strong>NRC: </strong>4307<br>
     <strong>Ciclo: </strong>2025 - 10<br>
     <strong>Startup: </strong>Café Metrix<br>
     <strong>Producto: </strong>Café Lab
